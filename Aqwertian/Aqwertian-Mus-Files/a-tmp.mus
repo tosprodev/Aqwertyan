@@ -1,0 +1,661 @@
+NAME Auto-gen
+
+MEASURE 1
+  KEY 0
+  TEMPO 1 1666.000000
+  METER 128 1
+  LH NOSKIP
+
+MEASURE 3
+  LINE LH0001
+    REST 1 42
+    E -1 1 43
+    EXMATCH D Q
+    # From first keys list.
+    REST 1 43
+    # From first keys list.
+  LINE LH0002
+    REST 1 42
+    E 0 1 43
+    EXMATCH A Q
+    # From first keys list.
+    E 0 1 43
+    EXMATCH A Q
+    # Previously mapped.
+  LINE RH0001
+    B -1 1 42
+    EXMATCH H Q
+    # From first keys list.
+    B -1 1 43
+    EXMATCH L Q
+    # From first keys list.
+    A -1 1 43
+    EXMATCH K Q
+    # From first keys list.
+
+MEASURE 4
+  LINE LH0002
+    B 0 1 42
+    EXMATCH S Q
+    # From first keys list.
+    B 0 1 43
+    EXMATCH S Q
+    # Previously mapped.
+    A 0 1 43
+    EXMATCH G Q
+    # From first keys list.
+
+MEASURE 5
+  LINE LH0001
+    REST 1 85
+    E -1 1 43
+    EXMATCH A Q
+    # Lowest frequency (10) plus use count (3).
+  LINE LH0002
+    G 0 1 42
+    EXMATCH F Q
+    # From first keys list.
+    F# 0 1 43
+    EXMATCH D Q
+    # Lowest frequency (8) plus use count (0).
+    REST 1 43
+    # Lowest frequency (8) plus use count (0).
+  LINE RH0001
+    G -1 1 42
+    EXMATCH J Q
+    # From first keys list.
+    F# -1 1 43
+    EXMATCH ; Q
+    # Lowest frequency (10) plus use count (2).
+    REST 1 43
+    # Lowest frequency (10) plus use count (2).
+  LINE RH0002
+    REST 1 85
+    E 0 1 43
+    EXMATCH L Q
+    # Lowest frequency (9) plus use count (6).
+
+MEASURE 6
+  LINE LH0001
+    D -1 1 42
+    EXMATCH S Q
+    # Lowest frequency (9) plus use count (7).
+    C -1 1 86
+    EXMATCH 4 Q
+    # Chord - Base note.
+  LINE LH0002
+    REST 1 42
+    E -1 1 86
+    EXMATCH 3 Q
+    # Chord - continuation.
+  LINE LH0003
+    REST 1 42
+    E 0 1 43
+    EXMATCH 2 Q
+    # Chord - continuation.
+    F# 0 1 43
+    EXMATCH D Q
+    # Previously mapped.
+  LINE RH0002
+    D 0 1 42
+    EXMATCH K Q
+    # Lowest frequency (8) plus use count (8).
+    REST 1 86
+    # Lowest frequency (8) plus use count (8).
+
+MEASURE 7
+  LINE LH0001
+    CARRY 1 85
+    B -2 1 43
+    EXMATCH A Q
+    # Lowest frequency (10) plus use count (14).
+  LINE LH0002
+    CARRY 1 85
+    B 0 1 43
+    EXMATCH G Q
+    # Lowest frequency (15) plus use count (9).
+  LINE RH0003
+    G 0 1 42
+    EXMATCH H Q
+    # Lowest frequency (15) plus use count (4).
+    A 0 1 43
+    EXMATCH ; Q
+    # Lowest frequency (10) plus use count (12).
+    REST 1 43
+    # Lowest frequency (10) plus use count (12).
+
+MEASURE 8
+  LINE LH0001
+    CARRY 1 85
+    REST 1 43
+  LINE LH0002
+    CARRY 1 85
+    REST 1 43
+  LINE RH0001
+    REST 1 85
+    E -1 1 43
+    EXMATCH L Q
+    # Lowest frequency (9) plus use count (15).
+  LINE RH0002
+    REST 1 85
+    E 0 1 43
+    EXMATCH J Q
+    # Lowest frequency (15) plus use count (10).
+
+MEASURE 9
+  LINE LH0001
+    E -1 1 42
+    EXMATCH S Q
+    # Lowest frequency (9) plus use count (16).
+    B -1 1 43
+    EXMATCH F Q
+    # Lowest frequency (15) plus use count (11).
+    B -1 1 43
+    EXMATCH D Q
+    # Lowest frequency (8) plus use count (21).
+  LINE RH0002
+    E 0 1 42
+    EXMATCH J Q
+    # Previously mapped.
+    B 0 1 43
+    EXMATCH K Q
+    # Lowest frequency (8) plus use count (17).
+    B 0 1 43
+    EXMATCH K Q
+    # Previously mapped.
+
+MEASURE 10
+  LINE LH0001
+    REST 1 85
+    F# -1 1 43
+    EXMATCH S Q
+    # Lowest frequency (9) plus use count (28).
+  LINE LH0002
+    A 0 1 42
+    EXMATCH A Q
+    # Lowest frequency (10) plus use count (24).
+    REST 1 43
+    F# 0 1 43
+    EXMATCH G Q
+    # Lowest frequency (15) plus use count (25).
+  LINE RH0001
+    A -1 1 42
+    EXMATCH ; Q
+    # Lowest frequency (10) plus use count (23).
+    G -1 1 43
+    EXMATCH L Q
+    # Lowest frequency (9) plus use count (26).
+    REST 1 43
+    # Lowest frequency (9) plus use count (26).
+  LINE RH0002
+    REST 1 42
+    G 0 1 43
+    EXMATCH H Q
+    # Lowest frequency (15) plus use count (22).
+    REST 1 43
+    # Lowest frequency (15) plus use count (22).
+
+MEASURE 11
+  LINE LH0001
+    REST 1 85
+    C -1 1 43
+    EXMATCH 4 Q
+    # Chord - Base note.
+  LINE LH0002
+    E 0 1 42
+    EXMATCH D Q
+    # Lowest frequency (8) plus use count (32).
+    REST 1 43
+    E -1 1 43
+    EXMATCH 3 Q
+    # Chord - continuation.
+  LINE LH0003
+    REST 1 85
+    E 0 1 43
+    EXMATCH 2 Q
+    # Chord - continuation.
+  LINE RH0001
+    E -1 1 42
+    EXMATCH K Q
+    # Lowest frequency (8) plus use count (33).
+    D -1 1 43
+    EXMATCH ; Q
+    # Lowest frequency (10) plus use count (34).
+    REST 1 43
+    # Lowest frequency (10) plus use count (34).
+  LINE RH0002
+    REST 1 42
+    D 0 1 43
+    EXMATCH J Q
+    # Lowest frequency (15) plus use count (29).
+    REST 1 43
+    # Lowest frequency (15) plus use count (29).
+
+MEASURE 12
+  LINE LH0001
+    CARRY 1 128
+  LINE LH0002
+    CARRY 1 128
+  LINE LH0003
+    F# 0 1 42
+    EXMATCH G Q
+    # Previously mapped.
+    G 0 1 43
+    EXMATCH A Q
+    # Lowest frequency (10) plus use count (35).
+    A 0 1 43
+    EXMATCH F Q
+    # Lowest frequency (15) plus use count (30).
+
+MEASURE 13
+  LINE LH0002
+    B 0 1 128
+    EXMATCH S Q
+    # Lowest frequency (9) plus use count (38).
+  LINE RH0001
+    B -2 1 85
+    EXMATCH L Q
+    # Lowest frequency (9) plus use count (36).
+    REST 1 43
+    # Lowest frequency (9) plus use count (36).
+
+MEASURE 14
+  LINE LH0001
+    B 0 1 42
+    EXMATCH S Q
+    # Previously mapped.
+    A -1 1 86
+    EXMATCH D Q
+    # Lowest frequency (8) plus use count (41).
+  LINE RH0002
+    REST 1 42
+    C 1 1 43
+    EXMATCH K Q
+    # Lowest frequency (8) plus use count (40).
+    A 0 1 43
+    EXMATCH ; Q
+    # Lowest frequency (10) plus use count (42).
+
+MEASURE 15
+  LINE LH0001
+    CARRY 1 85
+    G -1 1 43
+    EXMATCH 4 Q
+    # Chord - Base note.
+  LINE LH0002
+    B 0 1 42
+    EXMATCH S Q
+    # Previously mapped.
+    REST 1 43
+    B -1 1 43
+    EXMATCH 3 Q
+    # Chord - continuation.
+  LINE LH0003
+    REST 1 85
+    D 1 1 43
+    EXMATCH 2 Q
+    # Chord - continuation.
+  LINE RH0002
+    REST 1 42
+    C 1 1 43
+    EXMATCH K Q
+    # Previously mapped.
+    REST 1 43
+    # Previously mapped.
+
+MEASURE 16
+  LINE LH0001
+    CARRY 1 42
+    REST 1 86
+  LINE LH0002
+    CARRY 1 42
+    REST 1 86
+  LINE LH0003
+    E 1 1 42
+    EXMATCH A Q
+    # Lowest frequency (10) plus use count (48).
+    REST 1 86
+    # Lowest frequency (10) plus use count (48).
+  LINE RH0001
+    REST 1 42
+    B 0 1 43
+    EXMATCH H Q
+    # Lowest frequency (15) plus use count (37).
+    A 0 1 43
+    EXMATCH ; Q
+    # Previously mapped.
+
+MEASURE 17
+  LINE LH0002
+    REST 1 42
+    E 0 1 43
+    EXMATCH D Q
+    # Lowest frequency (8) plus use count (54).
+    REST 1 43
+    # Lowest frequency (8) plus use count (54).
+  LINE RH0001
+    E -1 1 128
+    EXMATCH L Q
+    # Lowest frequency (9) plus use count (50).
+  LINE RH0002
+    G 0 1 42
+    EXMATCH J Q
+    # Lowest frequency (15) plus use count (43).
+    REST 1 43
+    F# 0 1 43
+    EXMATCH K Q
+    # Lowest frequency (8) plus use count (57).
+
+MEASURE 18
+  LINE LH0001
+    REST 1 42
+    D -1 1 86
+    EXMATCH 4 Q
+    # Chord - Base note.
+  LINE LH0002
+    G 0 1 42
+    EXMATCH G Q
+    # Lowest frequency (15) plus use count (47).
+    F# -1 1 86
+    EXMATCH 3 Q
+    # Chord - continuation.
+  LINE LH0003
+    REST 1 42
+    A 0 1 86
+    EXMATCH 2 Q
+    # Chord - continuation.
+  LINE RH0001
+    CARRY 1 42
+    REST 1 86
+
+MEASURE 19
+  LINE LH0001
+    G 0 1 42
+    EXMATCH G Q
+    # Previously mapped.
+    A 0 1 43
+    EXMATCH S Q
+    # Lowest frequency (9) plus use count (56).
+    G -1 1 43
+    EXMATCH A Q
+    # Lowest frequency (10) plus use count (61).
+  LINE LH0002
+    REST 1 85
+    B 0 1 43
+    EXMATCH F Q
+    # Lowest frequency (15) plus use count (49).
+
+MEASURE 20
+  LINE LH0001
+    CARRY 1 128
+  LINE LH0002
+    CARRY 1 42
+    REST 1 43
+    B 0 1 43
+    EXMATCH F Q
+    # Previously mapped.
+  LINE RH0002
+    REST 1 42
+    C 1 1 43
+    EXMATCH ; Q
+    # Lowest frequency (10) plus use count (63).
+    REST 1 43
+    # Lowest frequency (10) plus use count (63).
+
+MEASURE 21
+  LINE LH0002
+    B 0 1 42
+    EXMATCH F Q
+    # Previously mapped.
+    A 0 1 43
+    EXMATCH D Q
+    # Lowest frequency (8) plus use count (66).
+    REST 1 43
+    # Lowest frequency (8) plus use count (66).
+  LINE RH0001
+    D# -1 1 128
+    EXMATCH L Q
+    # Lowest frequency (9) plus use count (65).
+  LINE RH0002
+    REST 1 85
+    G 0 1 43
+    EXMATCH K Q
+    # Lowest frequency (8) plus use count (67).
+
+MEASURE 22
+  LINE LH0002
+    F# 0 1 42
+    EXMATCH S Q
+    # Lowest frequency (9) plus use count (73).
+    E 0 1 86
+    EXMATCH A Q
+    # Lowest frequency (10) plus use count (75).
+  LINE RH0001
+    CARRY 1 42
+    E -1 1 86
+    EXMATCH H Q
+    # Lowest frequency (15) plus use count (62).
+
+MEASURE 23
+  LINE LH0001
+    REST 1 85
+    C -1 1 43
+    EXMATCH 4 Q
+    # Chord - Base note.
+  LINE LH0002
+    REST 1 21
+    F# 0 1 21
+    EXMATCH S Q
+    # Previously mapped.
+    REST 1 43
+    E -1 1 43
+    EXMATCH 3 Q
+    # Chord - continuation.
+  LINE LH0003
+    REST 1 85
+    A 0 1 43
+    EXMATCH 2 Q
+    # Chord - continuation.
+  LINE RH0001
+    D -1 1 85
+    EXMATCH ; Q
+    # Lowest frequency (10) plus use count (76).
+    REST 1 43
+    # Lowest frequency (10) plus use count (76).
+  LINE RH0002
+    G 0 1 21
+    EXMATCH K Q
+    # Previously mapped.
+    REST 1 21
+    E 0 1 43
+    EXMATCH J Q
+    # Lowest frequency (15) plus use count (64).
+    REST 1 43
+    # Lowest frequency (15) plus use count (64).
+
+MEASURE 24
+  LINE LH0001
+    CARRY 1 128
+  LINE LH0002
+    CARRY 1 128
+  LINE LH0003
+    CARRY 1 42
+    G 0 1 43
+    EXMATCH G Q
+    # Lowest frequency (15) plus use count (72).
+    REST 1 43
+    # Lowest frequency (15) plus use count (72).
+  LINE RH0003
+    REST 1 85
+    A 0 1 43
+    EXMATCH L Q
+    # Lowest frequency (9) plus use count (79).
+
+MEASURE 25
+  LINE LH0001
+    REST 1 85
+    D 1 1 43
+    EXMATCH A Q
+    # Lowest frequency (10) plus use count (84).
+  LINE LH0002
+    B 0 1 42
+    EXMATCH D Q
+    # Lowest frequency (8) plus use count (80).
+    C 1 1 43
+    EXMATCH F Q
+    # Lowest frequency (15) plus use count (78).
+    REST 1 43
+    # Lowest frequency (15) plus use count (78).
+  LINE RH0001
+    B -2 1 85
+    EXMATCH K Q
+    # Lowest frequency (8) plus use count (85).
+    REST 1 43
+    # Lowest frequency (8) plus use count (85).
+
+MEASURE 26
+  LINE LH0002
+    REST 1 42
+    B 0 1 43
+    EXMATCH D Q
+    # Previously mapped.
+    A 0 1 43
+    EXMATCH S Q
+    # Lowest frequency (9) plus use count (87).
+  LINE RH0001
+    E 1 1 42
+    EXMATCH ; Q
+    # Lowest frequency (10) plus use count (86).
+    B -2 1 86
+    EXMATCH K Q
+    # Previously mapped.
+
+MEASURE 27
+  LINE LH0001
+    REST 1 42
+    D# -1 1 43
+    EXMATCH A Q
+    # Lowest frequency (10) plus use count (97).
+    E -1 1 43
+    EXMATCH D Q
+    # Lowest frequency (8) plus use count (99).
+  LINE RH0001
+    C# -1 1 42
+    EXMATCH H Q
+    # Lowest frequency (15) plus use count (83).
+    REST 1 86
+    # Lowest frequency (15) plus use count (83).
+  LINE RH0002
+    G 0 1 42
+    EXMATCH L Q
+    # Lowest frequency (9) plus use count (93).
+    F# 0 1 43
+    EXMATCH J Q
+    # Lowest frequency (15) plus use count (88).
+    E 0 1 43
+    EXMATCH ; Q
+    # Lowest frequency (10) plus use count (98).
+
+MEASURE 28
+  LINE LH0001
+    CARRY 1 128
+  LINE RH0002
+    CARRY 1 128
+
+MEASURE 30
+  LINE LH0001
+    REST 1 42
+    E -1 1 43
+    EXMATCH G Q
+    # Lowest frequency (15) plus use count (92).
+    REST 1 43
+    # Lowest frequency (15) plus use count (92).
+  LINE RH0001
+    REST 1 85
+    B -1 1 43
+    EXMATCH K Q
+    # Lowest frequency (8) plus use count (100).
+  LINE RH0002
+    REST 1 42
+    E 0 1 86
+    EXMATCH ; Q
+    # Previously mapped.
+
+MEASURE 31
+  LINE LH0001
+    REST 1 42
+    A -1 1 43
+    EXMATCH S Q
+    # Lowest frequency (9) plus use count (101).
+    G -1 1 43
+    EXMATCH F Q
+    # Lowest frequency (15) plus use count (96).
+  LINE RH0001
+    B -1 1 42
+    EXMATCH K Q
+    # Previously mapped.
+    REST 1 86
+    # Previously mapped.
+
+MEASURE 32
+  LINE LH0001
+    REST 1 42
+    E -1 1 43
+    EXMATCH A Q
+    # Lowest frequency (10) plus use count (104).
+    D -1 1 43
+    EXMATCH D Q
+    # Lowest frequency (8) plus use count (106).
+  LINE RH0001
+    F# -1 1 42
+    EXMATCH L Q
+    # Lowest frequency (9) plus use count (103).
+    REST 1 86
+    # Lowest frequency (9) plus use count (103).
+
+MEASURE 33
+  LINE LH0001
+    E -1 1 85
+    EXMATCH A Q
+    # Previously mapped.
+    B -2 1 43
+    EXMATCH 4 Q
+    # Chord - Base note.
+  LINE LH0002
+    REST 1 85
+    A 0 1 43
+    EXMATCH 3 Q
+    # Chord - continuation.
+  LINE LH0003
+    REST 1 85
+    B 0 1 43
+    EXMATCH 2 Q
+    # Chord - continuation.
+  LINE LH0004
+    REST 1 85
+    D# 1 1 43
+    EXMATCH 1 Q
+    # Chord - continuation.
+
+MEASURE 34
+  LINE LH0001
+    CARRY 1 42
+    E -2 1 86
+    EXMATCH R Q
+    # Chord - Base note.
+  LINE LH0002
+    CARRY 1 42
+    G 0 1 86
+    EXMATCH E Q
+    # Chord - continuation.
+  LINE LH0003
+    CARRY 1 42
+    B 0 1 86
+    EXMATCH W Q
+    # Chord - continuation.
+  LINE LH0004
+    CARRY 1 42
+    E 1 1 86
+    EXMATCH Q Q
+    # Chord - continuation.
+

@@ -1,0 +1,3050 @@
+NAME "My Heart Will Go On" -- Love Theme from `The Titanic'
+
+MEASURE 1
+  METER 4 4
+  TEMPO 4 60.000000
+  KEY 4#
+
+MEASURE 1
+  MARK Introduction
+MEASURE 10
+  MARK Main-Theme
+MEASURE 26
+  MARK Getting-Goopy
+  APART
+MEASURE 42
+  MARK Segue
+  TOGETHER
+MEASURE 46
+  MARK LH-Melody
+MEASURE 54
+  MARK RH-takes-over
+MEASURE 52
+  APART
+MEASURE 54
+  TOGETHER
+MEASURE 78
+  MARK Coda
+  TOGETHER
+MEASURE 102
+  MARK Ending
+MEASURE 86
+  KEY 4b
+  MARK Key-Change
+
+# kr2l Titanic.mus 1 50 4
+
+MEASURE 1
+  LINE RH5
+  REST   4  3
+  E   1  8
+  F#  1  8
+
+MEASURE 2
+  LINE RH5
+  G#  1  4  3
+  F#  1  8
+  E   1  8
+
+MEASURE 3
+  LINE RH5
+  F#  1  8
+  B   1  8  5
+  A   1  8
+  G#  1  8
+
+MEASURE 4
+  LINE RH5
+  E   1  4
+  C#  1  4  3
+
+
+# kr2l Titanic.mus 5 50 4
+
+MEASURE 5
+  LINE RH5
+  REST   8  3
+  E   0  8
+  F#  0  8
+  B   0  8
+  E   1  8
+  F#  1  8
+
+MEASURE 6
+  LINE RH5
+  G#  1  4  3
+  A   1 16
+  G#  1 16
+  F#  1 16
+  E   1 16
+
+MEASURE 7
+  LINE RH5
+  F#  1  8
+  B   1  8  5
+  G#  1  8
+  B   1  8
+
+MEASURE 8
+  LINE RH5
+  C#  2  2
+  B   1  2
+
+MEASURE 9
+  LINE RH5
+  F#  1  1
+# kr2l Titanic.mus 6 50 4
+
+MEASURE 6
+  LINE TLRH2
+  TIELINE RH4 90
+  G#  0  4  3
+  REST   4
+
+MEASURE 6
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  1  4  3
+  REST   4
+
+MEASURE 6
+  LINE RH4
+  E   1  4  3
+  REST   4
+
+MEASURE 7
+  LINE TLRH3
+  TIELINE RH4 92
+  B   0  1
+
+MEASURE 7
+  LINE RH4
+  E   1  1
+
+MEASURE 8
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  1  2
+  B   0  2
+
+MEASURE 8
+  LINE RH4
+  E   1  2
+  E   1  2
+
+MEASURE 9
+  LINE RH4
+  E   1  2
+  D#  1  2
+# kr2l Titanic.mus 9 50 4
+
+MEASURE 9
+  LINE RH2
+  F#  0  1
+
+MEASURE 9
+  LINE RH3
+  B   0  1
+  RIPPLE
+# kr2l Titanic.mus 2 50 1
+
+MEASURE 2
+  LINE LH4
+  C#  0  1
+
+MEASURE 3
+  LINE LH4
+  B  -1  1
+
+MEASURE 4
+  LINE LH4
+  A  -1  1
+
+MEASURE 5
+  LINE LH4
+  B  -2  1
+
+MEASURE 6
+  LINE LH4
+  C# -2  1
+
+MEASURE 7
+  LINE LH4
+  B  -2  1
+
+MEASURE 8
+  LINE LH4
+  A  -2  1
+
+MEASURE 9
+  LINE LH4
+  B  -2  1
+
+MEASURE 10
+  LINE LH4
+  E  -2  1
+# kr2l Titanic.mus 2 50 4
+
+MEASURE 2
+  LINE LH5
+  REST   8
+  E   0  8
+  G#  0  8
+  C#  1  8  5
+
+MEASURE 3
+  LINE LH5
+  REST   8
+  E   0  8
+  F#  0  8
+  B   0  8  5
+
+MEASURE 4
+  LINE LH5
+  REST   8
+  E   0  8
+  A   0  8
+  B   0  8  5
+# kr2l Titanic.mus 5 50 4
+
+MEASURE 5
+  LINE LH5
+  REST   8
+  F# -1  8
+  B  -1  4  3
+
+MEASURE 6
+  LINE LH5
+  REST   8
+  G# -2  8
+  C# -1  8
+  E  -1  8
+  G# -1  8
+  C#  0  8
+  E   0  4
+
+MEASURE 7
+  LINE LH5
+  REST   8
+  F# -1  8
+  B  -1  8
+  E   0  8
+  F#  0  2
+
+MEASURE 8
+  LINE LH5
+  REST   8
+  E  -1  8
+  A  -1  8
+  B  -1  8
+  E   0  8
+  B  -1  8
+  A  -1  8
+  E  -1  8
+
+MEASURE 9
+  LINE LH5
+  REST   8
+  F# -1  8
+  B  -1  4  3
+
+MEASURE 10
+  LINE LH5
+  REST   8
+  B  -2  8
+  G# -1  4  3
+# kr2l Titanic.mus 11 50 2
+
+MEASURE 11
+  LINE LH4
+  F# -1  1
+
+MEASURE 11
+  LINE LH5
+  B  -1  1
+
+MEASURE 12
+  LINE LH3
+  E  -1  1
+  RIPPLE
+
+MEASURE 12
+  LINE LH4
+  A  -1  1
+
+MEASURE 12
+  LINE LH5
+  B  -1  1
+
+MEASURE 13
+  LINE LH4
+  E  -1  2
+  B  -2  2
+
+MEASURE 13
+  LINE LH5
+  B  -1  2
+  B  -1  2
+
+MEASURE 14
+  LINE LH3
+  E  -1  1
+  RIPPLE
+
+MEASURE 14
+  LINE LH4
+  G# -1  1
+
+MEASURE 14
+  LINE LH5
+  B  -1  1
+
+MEASURE 15
+  LINE LH4
+  F# -1  1
+
+MEASURE 15
+  LINE LH5
+  B  -1  1
+
+MEASURE 16
+  LINE LH4
+  A  -2  1
+
+MEASURE 16
+  LINE LH5
+  E  -1  1
+
+MEASURE 17
+  LINE LH5
+  A  -3  4  3
+  B  -2  4
+# kr2l Titanic.mus 10 50 4
+
+MEASURE 10
+  LINE RH5
+  E   0  8  3
+  E   0  8
+  E   0  4
+  E   0  4
+
+MEASURE 11
+  LINE RH5
+  D#  0  4
+  E   0  2
+  E   0  4
+
+MEASURE 12
+  LINE RH5
+  D#  0  4
+  E   0  2
+  F#  0  4
+
+MEASURE 13
+  LINE RH4
+  REST   2
+  D#  0  2
+
+MEASURE 13
+  LINE RH5
+  G#  0  2
+  F#  0  2
+
+MEASURE 14
+  LINE RH5
+  E   0  8  3
+  E   0  8
+  E   0  4
+  E   0  4
+
+MEASURE 15
+  LINE RH5
+  D#  0  4
+  E   0  2
+  E   0  4
+
+MEASURE 16
+  LINE RH5
+  B  -1  1
+
+MEASURE 17
+  LINE TLRH4
+  TIELINE RH5 86
+  REST   4  3
+  A   0  8
+  REST   8
+
+MEASURE 17
+  LINE RH5
+  REST   8
+  B  -1  8
+  C#  0  8
+  E   0  8
+  A   0  8
+  B   0  8
+  C#  1  8
+  D#  1  8
+
+MEASURE 18
+  LINE RH5
+  E   0  8  3
+  E   0  8
+  E   0  4
+  E   0  4
+
+MEASURE 19
+  LINE RH5
+  D#  0  4
+  E   0  2
+  E   0  4
+
+MEASURE 20
+  LINE RH5
+  F#  0  64 0
+  E   0  64 0
+  D#  0  4
+  E   0  2
+  F#  0  4
+
+MEASURE 21
+  LINE RH4
+  E   0  2
+  D#  0  2
+
+MEASURE 21
+  LINE RH5
+  G#  0  2
+  F#  0  2
+
+MEASURE 22
+  LINE RH5
+  E   0  8  3
+  E   0  8
+  E   0  4
+  E   0  4
+
+MEASURE 23
+  LINE RH5
+  D#  0  4
+  E   0  2
+  E   0  4
+
+MEASURE 24
+  LINE RH5
+  B  -1  1
+
+MEASURE 25
+  LINE RH5
+  REST   8
+  E  -1  8
+  A  -1  8
+  B  -1  4
+  E   0  8
+  A   0  8
+  B   0  8
+
+MEASURE 26
+  LINE RH5
+  E   1  1
+
+MEASURE 27
+  LINE TLRH3
+  TIELINE RH4 92
+  F#  0  4  3
+  REST   4
+
+MEASURE 27
+  LINE RH4
+  D#  1  4  3
+  B  -1  4
+
+MEASURE 27
+  LINE RH5
+  F#  1  4  3
+  B   0  4
+
+MEASURE 28
+  LINE TLRH2
+  TIELINE RH4 90
+  B   0  2
+  REST   2
+
+MEASURE 28
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  1  2
+  A   0  4
+  REST   8
+  F#  0  8
+
+MEASURE 28
+  LINE RH4
+  E   1  2
+  C#  1  4
+  G#  0  8
+  D#  1  8
+
+MEASURE 28
+  LINE RH5
+  B   1  2
+  A   1  4
+  G#  1  8
+  F#  1  8
+
+MEASURE 29
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  2
+  G#  0  8  3
+  REST   8
+
+MEASURE 29
+  LINE RH4
+  CARRY  2
+  E   1  8  3
+  A   0  8
+
+MEASURE 29
+  LINE RH5
+  CARRY  2
+  G#  1  8  3
+  A   1  8
+
+MEASURE 30
+  LINE TLRH3
+  TIELINE RH4 92
+  G#  0  2
+  F#  0  8  3
+  REST   8
+
+MEASURE 30
+  LINE RH4
+  E   1  2
+  D#  1  8  3
+  E   0  8
+
+MEASURE 30
+  LINE RH5
+  G#  1  2
+  F#  1  8  3
+  E   1  8
+# kr2l Titanic.mus 16 50 4
+
+MEASURE 16
+  LINE RH6
+  REST   8  3
+  E   1  8  5
+  RIPPLE
+
+MEASURE 16
+  LINE RH7
+  REST   8  3
+  A   1  8  5
+
+MEASURE 16
+  LINE RH8
+  REST   8  3
+  B   1  8  5
+
+MEASURE 16
+  LINE RH9
+  REST   8  3
+  E   2  8  5
+
+MEASURE 17
+  LINE RH9
+  REST   1
+
+MEASURE 18
+  LINE RH7
+  G#  0  1
+  RIPPLE
+
+MEASURE 18
+  LINE RH8
+  B   0  1
+
+MEASURE 18
+  LINE RH9
+  E   1  1
+# kr2l Titanic.mus 22 50 4
+
+MEASURE 22
+  LINE TLRH3
+  TIELINE RH4 92
+  G# -1  1
+
+MEASURE 22
+  LINE RH4
+  B  -1  1
+
+MEASURE 23
+  LINE RH4
+  REST   1
+
+MEASURE 24
+  LINE LH8
+  REST   8
+  A  -1  8
+  B  -1  8
+  E   0  8  5
+# kr2l Titanic.mus 26 50 4
+
+MEASURE 26
+  LINE RH2
+  E   0  1
+  RIPPLE
+
+MEASURE 26
+  LINE RH3
+  G#  0  1
+
+MEASURE 26
+  LINE RH4
+  C#  1  1
+# kr2l Titanic.mus 18 50 1
+
+MEASURE 18
+  LINE LH1
+  E  -2  1
+
+MEASURE 19
+  LINE LH1
+  B  -2  1
+
+MEASURE 20
+  LINE LH1
+  A  -2  1
+
+MEASURE 21
+  LINE LH1
+  B  -2  2
+  B  -2  2
+
+MEASURE 22
+  LINE LH1
+  E  -2  1
+
+MEASURE 23
+  LINE LH1
+  B  -2  1
+
+MEASURE 24
+  LINE LH1
+  REST   1
+
+MEASURE 25
+  LINE LH1
+  A  -3  1
+
+MEASURE 26
+  LINE LH1
+  C# -2  1
+
+MEASURE 27
+  LINE LH1
+  B  -3  1
+
+MEASURE 28
+  LINE LH1
+  A  -3  1
+
+MEASURE 29
+  LINE LH1
+  B  -3  1
+
+MEASURE 30
+  LINE LH1
+  C# -2  1
+# kr2l Titanic.mus 18 50 4
+
+MEASURE 18
+  LINE LH3
+  REST   8
+  B  -2  8
+  E  -1  8
+  B  -2  8
+  E  -1  8
+  B  -2  8
+  E  -1  8
+  B  -2  8
+
+MEASURE 19
+  LINE LH3
+  REST   8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+
+MEASURE 20
+  LINE LH3
+  REST   8
+  E  -1  8
+  B  -1  8
+  E  -1  8
+  B  -1  8
+  E  -1  8
+  B  -1  8
+  E  -1  8
+
+MEASURE 21
+  LINE LH3
+  REST   8
+  G# -1  8
+  B  -1  8
+  G# -1  8
+  REST   8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+
+MEASURE 22
+  LINE LH3
+  REST   8
+  B  -2  8
+  E  -1  8
+  B  -2  8
+  E  -1  8
+  B  -2  8
+  E  -1  8
+  B  -2  8
+
+MEASURE 23
+  LINE LH3
+  REST   8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+
+MEASURE 24
+  LINE TLLH2
+  TIELINE LH3 88
+  A  -2  4  3
+  REST   4
+
+MEASURE 24
+  LINE LH3
+  E  -1  4  3
+  E  -2  4
+
+MEASURE 25
+  LINE LH3
+  REST   1
+
+
+# kr2l Titanic.mus 26 50 4
+
+MEASURE 26
+  LINE LH3
+  REST   8
+  G# -2  8
+  E  -1  8
+  G# -1  4
+  E  -1  8
+  C# -1  8
+  G# -2  8
+
+MEASURE 27
+  LINE LH3
+  REST   8
+  B  -2  8
+  E  -1  8
+  F# -1  4
+  E  -1  8
+  B  -2  8
+  F# -2  8
+
+MEASURE 28
+  LINE LH3
+  REST   8
+  A  -2  8
+  E  -1  8
+  B  -1  4
+  A  -1  8
+  E  -1  8
+  A  -2  8
+
+MEASURE 29
+  LINE LH3
+  REST   8
+  F# -2  8
+  B  -2  8
+  F# -1  8  3
+  B  -2  4
+
+MEASURE 30
+  LINE LH3
+  REST   8
+  G# -2  8
+  E  -1  8
+  G# -1  4
+  E  -1  8
+  C# -1  8
+  G# -2  8
+# kr2l titanic.mus 31 50 4
+
+MEASURE 31
+  LINE TLRH3
+  TIELINE RH4 92
+  D#  0  4
+  E   0  2
+  D#  0  4
+
+MEASURE 31
+  LINE RH4
+  B   0  4
+  C#  1  2
+  B   0  4
+
+MEASURE 31
+  LINE RH5
+  D#  1  4
+  E   1  2
+  D#  1  4
+
+MEASURE 32
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  0  1
+
+MEASURE 32
+  LINE RH4
+  A   0  1
+
+MEASURE 32
+  LINE RH5
+  C#  1  1
+
+MEASURE 33
+  LINE TLRH2
+  TIELINE RH4 90
+  B  -1  2
+  REST   2
+
+MEASURE 33
+  LINE TLRH3
+  TIELINE RH4 92
+  E   0  2
+  REST   2
+
+MEASURE 33
+  LINE RH4
+  F#  0  2
+  REST   2
+
+MEASURE 33
+  LINE RH5
+  B   0  2
+  REST   2
+
+MEASURE 34
+  LINE TLRH2
+  TIELINE RH4 90
+  E   0  1
+
+MEASURE 34
+  LINE TLRH3
+  TIELINE RH4 92
+  G#  0  1
+
+MEASURE 34
+  LINE RH4
+  C#  1  1
+
+MEASURE 34
+  LINE RH5
+  E   1  1
+
+MEASURE 35
+  LINE TLRH2
+  TIELINE RH4 90
+  F#  0  4  3
+  REST   4
+
+MEASURE 35
+  LINE TLRH3
+  TIELINE RH4 92
+  B   0  4  3
+  REST   4
+
+MEASURE 35
+  LINE RH4
+  D#  1  4  3
+  B  -1  4
+
+MEASURE 35
+  LINE RH5
+  F#  1  4  3
+  B   0  4
+
+MEASURE 36
+  LINE TLRH2
+  TIELINE RH4 90
+  B   0  2
+  REST   2
+
+MEASURE 36
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  1  2
+  A   0  4
+  REST   8
+  F#  0  8
+
+MEASURE 36
+  LINE RH4
+  E   1  2
+  C#  1  4
+  G#  0  8
+  D#  1  8
+
+MEASURE 36
+  LINE RH5
+  B   1  2
+  A   1  4
+  G#  1  8
+  F#  1  8
+
+MEASURE 37
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  2
+  G#  0  4
+  A   0  4
+
+MEASURE 37
+  LINE RH4
+  CARRY  2
+  E   1  4
+  F#  1  4
+
+MEASURE 37
+  LINE RH5
+  CARRY  2
+  G#  1  4
+  A   1  4
+
+MEASURE 38
+  LINE TLRH3
+  TIELINE RH4 92
+  G#  0  2
+  F#  0  4
+  E   0  4
+
+MEASURE 38
+  LINE RH4
+  E   1  2
+  D#  1  4
+  C#  1  4
+
+MEASURE 38
+  LINE RH5
+  G#  1  2
+  F#  1  4
+  E   1  4
+
+MEASURE 39
+  LINE TLRH3
+  TIELINE RH4 92
+  D#  0  4
+  E   0  2
+  D#  0  4
+
+MEASURE 39
+  LINE RH4
+  B   0  4
+  B   0  2
+  B   0  4
+
+MEASURE 39
+  LINE RH5
+  D#  1  4
+  E   1  2
+  D#  1  4
+
+MEASURE 40
+  LINE TLRH3
+  TIELINE RH4 92
+  D#  0  4
+  E   0  2
+  F#  0  4
+
+MEASURE 40
+  LINE RH4
+  B   0  4
+  C#  1  2
+  D#  1  4
+
+MEASURE 40
+  LINE RH5
+  D#  1  4
+  E   1  2
+  F#  1  4
+
+MEASURE 41
+  LINE TLRH3
+  TIELINE RH4 92
+  G#  0  2
+  F#  0  2
+
+MEASURE 41
+  LINE RH4
+  E   1  2
+  D#  1  2
+
+MEASURE 41
+  LINE RH5
+  G#  1  2
+  F#  1  2
+# kr2l titanic.mus 33 50 4
+
+MEASURE 33
+  LINE RH7
+  REST   4
+  F#  0  8
+  G#  0  8
+  A   0  8
+  B   0  8
+  C#  1  8
+  D#  1  8
+# kr2l titanic.mus 31 50 1
+
+MEASURE 31
+  LINE LH1
+  B  -3  1
+
+MEASURE 32
+  LINE LH1
+  A  -3  1
+
+MEASURE 33
+  LINE LH1
+  A  -3  2
+  B  -3  2
+
+MEASURE 33
+  LINE TLLH3
+  TIELINE LH1 86
+  REST 2
+  D#  0  2
+
+MEASURE 34
+  LINE LH1
+  C# -2  1
+
+MEASURE 35
+  LINE LH1
+  B  -3  1
+
+MEASURE 36
+  LINE LH1
+  A  -3  1
+
+MEASURE 37
+  LINE LH1
+  B  -3  1
+
+MEASURE 38
+  LINE LH1
+  C# -2  1
+
+MEASURE 39
+  LINE LH1
+  G# -2  8 7
+  REST   8
+
+MEASURE 40
+  LINE LH1
+  A  -3  8 7
+  REST   8
+
+MEASURE 41
+  LINE LH1
+  B  -3  2
+  B  -2  2
+# kr2l titanic.mus 31 50 4
+
+MEASURE 31
+  LINE LH2
+  REST   8
+  B  -2  8
+  E  -1  8
+  F# -1  4
+  E  -1  8
+  B  -2  8
+  F# -2  8
+
+MEASURE 32
+  LINE LH2
+  REST   8
+  A  -2  8
+  E  -1  8
+  B  -1  4
+  A  -1  8
+  E  -1  8
+  A  -2  8
+
+MEASURE 33
+  LINE LH2
+  REST   8
+  A  -2  8
+  E  -1  8
+  B  -1  8
+  REST   8
+  B  -2  8
+  F# -1  8
+  B  -1  8
+
+MEASURE 34
+  LINE LH2
+  REST   8
+  G# -2  8
+  E  -1  8
+  G# -1  8
+  C#  0  8
+  G# -1  8
+  E  -1  8
+  C# -1  8
+
+MEASURE 35
+  LINE LH2
+  REST   8
+  B  -2  8
+  D# -1  8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+  D# -1  8
+  B  -2  8
+
+MEASURE 36
+  LINE LH2
+  REST   8
+  A  -2  8
+  E  -1  8
+  A  -1  8
+  C#  0  8
+  A  -1  8
+  E  -1  8
+  A  -2  8
+
+MEASURE 37
+  LINE LH2
+  REST   8
+  F# -2  8
+  B  -2  8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+  B  -2  4
+
+MEASURE 38
+  LINE LH2
+  REST   8
+  G# -2  8
+  E  -1  8
+  G# -1  4
+  E  -1  8
+  C# -1  4
+
+MEASURE 39
+  LINE LH2
+  REST   8
+  D# -1  8
+  E  -1  8
+  B  -1  8  3
+  E  -1  8
+  G# -2  8
+
+MEASURE 40
+  LINE LH2
+  REST   8
+  A  -2  8
+  E  -1  8
+  C#  0  4
+  E  -1  8
+  A  -2  8
+  A  -3  8
+
+MEASURE 41
+  LINE LH2
+  REST   8
+  B  -2  8
+  E  -1  8
+  B  -1  8
+  REST   8
+  F# -1  8
+  B  -1  4
+# kr2l titanic.mus 42 50 4
+
+MEASURE 42
+  LINE TLRH3
+  TIELINE RH5 86
+  E   1  4  3
+  REST   4
+
+MEASURE 42
+  LINE RH5
+  G#  1  4  3
+  A   1 16
+  G#  1 16
+  F#  1 16
+  E   1 16
+
+MEASURE 43
+  LINE RH5
+  F#  1  8
+  B   1  8  5
+  G#  1  8
+  B   1  8
+
+MEASURE 44
+  LINE RH5
+  C#  2  2
+  B   1  2
+
+MEASURE 45
+  LINE RH5
+  F#  1  4  3
+  D#  1  4
+# kr2l titanic.mus 42 50 4
+
+MEASURE 42
+  LINE RH3
+  G#  0  8
+  B   0  8
+  E   1  8
+  E   1  4
+  B   0  8  3
+
+MEASURE 43
+  LINE RH3
+  B   0  4
+  E   1  8
+  E   1  4
+  B   0  8  3
+
+MEASURE 44
+  LINE RH3
+  E   1  4
+  E   1  8
+  E   1  4
+  B   0  8
+  E   1  4
+
+MEASURE 45
+  LINE RH3
+  B   0  8
+  D#  1  8
+  E   1  8
+  E   1  8  3
+  F#  0  4
+# kr2l titanic.mus 42 50 2
+
+MEASURE 42
+  LINE LH1
+  C# -1  1
+
+MEASURE 43
+  LINE LH1
+  B  -2  1
+
+MEASURE 44
+  LINE LH1
+  A  -2  1
+
+MEASURE 45
+  LINE LH1
+  B  -2  4  3
+  B  -2  4
+# kr2l titanic.mus 42 50 4
+
+MEASURE 42
+  LINE LH5
+  REST   8
+  G# -1  8
+  C#  0  8
+  G# -1  8
+  C#  0  8
+  G# -1  8
+  C#  0  4
+
+MEASURE 43
+  LINE LH5
+  REST   8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+  B  -1  4
+
+MEASURE 44
+  LINE LH5
+  REST   8
+  E  -1  8
+  A  -1  8
+  E  -1  8
+  A  -1  8
+  E  -1  8
+  A  -1  4
+
+MEASURE 45
+  LINE LH5
+  REST   8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+  B  -1  4
+  REST   4
+# kr2l titanic.mus 46 50 4
+
+MEASURE 46
+  LINE TLRH3
+  TIELINE RH4 92
+  G#  0  8
+  REST   8
+  G#  0  8
+  REST   8
+  G#  0  8
+  REST   8
+  G#  0  8
+  REST   8
+
+MEASURE 46
+  LINE RH4
+  B   0  8
+  REST   8
+  B   0  8
+  REST   8
+  B   0  8
+  REST   8
+  B   0  8
+  REST   8
+
+MEASURE 46
+  LINE RH5
+  E   1  8
+  REST   8
+  E   1  8
+  REST   8
+  E   1  8
+  REST   8
+  E   1  8
+  REST   8
+
+MEASURE 47
+  LINE RH4
+  B   0  8
+  REST   8
+  B   0  8
+  REST   8
+  B   0  8
+  REST   8
+  B   0  8
+  REST   8
+
+MEASURE 47
+  LINE RH5
+  E   1  8
+  REST   8
+  E   1  8
+  REST   8
+  E   1  8
+  REST   8
+  E   1  8
+  REST   8
+
+MEASURE 48
+  LINE RH4
+  B   0  8
+  REST   8
+  A   0  8
+  REST   8
+  G#  0  8
+  REST   8
+  A   0  8
+  REST   8
+
+MEASURE 48
+  LINE RH5
+  E   1  8
+  REST   8
+  E   1  8
+  REST   8
+  E   1  8
+  REST   8
+  E   1  8
+  REST   8
+
+MEASURE 49
+  LINE RH4
+  B   0  8
+  REST   8
+  B   0  8
+  REST   8
+  B   0  8
+  REST   8
+  B   0  8
+  REST   8
+
+MEASURE 49
+  LINE RH5
+  E   1  8
+  REST   8
+  E   1  8
+  REST   8
+  D#  1  8
+  REST   8
+  D#  1  8
+  REST   8
+
+MEASURE 50
+  LINE RH4
+  B   0  8
+  REST   8
+  B   0  8
+  REST   8
+  B   0  8
+  REST   8
+  B   0  8
+  REST   8
+
+MEASURE 50
+  LINE RH5
+  E   1  8
+  REST   8
+  E   1  8
+  REST   8
+  E   1  8
+  REST   8
+  E   1  8
+  REST   8
+
+MEASURE 51
+  LINE RH4
+  B   0  8
+  REST   8
+  B   0  8
+  REST   8
+  B   0  8
+  REST   8
+  B   0  8
+  REST   8
+
+MEASURE 51
+  LINE RH5
+  E   1  8
+  REST   8
+  E   1  8
+  REST   8
+  E   1  8
+  REST   8
+  E   1  8
+  REST   8
+
+MEASURE 52
+  LINE TLRH3
+  TIELINE RH4 92
+  A   0  8
+  REST   8  7
+
+MEASURE 52
+  LINE RH4
+  B   0  8
+  REST   8  7
+
+MEASURE 52
+  LINE RH5
+  E   1  8
+  REST   8  7
+
+MEASURE 53
+  LINE RH5
+  REST   1
+
+MEASURE 54
+  LINE RH5
+  E   1  8  3
+  E   1  8
+  E   1  4
+  E   1  4
+
+MEASURE 55
+  LINE RH5
+  D#  1  4
+  E   1  2
+  E   1  4
+
+MEASURE 56
+  LINE RH5
+  D#  1  4
+  E   1  2
+  F#  1  4
+
+MEASURE 57
+  LINE RH5
+  G#  1  2
+  F#  1  2
+
+MEASURE 58
+  LINE RH5
+  E   1  8  3
+  E   1  8
+  E   1  4
+  E   1  4
+
+MEASURE 59
+  LINE RH5
+  D#  1  4
+  E   1  2
+  E   1  4
+
+MEASURE 60
+  LINE RH5
+  B   0  1
+# kr2l titanic.mus 46 50 4
+
+MEASURE 46
+  LINE RH1
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+
+MEASURE 47
+  LINE RH1
+  REST   8
+  F#  0  8
+  REST   8
+  F#  0  8
+  REST   8
+  F#  0  8
+  REST   8
+  F#  0  8
+
+MEASURE 48
+  LINE RH1
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+
+MEASURE 49
+  LINE RH1
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+  REST   8
+  F#  0  8
+  REST   8
+  F#  0  8
+
+MEASURE 50
+  LINE RH1
+  REST   8
+  G#  0  8
+  REST   8
+  G#  0  8
+  REST   8
+  G#  0  8
+  REST   8
+  G#  0  8
+
+MEASURE 51
+  LINE RH1
+  REST   8
+  F#  0  8
+  REST   8
+  F#  0  8
+  REST   8
+  F#  0  8
+  REST   8
+  F#  0  8
+
+MEASURE 52
+  LINE RH1
+  REST   8
+  E   0  8
+  D#  0  8
+  E   0  8
+  B   0  8
+  E   0  8
+  D#  0  8
+  E   0  8
+
+MEASURE 53
+  LINE RH1
+  B  -1  8
+  E   0  8
+  D#  0  8
+  E   0  8
+  B   0  8
+  E   0  8
+  D#  0  8
+  E   0  8
+# kr2l titanic.mus 54 50 4
+
+MEASURE 54
+  LINE RH4
+  G#  0  1
+
+MEASURE 55
+  LINE RH4
+  F#  0  1
+
+MEASURE 56
+  LINE RH4
+  B   0  2
+  A   0  2
+
+MEASURE 57
+  LINE TLRH2
+  TIELINE RH4 90
+  G#  0  2
+  G#  0  2
+
+MEASURE 57
+  LINE RH4
+  E   1  2
+  D#  1  2
+
+MEASURE 58
+  LINE TLRH2
+  TIELINE RH4 90
+  G#  0  1
+
+MEASURE 58
+  LINE RH4
+  C#  1  1
+
+MEASURE 59
+  LINE TLRH2
+  TIELINE RH4 90
+  G#  0  1
+
+MEASURE 59
+  LINE RH4
+  B   0  1
+
+MEASURE 60
+  LINE RH4
+  B  -1  4
+  D#  0  8
+  E   0  4
+  B  -1  8
+  D#  0  8
+  E   0  8
+# kr2l titanic.mus 46 50 4
+
+MEASURE 46
+  LINE LH5
+  E  -1  8  3
+  E  -1  8
+  E  -1  4
+  E  -1  4
+
+MEASURE 47
+  LINE LH5
+  D# -1  4
+  E  -1  2
+  E  -1  4
+
+MEASURE 48
+  LINE LH5
+  D# -1  4
+  E  -1  2
+  F# -1  4
+
+MEASURE 49
+  LINE LH5
+  G# -1  2
+  F# -1  2
+
+MEASURE 50
+  LINE LH1
+  E  -1  1
+# kr2l titanic.mus 50 50 4
+
+MEASURE 50
+  LINE LH5
+  E   0  8  3
+  E   0  8
+  E   0  4
+  E   0  4
+
+MEASURE 51
+  LINE LH5
+  D#  0  4
+  E   0  2
+  E   0  4
+
+MEASURE 52
+  LINE LH5
+  B  -1  1
+# kr2l titanic.mus 52 50 4
+
+MEASURE 52
+  LINE LH1
+  REST   8  3
+  A  -3  8  5
+
+MEASURE 53
+  LINE LH1
+  CARRY  8  3
+  A  -2  8  5
+
+MEASURE 54
+  LINE LH1
+  E  -1  1
+
+MEASURE 55
+  LINE LH1
+  B  -2  1
+
+MEASURE 56
+  LINE LH1
+  A  -2  1
+
+MEASURE 57
+  LINE LH1
+  B  -2  2
+  B# -2  2
+
+MEASURE 58
+  LINE LH1
+  C# -1  1
+
+MEASURE 59
+  LINE LH1
+  G# -2  1
+
+MEASURE 60
+  LINE LH1
+  A  -2  1
+# kr2l titanic.mus 54 50 4
+
+MEASURE 54
+  LINE LH5
+  REST   8
+  B  -1  8
+  E   0  8
+  B  -1  8
+  E   0  8
+  B  -1  8
+  E   0  8
+  B  -1  8
+
+MEASURE 55
+  LINE LH5
+  REST   8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+
+MEASURE 56
+  LINE LH5
+  REST   8
+  E  -1  8
+  A  -1  8
+  E  -1  8
+  A  -1  8
+  E  -1  8
+  A  -1  8
+  E  -1  8
+
+MEASURE 57
+  LINE LH5
+  REST   8
+  G# -1  8
+  E   0  8
+  G# -1  8
+  REST   8
+  G# -1  8
+  D#  0  8
+  G# -1  8
+
+MEASURE 58
+  LINE LH5
+  REST   8
+  G# -1  8
+  C#  0  8
+  G# -1  8
+  C#  0  8
+  G# -1  8
+  C#  0  8
+  G# -1  8
+
+MEASURE 59
+  LINE LH5
+  REST   8
+  E  -1  8
+  B  -1  8
+  E  -1  8
+  B  -1  8
+  E  -1  8
+  B  -1  8
+  E  -1  8
+
+MEASURE 60
+  LINE LH5
+  REST   8
+  E  -1  8
+  A  -1  8
+  E  -1  8
+  A  -1  8
+  E  -1  8
+  A  -1  8
+  E  -1  8
+# kr2l titanic.mus 61 50 4
+
+MEASURE 61
+  LINE RH3
+  REST   8  3
+  A  -1  4
+  REST   8  3
+
+MEASURE 61
+  LINE RH4
+  REST   8  3
+  B  -1  4
+  REST   8  3
+
+MEASURE 61
+  LINE RH5
+  A  -1  8
+  B  -1  8
+  E   0  8
+  E   0  4
+  B   0  8
+  C#  1  8
+  D#  1  8
+# kr2l titanic.mus 61 50 4
+
+MEASURE 61
+  LINE LH1
+  A  -2  8  3
+  A  -3  8  5
+
+REPEAT 26 41 62
+# kr2l titanic.mus 78 50 4
+
+MEASURE 78
+  LINE TLRH3
+  TIELINE RH5 87
+  E   1  4  3
+  REST   4
+
+MEASURE 78
+  LINE RH5
+  G#  1  4  3
+  F#  1  8
+  E   1  8
+
+MEASURE 79
+  LINE RH5
+  F#  1  8
+  B   1  8  5
+  A   1  8
+  G#  1  8
+
+MEASURE 80
+  LINE RH5
+  E   1  4
+  C#  1  4  3
+
+MEASURE 81
+  LINE RH5
+  E   0  8
+  B   0  8
+  E   1  8
+  E   1  8  3
+  D#  1  8
+  E   1 16
+  F#  1 16
+
+MEASURE 82
+  LINE RH5
+  G#  1  4  3
+  A   1  8
+  G#  1  8
+
+MEASURE 83
+  LINE RH5
+  F#  1  8
+  B   1  8  5
+  G#  1  8
+  B   1  8
+# kr2l titanic.mus 81 50 4
+
+MEASURE 81
+  LINE RH2
+  REST   4  3
+  B   0  8
+  REST   8
+# kr2l titanic.mus 78 50 4
+
+MEASURE 78
+  LINE RH3
+  G#  0  8
+  B   0  8
+  E   1  8
+  E   1  4
+  B   0  8  3
+
+MEASURE 79
+  LINE RH3
+  B   0  4
+  E   1  8
+  E   1  4
+  B   0  8  3
+
+MEASURE 80
+  LINE RH3
+  E   0  8
+  B   0  8
+  E   0  8
+  E   0  4
+  B   0  8  3
+
+MEASURE 81
+  LINE RH3
+  E   0  8
+  B   0  8
+  E   1  8
+  E   1  8  3
+  REST   4
+
+MEASURE 82
+  LINE RH3
+  G#  0  8
+  B   0  8
+  E   1  8
+  E   1  4
+  B   0  8  3
+
+MEASURE 83
+  LINE RH3
+  B   0  4
+  E   1  8
+  E   1  4
+  B   0  8  3
+# kr2l titanic.mus 84 50 4
+
+MEASURE 84
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  1  4  3
+  D#  1  4
+
+MEASURE 84
+  LINE RH4
+  E   1  4  3
+  F#  1  4
+
+MEASURE 84
+  LINE RH5
+  C#  2  4  3
+  D#  2  4
+
+MEASURE 88
+  LINE TLRH2
+  TIELINE RH4 90
+  REST   2
+  Db  1  4
+  REST   8
+  Bb  0  8
+
+MEASURE 88
+  LINE TLRH3
+  TIELINE RH4 92
+  F   1  2
+  F   1  4
+  REST   8
+  Eb  1  8
+
+MEASURE 88
+  LINE RH4
+  Ab  1  2
+  Ab  1  4
+  C   1  8
+  G   1  8
+
+MEASURE 88
+  LINE RH5
+  Eb  2  2
+  Db  2  4
+  C   2  8
+  Bb  1  8
+
+MEASURE 89
+  LINE TLRH2
+  TIELINE RH4 90
+  CARRY  2
+  REST   8  3
+  C   1  8
+
+MEASURE 89
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  2
+  REST   8  3
+  F   1  8
+
+MEASURE 89
+  LINE RH4
+  CARRY  2
+  C   1  4
+  Db  1  8
+  Ab  1  8
+
+MEASURE 89
+  LINE RH5
+  CARRY  2
+  C   2  4
+  Db  2  8
+  C   2  8
+
+MEASURE 90
+  LINE TLRH2
+  TIELINE RH4 90
+  CARRY  2
+  REST   2
+
+MEASURE 90
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  2
+  REST   2
+
+MEASURE 90
+  LINE RH4
+  CARRY  2
+  Bb  0  4
+  Ab  0  4
+
+MEASURE 90
+  LINE RH5
+  CARRY  2
+  Bb  1  4
+  Ab  1  4
+
+MEASURE 91
+  LINE TLRH2
+  TIELINE RH4 90
+  G   0  4
+  Ab  0  2
+  G   0  4
+
+MEASURE 91
+  LINE TLRH3
+  TIELINE RH4 92
+  Bb  0  4
+  Bb  0  2
+  Bb  0  4
+
+MEASURE 91
+  LINE RH4
+  Eb  1  4
+  Eb  1  2
+  Eb  1  4
+
+MEASURE 91
+  LINE RH5
+  G   1  4
+  Ab  1  2
+  G   1  4
+
+MEASURE 92
+  LINE TLRH2
+  TIELINE RH4 90
+  F   0  1
+
+MEASURE 92
+  LINE TLRH3
+  TIELINE RH4 92
+  Ab  0  1
+
+MEASURE 92
+  LINE RH4
+  Db  1  1
+
+MEASURE 92
+  LINE RH5
+  F   1  1
+
+MEASURE 93
+  LINE TLRH2
+  TIELINE RH4 90
+  Eb  0  8  3
+  REST   8
+  Eb  0  4
+  REST   4
+
+MEASURE 93
+  LINE TLRH3
+  TIELINE RH4 92
+  Ab  0  8  3
+  REST   8
+  G   0  4
+  REST   4
+
+MEASURE 93
+  LINE RH4
+  Bb  0  8  3
+  Bb -1  8
+  Bb  0  4
+  G   0  4
+
+MEASURE 93
+  LINE RH5
+  Eb  1  8  3
+  Bb  0  8
+  Eb  1  4
+  G   1  4
+# kr2l titanic.mus 94 50 4
+
+MEASURE 94
+  LINE TLRH2
+  TIELINE RH4 90
+  Ab  0  2
+  F   0  4
+  Ab  0  4
+
+MEASURE 94
+  LINE TLRH3
+  TIELINE RH4 92
+  C   1  2
+  Ab  0  4
+  C   1  4
+
+MEASURE 94
+  LINE RH4
+  F   1  2
+  C   1  4
+  F   1  4
+
+MEASURE 94
+  LINE RH5
+  Ab  1  2
+  F   1  4
+  Ab  1  4
+
+MEASURE 95
+  LINE TLRH2
+  TIELINE RH4 90
+  Bb  0  4  3
+  Eb  0  4
+
+MEASURE 95
+  LINE TLRH3
+  TIELINE RH4 92
+  Eb  1  4  3
+  G   0  4
+
+MEASURE 95
+  LINE RH4
+  G   1  4  3
+  Bb  0  4
+
+MEASURE 95
+  LINE RH5
+  Bb  1  4  3
+  Eb  1  4
+
+MEASURE 96
+  LINE TLRH2
+  TIELINE RH4 90
+  REST   2
+  Db  1  4
+  REST   8
+  Bb  0  8
+
+MEASURE 96
+  LINE TLRH3
+  TIELINE RH4 92
+  F   1  2
+  F   1  4
+  REST   8
+  Eb  1  8
+
+MEASURE 96
+  LINE RH4
+  Ab  1  2
+  Ab  1  4
+  C   1  8
+  G   1  8
+
+MEASURE 96
+  LINE RH5
+  Eb  2  2
+  Db  2  4
+  C   2  8
+  Bb  1  8
+
+MEASURE 97
+  LINE TLRH2
+  TIELINE RH4 90
+  CARRY  2
+  C   1  4
+  REST   4
+
+MEASURE 97
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  2
+  Eb  1  4
+  REST   4
+
+MEASURE 97
+  LINE RH4
+  CARRY  2
+  G   1  4
+  Db  1  4
+
+MEASURE 97
+  LINE RH5
+  CARRY  2
+  C   2  4
+  Db  2  4
+
+MEASURE 98
+  LINE TLRH2
+  TIELINE RH4 90
+  C   1  2
+  REST   2
+
+MEASURE 98
+  LINE TLRH3
+  TIELINE RH4 92
+  F   1  2
+  REST   2
+
+MEASURE 98
+  LINE RH4
+  Ab  1  2
+  Bb  0  4
+  Ab  0  4
+
+MEASURE 98
+  LINE RH5
+  C   2  2
+  Bb  1  4
+  Ab  1  4
+
+MEASURE 99
+  LINE TLRH2
+  TIELINE RH4 90
+  G   0  4
+  REST   2
+  G   0  4
+
+MEASURE 99
+  LINE TLRH3
+  TIELINE RH4 92
+  Bb  0  4
+  Ab  0  2
+  Bb  0  4
+
+MEASURE 99
+  LINE RH4
+  Eb  1  4
+  Eb  1  2
+  Eb  1  4
+
+MEASURE 99
+  LINE RH5
+  G   1  4
+  Ab  1  2
+  G   1  4
+
+MEASURE 100
+  LINE TLRH2
+  TIELINE RH4 90
+  G   0  4
+  Ab  0  2
+  Bb  0  4
+
+MEASURE 100
+  LINE TLRH3
+  TIELINE RH4 92
+  Bb  0  4
+  Db  1  2
+  Db  1  4
+
+MEASURE 100
+  LINE RH4
+  Eb  1  4
+  F   1  2
+  F   1  4
+
+MEASURE 100
+  LINE RH5
+  G   1  4
+  Ab  1  2
+  Bb  1  4
+
+MEASURE 101
+  LINE TLRH2
+  TIELINE RH4 90
+  C   1  2
+  Bb  0  2
+
+MEASURE 101
+  LINE TLRH3
+  TIELINE RH4 92
+  Eb  1  2
+  Eb  1  2
+
+MEASURE 101
+  LINE RH4
+  Ab  1  2
+  G   1  2
+
+MEASURE 101
+  LINE RH5
+  C   2  2
+  Bb  1  2
+
+MEASURE 102
+  LINE TLRH2
+  TIELINE RH4 90
+  Ab  0  1
+
+MEASURE 102
+  LINE TLRH3
+  TIELINE RH4 92
+  C   1  1
+
+MEASURE 102
+  LINE RH4
+  Eb  1  1
+
+MEASURE 102
+  LINE RH5
+  Ab  1  1
+
+MEASURE 103
+  LINE TLRH3
+  TIELINE RH4 92
+  G   0  1
+
+MEASURE 103
+  LINE RH4
+  Bb  0  1
+
+MEASURE 103
+  LINE RH5
+  Eb  1  1
+
+MEASURE 104
+  LINE TLRH3
+  TIELINE RH4 92
+  F   0  1
+
+MEASURE 104
+  LINE RH4
+  Ab  0  1
+
+MEASURE 104
+  LINE RH5
+  Db  1  1
+
+MEASURE 105
+  LINE TLRH3
+  TIELINE RH4 92
+  G   0  1
+
+MEASURE 105
+  LINE RH4
+  Bb  0  1
+
+MEASURE 105
+  LINE RH5
+  Eb  1  1
+
+MEASURE 106
+  LINE RH5
+  C   1  4  3
+  Db  1 16
+  C   1 16
+  Bb  0 16
+  Ab  0 16
+
+MEASURE 107
+  LINE RH5
+  Bb  0  8
+  Eb  1  8
+  Eb  1  4  3
+
+MEASURE 108
+  LINE RH5
+  CARRY  1
+
+MEASURE 109
+  LINE RH5
+  Ab  0  2
+  Bb  0  2
+
+MEASURE 110
+  LINE RH5
+  Ab  0  1
+# kr2l titanic.mus 106 50 4
+
+MEASURE 106
+  LINE TLRH3
+  TIELINE RH4 92
+  Eb  0  16 15
+  REST   16
+
+MEASURE 106
+  LINE RH4
+  Ab  0  16 15
+  REST 16
+
+MEASURE 107
+  LINE TLRH3
+  TIELINE RH4 92
+  Eb  0  1
+
+MEASURE 107
+  LINE RH4
+  G   0  1
+
+MEASURE 108
+  LINE TLRH2
+  TIELINE RH3 90
+  F   0  1
+
+MEASURE 108
+  LINE RH3
+Ab  0  1
+
+MEASURE 108
+  LINE RH4
+  Db  1  1
+# kr2l titanic.mus 109 50 4
+
+MEASURE 109
+  LINE RH2
+  Ab -1  2
+  REST   2
+
+MEASURE 109
+  LINE RH3
+  Db  0  2
+  REST   2
+
+MEASURE 109
+  LINE RH4
+  Eb  0  2
+  RIPPLE
+  REST   2
+
+MEASURE 110
+  LINE RH3
+  Bb -1  1
+
+MEASURE 110
+  LINE RH4
+  C   0  1
+# kr2l titanic.mus 78 50 1
+
+MEASURE 78
+  LINE LH2
+  C# -1  1
+
+MEASURE 79
+  LINE LH2
+  B  -2  1
+
+MEASURE 80
+  LINE LH2
+  A  -2  1
+
+MEASURE 81
+  LINE LH2
+  B  -2  1
+
+MEASURE 82
+  LINE LH2
+  C# -1  1
+
+MEASURE 83
+  LINE LH2
+  B  -2  1
+
+MEASURE 84
+  LINE LH2
+  A  -2  4 3
+  REST   4
+
+MEASURE 85
+  LINE LH2
+  G# -2  2
+  F# -2  2
+
+MEASURE 86
+  LINE LH2
+  F  -2  1
+
+MEASURE 87
+  LINE LH2
+  Eb -2  1
+
+MEASURE 88
+  LINE LH2
+  Db -2  1
+
+MEASURE 89
+  LINE LH2
+  Eb -2  1
+
+MEASURE 90
+  LINE LH2
+  F  -2  1
+
+MEASURE 91
+  LINE LH2
+  Eb -2  1
+
+MEASURE 92
+  LINE LH2
+  Db -2  1
+
+MEASURE 93
+  LINE LH2
+  Eb -2  2
+  Eb -2  2
+
+MEASURE 94
+  LINE LH2
+  F  -2  1
+
+MEASURE 95
+  LINE LH2
+  Eb -2  1
+
+MEASURE 96
+  LINE LH2
+  Db -2  1
+
+MEASURE 97
+  LINE LH2
+  Eb -2  1
+
+MEASURE 98
+  LINE LH2
+  F  -2  2
+  F  -2  2
+
+MEASURE 99
+  LINE LH2
+  C  -2  2
+  C  -2  2
+
+MEASURE 100
+  LINE LH2
+  Db -2  2
+  Db -2  2
+# kr2l titanic.mus 101 50 1
+
+MEASURE 101
+  LINE LH1
+  Eb -2  2
+  Eb -2  2
+
+MEASURE 101
+  LINE LH2
+  Eb -1  2
+  Eb -1  2
+
+MEASURE 102
+  LINE LH1
+  Ab -3  1
+
+MEASURE 102
+  LINE LH2
+  Ab -2  1
+
+MEASURE 103
+  LINE LH2
+  Ab -2  1
+
+MEASURE 104
+  LINE LH2
+  Ab -2  1
+
+MEASURE 105
+  LINE LH2
+  Ab -2  1
+
+MEASURE 106
+  LINE LH2
+  Ab -2  1
+
+MEASURE 107
+  LINE LH2
+  Ab -2  1
+
+MEASURE 108
+  LINE LH2
+  Ab -2  1
+
+MEASURE 109
+  LINE LH1
+  Ab -2  1
+
+MEASURE 109
+  LINE LH2
+  F  -1  1
+  RIPPLE
+
+MEASURE 110
+  LINE LH1
+  Ab -2  1
+
+MEASURE 110
+  LINE LH2
+  Eb -1  1
+# kr2l titanic.mus 78 50 4
+
+MEASURE 78
+  LINE LH5
+  REST   8
+  G# -1  8
+  C#  0  8
+  G# -1  8
+  C#  0  8
+  G# -1  8
+  C#  0  4
+
+MEASURE 79
+  LINE LH5
+  REST   8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+  B  -1  4
+
+MEASURE 80
+  LINE LH5
+  REST   8
+  E  -1  8
+  A  -1  8
+  E  -1  8
+  A  -1  8
+  E  -1  8
+  A  -1  4
+
+MEASURE 81
+  LINE LH5
+  REST   8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+  B  -1  8
+  F# -1  8  3
+
+MEASURE 82
+  LINE LH5
+  REST   8
+  G# -1  8
+  C#  0  8
+  G# -1  8
+  C#  0  8
+  G# -1  8
+  C#  0  4
+
+MEASURE 83
+  LINE LH5
+  REST   8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+  B  -1  4
+
+MEASURE 84
+  LINE LH5
+  REST   8
+  E  -1  8
+  A  -1  8
+  A  -1  4
+  E  -1  8
+  A  -2  4
+
+MEASURE 85
+  LINE LH5
+  REST   8
+  E  -1  8
+  C#  0  8
+  E  -1  8
+  REST   8
+  D# -1  8
+  C   0  8
+  D# -1  8
+
+MEASURE 86
+  LINE LH5
+  REST   8
+  C  -1  8
+  F  -1  8
+  Ab -1  8
+  C   0  8
+  Ab -1  8
+  F  -1  8
+  C  -1  8
+
+MEASURE 87
+  LINE LH5
+  REST   8
+  Bb -2  8
+  G  -1  8
+  Bb -1  8
+  Eb  0  8
+  Bb -1  8
+  G  -1  8
+  Eb -1  8
+
+MEASURE 88
+  LINE LH5
+  REST   8
+  Ab -2  8
+  F  -1  8
+  Ab -1  8
+  Db  0  8
+  Ab -1  8
+  F  -1  8
+  Db -1  8
+
+MEASURE 89
+  LINE LH5
+  REST   8
+  Bb -2  8
+  G  -1  8
+  Bb -1  8
+  Eb  0  8
+  Bb -1  8
+  G  -1  8
+  Eb -1  8
+
+# kr2l titanic.mus 90 50 4
+
+MEASURE 90
+  LINE LH5
+  REST   8
+  C  -1  8
+  Ab -1  8
+  C   0  8
+  F   0  8
+  C   0  8
+  Ab -1  8
+  F  -1  8
+
+MEASURE 91
+  LINE LH5
+  REST   8
+  Bb -2  8
+  Eb -1  8
+  Bb -1  8
+  Eb  0  8
+  Bb -1  8
+  Eb -1  8
+  Bb -2  8
+
+MEASURE 92
+  LINE LH5
+  REST   8
+  Ab -2  8
+  F  -1  8
+  Ab -1  8
+  Db  0  8
+  Ab -1  8
+  F  -1  8
+  Db -1  8
+
+MEASURE 93
+  LINE LH5
+  REST   8
+  Bb -2  8
+  Ab -1  8
+  Bb -2  8
+  REST   8
+  Bb -2  8
+  G  -1  8
+  Bb -2  8
+
+MEASURE 94
+  LINE LH5
+  REST   8
+  C  -1  8
+  F  -1  8
+  Ab -1  8
+  C   0  8
+  Ab -1  8
+  F  -1  8
+  C  -1  8
+
+MEASURE 95
+  LINE LH5
+  REST   8
+  Bb -2  8
+  G  -1  8
+  Bb -1  8
+  Eb  0  8
+  Bb -1  8
+  G  -1  8
+  Eb -1  8
+
+MEASURE 96
+  LINE LH5
+  REST   8
+  Ab -2  8
+  F  -1  8
+  Ab -1  8
+  Db  0  8
+  Ab -1  8
+  F  -1  8
+  Db -1  8
+
+MEASURE 97
+  LINE LH5
+  REST   8
+  Bb -2  8
+  G  -1  8
+  Bb -1  8
+  Eb  0  8
+  Bb -1  8
+  G  -1  8
+  Eb -1  8
+
+MEASURE 98
+  LINE LH5
+  REST   8
+  C  -1  8
+  Ab -1  8
+  C  -1  8
+  REST   8
+  C  -1  8
+  Ab -1  8
+  C  -1  8
+
+
+# kr2l titanic.mus 99 50 4
+
+MEASURE 99
+  LINE LH5
+  REST   8
+  G  -2  8
+  Eb -1  8
+  G  -2  8
+  REST   8
+  G  -2  8
+  Eb -1  8
+  G  -2  8
+
+MEASURE 100
+  LINE LH5
+  REST   8
+  Ab -2  8
+  F  -1  8
+  Ab -2  8
+  REST   8
+  Ab -2  8
+  F  -1  8
+  Ab -2  8
+
+MEASURE 101
+  LINE LH5
+  REST   8
+  Ab -1  8
+  C   0  4
+  REST   8
+  G  -1  8
+  Bb -1  4
+
+MEASURE 102
+  LINE LH5
+  REST   8
+  Eb -1  8
+  Ab -1  8
+  Eb -1  8
+  Ab -1  8
+  Eb -1  8
+  Ab -1  8
+  Eb -1  8
+
+MEASURE 103
+  LINE LH5
+  REST   8
+  G  -1  8
+  Eb  0  8
+  G  -1  8
+  Eb  0  8
+  G  -1  8
+  Eb  0  8
+  G  -1  8
+
+# kr2l titanic.mus 104 50 4
+
+MEASURE 104
+  LINE LH5
+  REST   8
+  F  -1  8
+  Db  0  8
+  F  -1  8
+  Db  0  8
+  F  -1  8
+  Db  0  8
+  F  -1  8
+
+MEASURE 105
+  LINE LH5
+  REST   8
+  Eb -1  8
+  Bb -1  8
+  Eb -1  8
+  Bb -1  8
+  Eb -1  8
+  Bb -1  8
+  Eb -1  8
+
+MEASURE 106
+  LINE LH5
+  REST   8
+  Eb -1  8
+  Ab -1  8
+  Eb -1  8
+  Ab -1  8
+  Eb -1  8
+  Ab -1  8
+  Eb -1  8
+
+MEASURE 107
+  LINE LH5
+  REST   8
+  Eb -1  8
+  Bb -1  8
+  Eb -1  8
+  Bb -1  8
+  Eb -1  8
+  Bb -1  8
+  Eb -1  8
+
+MEASURE 108
+  LINE LH5
+  REST   8
+  F  -1  8
+  Db  0  8
+  F  -1  8
+  Db  0  8
+  F  -1  8
+  Db  0  8
+  F  -1  8
+# kr2l titanic.mus 85 50 4
+
+MEASURE 85
+  LINE TLRH1
+  TIELINE RH4 87
+  REST   2
+  F#  1  2
+
+MEASURE 85
+  LINE TLRH2
+  TIELINE RH4 90
+  E   1  2
+  G#  1  2
+
+MEASURE 85
+  LINE TLRH3
+  TIELINE RH4 92
+  G#  1  2
+  C   2  2
+
+MEASURE 85
+  LINE RH4
+  C#  2  2
+  D#  2  2
+
+MEASURE 85
+  LINE RH5
+  E   2  2
+  F#  2  2
+# kr2l titanic.mus 86 50 4
+
+MEASURE 86
+  LINE TLRH2
+  TIELINE RH4 90
+  Ab  1  4
+  C   0  4
+  F   0  4
+  Ab  0  4
+
+MEASURE 86
+  LINE TLRH3
+  TIELINE RH4 92
+  C   2  4
+  F   0  4
+  Ab  0  4
+  C   1  4
+
+MEASURE 86
+  LINE RH4
+  F   2  4
+  Ab  0  4
+  C   1  4
+  F   1  4
+
+MEASURE 86
+  LINE RH5
+  Ab  2  4
+  C   1  4
+  F   1  4
+  Ab  1  4
+
+MEASURE 87
+  LINE TLRH2
+  TIELINE RH4 90
+  Bb  0  4  3
+  Eb  0  4
+
+MEASURE 87
+  LINE TLRH3
+  TIELINE RH4 92
+  Eb  1  4  3
+  G   0  4
+
+MEASURE 87
+  LINE RH4
+  G   1  4  3
+  Bb  0  4
+
+MEASURE 87
+  LINE RH5
+  Bb  1  4  3
+  Eb  1  4

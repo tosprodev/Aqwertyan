@@ -1,0 +1,1784 @@
+NAME The Firl From Ipanema, by Antonio Carlos Jobim
+
+MEASURE 1
+  METER 4 4
+  TEMPO 4 60.000000
+  KEY 1b
+
+# kr2l ipanema.mus 1 50 4
+
+MEASURE 1
+  LINE TLRH3
+  TIELINE RH4 92
+  A  -1  4
+  REST   4  3
+
+MEASURE 1
+  LINE RH4
+  C   0  4
+  REST   8
+  A  -1  8
+  A  -1  8
+  A  -1  4
+  Bb -1  8
+
+MEASURE 1
+  LINE RH5
+  G   0  4
+  REST   8
+  E   0  8
+  E   0  8
+  E   0  4
+  F   0  8
+
+MEASURE 2
+  LINE TLRH2
+  TIELINE RH4 90
+  REST   8  5
+  Bb -1  8  3
+
+MEASURE 2
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  5
+  C#  0  8  3
+
+MEASURE 2
+  LINE RH4
+  CARRY  4
+  Bb -1  8  3
+  F   0  8  3
+
+MEASURE 2
+  LINE RH5
+  CARRY  4
+  F   0  8  3
+  Ab  0  8  3
+# kr2l ipanema.mus 3 50 4
+
+MEASURE 3
+  LINE TLRH3
+  TIELINE RH4 92
+  A  -1  4
+  REST   8  5
+  E  -1  8
+
+MEASURE 3
+  LINE RH4
+  C   0  4
+  REST   8
+  A  -1  8
+  A  -1  8
+  A  -1  4
+  Bb -1  8
+
+MEASURE 3
+  LINE RH5
+  G   0  4
+  REST   8
+  E   0  8
+  E   0  8
+  E   0  4
+  Eb  0  8
+
+MEASURE 4
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  4
+  E  -1  2
+  E  -1  4
+
+MEASURE 4
+  LINE RH4
+  CARRY  4
+  Bb -1  2
+  Bb -1  4
+
+MEASURE 4
+  LINE RH5
+  CARRY  4
+  Eb  0  2
+  C#  0  4
+# kr2l ipanema.mus 1 50 4
+
+MEASURE 1
+  LINE LH4
+  F  -2  4
+  REST   8
+  F  -2  8
+  F  -2  8
+  F  -2  4
+  F# -2  8
+
+MEASURE 1
+  LINE LH5
+  E  -1  4
+  REST   8
+  C  -1  8
+  C  -1  8
+  C  -1  4
+  C# -1  8
+
+MEASURE 2
+  LINE LH4
+  CARRY  4
+  F# -2  8  3
+  F# -2  8  3
+
+MEASURE 2
+  LINE LH5
+  CARRY  4
+  C# -1  8  3
+  C# -1  8  3
+
+MEASURE 3
+  LINE LH4
+  F  -2  4
+  REST   8
+  F  -2  8
+  F  -2  8
+  F  -2  4
+  REST   8
+
+MEASURE 3
+  LINE LH5
+  E  -1  4
+  REST   8
+  C  -1  8
+  C  -1  8
+  C  -1  4
+  C  -2  8
+
+MEASURE 4
+  LINE LH5
+  CARRY  4
+  C  -2  2
+  F# -2  4
+# kr2l ipanema.mus 5 50 4
+
+MEASURE 5
+  LINE RH5
+  G   0  8  3
+  E   0  8
+  E   0  4
+  D   0  8
+  G   0  8
+
+MEASURE 6
+  LINE RH5
+  CARRY  4
+  E   0  8
+  E   0  4
+  E   0  8
+  D   0  8
+  G   0  8
+
+MEASURE 7
+  LINE RH5
+  CARRY  4
+  E   0  4
+  E   0  4
+  D   0  8
+  G   0  8
+# kr2l ipanema.mus 8 50 4
+
+MEASURE 8
+  LINE RH5
+  CARRY  8
+  G   0  8
+  E   0  8
+  E   0  4
+  E   0  8
+  D   0  8
+  F   0  8
+# kr2l ipanema.mus 9 50 4
+
+MEASURE 9
+  LINE RH5
+  CARRY  8
+  D   0  4
+  D   0  4
+  D   0  8
+  C   0  8
+  E   0  8
+# kr2l ipanema.mus 10 50 4
+
+MEASURE 10
+  LINE RH5
+  CARRY  8
+  C   0  4
+  C   0  4
+  C   0  8
+  Bb -1  4
+# kr2l ipanema.mus 11 50 4
+
+MEASURE 11
+  LINE TLRH2
+  TIELINE RH4 90
+  REST   4
+  E  -1  4  3
+
+MEASURE 11
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   4
+  G  -1  4  3
+
+MEASURE 11
+  LINE RH4
+  REST   4
+  A  -1  4  3
+
+MEASURE 11
+  LINE RH5
+  REST   4
+  C   0  4  3
+
+MEASURE 12
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   4
+  E  -1  8
+  E  -1  4
+  E  -1  8
+  E  -1  4
+
+MEASURE 12
+  LINE RH4
+  REST   4
+  Bb -1  8
+  Bb -1  4
+  Bb -1  8
+  Bb -1  4
+
+MEASURE 12
+  LINE RH5
+  REST   4
+  C   0  8
+  C   0  4
+  C   0  8
+  C   0  4
+
+MEASURE 13
+  LINE RH5
+  G   0  8  3
+  E   0  8
+  E   0  4
+  D   0  8
+  G   0  8
+
+MEASURE 14
+  LINE RH5
+  CARRY  4
+  E   0  8
+  E   0  4
+  E   0  8
+  D   0  4
+
+MEASURE 15
+  LINE RH5
+  G   0  4
+  E   0  4
+  E   0  4
+  D   0  8
+  G   0  8
+
+MEASURE 16
+  LINE RH5
+  CARRY  4
+  E   0  8
+  E   0  4
+  E   0  8
+  D   0  8
+  F   0  8
+
+MEASURE 17
+  LINE RH5
+  CARRY  8
+  D   0  4
+  D   0  4
+  D   0  8
+  C   0  8
+  E   0  8
+
+MEASURE 18
+  LINE RH5
+  CARRY  8
+  C   0  4
+  C   0  4
+  C   0  8
+  Bb -1  4
+
+MEASURE 19
+  LINE TLRH2
+  TIELINE RH4 90
+  REST   4
+  E  -1  4  3
+
+MEASURE 19
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   4
+  G  -1  4  3
+
+MEASURE 19
+  LINE RH4
+  REST   4
+  A  -1  4  3
+
+MEASURE 19
+  LINE RH5
+  REST   4
+  C   0  4  3
+
+MEASURE 20
+  LINE TLRH2
+  TIELINE RH4 90
+  CARRY  4
+  E  -1  8
+  E  -1  4
+  E  -1  8
+  E  -1  4
+
+MEASURE 20
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  4
+  G  -1  8
+  G  -1  4
+  G  -1  8
+  G  -1  4
+
+MEASURE 20
+  LINE RH4
+  CARRY  4
+  A  -1  8
+  A  -1  4
+  A  -1  8
+  A  -1  4
+
+MEASURE 20
+  LINE RH5
+  CARRY  4
+  C   0  8
+  C   0  4
+  C   0  8
+  C   0  4
+# kr2l ipanema.mus 6 50 4
+
+MEASURE 6
+  LINE TLRH1
+  TIELINE RH5 87
+  REST   8  7
+  E   0  8
+
+MEASURE 7
+  LINE TLRH1
+  TIELINE RH5 87
+  CARRY  4
+  REST   8  5
+  E   0  8
+
+MEASURE 8
+  LINE TLRH1
+  TIELINE RH5 87
+  CARRY  8
+  REST   8  7
+# kr2l ipanema.mus 15 50 4
+
+MEASURE 15
+  LINE TLRH1
+  TIELINE RH5 87
+  E   0  4
+  REST   8  5
+  E   0  8
+
+MEASURE 16
+  LINE TLRH1
+  TIELINE RH5 87
+  CARRY  4
+  REST   4  3
+# kr2l ipanema.mus 5 50 4
+
+MEASURE 5
+  LINE TLLH2
+  TIELINE LH4 90
+  F  -2  2
+  REST   8  3
+  F  -2  8
+
+MEASURE 5
+  LINE TLLH3
+  TIELINE LH4 92
+  E  -1  2
+  F  -2  8  3
+  E  -1  8
+
+MEASURE 5
+  LINE LH4
+  A  -1  2
+  C  -1  8  3
+  A  -1  8
+
+MEASURE 5
+  LINE LH5
+  C   0  2
+  A  -1  8  3
+  C   0  8
+
+MEASURE 6
+  LINE TLLH2
+  TIELINE LH4 90
+  CARRY  8  3
+  REST   8  5
+
+MEASURE 6
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  8  3
+  F  -2  2
+  G  -2  8
+
+MEASURE 6
+  LINE LH4
+  CARRY  8  3
+  C  -1  2
+  F  -1  8
+
+MEASURE 6
+  LINE LH5
+  CARRY  8  3
+  A  -1  2
+  B  -1  8
+
+MEASURE 7
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  2
+  G  -2  8  3
+  G  -2  8
+
+MEASURE 7
+  LINE LH4
+  CARRY  2
+  F  -1  8  3
+  F  -1  8
+
+MEASURE 7
+  LINE LH5
+  CARRY  2
+  B  -1  8  3
+  B  -1  8
+
+MEASURE 8
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  8  3
+  G  -2  2
+  G  -2  8
+
+MEASURE 8
+  LINE LH4
+  CARRY  8  3
+  F  -1  2
+  D  -1  8
+
+MEASURE 8
+  LINE LH5
+  CARRY  8  3
+  B  -1  2
+  Bb -1  8
+
+MEASURE 9
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  8  3
+  G  -2  2
+  F# -2  8
+
+MEASURE 9
+  LINE LH4
+  CARRY  8  3
+  F  -1  2
+  C# -1  8
+
+MEASURE 9
+  LINE LH5
+  CARRY  8  3
+  Bb -1  2
+  Bb -1  8
+
+MEASURE 10
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  8  3
+  REST   8  5
+
+MEASURE 10
+  LINE LH4
+  CARRY  8  3
+  F# -2  8  5
+
+MEASURE 10
+  LINE LH5
+  CARRY  8  3
+  E -1  8  5
+# kr2l ipanema.mus 11 50 4
+
+MEASURE 11
+  LINE LH4
+  F  -2  1
+
+MEASURE 12
+  LINE LH4
+  F# -2  8  3
+  F# -2  8  5
+# kr2l ipanema.mus 11 50 4
+
+MEASURE 11
+  LINE LH5
+  REST   4
+  C  -1  8  3
+  C  -1  4
+  C  -1  8
+
+MEASURE 12
+  LINE LH5
+  REST   4
+  C# -1  8
+  C# -1  4
+  C# -1  8
+  C# -1  4
+# kr2l ipanema.mus 13 50 4
+
+MEASURE 13
+  LINE TLLH2
+  TIELINE LH4 90
+  F  -2  2
+  REST   8  3
+  F  -2  8
+
+MEASURE 13
+  LINE TLLH3
+  TIELINE LH4 92
+  E  -1  2
+  F  -2  8  3
+  E  -1  8
+
+MEASURE 13
+  LINE LH4
+  A  -1  2
+  C  -1  8  3
+  A  -1  8
+
+MEASURE 13
+  LINE LH5
+  C   0  2
+  A  -1  8  3
+  C   0  8
+
+MEASURE 14
+  LINE TLLH2
+  TIELINE LH4 90
+  CARRY  8  3
+  REST   8  5
+
+MEASURE 14
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  8  3
+  F  -2  8  3
+  F  -2  4
+
+MEASURE 14
+  LINE LH4
+  CARRY  8  3
+  C  -1  8  3
+  C  -1  4
+
+MEASURE 14
+  LINE LH5
+  CARRY  8  3
+  A  -1  8  3
+  A  -1  4
+
+MEASURE 15
+  LINE TLLH3
+  TIELINE LH4 92
+  G  -2  2
+  G  -2  8  3
+  G  -2  8
+
+MEASURE 15
+  LINE LH4
+  F  -1  2
+  F  -1  8  3
+  F  -1  8
+
+MEASURE 15
+  LINE LH5
+  B  -1  2
+  B  -1  8  3
+  B  -1  8
+
+MEASURE 16
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  8  3
+  G  -2  2
+  G  -2  8
+
+MEASURE 16
+  LINE LH4
+  CARRY  8  3
+  F  -1  2
+  D  -1  8
+
+MEASURE 16
+  LINE LH5
+  CARRY  8  3
+  B  -1  2
+  Bb -1  8
+
+MEASURE 17
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  8  3
+  G  -2  2
+  F# -2  8
+
+MEASURE 17
+  LINE LH4
+  CARRY  8  3
+  F  -1  2
+  C# -1  8
+
+MEASURE 17
+  LINE LH5
+  CARRY  8  3
+  Bb -1  2
+  Bb -1  8
+
+MEASURE 18
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  8  3
+  F# -2  8  5
+
+MEASURE 18
+  LINE LH4
+  CARRY  8  3
+  E  -1  8  5
+
+MEASURE 18
+  LINE LH5
+  CARRY  8  3
+  Bb -1  8  5
+# kr2l ipanema.mus 19 50 4
+
+MEASURE 19
+  LINE LH4
+  F  -2  1
+
+MEASURE 20
+  LINE LH4
+  F  -2  1
+
+
+MEASURE 24
+  LINE LH4.5
+  Ab -1  8
+  G  -1  4
+  F# -1  4
+  F  -1  4
+  REST   8
+# kr2l ipanema.mus 28 50 4
+
+MEASURE 28
+  LINE LH4.5
+  B  -1  8
+  Bb -1  4
+  A  -1  4
+  Ab -1  4
+  REST   8
+# kr2l ipanema.mus 21 50 4
+
+MEASURE 21
+  LINE TLLH3
+  TIELINE LH4 92
+  F# -2  1
+
+MEASURE 21
+  LINE LH4
+  Bb -1  1
+
+MEASURE 21
+  LINE LH5
+  C#  0  1
+
+MEASURE 22
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   2
+  F# -2  2
+
+MEASURE 22
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  2
+  C# -1  2
+
+MEASURE 22
+  LINE LH4
+  CARRY  2
+  F# -1  2
+
+MEASURE 22
+  LINE LH5
+  CARRY  2
+  Bb -1  2
+# kr2l ipanema.mus 23 50 4
+
+MEASURE 23
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   8  3
+  B  -2  8  5
+
+MEASURE 23
+  LINE TLLH3
+  TIELINE LH4 92
+  B  -2  8  3
+  Eb -1  8  5
+
+MEASURE 23
+  LINE LH4
+  Eb -1  8  3
+  A  -1  8  5
+
+MEASURE 23
+  LINE LH5
+  A  -1  8  3
+  C#  0  8  5
+
+MEASURE 24
+  LINE TLLH2
+  TIELINE LH4 90
+  CARRY  8  7
+  F# -2  8
+
+MEASURE 24
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  8  7
+  E  -1  8
+
+MEASURE 24
+  LINE LH4
+  CARRY  8  7
+  A  -1  8
+
+MEASURE 24
+  LINE LH5
+  CARRY  8  7
+  C#  0  8
+
+MEASURE 25
+  LINE TLLH2
+  TIELINE LH4 90
+  CARRY  2
+  F# -2  8
+  F# -2  4
+  F# -2  8
+
+MEASURE 25
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  2
+  E  -1  8
+  E  -1  4
+  E  -1  8
+
+MEASURE 25
+  LINE LH4
+  CARRY  2
+  A  -1  8
+  A  -1  4
+  A  -1  8
+
+MEASURE 25
+  LINE LH5
+  CARRY  2
+  C#  0  8
+  C#  0  4
+  C#  0  8
+
+MEASURE 26
+  LINE TLLH2
+  TIELINE LH4 90
+  CARRY  2
+  F# -2  2
+
+MEASURE 26
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  2
+  E  -1  2
+
+MEASURE 26
+  LINE LH4
+  CARRY  2
+  A  -1  2
+
+MEASURE 26
+  LINE LH5
+  CARRY  2
+  C#  0  2
+# kr2l ipanema.mus 27 50 4
+
+MEASURE 27
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   8  3
+  D  -1  8  5
+
+MEASURE 27
+  LINE TLLH3
+  TIELINE LH4 92
+  D  -1  8  3
+  F# -1  8  5
+
+MEASURE 27
+  LINE LH4
+  F# -1  8  3
+  C   0  8  5
+
+MEASURE 27
+  LINE LH5
+  C   0  8  3
+  E   0  8  5
+
+MEASURE 28
+  LINE TLLH2
+  TIELINE LH4 90
+  CARRY  8  7
+  G  -2  8
+
+MEASURE 28
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  8  7
+  F  -1  8
+
+MEASURE 28
+  LINE LH4
+  CARRY  8  7
+  Bb -1  8
+
+MEASURE 28
+  LINE LH5
+  CARRY  8  7
+  D   0  8
+
+MEASURE 29
+  LINE TLLH2
+  TIELINE LH4 90
+  CARRY  8  3
+  G  -2  8
+  G  -2  8
+  G  -2  4
+  G  -2  8
+
+MEASURE 29
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  8  3
+  F  -1  8
+  F  -1  8
+  F  -1  4
+  F  -1  8
+
+MEASURE 29
+  LINE LH4
+  CARRY  8  3
+  Bb -1  8
+  Bb -1  8
+  Bb -1  4
+  Bb -1  8
+
+MEASURE 29
+  LINE LH5
+  CARRY  8  3
+  D   0  8
+  D   0  8
+  D   0  4
+  D   0  8
+
+MEASURE 30
+  LINE TLLH2
+  TIELINE LH4 90
+  CARRY  2
+  G  -2  2
+
+MEASURE 30
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  2
+  F  -1  2
+
+MEASURE 30
+  LINE LH4
+  CARRY  2
+  Bb -1  2
+
+MEASURE 30
+  LINE LH5
+  CARRY  2
+  D   0  2
+
+MEASURE 31
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   8  3
+  Eb -1  8  5
+
+MEASURE 31
+  LINE TLLH3
+  TIELINE LH4 92
+  Eb -1  8  3
+  G  -1  8  5
+
+MEASURE 31
+  LINE LH4
+  G  -1  8  3
+  C#  0  8  5
+
+MEASURE 31
+  LINE LH5
+  C#  0  8  3
+  F   0  8  5
+# kr2l ipanema.mus 21 50 4
+
+MEASURE 21
+  LINE LH4.5
+  REST   4
+  C# -1  4
+  Ab -1  4
+  F# -1  4
+
+MEASURE 22
+  LINE LH4.5
+  C# -1  2
+  REST   2
+# kr2l ipanema.mus 21 200 24
+
+MEASURE 21
+  LINE RH5
+  F   0  1
+
+MEASURE 22
+  LINE RH5
+  CARRY  6
+  F#  0  6
+  F   0  6
+  Eb  0  6
+  F   0  6
+  Eb  0  6
+
+MEASURE 23
+  LINE RH5
+  C#  0  8  3
+  Eb  0  8  5
+
+MEASURE 24
+  LINE RH5
+  CARRY  8  7
+  G#  0  8
+# kr2l ipanema.mus 25 200 24
+
+MEASURE 25
+  LINE RH5
+  CARRY  1
+
+MEASURE 26
+  LINE RH5
+  CARRY  6
+  A   0  6
+  Ab  0  6
+  F#  0  6
+  Ab  0  6
+  F#  0  6
+
+MEASURE 27
+  LINE RH5
+  E   0  8  3
+  F#  0  8  5
+
+MEASURE 28
+  LINE RH5
+  CARRY  8  7
+  A   0  8
+
+MEASURE 29
+  LINE RH5
+  CARRY  1
+
+MEASURE 30
+  LINE RH5
+  CARRY  6
+  Bb  0  6
+  A   0  6
+  G   0  6
+  A   0  6
+  G   0  6
+# kr2l ipanema.mus 31 200 24
+
+MEASURE 31
+  LINE RH5
+  F   0  8  3
+  G   0  8  5
+
+MEASURE 32
+  LINE RH5
+  CARRY  3  2
+  A   0  6
+  Bb  0  6
+
+MEASURE 33
+  LINE TLRH2
+  TIELINE RH4 90
+  C   0  6
+  REST   6  5
+
+MEASURE 33
+  LINE TLRH3
+  TIELINE RH4 92
+  E   0  6
+  REST   6  5
+
+MEASURE 33
+  LINE RH4
+  A   0  6
+  REST   6  5
+
+MEASURE 33
+  LINE RH5
+  C   1  6
+  C   0  6
+  D   0  6
+  E   0  6
+  F   0  6
+  G   0  6
+# kr2l ipanema.mus 32 200 24
+
+MEASURE 32
+  LINE LH4
+  Eb -2  4
+  Bb -2  4
+  G  -1  6
+  A  -1  6
+  Bb -1  6
+
+MEASURE 33
+  LINE LH4
+  A  -2  6
+  C  -1  6
+  D  -1  6
+  E  -1  6
+  F  -1  6
+  G  -1  6
+
+MEASURE 33
+  LINE LH5
+  G  -1  6
+  REST   6  5
+MEASURE 1
+  MARK Introduction
+
+MEASURE 5
+  MARK Main-Theme
+
+MEASURE 21
+  MARK Second-Theme
+
+# kr2l ipanema.mus 19 100 8
+
+MEASURE 19
+  LINE LH5
+  REST   4
+  C  -1  8  3
+  C  -1  4
+  C  -1  8
+
+MEASURE 20
+  LINE LH5
+  REST   4
+  C  -1  8
+  C  -1  4
+  C  -1  8
+  C  -1  4
+
+MEASURE 31
+  LINE TLLH5 
+  TIELINE LH5 100
+  REST 8 3
+  F  0  8  5
+  TIENOTE LH5 RH5
+
+MEASURE 32
+  LINE TLLH5
+  TIELINE RH5 100
+  CARRY 6 4
+  REST  6 2
+
+MEASURE 31
+  LINE TLLH4 
+  TIELINE LH4 100
+  REST 8 3
+  Db  0  8  5
+  TIENOTE LH4 RH5
+
+MEASURE 32
+  LINE TLLH4
+  TIELINE RH5 100
+  CARRY 6 4
+  REST  6 2
+
+
+# kr2l ipanema.mus 34 200 24
+
+MEASURE 34
+  LINE RH5
+  Ab  0  4  3
+  A   0  4
+# kr2l ipanema.mus 35 200 24
+
+MEASURE 35
+  LINE TLRH2
+  TIELINE RH4 90
+  Bb -1  6
+  REST   6  5
+
+MEASURE 35
+  LINE TLRH3
+  TIELINE RH4 92
+  D   0  6
+  REST   6  5
+
+MEASURE 35
+  LINE RH4
+  G   0  6
+  REST   6  5
+
+MEASURE 35
+  LINE RH5
+  Bb  0  6
+  Bb -1  6
+  C   0  6
+  D   0  6
+  E   0  6
+  F   0  6
+# kr2l ipanema.mus 34 200 24
+
+MEASURE 34
+  LINE TLLH2
+  TIELINE LH4 90
+  D  -1  8  3
+  D  -1  8  5
+
+MEASURE 34
+  LINE TLLH3
+  TIELINE LH4 92
+  F# -1  8  3
+  F# -1  8  5
+
+MEASURE 34
+  LINE LH4
+  C   0  8  3
+  C   0  8  5
+
+MEASURE 34
+  LINE LH5
+  Eb  0  8  3
+  Eb  0  8  5
+# kr2l ipanema.mus 35 200 24
+
+MEASURE 35
+  LINE LH4
+  G  -2  6
+  Bb -2  6
+  C  -1  6
+  D  -1  6
+  E  -1  6
+  F  -1  6
+
+MEASURE 35
+  LINE LH5
+  F  -1  6
+  REST   6  5
+# kr2l ipanema.mus 36 100 8
+
+MEASURE 36
+  LINE TLLH2
+  TIELINE LH4 90
+  C  -1  8  3
+  C  -1  8  3
+  C  -1  4
+
+MEASURE 36
+  LINE TLLH3
+  TIELINE LH4 92
+  E  -1  8  3
+  E  -1  8  3
+  E  -1  4
+
+MEASURE 36
+  LINE LH4
+  Bb -1  8  3
+  Bb -1  8  3
+  Bb -1  4
+
+MEASURE 36
+  LINE LH5
+  C#  0  8  3
+  C#  0  8  3
+  C#  0  4
+
+MEASURE 37
+  LINE TLLH2
+  TIELINE LH4 90
+  F  -2  2
+  REST   8  3
+  F  -2  8
+
+MEASURE 37
+  LINE TLLH3
+  TIELINE LH4 92
+  E  -1  2
+  F  -2  8  3
+  E  -1  8
+
+MEASURE 37
+  LINE LH4
+  A  -1  2
+  C  -1  8  3
+  A  -1  8
+
+MEASURE 37
+  LINE LH5
+  C   0  2
+  A  -1  8  3
+  C   0  8
+
+MEASURE 38
+  LINE TLLH2
+  TIELINE LH4 90
+  CARRY  8  3
+  REST   8  5
+
+MEASURE 38
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  8  3
+  F  -2  2
+  G  -2  8
+
+MEASURE 38
+  LINE LH4
+  CARRY  8  3
+  C  -1  2
+  F  -1  8
+
+MEASURE 38
+  LINE LH5
+  CARRY  8  3
+  A  -1  2
+  B  -1  8
+
+MEASURE 39
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  2
+  G  -2  8  3
+  G  -2  8
+
+MEASURE 39
+  LINE LH4
+  CARRY  2
+  F  -1  8  3
+  F  -1  8
+
+MEASURE 39
+  LINE LH5
+  CARRY  2
+  B  -1  8  3
+  B  -1  8
+
+MEASURE 40
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   8  7
+  G  -2  8
+
+MEASURE 40
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  8  3
+  G  -2  2
+  F  -1  8
+
+MEASURE 40
+  LINE LH4
+  CARRY  8  3
+  F  -1  2
+  Bb -1  8
+
+MEASURE 40
+  LINE LH5
+  CARRY  8  3
+  B  -1  2
+  C#  0  8
+
+MEASURE 41
+  LINE TLLH2
+  TIELINE LH4 90
+  CARRY  2
+  G  -2  8  3
+  REST   8
+
+MEASURE 41
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  2
+  D  -1  8  3
+  REST   8
+
+MEASURE 41
+  LINE LH4
+  CARRY  2
+  G  -1  8  3
+  REST   8
+
+MEASURE 41
+  LINE LH5
+  CARRY  2
+  Bb -1  8  3
+  REST   8
+
+# kr2l ipanema.mus 42 100 8
+
+MEASURE 42
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   2
+  F# -2  2
+
+MEASURE 42
+  LINE LH4
+  REST   2
+  C# -1  2
+
+MEASURE 42
+  LINE LH5
+  REST   2
+  Bb -1  2
+
+MEASURE 43
+  LINE LH4
+  F  -2  1
+
+MEASURE 44
+  LINE LH4
+  F# -2  1
+# kr2l ipanema.mus 41 100 8
+
+MEASURE 41
+  LINE LH4a
+  REST   8  7
+  F# -2  8
+
+MEASURE 41
+  LINE LH5a
+  REST   8  7
+  C# -1  8
+
+MEASURE 41
+  LINE LH6
+  REST   8  7
+  Bb -1  8
+  RIPPLE
+
+MEASURE 42
+  LINE LH4a
+  CARRY  2
+  REST   2
+
+MEASURE 42
+  LINE LH5a
+  CARRY  2
+  REST   2
+
+MEASURE 42
+  LINE LH6
+  CARRY  2
+  REST   2
+# kr2l ipanema.mus 43 100 8
+
+MEASURE 43
+  LINE LH5
+  REST   4
+  E  -1  8
+  E  -1  4
+  E  -1  8
+  E  -1  4
+# kr2l ipanema.mus 44 100 8
+
+MEASURE 44
+  LINE LH5
+  REST   4
+  C# -1  8
+  C# -1  4
+  C# -1  8
+  C# -1  4
+# kr2l ipanema.mus 36 50 4
+
+MEASURE 36
+  LINE RH5
+  F#  0  4  3
+  REST   4
+
+MEASURE 37
+  LINE RH5
+  G   0  8  3
+  E   0  8
+  E   0  4
+  D   0  8
+  G   0  8
+
+MEASURE 38
+  LINE TLRH2
+  TIELINE RH5 88
+  REST   8  7
+  E   0  8
+
+MEASURE 38
+  LINE RH5
+  CARRY  4
+  E   0  8
+  E   0  4
+  E   0  8
+  D   0  8
+  G   0  8
+
+MEASURE 39
+  LINE TLRH2
+  TIELINE RH5 88
+  CARRY  4
+  REST   8  5
+  E   0  8
+
+MEASURE 39
+  LINE RH5
+  CARRY  4
+  E   0  4
+  E   0  4
+  D   0  8
+  G   0  8
+
+MEASURE 40
+  LINE TLRH2
+  TIELINE RH5 88
+  CARRY  8
+  REST   8  7
+
+MEASURE 40
+  LINE RH5
+  CARRY  8
+  G   0  8
+  E   0  8
+  E   0  4
+  E   0  8
+  D   0  8
+  A   0  8
+# kr2l ipanema.mus 41 50 4
+
+MEASURE 41
+  LINE TLRH1
+  TIELINE RH5 85
+  REST   8  7
+  E   0  8
+
+MEASURE 41
+  LINE TLRH2
+  TIELINE RH5 88
+  REST   8  7
+  Ab  0  8
+
+MEASURE 41
+  LINE RH5
+  CARRY  8  3
+  F   0  8
+  F   0  8
+  F   0  8
+  D   0  8
+  C   1  8
+
+MEASURE 42
+  LINE TLRH1
+  TIELINE RH5 85
+  CARRY  8  3
+  REST   8  5
+
+MEASURE 42
+  LINE TLRH2
+  TIELINE RH5 88
+  CARRY  8  3
+  REST   8  5
+
+MEASURE 42
+  LINE RH5
+  CARRY  8  3
+  E   0  8
+  E   0  6
+  E   0  6
+  D   0  6
+
+MEASURE 43
+  LINE RH5
+  E   0  1
+# kr2l ipanema.mus 43 50 4
+
+MEASURE 43
+  LINE RH3
+  REST   4
+  A  -1  8
+  A  -1  4
+  A  -1  8
+  A  -1  4
+
+MEASURE 43
+  LINE RH4
+  REST   4
+  C   0  8
+  C   0  4
+  C   0  8
+  C   0  4
+
+MEASURE 44
+  LINE TLRH3
+  TIELINE RH3 92
+  REST   4
+  E  -1  8
+  E  -1  4
+  E  -1  8
+  E  -1  4
+
+MEASURE 44
+  LINE RH3
+  REST   4
+  Bb -1  8
+  Bb -1  4
+  Bb -1  8
+  Bb -1  4
+
+MEASURE 44
+  LINE RH4
+  REST   4
+  C   0  8
+  C   0  4
+  C   0  8
+  C   0  4
+
+REPEAT 5 43 45
+# kr2l ipanema.mus 84 50 4
+
+MEASURE 84
+  LINE TLLH3
+  TIELINE LH4 92
+  F# -2  2
+  F# -2  2
+
+MEASURE 84
+  LINE LH4
+  E  -1  2
+  C# -1  2
+
+MEASURE 84
+  LINE LH5
+  Bb -1  2
+  Bb -1  2
+
+MEASURE 85
+  LINE LH4
+  F  -2  1
+
+MEASURE 86
+  LINE TLLH3
+  TIELINE LH4 92
+  F# -2  2
+  F# -2  2
+
+MEASURE 86
+  LINE LH4
+  E  -1  2
+  C# -1  2
+
+MEASURE 86
+  LINE LH5
+  Bb -1  2
+  Bb -1  2
+
+MEASURE 87
+  LINE LH4
+  F  -2  2
+  F# -2  8
+  F# -2  4
+  F# -2  8
+
+MEASURE 87
+  LINE LH5
+  C  -1  2
+  C# -1  8
+  C# -1  4
+  E  -1  8
+# kr2l ipanema.mus 85 50 4
+
+MEASURE 85
+  LINE LH5
+  REST   4
+  E  -1  8
+  E  -1  4
+  E  -1  8
+  E  -1  4
+# kr2l ipanema.mus 88 50 4
+
+MEASURE 88
+  LINE LH2
+  REST   2
+  F  -1  4
+  RIPPLE
+  REST   4
+
+MEASURE 88
+  LINE LH3
+  REST   2
+  A  -1  4
+  REST   4
+
+MEASURE 88
+  LINE LH4
+  F  -2  2
+  C   0  4
+  REST   4
+
+MEASURE 88
+  LINE LH5
+  C  -1  2
+  D   0  4
+  REST   4
+# kr2l ipanema.mus 84 200 24
+
+MEASURE 84
+  LINE RH5
+  REST   8  3
+  E   0  8
+  E   0  6
+  E   0  6
+  D   0  6
+
+MEASURE 85
+  LINE RH5
+  E   0  1
+
+MEASURE 86
+  LINE RH5
+  REST   8  3
+  E   0  8
+  E   0  6
+  E   0  6
+  D   0  6
+# kr2l ipanema.mus 85 50 5
+
+MEASURE 85
+  LINE RH3
+  REST   4
+  A  -1  8
+  A  -1  4
+  A  -1  8
+  A  -1  4
+
+MEASURE 85
+  LINE RH4
+  REST   4
+  C   0  8
+  C   0  4
+  C   0  8
+  C   0  4
+# kr2l ipanema.mus 87 50 4
+
+MEASURE 87
+  LINE TLRH2
+  TIELINE RH4 90
+  G  -1  2
+  REST   2
+
+MEASURE 87
+  LINE TLRH3
+  TIELINE RH4 92
+  A  -1  2
+  REST   2
+
+MEASURE 87
+  LINE RH4
+  C   0  2
+  Bb -1  8
+  Bb -1  4
+  Bb -1  8
+
+MEASURE 87
+  LINE RH5
+  E   0  2
+  E   0  8
+  E   0  4
+  C   0  8
+# kr2l ipanema.mus 88 50 4
+
+MEASURE 88
+  LINE RH2
+  REST   2
+  C   1  4
+  REST   4
+
+MEASURE 88
+  LINE RH3
+  REST   2
+  E   1  4
+  REST   4
+
+MEASURE 88
+  LINE RH4
+  A  -1  2
+  G   1  4
+  REST   4
+
+MEASURE 88
+  LINE RH5
+  E   0  2
+  C   2  4
+  RIPPLE
+  REST   4
+MEASURE 45
+  MARK Main-Theme-Repeat
+
+MEASURE 61
+  MARK Second-Theme-Repeat
+
+MEASURE 37
+  MARK Main-Theme-Restate
+
+MEASURE 77
+  MARK Main-Theme-Restate-Repeat
+
+MEASURE 84
+  MARK Coda
+

@@ -1,0 +1,1249 @@
+NAME Prokofiev -- Vision Fugitive #7
+
+MEASURE 1
+  MARK Introduction
+  METER  6 4
+  KEY 2#
+  TEMPO 4 80
+
+# kr2l tmp grieg-vs3.2.mus 1 66 4 0 88 /tmp/kr2l
+
+# kr2l tmp prok-vf7.mus 1 60 4 0 88 /tmp/kr2l
+
+MEASURE 1
+  LINE LH5
+  A  -2  4
+  E  -1  4
+  A  -1  4
+  E   0  4
+  A  -1  4
+  E  -1  4
+
+MEASURE 2
+  LINE LH5
+  A  -2  4
+  E  -1  4
+  A  -1  4
+  E   0  4
+  A  -1  4
+  E  -1  4
+
+MEASURE 3
+  LINE LH5
+  A  -2  4
+  E  -1  4
+  A  -1  4
+  E   0  4
+  A  -1  4
+  E  -1  4
+# kr2l tmp prok-vf7.mus 4 60 4 0 88 /tmp/kr2l
+
+MEASURE 4
+  LINE LH5
+  A  -2  4
+  E  -1  4
+  A  -1  4
+  E   0  4
+  A  -1  4
+  E  -1  4
+
+MEASURE 5
+  LINE LH5
+  A  -2  4
+  E  -1  4
+  A  -1  4
+  E   0  4
+  A  -1  4
+  E  -1  4
+
+MEASURE 6
+  LINE LH5
+  A  -2  4
+  E  -1  4
+  A  -1  4
+  E   0  4
+  A  -1  4
+  E  -1  4
+
+# kr2l tmp prok-vf7.mus 7 60 4 0 88 /tmp/kr2l
+
+MEASURE 7
+  LINE LH5
+  G  -2  4
+  D  -1  4
+  G  -1  4
+  D   0  4
+  G  -1  4
+  D  -1  4
+
+MEASURE 8
+  LINE LH5
+  G  -2  4
+  D  -1  4
+  G  -1  4
+  D   0  4
+  G  -1  4
+  D  -1  4
+
+MEASURE 9
+  LINE LH5
+  A  -2  4
+  E  -1  4
+  A  -1  4
+  E   0  4
+  A  -1  4
+  E  -1  4
+
+MEASURE 10
+  METER 3 4
+MEASURE 11
+  METER 6 4
+  KEY 1b
+
+MEASURE 20
+  METER 3 4
+MEASURE 21
+  METER 6 4
+
+# kr2l tmp prok-vf7.mus 10 60 4 0 88 /tmp/kr2l
+
+MEASURE 10
+  LINE LH5
+  A  -2  4
+  E  -1  4
+  A  -1  4
+
+MEASURE 11
+  LINE LH5
+  Bb -2  4
+  F  -1  4
+  Bb -1  4
+  F   0  4
+  Bb -1  4
+  F  -1  4
+
+MEASURE 12
+  LINE LH4
+  C  -2  4
+  REST   4  5
+
+MEASURE 12
+  LINE LH5
+  Bb -2  4
+  F  -1  4
+  Bb -1  4
+  F   0  4
+  Bb -1  4
+  F  -1  4
+
+MEASURE 13
+  LINE LH4
+  C  -2  4
+  REST   4  5
+
+MEASURE 13
+  LINE LH5
+  Bb -2  4
+  F  -1  4
+  Bb -1  4
+  F   0  4
+  Bb -1  4
+  F  -1  4
+# kr2l tmp prok-vf7.mus 14 60 4 0 88 /tmp/kr2l
+
+MEASURE 14
+  LINE LH4
+  C  -2  4
+  RIPPLE
+  REST   4  5
+
+MEASURE 14
+  LINE LH5
+  Eb -1  4
+  Bb -1  4
+  Eb  0  4
+  Bb  0  4
+  Eb  0  4
+  Bb -1  4
+
+MEASURE 15
+  LINE LH4
+  C  -2  4
+  RIPPLE
+  REST   4  5
+
+MEASURE 15
+  LINE LH5
+  Eb -1  4
+  Bb -1  4
+  Eb  0  4
+  Bb  0  4
+  Eb  0  4
+  Bb -1  4
+
+MEASURE 16
+  LINE LH4
+  C  -2  4
+  RIPPLE
+  REST   4  5
+
+MEASURE 16
+  LINE LH5
+  Eb -1  4
+  Bb -1  4
+  Eb  0  4
+  Bb  0  4
+  Eb  0  4
+  Bb -1  4
+
+MEASURE 17
+  LINE LH4
+  C  -2  4
+  REST   4  5
+
+MEASURE 17
+  LINE LH5
+  G  -2  4
+  D  -1  4
+  G  -1  4
+  D   0  4
+  G  -1  4
+  D  -1  4
+
+MEASURE 18
+  LINE LH5
+  G  -2  4
+  D  -1  4
+  G  -1  4
+  D   0  4
+  G  -1  4
+  D  -1  4
+
+MEASURE 19
+  KEY  2#
+  LINE LH5
+  A  -2  4
+  E  -1  4
+  A  -1  4
+  E   0  4
+  A  -1  4
+  E  -1  4
+
+MEASURE 20
+  LINE LH5
+  A  -2  4
+  E  -1  4
+  A  -1  4
+
+MEASURE 21
+  LINE LH5
+  A  -2  4
+  E  -1  4
+  A  -1  4
+  E   0  4
+  A  -1  4
+  E  -1  4
+
+MEASURE 22
+  LINE LH5
+  A  -2  4
+  E  -1  4
+  A  -1  4
+  E   0  4
+  A  -1  4
+  E  -1  4
+
+MEASURE 23
+  MARK Big-Run
+  LINE LH5
+  A  -2  4
+  E  -1  4
+  A  -1  4
+  E   0  4
+  A  -1  4
+  E  -1  4
+
+MEASURE 24
+  LINE LH5
+  A  -2  4
+  E  -1  4
+  A  -1  4
+  E   0  4
+  A  -1  4
+  E  -1  4
+
+MEASURE 25
+  LINE LH5
+  G  -2  4
+  D  -1  4
+  G  -1  4
+  D   0  4
+  G  -1  4
+  D  -1  4
+
+MEASURE 26
+  LINE LH5
+  G  -2  4
+  D  -1  4
+  G  -1  4
+  D   0  4
+  G  -1  4
+  D  -1  4
+
+MEASURE 27
+  LINE LH5
+  G# -2  4
+  Eb -1  4
+  G# -1  4
+  Eb  0  4
+  G# -1  4
+  Eb -1  4
+
+MEASURE 28
+  LINE LH5
+  A  -2  4
+  E  -1  4
+  A  -1  4
+  E   0  4
+  A  -1  4
+  A  -2  4
+
+# kr2l tmp prok-vf7.mus 3 60 4 0 88 /tmp/kr2l
+
+MEASURE 3
+  LINE LH2
+  D  -2  2
+  REST   1
+
+MEASURE 4
+  LINE LH2
+  D  -2  2
+  REST   1
+
+MEASURE 5
+  LINE LH2
+  REST   4  3
+  D  -2  2
+  REST   4
+
+MEASURE 6
+  LINE LH2
+  REST   2  3
+
+MEASURE 7
+  LINE LH2
+  C  -2  2
+  REST   1
+
+MEASURE 8
+  LINE LH2
+  REST   2  3
+
+MEASURE 9
+  LINE LH2
+  D  -2  2
+  REST   1
+
+MEASURE 10
+  LINE LH2
+  D  -2  2
+  D  -2  4
+
+MEASURE 11
+  LINE LH2
+  C  -2  2
+  REST   1
+# kr2l tmp prok-vf7.mus 19 60 4 0 88 /tmp/kr2l
+
+MEASURE 19
+  LINE LH2
+  D  -2  2
+  REST   1
+
+MEASURE 20
+  LINE LH2
+  D  -2  2
+  D  -2  4
+
+MEASURE 21
+  LINE LH1
+  G  -3  2
+  REST   1
+
+MEASURE 21
+  LINE LH2
+  D  -2  2
+  REST   1
+
+MEASURE 22
+  LINE LH1
+  REST   4  5
+  D  -2  4
+
+MEASURE 23
+  LINE LH1
+  G  -3  4
+  REST   4  5
+
+MEASURE 23
+  LINE LH2
+  D  -2  4
+  REST   4  5
+
+MEASURE 24
+  LINE LH1
+  REST   4  5
+  D  -2  4
+
+MEASURE 25
+  LINE LH1
+  F  -3  2
+  REST   1
+
+MEASURE 25
+  LINE LH2
+  C  -2  2
+  REST   1
+
+MEASURE 26
+  LINE LH1
+  REST   2  3
+
+MEASURE 27
+  APART
+  LINE LH1
+  D  -3  2
+  REST   1
+
+MEASURE 28
+  LINE LH1
+  D  -3  2
+  REST   1
+# kr2l tmp prok-vf7.mus 3 60 8 0 88 /tmp/kr2l
+
+MEASURE 3
+  LINE RH6
+  REST   4  3
+  B   0  2
+  RIPPLE
+  REST   4
+
+MEASURE 3
+  LINE RH7
+  REST   4  3
+  D   1  2
+  REST   4
+
+MEASURE 3
+  LINE RH8
+  REST   4  3
+  F#  1  2
+  REST   4
+
+MEASURE 3
+  LINE RH9
+  REST   4  3
+  A   1  2
+  REST   4
+
+# kr2l tmp prok-vf7.mus 4 60 8 0 88 /tmp/kr2l
+
+MEASURE 4
+  LINE RH6
+  REST   4  3
+  G   0  2
+  RIPPLE
+  REST   4
+
+MEASURE 4
+  LINE RH7
+  REST   4  3
+  B   0  2
+  REST   4
+
+MEASURE 4
+  LINE RH8
+  REST   4  3
+  D   1  2
+  REST   4
+
+MEASURE 4
+  LINE RH9
+  REST   4  3
+  F#  1  2
+  B   1 24
+  E   2 24
+  G   1 24
+  E   1 24
+  D   1 24
+  B   0 24
+# kr2l tmp prok-vf7.mus 5 60 4 0 88 /tmp/kr2l
+
+MEASURE 5
+  LINE RH9
+  E   0  4  3
+  REST   4  3
+# kr2l tmp prok-vf7.mus 6 60 4 0 88 /tmp/kr2l
+
+MEASURE 6
+  LINE RH6
+  E   0  2
+  RIPPLE
+  REST   4
+  C#  0  2
+  RIPPLE
+  REST   4
+
+MEASURE 6
+  LINE RH7
+  B   0  2
+  REST   4
+  G   0  2
+  REST   4
+
+MEASURE 6
+  LINE RH8
+  D   1  2
+  REST   4
+  B   0  2
+  REST   4
+
+MEASURE 6
+  LINE RH9
+  F#  1  2
+  REST   4
+  D   1  2
+  REST   4
+# kr2l tmp prok-vf7.mus 7 60 8 0 88 /tmp/kr2l
+
+MEASURE 7
+  LINE RH6
+  REST   2
+  F   0  4
+  RIPPLE
+  E   0  4
+  RIPPLE
+  REST   4
+  B   0  4
+  RIPPLE
+
+MEASURE 7
+  LINE RH7
+  REST   2
+  G   0  4
+  A   0  4
+  REST   4
+  C   1  4
+
+MEASURE 7
+  LINE RH8
+  REST   2
+  C   1  4
+  D   1  4
+  REST   4
+  F   1  4
+
+MEASURE 7
+  LINE RH9
+  REST   2
+  E   1  4
+  F   1  4
+  G   1  4
+  A   1  4
+
+# kr2l tmp prok-vf7.mus 8 60 8 0 88 /tmp/kr2l
+
+MEASURE 8
+  LINE RH6
+  A   0  4
+  RIPPLE
+  REST   4
+  E   1  4
+  RIPPLE
+  D   1  2
+  RIPPLE
+  E   1  4
+  RIPPLE
+
+MEASURE 8
+  LINE RH7
+  D   1  4
+  REST   4
+  F   1  4
+  G   1  2
+  F   1  4
+
+MEASURE 8
+  LINE RH8
+  G   1  4
+  REST   4
+  B   1  4
+  C   2  2
+  B   1  4
+
+MEASURE 8
+  LINE RH9
+  B   1  4
+  F   0  4
+  D   2  4
+  E   2  2
+  D   2  4
+
+MEASURE 9
+  LINE RH6
+  REST   2
+  F#  1  4
+  RIPPLE
+  E   1  2
+  RIPPLE
+  F#  1  4
+  RIPPLE
+
+MEASURE 9
+  LINE RH7
+  REST   2
+  G   1  4
+  G#  1  2
+  G   1  4
+
+MEASURE 9
+  LINE RH8
+  REST   2
+  C#  2  4
+  C   2  2
+  C#  2  4
+
+MEASURE 9
+  LINE RH9
+  REST   2
+  E   2  4
+  F#  2  2
+  E   2  4
+# kr2l tmp prok-vf7.mus 11 60 8 0 88 /tmp/kr2l
+
+MEASURE 11
+  LINE RH7
+  REST   2
+  Bb  1  4
+  RIPPLE
+  REST   4
+  G   1  4
+  RIPPLE
+  REST   4
+
+MEASURE 11
+  LINE RH8
+  REST   2
+  D   2  4
+  REST   4
+  Bb  1  4
+  REST   4
+
+MEASURE 11
+  LINE RH9
+  REST   2
+  F   2  4
+  REST   4
+  D   2  4
+  REST   4
+
+MEASURE 12
+  LINE RH7
+  D   1  4
+  RIPPLE
+  REST   4
+  Bb  1  4
+  RIPPLE
+  REST   4
+  G   1  4
+  RIPPLE
+  REST   4
+
+MEASURE 12
+  LINE RH8
+  F   1  4
+  REST   4
+  D   2  4
+  REST   4
+  Bb  1  4
+  REST   4
+
+MEASURE 12
+  LINE RH9
+  A   1  4
+  REST   4
+  F   2  4
+  REST   4
+  D   2  4
+  REST   4
+
+MEASURE 13
+  LINE RH7
+  D   1  4
+  RIPPLE
+  REST   4
+  Bb  1  4
+  RIPPLE
+  REST   4
+  Bb  1  4
+  RIPPLE
+  REST   4
+
+MEASURE 13
+  LINE RH8
+  F   1  4
+  REST   4
+  D   2  4
+  REST   4
+  D   2  4
+  REST   4
+
+MEASURE 13
+  LINE RH9
+  A   1  4
+  REST   4
+  F   2  4
+  REST   4
+  F   2  4
+  REST   4
+# kr2l tmp prok-vf7.mus 14 60 8 0 88 /tmp/kr2l
+
+MEASURE 14
+  LINE RH7
+  C   2  4
+  RIPPLE
+  REST   4
+  C   1  4
+  RIPPLE
+  C   2  4
+  RIPPLE
+  REST   4
+  C   1  4
+  RIPPLE
+
+MEASURE 14
+  LINE RH8
+  Eb  2  4
+  REST   4
+  Eb  1  4
+  Eb  2  4
+  REST   4
+  Eb  1  4
+
+MEASURE 14
+  LINE RH9
+  F#  2  4
+  REST   4
+  Bb  1  4
+  F#  2  4
+  REST   4
+  Bb  1  4
+
+MEASURE 11
+  LINE RH6
+  REST   2
+  E   1  4
+  D   1  4
+  C   1  4
+  Bb  0  4
+
+# kr2l tmp prok-vf7.mus 12 60 8 0 88 /tmp/kr2l
+
+MEASURE 12
+  LINE RH6
+  G   0  4
+  A   0  8
+  G   0 32
+  Bb  0 32
+  C   1 32
+  D   1 32
+  E   1  4
+  D   1  4
+  C   1  8
+  D   1  8
+  E   1  8
+  C   1  8
+
+MEASURE 13
+  LINE RH6
+  G   0  4
+  A   0  8
+  G   0 32
+  Bb  0 32
+  C   1 32
+  D   1 32
+  E   1  4
+  D   1  4
+  A   1  4
+  G   1  8
+  D   1  8
+
+MEASURE 14
+  LINE RH6
+  Eb  1  8
+  F   1  8
+  F#  1  8
+  Ab  1  8
+  Bb  0  4
+  Eb  1  8
+  F   1  8
+  Gb  1  8
+  Ab  1  8
+  Bb  0  4
+# kr2l tmp prok-vf7.mus 15 60 8 0 88 /tmp/kr2l
+
+MEASURE 15
+  LINE RH6
+  Ab  1  4
+  RIPPLE
+  C   2  4
+  RIPPLE
+  F   1  4
+  RIPPLE
+  Ab  1  4
+  RIPPLE
+  C#  1  4
+  RIPPLE
+  F   1  4
+  RIPPLE
+
+MEASURE 15
+  LINE RH7
+  Eb  2  4
+  C#  2  4
+  C   2  4
+  Bb  1  4
+  Ab  1  4
+  F#  1  4
+
+MEASURE 15
+  LINE RH8
+  F#  2  4
+  F   2  4
+  Eb  2  4
+  C#  2  4
+  C   2  4
+  Bb  1  4
+
+MEASURE 15
+  LINE RH9
+  Bb  2  4
+  Ab  2  4
+  F#  2  4
+  F   2  4
+  Eb  2  4
+  C#  2  4
+
+MEASURE 16
+  LINE RH6
+  C#  1  4
+  RIPPLE
+  F   1  4
+  RIPPLE
+  Bb  0  4
+  RIPPLE
+  Db  1  16
+  RIPPLE
+  REST   16 3
+  REST   4  2
+
+MEASURE 16
+  LINE RH7
+  Ab  1  4
+  F#  1  4
+  F   1  4
+  Eb  1  16
+  REST   16 3
+  REST   4  2
+
+MEASURE 16
+  LINE RH8
+  C   2  4
+  Bb  1  4
+  Ab  1  4
+  Gb  1  16
+  REST   16 3
+  REST   4  2
+
+MEASURE 16
+  LINE RH9
+  Eb  2  4
+  C#  2  4
+  C   2  4
+  Bb  1 16
+  C   2 16
+  C#  2 16
+  Eb  2 16
+  F   2 16
+  F#  2 16
+  Ab  2 16
+  Bb  2 16
+  C   3 16
+  C#  3 16
+  Eb  3 16
+  C#  3 16
+
+# kr2l tmp prok-vf7.mus 17 60 8 0 88 /tmp/kr2l
+
+MEASURE 17
+  LINE RH6
+  REST   2
+  F   0  4
+  RIPPLE
+  E   0  4
+  RIPPLE
+  REST   4
+  B   0  4
+  RIPPLE
+
+MEASURE 17
+  LINE RH7
+  REST   2
+  G   0  4
+  A   0  4
+  REST   4
+  C   1  4
+
+MEASURE 17
+  LINE RH8
+  REST   2
+  C   1  4
+  D   1  4
+  REST   4
+  F   1  4
+
+MEASURE 17
+  LINE RH9
+  F   3  4
+  REST   4
+  E   1  4
+  F   1  4
+  G   1  4
+  A   1  4
+
+MEASURE 18
+  LINE RH6
+  A   0  4
+  RIPPLE
+  REST   4
+  E   1  4
+  RIPPLE
+  D   1  2
+  RIPPLE
+  E   1  4
+  RIPPLE
+
+MEASURE 18
+  LINE RH7
+  D   1  4
+  REST   4
+  F   1  4
+  G   1  2
+  F   1  4
+
+MEASURE 18
+  LINE RH8
+  G   1  4
+  REST   4
+  B   1  4
+  C   2  2
+  B   1  4
+
+MEASURE 18
+  LINE RH9
+  B   1  4
+  F   0  4
+  D   2  4
+  E   2  2
+  D   2  4
+
+# kr2l tmp prok-vf7.mus 19 60 8 0 88 /tmp/kr2l
+
+MEASURE 19
+  LINE RH6
+  REST   2
+  F#  1  4
+  RIPPLE
+  E   1  2
+  RIPPLE
+  F#  1  4
+  RIPPLE
+
+MEASURE 19
+  LINE RH7
+  REST   2
+  G   1  4
+  G#  1  2
+  G   1  4
+
+MEASURE 19
+  LINE RH8
+  REST   2
+  C#  2  4
+  C   2  2
+  C#  2  4
+
+MEASURE 19
+  LINE RH9
+  REST   2
+  E   2  4
+  F#  2  2
+  E   2  4
+
+# kr2l tmp prok-vf7.mus 21 60 8 0 88 /tmp/kr2l
+
+MEASURE 21
+  LINE RH7
+  REST   2
+  G   2  4
+  C#  1  4
+  B   1  4
+  Bb  0  4
+
+MEASURE 21
+  LINE RH8
+  REST   2
+  B   2  4
+  F#  1  4
+  D   2  4
+  C#  1  4
+
+MEASURE 21
+  LINE RH9
+  REST   2
+  D   3  4
+  Bb  1  4
+  G   2  4
+  F#  1  4
+
+# kr2l tmp prok-vf7.mus 22 60 8 0 88 /tmp/kr2l
+
+MEASURE 22
+  LINE RH7
+  D   1  4
+  Bb  0  4
+  REST   4
+  Bb  1  4
+  D   1  4
+  REST   4
+
+MEASURE 22
+  LINE RH8
+  G   1  4
+  C#  1  4
+  REST   4
+  C#  2  4
+  G   1  4
+  REST   4
+
+MEASURE 22
+  LINE RH9
+  B   1  4
+  F#  1  4
+  D   1 16
+  G   1 16
+  B   1 16
+  G   1 16
+  F#  2  4
+  B   1  4
+  REST   4
+# kr2l tmp prok-vf7.mus 23 60 8 0 88 /tmp/kr2l
+
+MEASURE 23
+  LINE RH7
+  REST   4 3
+  C#  1  4
+  B   1  4
+  Bb  0  4
+
+MEASURE 23
+  LINE RH8
+  REST   2
+  B   2  4
+  F#  1  4
+  D   2  4
+  C#  1  4
+
+MEASURE 23
+  LINE RH9
+  REST   4
+  B   0 32
+  D   1 32
+  F#  1 32
+  G   1 32
+  B   1 32
+  D   2 32
+  F#  2 32
+  G   2 32
+  D   3  4
+  Bb  1  4
+  G   2  4
+  F#  1  4
+
+MEASURE 24
+  LINE RH7
+  D   1  4
+  Bb  0  4
+  REST   4
+  Bb  1  4
+  D   1  4
+  REST   4
+
+MEASURE 24
+  LINE RH8
+  G   1  4
+  C#  1  4
+  REST   4
+  C#  2  4
+  G   1  4
+  REST   4
+
+MEASURE 24
+  LINE RH9
+  B   1  4
+  F#  1  4
+  D   1 16
+  G   1 16
+  B   1 16
+  G   1 16
+  F#  2  4
+  B   1  4
+  REST   4
+
+# kr2l tmp prok-vf7.mus 25 60 8 0 88 /tmp/kr2l
+
+MEASURE 25
+  LINE RH6
+  REST   2
+  F   0  4
+  RIPPLE
+  E   0  4
+  RIPPLE
+  REST   4
+  B   0  4
+  RIPPLE
+
+MEASURE 25
+  LINE RH7
+  REST   2
+  G   0  4
+  A   0  4
+  REST   4
+  C   1  4
+
+MEASURE 25
+  LINE RH8
+  REST   2
+  C   1  4
+  D   1  4
+  REST   4
+  F   1  4
+
+MEASURE 25
+  LINE RH9
+  REST   2
+  E   1  4
+  F   1  4
+  G   1  4
+  A   1  4
+
+MEASURE 26
+  LINE RH6
+  A   0  4
+  RIPPLE
+  REST   4
+  E   1  4
+  RIPPLE
+  D   1  2
+  RIPPLE
+  E   1  4
+  RIPPLE
+
+MEASURE 26
+  LINE RH7
+  D   1  4
+  REST   4
+  F   1  4
+  G   1  2
+  F   1  4
+
+MEASURE 26
+  LINE RH8
+  G   1  4
+  REST   4
+  B   1  4
+  C   2  2
+  B   1  4
+
+MEASURE 26
+  LINE RH9
+  B   1  4
+  F   0  4
+  D   2  4
+  E   2  2
+  D   2  4
+
+# kr2l tmp prok-vf7.mus 27 60 8 0 88 /tmp/kr2l
+
+MEASURE 27
+  LINE RH5
+  REST   8  5
+  F#  0  8  5
+  REST   4
+
+MEASURE 28
+  LINE RH5
+  REST   8  5
+  A   0  8  5
+  REST   4
+# kr2l tmp prok-vf7.mus 27 60 8 0 88 /tmp/kr2l
+
+MEASURE 27
+  LINE RH6
+  REST   4  3
+  Bb  0  2
+  RIPPLE
+  REST   4
+
+MEASURE 27
+  LINE RH7
+  REST   4  3
+  D   1  2
+  REST   4
+
+MEASURE 27
+  LINE RH8
+  REST   4  3
+  G#  1  2
+  REST   4
+
+MEASURE 27
+  LINE RH9
+  REST   4  3
+  C   2  2
+  REST   4
+
+MEASURE 28
+  LINE RH6
+  REST   4  3
+  E   1  2
+  RIPPLE
+  REST   4
+
+MEASURE 28
+  LINE RH7
+  REST   4  3
+  A   1  2
+  REST   4
+
+MEASURE 28
+  LINE RH8
+  REST   4  3
+  D   2  2
+  REST   4
+
+MEASURE 28
+  LINE RH9
+  REST   4  3
+  A   2  2
+  REST   4

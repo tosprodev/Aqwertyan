@@ -1,0 +1,4309 @@
+NAME Ravel: Pavane Pour une Infante Defunte
+
+MEASURE 1
+  METER 4 4
+  TEMPO 4 60.000000
+  KEY 1#
+
+MEASURE 19
+  METER 2 4
+
+MEASURE 20
+  METER 4 4
+
+MEASURE 59
+  METER 2 4
+
+# kr2l pavane 1 60 4
+
+MEASURE 1
+  LINE RH5
+  G   0  8  5
+  A   0  8
+  F#  0  8
+  E   0  8
+
+MEASURE 2
+  LINE RH5
+  D   0  4
+  E   0  8
+  F#  0  8
+  F#  0  8
+  E   0  8
+  E   0  4
+
+MEASURE 3
+  LINE RH5
+  B   0  8  5
+  C   1  8
+  A   0  8
+  G   0  8
+
+MEASURE 4
+  LINE RH5
+  F#  0  4
+  G   0  8
+  A   0  4
+  B   0  8
+  G   0  8
+  F#  0  8
+
+MEASURE 5
+  LINE RH5
+  E   0  4
+  F#  0  8
+  G   0  4
+  A   0  8
+  F#  0  8
+  E   0  8
+# kr2l pavane 6 60 4
+
+MEASURE 6
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  5
+  C   0  8
+  B  -1  8
+  F# -1  8
+
+MEASURE 6
+  LINE RH4
+  REST   8  5
+  E   0  8
+  D   0  8
+  C   0  8
+
+MEASURE 6
+  LINE RH5
+  F#  0  2
+  REST   8
+  A   0  8
+  F#  0  8
+  E   0  8
+# kr2l pavane 7 60 4
+
+MEASURE 7
+  LINE RH5
+  F#  0  8
+  REST   8
+  B   0  2
+  B   0  4
+
+MEASURE 8
+  LINE RH5
+  B -1 64 0
+  E  0 64 0
+  G  0 64 0
+  B  0 64 0
+  E  1 64 0
+  B   0  8  5
+  A   0  8
+  D   1  8
+  B   0  8
+
+MEASURE 9
+  LINE RH5
+  B   0  4
+  A   0  4
+  G   0  4
+  A   0  4
+# kr2l pavane 1 60 4
+
+MEASURE 1
+  LINE LH5
+  B  -1  8
+  D   0  8
+  B  -1  8
+  D   0  8
+  B  -1  8
+  E   0  8
+  B  -1  8
+  PHANTOM 8
+
+MEASURE 2
+  LINE LH5
+  F# -1  8
+  B  -1  8
+  F# -1  8
+  B  -1  8
+  G  -1  8
+  B  -1  8
+  G  -1  8
+  B  -1  8
+
+MEASURE 3
+  LINE LH5
+  C   0  8
+  E   0  8
+  C   0  8
+  E   0  8
+  C   0  8
+  E   0  8
+  C   0  8
+  E   0  8
+
+MEASURE 4
+  LINE LH5
+  C   0  8
+  D   0  8
+  C   0  8
+  D   0  8
+  B  -1  8
+  D   0  8
+  B  -1  8
+  D   0  8
+
+MEASURE 5
+  LINE LH5
+  B  -1  8
+  C   0  8
+  B  -1  8
+  C   0  8
+  A  -1  8
+  C   0  8
+  A  -1  8
+  C   0  8
+
+MEASURE 6
+  LINE LH5
+  F# -1  8
+  B  -1  8
+  D   0  8
+  B  -1  8
+  F# -2  4
+  G  -2  8
+  A  -2  8
+# kr2l pavane 1 60 4
+
+MEASURE 1
+  LINE LH2
+  REST   4
+  G  -2  8
+  REST   8
+  C  -2  8
+  REST   8
+  E  -1  8
+  REST   8
+
+MEASURE 2
+  LINE LH2
+  D  -2  8
+  REST   8
+  B  -2  8
+  REST   8
+  E  -2  8
+  REST   8
+  D  -1  8
+  REST   8
+
+MEASURE 3
+  LINE LH2
+  PHANTOM 8
+  REST   8
+  G  -1  8
+  REST   8
+  A  -2  8
+  REST   8
+  G  -1  8
+  REST   8
+
+MEASURE 4
+  LINE LH2
+  D  -1  8
+  REST   8
+  PHANTOM 8
+  REST   8
+  G  -2  8
+  REST   8
+  F# -1  8
+  REST   8
+# kr2l pavane 5 60 4
+
+MEASURE 5
+  LINE LH2
+  C  -1  8
+  REST   8
+  PHANTOM 8
+  REST   8
+  F# -2  8
+  REST   8
+  E  -1  8
+  REST   8
+
+MEASURE 6
+  LINE LH2
+  B  -2  8
+  REST   8  3
+  REST   2
+# kr2l pavane 7 60 4
+
+MEASURE 7
+  LINE LH2
+  D  -1  1
+# kr2l pavane 8 60 4
+
+MEASURE 7
+  LINE LH1
+  REST   2
+  B  -3  2
+# kr2l pavane.mus 7 60 4
+
+MEASURE 7
+  LINE LH5
+  B  -1  8
+  D   0  8
+  REST   4  3
+# kr2l pavane.mus 8 60 4
+
+MEASURE 8
+  LINE RH4
+  REST   4
+  B  -1  8  3
+  A  -1  8
+  D   0  8
+  B  -1  8
+
+MEASURE 9
+  LINE RH4
+  B  -1  4
+  F# -1  4
+  B  -1  4
+  A  -1  4
+# kr2l pavane.mus 8 60 4
+
+MEASURE 8
+  LINE LH5
+  REST   8
+  E   0  8
+  G   0  8
+  E   0  8
+  C   0  8
+  E   0  8
+  G   0  8
+  E   0  8
+# kr2l pavane.mus 9 60 4
+
+MEASURE 9
+  LINE TLLH1
+  TIELINE LH5 88
+  REST   8
+  F# -1  8
+  REST   4  3
+
+MEASURE 9
+  LINE LH5
+  C   0  8
+  E   0  8
+  PHANTOM 8
+  E   0  8
+  C   0  8
+  E   0  8
+  PHANTOM 8
+  E   0  8
+# kr2l pavane.mus 9 60 4
+
+MEASURE 9
+  LINE LH1
+  REST   8
+  D  -2  8  7
+
+MEASURE 9
+  LINE LH2
+  REST   8
+  A  -2  8  7
+# kr2l pavane.mus 10 60 4
+
+MEASURE 10
+  LINE RH5
+  E   0  2
+  E   0  8
+  D   0  8
+  G   0  8
+  F#  0  8
+# kr2l pavane.mus 11 60 4
+
+MEASURE 11
+  LINE RH5
+  E   0  8
+  B  -1  8
+  D   0  8
+  E   0  8
+  F#  0  4
+  E   0  4
+# kr2l pavane.mus 11 60 4
+
+MEASURE 11
+  LINE RH4
+  REST   2
+  D   0  4
+  C   0 12
+  B  -1 12
+  A  -1 12
+# kr2l pavane.mus 11 60 4
+
+MEASURE 11
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   2
+  G# -1  4
+  F# -1  4
+# kr2l pavane.mus 12 60 4
+
+MEASURE 12
+  LINE TLRH3
+  TIELINE RH4 92
+  F# -1  2
+  REST   2
+
+MEASURE 12
+  LINE RH4
+  B  -1  2
+  REST   2
+
+MEASURE 12
+  LINE RH5
+  F#  0  2
+  REST   2
+# kr2l pavane.mus 10 60 4
+
+MEASURE 10
+  LINE RH4
+  G  -1  4
+  REST   4  3
+# kr2l pavane.mus 10 60 4
+
+MEASURE 10
+  LINE TLRH8
+  TIELINE TLRH9 88
+  REST   8  5
+  C   1  8
+  REST   8
+  C   1  8
+
+MEASURE 10
+  LINE TLRH9
+  TIELINE RH5 76
+  REST   8  5
+  D   1  8
+  REST   8
+  D   1  8
+
+MEASURE 11
+  LINE TLRH8
+  TIELINE TLRH9 88
+  B   0  8
+  REST   8  7
+
+MEASURE 11
+  LINE TLRH9
+  TIELINE RH5 76
+  E   1  8
+  REST   8
+  REST   4
+  REST   2
+MEASURE 11
+  LINE RH9
+  REST   8
+  REST   8
+  B   0  4
+  REST   2
+# kr2l pavane.mus 10 60 4
+
+MEASURE 10
+  LINE LH5
+  PHANTOM   8
+  B  -1  8
+  E   0  8
+  B   0  8
+  REST   2
+# kr2l pavane.mus 11 60 4
+
+MEASURE 11
+  LINE LH5
+  REST   2
+  B  -2  4
+  A  -2  4
+# kr2l pavane.mus 12 60 4
+
+MEASURE 12
+  LINE TLLH3
+  TIELINE LH4 92
+  B  -3  2
+  REST   2
+
+MEASURE 12
+  LINE LH4
+  F# -2  2
+  REST   2
+
+MEASURE 12
+  LINE LH5
+  D  -1  2
+  REST   2
+# kr2l pavane.mus 11 60 4
+
+MEASURE 11
+  LINE LH4
+  REST   2
+  E  -2  4
+  D  -2  4
+# kr2l pavane.mus 10 60 4
+
+MEASURE 10
+  LINE LH2
+  REST   2
+  E  -1  8
+  D  -1  8
+  G  -1  8
+  F# -1  8
+
+MEASURE 11
+  LINE LH2
+  E  -1  4
+  REST   4  3
+# kr2l pavane.mus 8 60 4
+
+MEASURE 8
+  TEMPO RESET
+  LINE LH2
+  A  -3  1
+# kr2l pavane.mus 10 60 4
+
+MEASURE 10
+  LINE LH1
+  REST   2
+  E  -2  8
+  D  -2  8
+  G  -2  8
+  F# -2  8
+
+MEASURE 11
+  LINE LH1
+  E  -2  4
+  REST   4  3
+
+MEASURE 12
+  LINE LH8
+  REST   2
+  F# -1  8
+  B  -1  8
+  D   0  8
+  F#  0  8
+
+MEASURE 12
+  LINE LH9
+  REST   2
+  B  -1  8
+  D   0  8
+  F#  0  8
+  B   0  8
+# kr2l ravel-pavane.mus 13 60 4
+
+MEASURE 13
+  LINE LH8
+  A   0  8
+  A   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+  PHANTOM 8
+  PHANTOM 8
+  PHANTOM 8
+  LINE RH2
+  REST 8 5
+  A   0  8
+  G   0  8
+  F#  0  8
+
+MEASURE 13
+  LINE TLRH3a
+  TIELINE LH9 82
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+
+MEASURE 13
+  LINE LH9
+  D   1  8
+  D   1  8
+  D   1  8
+  D   1  8
+  D   1  8
+  D   1  8
+  D   1  8
+  D   1  8
+# kr2l ravel-pavane.mus 14 60 4
+
+MEASURE 14
+  LINE LH8
+  E   0  8
+  E   0  8
+  E   0  8
+  E   0  8
+  E   0  8
+  PHANTOM 8
+  PHANTOM 8
+  PHANTOM 8
+  LINE RH2
+  REST 8 5
+  E   0  8
+  B  -1  8
+  E   0  8
+
+MEASURE 14
+  LINE TLRH3a
+  TIELINE LH9 82
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+
+MEASURE 14
+  LINE LH9
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+# kr2l ravel-pavane.mus 15 60 4
+
+MEASURE 15
+  LINE LH8
+  F#  0  8
+  F#  0  8
+  E   0  8
+  E   0  8
+  E   0  8
+  PHANTOM 8
+  PHANTOM 8
+  PHANTOM 8
+  LINE RH2
+  REST 8 5
+  F#  0  8
+  E   0  8
+  D   0  8
+
+MEASURE 15
+  LINE TLRH3a
+  TIELINE LH9 82
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+
+MEASURE 15
+  LINE LH9
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+# kr2l ravel-pavane.mus 16 60 4
+
+MEASURE 16
+  LINE LH8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+
+MEASURE 16
+  LINE TLRH3a
+  TIELINE LH9 82
+  E   0  8
+  E   0  8
+  E   0  8
+  E   0  8
+  E   0  8
+  E   0  8
+  E   0  8
+  E   0  8
+
+MEASURE 16
+  LINE LH9
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+  PHANTOM 8
+  F#  0  8
+  F#  0  8
+  F#  0  8
+# kr2l ravel-pavane.mus 17 60 4
+
+MEASURE 17
+  LINE LH8
+  C#  0  8
+  C#  0  8
+  B  -1  8
+  B  -1  8
+  B  -1  8
+  PHANTOM 8
+  PHANTOM 8
+  PHANTOM 8
+  LINE RH2
+  REST 8 5
+  C#  0  8
+  B  -1  8
+  A  -1  8
+
+MEASURE 17
+  LINE TLRH3a
+  TIELINE LH9 82
+  D   0  8
+  D   0  8
+  D   0  8
+  D   0  8
+  D   0  8
+  D   0  8
+  D   0  8
+  D   0  8
+
+MEASURE 17
+  LINE LH9
+  F#  0  8
+  F#  0  8
+  F#  0  8
+  F#  0  8
+  F#  0  8
+  F#  0  8
+  F#  0  8
+  F#  0  8
+# kr2l ravel-pavane.mus 13 60 4
+
+MEASURE 13
+  LINE RH5
+  F#  1  4
+  G   1  8  3
+  F#  1  8
+  G   1  8
+  A   1  8
+# kr2l ravel-pavane.mus 14 60 4
+
+MEASURE 14
+  LINE RH5
+  D   1  4
+  C#  1  4  3
+
+MEASURE 15
+  LINE RH5
+  D   1  4
+  E   1  8  3
+  D   1  8
+  E   1  8
+  F#  1  8
+
+MEASURE 16
+  LINE RH5
+  B   0  4
+  A   0  4
+  F#  0  2
+
+MEASURE 17
+  LINE RH5
+  A   0  4
+  B   0  8  3
+  A   0  8
+  B   0  8
+  C#  1  8
+# kr2l ravel-pavane.mus 18 60 4
+
+MEASURE 18
+  LINE TLRH3
+  TIELINE RH4 92
+  G  -1  4
+  G  -1  8  3
+  F# -1  8
+  G  -1  8
+  G  -1  8
+
+MEASURE 18
+  LINE RH4
+  D   0  4
+  B  -1  8  3
+  A  -1  8
+  B  -1  8
+  D   0  8
+
+MEASURE 18
+  LINE RH5
+  F#  0  4
+  E   0  8  3
+  D   0  8
+  E   0  8
+  F#  0  8
+# kr2l ravel-pavane.mus 19 60 4
+
+MEASURE 19
+  LINE TLRH3
+  TIELINE RH4 92
+  G  -1  4
+  F# -1  4
+
+MEASURE 19
+  LINE RH4
+  B  -1  4
+  A  -1  4
+
+MEASURE 19
+  LINE RH5
+  E   0  4
+  D   0  4
+# kr2l ravel-pavane.mus 13 60 4
+
+MEASURE 13
+  LINE LH1
+  B  -3  2
+  B  -3  2
+
+MEASURE 13
+  LINE LH2
+  B  -2  2
+  B  -2  2
+
+MEASURE 14
+  LINE LH1
+  B  -3  1
+
+MEASURE 14
+  LINE LH2
+  B  -2  1
+
+MEASURE 15
+  LINE LH1
+  B  -3  2
+  B  -3  2
+
+MEASURE 15
+  LINE LH2
+  B  -2  2
+  B  -2  2
+
+MEASURE 16
+  LINE LH1
+  B  -3  1
+
+MEASURE 16
+  LINE LH2
+  B  -2  1
+
+MEASURE 17
+  LINE LH1
+  PHANTOM 2
+  PHANTOM 2
+
+MEASURE 17
+  LINE LH2
+  A  -3  2
+  A  -3  2
+
+MEASURE 18
+  LINE LH1
+  E  -2  4
+  A  -2  8  3
+  D  -1  8
+  A  -2  8
+  E  -2  8
+
+MEASURE 18
+  LINE LH9
+  B  -2  4
+  E  -1  8  3
+  A  -1  8
+  E  -1  8
+  B  -2  8
+# kr2l ravel-pavane.mus 19 60 4
+
+MEASURE 19
+  LINE LH1
+  A  -2  4
+  D  -1  4
+
+MEASURE 19
+  LINE LH9
+  E  -1  4
+  A  -1  4
+
+MEASURE 1
+  MARK Main-theme
+
+MEASURE 13
+  MARK Tres-lointain
+
+MEASURE 20
+  MARK Tres-lointain-repeat-(more-or-less)
+
+MEASURE 28
+  MARK Main-theme-again-(Reprenez-le-mouvement)
+
+MEASURE 40
+  MARK Third-theme-(1er-Mouvement)
+
+MEASURE 49
+  METER 2 4
+
+MEASURE 50
+  METER 4 4
+
+MEASURE 60
+  METER 4 4
+
+MEASURE 50
+  MARK Third-theme-again
+
+# kr2l pavane.mus 20 60 4
+
+MEASURE 20
+  LINE RH5
+  F#  1  4
+  G   1  8  3
+  F#  1  8
+  G   1  8
+  A   1  8
+
+MEASURE 21
+  LINE RH5
+  D   1  4
+  C#  1  4  3
+
+MEASURE 22
+  LINE RH5
+  D   1  4
+  E   1  8  3
+  D   1  8
+  E   1  8
+  F#  1  8
+
+MEASURE 23
+  LINE RH5
+  B   0  4
+  A   0  4
+  F#  0  2
+
+MEASURE 24
+  LINE RH5
+  A   0  4
+  B   0  8  3
+  A   0  8
+  B   0  8
+  C#  1  8
+# kr2l pavane.mus 25 60 4
+
+MEASURE 25
+  LINE TLRH2
+  TIELINE RH4 90
+  G# -1  4
+  G  -1  8  3
+  REST   8
+  G  -1  8
+  G# -1  8
+
+MEASURE 25
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  0  4
+  B  -1  8  3
+  F# -1  8
+  B  -1  8
+  C#  0  8
+
+MEASURE 25
+  LINE RH4
+  D   0  4
+  C#  0  8  3
+  B  -1  8
+  C#  0  8
+  D   0  8
+
+MEASURE 25
+  LINE RH5
+  F#  0  4
+  E   0  8  3
+  D   0  8
+  E   0  8
+  F#  0  8
+# kr2l pavane.mus 26 60 8
+
+MEASURE 26
+  LINE TLRH2
+  TIELINE RH4 90
+  G  -1  4
+  REST   4  3
+
+MEASURE 26
+  LINE TLRH3
+  TIELINE RH4 92
+  B  -1  4
+  F# -1  8
+  REST   8
+  G# -1  4
+  F# -1  4
+
+MEASURE 26
+  LINE RH4
+  C#  0  4
+  A  -1  8
+  REST   8
+  D   0  4
+  C   0  4
+
+MEASURE 26
+  LINE RH5
+  E   0  4
+  D   0  8
+  REST   8
+  F#  0  4
+  E   0  4
+
+MEASURE 27
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  8
+  E  -1  8
+  F# -1  8
+  G# -1  8
+  REST   2
+
+MEASURE 27
+  LINE RH4
+  CARRY  8
+  Bb -1  8
+  C   0  8
+  D   0  8
+  REST   2
+
+MEASURE 27
+  LINE RH5
+  CARRY  8
+  D   0  8
+  E   0  8
+  F#  0  8
+  E   0  4
+  D   0  4
+# kr2l pavane.mus 27 60 8
+
+MEASURE 27
+  LINE TLRH5
+  TIELINE RH5 85
+  REST   2
+  B  -1  4
+  C   0  4
+# kr2l pavane.mus 27 60 8
+
+MEASURE 27
+  LINE RH3
+  REST   2
+  G  -1  8
+  G# -1  8
+  A  -1  4
+# kr2l pavane.mus 27 60 8
+
+MEASURE 27
+  LINE TLRH1
+  TIELINE RH3 88
+  REST   2
+  F  -1  8
+  F# -1  8  3
+# kr2l pavane.mus 20 60 4
+
+MEASURE 20
+  LINE LH4
+  A   0  8
+  A   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+  PHANTOM 8
+  PHANTOM 8
+  PHANTOM 8
+  LINE RH2
+  REST 8 5
+  A   0  8
+  G   0  8
+  F#  0  8
+
+MEASURE 20
+  LINE TLLH3
+  TIELINE LH5 86
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+
+MEASURE 20
+  LINE LH5
+  D   1  8
+  D   1  8
+  D   1  8
+  D   1  8
+  D   1  8
+  D   1  8
+  D   1  8
+  D   1  8
+
+MEASURE 21
+  LINE LH4
+  E   0  8
+  E   0  8
+  E   0  8
+  E   0  8
+  E   0  8
+  PHANTOM 8
+  PHANTOM 8
+  PHANTOM 8
+  LINE RH2
+  REST   8 5
+  E   0  8
+  B  -1  8
+  E   0  8
+
+MEASURE 21
+  LINE TLLH3
+  TIELINE LH5 86
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+
+MEASURE 21
+  LINE LH5
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+# kr2l pavane.mus 22 60 4
+
+MEASURE 22
+  LINE LH4
+  F#  0  8
+  F#  0  8
+  E   0  8
+  E   0  8
+  E   0  8
+  PHANTOM 8
+  PHANTOM 8
+  PHANTOM 8
+  LINE RH2
+  REST  8 5
+  F#  0  8
+  E   0  8
+  D   0  8
+
+MEASURE 22
+  LINE TLLH3
+  TIELINE LH5 86
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+
+MEASURE 22
+  LINE LH5
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+# kr2l pavane.mus 23 60 4
+
+MEASURE 23
+  LINE LH4
+  C#  0  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+
+MEASURE 23
+  LINE TLLH3
+  TIELINE LH5 86
+  E   0  8
+  E   0  8
+  E   0  8
+  E   0  8
+  D   0  8
+  D   0  8
+  D   0  8
+  D   0  8
+
+MEASURE 23
+  LINE LH5
+  G   0  8
+  G   0  8
+  G   0  8
+  G   0  8
+  PHANTOM 8
+  F#  0  8
+  F#  0  8
+  F#  0  8
+# kr2l pavane.mus 24 60 4
+
+MEASURE 24
+  LINE LH4
+  C#  0  8
+  C#  0  8
+  B  -1  8
+  B  -1  8
+  B  -1  8
+  REST   8 3
+  LINE RH2
+  REST 8 5
+  C#  0  8
+  B  -1  8
+  A  -1  8
+
+MEASURE 24
+  LINE TLLH3
+  TIELINE LH5 86
+  D   0  8
+  D   0  8
+  D   0  8
+  D   0  8
+  D   0  8
+  D   0  8
+  D   0  8
+  D   0  8
+
+MEASURE 24
+  LINE LH5
+  F#  0  8
+  F#  0  8
+  F#  0  8
+  F#  0  8
+  F#  0  8
+  F#  0  8
+  F#  0  8
+  F#  0  8
+# kr2l pavane.mus 20 60 4
+
+MEASURE 20
+  LINE LH1
+  B  -3  1
+
+MEASURE 20
+  LINE LH2
+  B  -2  1
+
+MEASURE 21
+  LINE LH1
+  E  -2  1
+
+MEASURE 21
+  LINE LH2
+  E  -1  1
+
+MEASURE 22
+  LINE LH1
+  A  -2  1
+
+MEASURE 22
+  LINE LH2
+  A  -1  1
+
+MEASURE 23
+  LINE LH1
+  REST   4
+  A  -3  4
+  D  -2  2
+
+MEASURE 23
+  LINE LH2
+  REST   4
+  A  -2  4
+  D  -1  2
+
+MEASURE 24
+  LINE LH1
+  G  -3  4  3
+  B  -3  4
+
+MEASURE 24
+  LINE LH2
+  G  -2  4  3
+  B  -2  4
+# kr2l pavane.mus 25 60 4
+
+MEASURE 25
+  LINE LH4
+  E  -2  4
+  A  -2  8  3
+  D  -1  8
+  A  -2  8
+  E  -2  8
+
+MEASURE 25
+  LINE LH5
+  B  -2  4
+  E  -1  8  3
+  A  -1  8
+  E  -1  8
+  B  -2  8
+# kr2l pavane.mus 26 60 4
+
+MEASURE 26
+  LINE LH4
+  A  -2  4
+  D  -1  8
+  REST   8
+  E  -2  4
+  D  -2  4
+
+MEASURE 26
+  LINE LH5
+  E  -1  4
+  A  -1  8
+  REST   8
+  B  -2  4
+  A  -2  4
+
+MEASURE 27
+  LINE LH4
+  CARRY  8
+  C  -2  8
+  D  -2  8
+  E  -2  8
+  G  -2  4
+  D  -2  4
+
+MEASURE 27
+  LINE LH5
+  CARRY  8
+  G  -2  8
+  A  -2  8
+  B  -2  8
+  D  -1  4
+  A  -2  4
+# kr2l pavane.mus 28 60 4
+
+MEASURE 28
+  LINE RH5
+  G   1  8  5
+  A   1  8
+  F#  1  8
+  E   1  8
+
+MEASURE 29
+  LINE RH5
+  D   1  4
+  E   1  8
+  F#  1  8
+  F#  1  8
+  E   1  8
+  E   1  4
+
+MEASURE 30
+  LINE RH5
+  B   1  8  5
+  C   2  8
+  A   1  8
+  G   1  8
+
+MEASURE 30
+  LINE TLRH5
+  TIELINE RH5 86
+  REST  8 7
+  G  0 8
+
+MEASURE 31
+  LINE RH5
+  F#  1  4
+  G   1  8
+  A   1  4
+  B   1  8
+  G   1  8
+  F#  1  8
+# kr2l pavane.mus 32 60 4
+
+ MEASURE 31
+  LINE TLRH5
+  TIELINE RH5 86
+  F# 0 4
+  G  0 8
+  A  0 8
+  TIENOTE RH5 RH1
+  REST 2
+
+MEASURE 32
+  LINE TLRH5
+  TIELINE RH5 86
+  E  0 4
+  F# 0 8
+  G  0 8
+  TIENOTE RH5 RH1
+  REST 2
+
+
+MEASURE 32
+  LINE RH5
+  E   1  4
+  F#  1  8
+  G   1  4
+  A   1  8
+  F#  1  8
+  E   1  8
+# kr2l pavane.mus 33 60 4
+
+MEASURE 33
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  5
+  C   0  8
+  B  -1  8
+  F# -1  8
+
+MEASURE 33
+  LINE RH4
+  REST   8  5
+  E   0  8
+  D   0  8
+  C   0  8
+
+MEASURE 33
+  LINE RH5
+  F#  1  2
+  REST   8
+  A   0  8
+  F#  0  8
+  E   0  8
+# kr2l pavane.mus 34 60 4
+
+MEASURE 34
+  LINE TLRH3
+  TIELINE RH4 92
+  B  -1  8
+  REST   8  7
+
+MEASURE 34
+  LINE RH4
+  D   0  8
+  REST   8
+  B   0  2
+  B   0  4
+
+MEASURE 34
+  LINE RH5
+  F#  0  8
+  REST   8
+  B   1  2
+  B   1  4
+# kr2l pavane.mus 35 60 4
+
+MEASURE 35
+  METER 71 64
+  TEMPO RESET
+  LINE LH3
+  B  -1 64 1
+  CARRY 64 1
+  CARRY 64 1
+  CARRY 64 1
+  CARRY 64 1
+  CARRY 64 1
+  CARRY 64 1
+  CARRY 2
+  REST  2
+
+MEASURE 35
+  LINE TLRH5
+  TIELINE RH5 100
+  REST 64 1
+  REST 64 1
+  REST 64 1
+  REST 64 1
+  REST 64 1
+  REST 64 1
+  B   1 64 1
+  CARRY 8  5
+  REST  8 3
+
+MEASURE 35
+  LINE RH5
+  REST 64 1
+  C   0 64 1
+  E   0 64 1
+  B   0 64 1
+  C   1 64 1
+  E   1 64 1
+  B   1 64 1
+  B   0  8  5
+  A   1  8
+  D   2  8
+  B   1  8
+# kr2l pavane.mus 35 60 4
+
+MEASURE 35
+  LINE RH4
+  REST   64 7
+  REST   2
+  B  -1  8
+  A   0  8
+  D   1  8
+  B   0  8
+# kr2l pavane.mus 35 60 4
+
+MEASURE 35
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   64 7
+  REST   8  5
+  A  -1  8
+  D   0  8
+  B  -1  8
+# kr2l pavane.mus 36 60 4
+
+MEASURE 36
+  METER 4 4
+  LINE TLRH3
+  TIELINE RH4 92
+  B  -1  4
+  F# -1  4
+  B  -1  4
+  A  -1  4
+
+MEASURE 36
+  LINE RH4
+  B   0  4
+  A   0  4
+  G   0  4
+  A   0  4
+
+MEASURE 36
+  LINE RH5
+  B   1  4
+  A   1  4
+  G   1  4
+  A   1  4
+# kr2l pavane.mus 37 60 4
+
+MEASURE 37
+  LINE RH4
+  E   0  8  5
+  D   0  8
+  G   0  8
+  F#  0  8
+
+MEASURE 37
+  LINE RH5
+  E   1  8  5
+  D   1  8
+  G   1  8
+  F#  1  8
+# kr2l pavane.mus 38 60 4
+
+MEASURE 38
+  LINE RH5
+  E   1  4
+  B   0  4
+  D   1  4
+  C   1 12
+  B   0 12
+  A   0 12
+# kr2l pavane.mus 39 60 4
+
+MEASURE 39
+  LINE RH5
+  B   0  1
+# kr2l pavane.mus 38 60 4
+
+MEASURE 38
+  LINE RH4
+  B   0  8
+  B  -1  8
+  D   0  8
+  E   0  8
+  F#  0  4
+  E   0  4
+
+MEASURE 39
+  LINE RH4
+  F#  0  2
+  E   0  4
+  D   0  4
+# kr2l pavane.mus 38 60 4
+
+MEASURE 38
+  LINE TLRH2
+  TIELINE RH4 90
+  REST   2
+  G# -1  4
+  F# -1  4
+
+MEASURE 38
+  LINE TLRH3
+  TIELINE RH4 92
+  E   0  4
+  REST   4
+  D   0  4
+  C   0  4
+
+MEASURE 39
+  LINE TLRH3
+  TIELINE RH4 92
+  B  -1  1
+# kr2l pavane.mus 28 60 4
+
+MEASURE 28
+  LINE LH1
+  G  -2  4
+  RIPPLE
+  REST   4
+  C  -2  4
+  RIPPLE
+  REST   4
+
+MEASURE 28
+  LINE LH2
+  D  -1  4
+  REST   4
+  G  -2  4
+  REST   4
+
+MEASURE 29
+  LINE LH1
+  D  -2  4
+  RIPPLE
+  REST   4
+  E  -2  4
+  RIPPLE
+  REST   4
+
+MEASURE 29
+  LINE LH2
+  B  -2  4
+  REST   4
+  B  -2  4
+  REST   4
+# kr2l pavane.mus 30 60 4
+
+MEASURE 30
+  LINE LH1
+  C  -1  4
+  RIPPLE
+  REST   4
+  A  -2  4
+  RIPPLE
+  REST   4
+
+MEASURE 30
+  LINE LH2
+  G  -1  4
+  REST   4
+  E  -1  4
+  REST   4
+
+MEASURE 31
+  LINE LH1
+  B  -2  4
+  RIPPLE
+  REST   4
+  G  -2  4
+  RIPPLE
+  REST   4
+
+MEASURE 31
+  LINE LH2
+  F# -1  4
+  REST   4
+  D  -1  4
+  REST   4
+# kr2l pavane.mus 32 60 4
+
+MEASURE 32
+  LINE LH1
+  A  -2  4
+  RIPPLE
+  REST   4
+  F# -2  4
+  RIPPLE
+  REST   4
+
+MEASURE 32
+  LINE LH2
+  E  -1  4
+  REST   4
+  C  -1  4
+  REST   4
+# kr2l pavane.mus 33 60 4
+
+MEASURE 33
+  LINE TLLH7
+  TIELINE LH8 80
+  REST 2
+  E 0 8
+  REST 8 3
+  LINE TLLH8
+  TIELINE LH8 82
+  REST 2
+  A 0 8
+  REST 8 3
+  LINE LH8
+  REST 2
+  C 1 8
+  REST 8 3
+
+MEASURE 33
+  LINE LH1
+  B  -2  4
+  RIPPLE
+  REST 4 3
+  
+
+MEASURE 33
+  LINE LH2
+  F# -1  4
+  REST   4
+  F# -2  4
+  B  -2  8
+  D  -1  8
+# kr2l pavane.mus 34 60 4
+
+MEASURE 34
+  LINE LH2
+  B  -2  1
+
+MEASURE 35
+  LINE TLLH1
+  TIELINE LH2 90
+  REST 64 7
+  A  -2  1
+
+MEASURE 35
+  LINE LH2
+  REST 64 7
+  E  -1  1
+# kr2l pavane.mus 34 60 4
+
+MEASURE 34
+  LINE LH1
+  REST   2
+  B  -3  2
+# kr2l pavane.mus 28 60 4
+
+
+MEASURE 36
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   8  3
+  C   0  4
+  C   0  4
+  C   0  8
+
+MEASURE 36
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  F# -1  4
+  E   0  4
+  E   0  4
+  E   0  8
+
+MEASURE 36
+  LINE LH4
+  REST   8
+  C   0  4
+  C   1  4
+  C   1  4
+  C   1  8
+
+MEASURE 36
+  LINE LH5
+  REST   8
+  E   0  4
+  E   1  4
+  E   1  4
+  E   1  8
+
+MEASURE 37
+  LINE TLLH2
+  TIELINE LH4 90
+  CARRY  8
+  B  -1  4
+  B  -1  8
+  REST   2
+
+MEASURE 37
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  8
+  E   0  4
+  E   0  8
+  REST   2
+
+MEASURE 37
+  LINE LH4
+  CARRY  8
+  B   0  4
+  B   0  8
+  E  -2  8
+  D  -2  8
+  G  -2  8
+  F# -2  8
+
+MEASURE 37
+  LINE LH5
+  CARRY  8
+  E   1  4
+  E   1  8
+  E  -1  8
+  D  -1  8
+  G  -1  8
+  F# -1  8
+# kr2l pavane.mus 38 60 8
+
+MEASURE 38
+  LINE LH4
+  B  -2  8
+  REST   8
+  REST   4
+  E  -2  4
+  D  -2  4
+
+MEASURE 38
+  LINE LH5
+  E  -1  4
+  REST   4
+  B  -2  4
+  A  -2  4
+# kr2l pavane.mus 39 60 8
+
+MEASURE 38
+  LINE TLLH4
+  TIELINE LH5 90
+  E  -2  4
+  REST   4 3
+
+MEASURE 38
+  LINE LH1
+  REST 32 31
+  G  -3 32
+MEASURE 39
+  LINE LH1
+  CARRY 1
+MEASURE 38
+  LINE LH2
+  REST 32 31
+  G  -2 32
+MEASURE 39
+  LINE LH2
+  CARRY 1
+
+MEASURE 39
+  LINE LH4
+  F# -2  2
+  E  -2  4
+  D  -2  4
+
+MEASURE 39
+  LINE LH5
+  F# -1  2
+  E  -1  4
+  D  -1  4
+
+MEASURE 39
+  LINE TLLH3
+  TIELINE LH5 86
+  B -2    1
+  TIENOTE LH5 LH1
+
+# kr2l pavane.mus 36 60 4
+
+MEASURE 36
+  LINE LH1
+  REST   8
+  D  -2  8  3
+  REST   2
+
+MEASURE 36
+  LINE LH2
+  REST   8
+  A  -2  8  3
+  REST   2
+# kr2l pavane.mus 37 60 4
+
+MEASURE 37
+  LINE LH2
+  G  -1  2
+  REST   2
+
+MEASURE 35
+  LINE RH1
+  REST   64 7
+  REST   8
+  C   1  8
+  REST   8
+  C   1  8
+  REST   2
+
+MEASURE 35
+  LINE RH2
+  REST 64 7
+  REST   8
+  E   1  8
+  REST   8
+  E   1  8
+  REST   2
+# kr2l pavane.mus 35 60 8
+
+MEASURE 35
+  LINE TLLH2
+  TIELINE LH4 90
+  REST 64 7
+  REST   8  5
+  E   0  8
+  REST   8
+  E   0  8
+
+MEASURE 35
+  LINE TLLH3
+  TIELINE LH4 92
+  REST 64 7
+  REST   8  5
+  G   0  8
+  REST   8
+  G   0  8
+
+MEASURE 35
+  LINE LH4
+  REST 64 7
+  REST   4
+  C   0  8
+  REST   4
+  E   1  8
+  REST   8
+  C   1  8
+
+MEASURE 35
+  LINE LH5
+  REST 64 7
+  REST   4
+  E   0  8
+  REST   4
+  G   1  8
+  REST   8
+  E   1  8
+# kr2l pavane.mus 37 60 8
+
+MEASURE 37
+  LINE TLRH2
+  TIELINE RH4 90
+  REST   8  7
+  C   1  8
+
+MEASURE 37
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  5
+  C   1  4
+  D   1  8
+# kr2l pavane.mus 37 60 8
+
+MEASURE 37
+  LINE TLLH2a
+  TIELINE LH4 90
+  REST   8  7
+  C  -1  8
+
+MEASURE 37
+  LINE TLLH3a
+  TIELINE LH4 92
+  REST   8  5
+  C  -1  4
+  D  -1  8
+# kr2l pavane.mus 39 60 4
+
+MEASURE 39
+  LINE RH8
+  REST   8  7
+  G   1  8
+
+MEASURE 40 
+  LINE TLRH6
+  TIELINE RH8 92
+  REST 8 5
+  G    1 4
+  REST  8
+
+MEASURE 40
+  LINE TLRH7
+  TIELINE TLRH8 92
+  REST   8
+  G   1  4
+  G   1  8 3
+  REST   8
+  TIENOTE RH8
+  G   1  8
+  TIENOTE TLRH8
+
+MEASURE 40
+  LINE RH8
+  CARRY 8
+  REST 2
+  Bb 1 4
+  REST  8
+
+MEASURE 40
+  LINE TLRH8
+  TIELINE RH9 60
+  REST   8
+  Bb  1  4
+  Bb  1  8 3
+  REST   8
+  Bb  1  8
+
+MEASURE 41
+  LINE TLRH7
+  TIELINE TLRH8 92
+  CARRY  8
+  G   1  8
+  F   1  8
+  REST   8  5
+
+MEASURE 41
+  LINE TLRH8
+  TIELINE RH9 60
+  CARRY  8
+  Bb  1  8
+  A   1  8
+  REST   8  5
+# kr2l pavane.mus 42 60 4
+
+MEASURE 42
+  LINE RH8
+  REST   1
+
+MEASURE 43
+  LINE RH8
+  REST   8  7
+  C   1  8
+# kr2l pavane.mus 44 60 4
+
+MEASURE 44
+  LINE TLRH7
+  TIELINE TLRH8 92
+  REST   8  3
+  C   1  4
+  C   1  4
+  C   1  8
+
+MEASURE 44
+  LINE RH8
+  CARRY  8
+  REST 8 7
+
+MEASURE 44
+  LINE TLRH8
+  TIELINE RH9 60
+  REST 8
+  Eb  1  4
+  Eb  1  4
+  TIENOTE RH9 LH5
+  Eb  1  4
+  TIENOTE LH5 RH9
+  Eb  1  8
+
+MEASURE 45
+  LINE TLRH7
+  TIELINE TLRH8 92
+  CARRY  8
+  C   1  8
+  Bb  0  8
+  REST   8  5
+
+MEASURE 45
+  LINE TLRH8
+  TIELINE RH9 76
+  CARRY  8
+  Eb  1  8
+  D   1  8
+  REST   8  5
+# kr2l pavane.mus 40 60 8
+
+MEASURE 40
+  LINE RH9
+  Bb  1  8
+  C   2  8
+  D   2  8
+  F   2  8  3
+  E   2  8
+  D   2  8
+# kr2l pavane.mus 41 60 8
+
+MEASURE 41
+  LINE RH9
+  E   2  8
+  C   2  8
+  D   2  8
+  REST   8  5
+# kr2l pavane.mus 44 60 8
+
+MEASURE 44
+  LINE RH9
+  Eb  1  8
+  F   1  8
+  G   1  8
+  Bb  1  8  3
+  A   1  8
+  G   1  8
+
+MEASURE 45
+  LINE RH9
+  A   1  8
+  F   1  8
+  G   1  8
+  REST   8  5
+# kr2l pavane.mus 41 60 8
+
+MEASURE 41
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   2
+  A  -1  8
+  C   0  8
+  A  -1  8
+  F  -1  8
+
+MEASURE 41
+  LINE RH4
+  REST   2
+  C   0  8
+  F   0  8
+  C   0  8
+  A  -1  8
+
+MEASURE 41
+  LINE RH5
+  REST   2
+  F   0  8
+  A   0  8
+  F   0  8
+  D   0  8
+# kr2l pavane.mus 42 60 12
+
+MEASURE 42
+  LINE TLRH3
+  TIELINE RH4 92
+  A  -1 12
+  C   0 12
+  F   0 12
+  F   0  8  3
+  A  -1  8
+  C   0  8
+  F   0  8
+
+MEASURE 42
+  LINE RH4
+  C   0 12
+  F   0 12
+  A   0 12
+  A   0  8  3
+  C   0  8
+  F   0  8
+  A   0  8
+
+MEASURE 42
+  LINE RH5
+  F   0 12
+  A   0 12
+  D   1 12
+  E   1  8  3
+  F   0  8
+  A   0  8
+  D   1  8
+# kr2l pavane.mus 46 60 12
+
+MEASURE 46
+  LINE TLRH2
+  TIELINE RH4 90
+  REST   4
+  REST   8  3
+  Bb -1  8
+  D   0  8
+  F   0  8
+
+MEASURE 46
+  LINE TLRH3
+  TIELINE RH4 92
+  D   0 12
+  F   0 12
+  A   0 12
+  Bb  0  8  3
+  D   0  8
+  F   0  8
+  A   0  8
+
+MEASURE 46
+  LINE RH4
+  F   0 12
+  A   0 12
+  D   1 12
+  D   1  8  3
+  F   0  8
+  A   0  8
+  D   1  8
+
+MEASURE 46
+  LINE RH5
+  Bb  0 12
+  D   1 12
+  F   1 12
+  A   1  8  3
+  Bb  0  8
+  D   1  8
+  F   1  8
+# kr2l pavane.mus 43 60 8
+
+MEASURE 43
+  LINE TLRH3
+  TIELINE RH4 92
+  F   0  8  3
+  F   0  8
+  REST   2
+
+MEASURE 43
+  LINE RH4
+  A   0  8  3
+  A   0  8
+  REST   2
+
+MEASURE 43
+  LINE RH5
+  E   1  8  3
+  E   1  8
+  C   1  8  3
+  REST   8
+# kr2l pavane.mus 43 60 8
+
+MEASURE 43
+  LINE RH1
+  REST   8  5
+  F   0  8
+  REST   4
+
+MEASURE 43
+  LINE RH2
+  REST   8  5
+  G   0  8
+  REST   8
+  REST   8
+
+MEASURE 43
+  LINE LH6
+  REST 8 7
+  G   0  8
+# kr2l pavane.mus 43 60 8
+
+MEASURE 43
+  LINE TLLH6
+  TIELINE LH6 88
+  REST   8  7
+  E   0  8
+# kr2l pavane.mus 45 60 8
+
+MEASURE 45
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   2
+  D   0  8
+  F   0  8
+  D   0  8
+  Bb -1  8
+
+MEASURE 45
+  LINE RH4
+  REST   2
+  F   0  8
+  A   0  8
+  F   0  8
+  D   0  8
+
+MEASURE 45
+  LINE RH5
+  REST   2
+  Bb  0  8
+  D   1  8
+  Bb  0  8
+  G   0  8
+# kr2l pavane.mus 47 60 8
+
+# kr2l pavane.mus 49 60 8
+
+MEASURE 49
+  LINE TLRH2
+  TIELINE RH4 90
+  F# -1  4
+  G  -1  4
+
+MEASURE 49
+  LINE TLRH3
+  TIELINE RH4 92
+  C   0  4
+  Bb -1  4
+
+MEASURE 49
+  LINE RH4
+  D   0  4
+  D   0  4
+
+MEASURE 49
+  LINE RH5
+  F#  0  4
+  G   0  4
+# kr2l pavane.mus 47 60 8
+
+MEASURE 47
+  LINE RH5
+  A   1  8  3
+  A   1  8
+  F   1  8  3
+  Eb  1  8
+
+MEASURE 48
+  LINE RH5
+  C   1  8  3
+  Bb  0  8
+  G   0  4
+  E   0  4
+# kr2l pavane.mus 57 60 8
+
+MEASURE 47
+  LINE RH4
+  D   1  8  3
+  C   1  8
+  Bb  0  8
+  A   0  8
+  G#  0  8
+  G   0  8
+
+MEASURE 48
+  LINE RH4
+  F   0  8
+  E   0  8
+  Eb  0  8
+  D   0  8
+  D   0  4
+  E  -1  4
+# kr2l pavane.mus 57 60 8
+
+MEASURE 47
+  LINE TLRH3a
+  TIELINE RH4 92
+  Bb  0  8  3
+  E   1  8
+  C   1  8  3
+  B   0  8
+
+MEASURE 48
+  LINE TLRH3a
+  TIELINE RH4 92
+  G   0  8  3
+  F#  0  8
+  D   0  2
+# kr2l pavane.mus 57 60 8
+
+MEASURE 47
+  LINE TLRH2a
+  TIELINE RH4 90
+  A   0  8  3
+  A   0  8
+  F   0  8  3
+  Eb  0  8
+# kr2l pavane.mus 58 60 8
+
+MEASURE 48
+  LINE TLRH2a
+  TIELINE RH4 90
+  C   0  8  3
+  Bb -1  8
+  C   0  2
+# kr2l pavane.mus 58 60 8
+
+MEASURE 48
+  LINE TLRH1a
+  TIELINE RH4 88
+  REST   2
+  G  -1  4
+  REST   4
+
+MEASURE 40
+  LINE LH5
+  REST   2
+  D   1  4
+  D   1  4
+# kr2l pavane.mus 41 60 4
+
+MEASURE 41
+  LINE LH5
+  C   1 12
+  G   0 12
+  C   1 12
+  D   0  8  3
+  D   0  4
+  D   0  8
+# kr2l pavane.mus 42 60 4
+
+MEASURE 42
+  LINE LH5
+  CARRY  8
+  C   0  8
+  B  -1  8  3
+  REST   8
+  D   0  8
+  C   0  8
+# kr2l pavane.mus 41 60 4
+
+MEASURE 41
+  LINE LH4
+  REST   8  3
+  G  -1  4
+  G  -1  4
+  G  -1  8
+
+MEASURE 42
+  LINE LH4
+  CARRY  8
+  G  -1  8
+  D  -1  8  3
+  REST   8
+  G  -1  8
+  G  -1  8
+# kr2l pavane.mus 43 60 4
+
+MEASURE 43
+  LINE LH4
+  D  -1  8  3
+  G  -1  8
+  C  -1  4
+  F   1  8
+  REST   8
+
+MEASURE 43
+  LINE LH5
+  B  -1  8  3
+  B  -1  8
+  G  -1  4
+  G   1  8
+  REST   8
+# kr2l pavane.mus 44 60 4
+
+MEASURE 44
+  LINE LH5
+  Eb  0  8
+  D   1  8
+  C   1  8
+  Bb  0  8
+  G   0  8
+  Bb  0  8
+  A   0  8
+  G   0  8
+# kr2l pavane.mus 45 60 4
+
+MEASURE 45
+  LINE LH5
+  F   0 12
+  C   0 12
+  F   0 12
+  G  -1  4
+  Bb -1  8
+  D   0  8
+  Bb -1  8
+  G  -1  8
+# kr2l pavane.mus 46 60 4
+
+MEASURE 46
+  LINE TLLH3
+  TIELINE LH4 92
+  REST  8 7
+  A  -1  8
+
+MEASURE 46
+  LINE LH4
+  PHANTOM 12
+  PHANTOM 12
+  Bb  -1 12
+  G  -1  8  3
+  D  -1  8
+  F  -1  8
+  Bb -1  8
+
+MEASURE 46
+  LINE LH5
+  Bb -1 12
+  D   0 12
+  F   0 12
+  E   0  8 3
+  G  -1  8
+  Bb -1  8
+  D   0  8
+# kr2l pavane.mus 47 60 4
+
+MEASURE 47
+  LINE LH5
+  E   0  8  3
+  E   0  8
+  C   0  4
+  REST   8
+  B  -1  8
+# kr2l pavane.mus 48 60 4
+
+MEASURE 48
+  LINE LH5
+  G  -1  4
+  REST   8
+  F# -1  8
+  D  -1  2
+# kr2l pavane.mus 49 60 4
+
+MEASURE 49
+  LINE LH5
+  D  -1  4
+  G  -2  4
+# kr2l pavane.mus 47 60 4
+
+MEASURE 47
+  LINE LH4
+  Bb -1  8  3
+  C   0  8
+  Bb -1  8
+  A  -1  8
+  G# -1  8
+  G  -1  8
+# kr2l pavane.mus 48 60 4
+
+MEASURE 48
+  LINE LH4
+  F  -1  8
+  E  -1  8
+  Eb -1  8
+  D  -1  8
+  D  -2  2
+
+MEASURE 49
+  LINE LH4
+  D  -2  4
+  G  -3  4
+# kr2l pavane.mus 47 60 4
+
+MEASURE 47
+  LINE TLLH3
+  TIELINE LH4 92
+  G  -1  8  3
+  Bb -1  8
+  F  -1  4
+  REST   8
+  F  -1  8
+# kr2l pavane.mus 48 60 4
+
+MEASURE 48
+  LINE TLLH3
+  TIELINE LH4 92
+  C  -1  4
+  REST   8
+  C  -1  8
+  REST   2
+# kr2l pavane.mus 42 60 4
+
+MEASURE 42
+  LINE LH2
+  REST   8  3
+  G  -2  8  3
+  REST   4
+
+MEASURE 43
+  LINE LH2
+  REST   8
+  G  -2  4
+  REST   8  5
+# kr2l pavane.mus 45 60 4
+
+MEASURE 45
+  LINE LH1
+  REST   8  3
+  C  -2  2
+  C  -2  8
+
+MEASURE 45
+  LINE LH2
+  REST   8  3
+  G  -2  2
+  G  -2  8
+
+MEASURE 46
+  LINE LH1
+  CARRY  4
+  REST   8
+  C  -2  8  5
+
+MEASURE 46
+  LINE LH2
+  CARRY  4
+  REST   8
+  G  -2  8  5
+
+MEASURE 47
+  LINE LH1
+  REST   8
+  C  -2  4
+  REST   8  5
+
+MEASURE 47
+  LINE LH2
+  REST   8
+  G  -2  4
+  REST   8  5
+MEASURE 38
+  MARK Large
+
+# kr2l pavane.mus 49 60 4
+
+MEASURE 49
+  LINE RH8
+  REST   8  3
+  G   1  8
+
+MEASURE 50
+  LINE TLRH3
+  TIELINE TLRH8 92
+  REST   8
+  G   1  4
+  G   1  4
+  REST   4
+  G   1  8
+
+MEASURE 50
+  LINE RH8
+  CARRY  8
+  REST 8 7
+
+MEASURE 50
+  LINE TLRH8
+  TIELINE RH9 60
+  REST   8
+  Bb  1  4
+  Bb  1  4
+  TIENOTE RH9 LH8
+  REST   4
+  Bb  1  8
+  TIENOTE RH9
+
+MEASURE 51
+  LINE TLRH3
+  TIELINE TLRH8 92
+  CARRY  8
+  G   1  4
+  REST   8  5
+
+MEASURE 51
+  LINE TLRH8
+  CARRY  8
+  Bb  1  4
+  REST   8  5
+# kr2l pavane.mus 52 60 4
+
+MEASURE 52
+  LINE RH8
+  REST   1
+
+MEASURE 53
+  LINE RH8
+  REST   8  7
+  C   1  8
+
+MEASURE 54
+  LINE TLRH3
+  TIELINE TLRH8 92
+  REST   8  3
+  C   1  4
+  REST   4
+  C   1  8
+
+MEASURE 54
+  LINE RH8
+  CARRY  8
+  REST 8 7
+
+MEASURE 54
+  LINE TLRH8 
+  TIELINE RH9 60
+  REST   8
+  Eb  1  4
+  Eb  1  4
+  TIENOTE RH9 LH8
+  REST   4
+  Eb  1  8
+  TIENOTE RH9
+
+MEASURE 55
+  LINE TLRH2
+  TIELINE TLRH8 90
+  REST   8
+  A   0  8
+  REST   4  3
+
+MEASURE 55
+  LINE TLRH3
+  TIELINE TLRH8 92
+  CARRY  8
+  C   1  8
+  REST   4  3
+
+MEASURE 55
+  LINE TLRH8
+  CARRY  8
+  Eb  1  8
+  REST   4  3
+# kr2l pavane.mus 50 60 8
+
+MEASURE 50
+  LINE RH9
+  Bb  1  8
+  C   2  8
+  D   2  8
+  F   2  8  3
+  E   2  8
+  D   2  8
+
+MEASURE 51
+  LINE RH9
+  E   2  8
+  C   2  8
+  TEMPO RESET
+  D   2  8
+  TEMPO RESET
+  REST   8  5
+
+  LINE RH8a
+  REST 4
+  REST   8 1 6
+  A   0  8 1 6
+  D   1  8 1 6
+  F   1  8 1 6
+  A   1  8 1 6
+  D   2  8 1 6
+  A   2  8
+  REST   2
+
+# kr2l pavane.mus 54 60 8
+
+MEASURE 54
+  LINE TLRH1
+  TIELINE RH9 82
+  REST   8  7
+  G   0  8
+
+MEASURE 54
+  LINE RH9
+  Eb  1  8
+  F   1  8
+  G   1  8
+  Bb  1  8  3
+  A   1  8
+  G   1  8
+# kr2l pavane.mus 55 60 8
+
+MEASURE 55
+  LINE RH9
+  A   1  8
+  F   1  8
+  TEMPO RESET
+  G   1  8
+  REST   8 5
+  LINE RH8a
+  REST   4
+  REST   8 1 6
+  TEMPO RESET
+  D 0 8 1 6
+  G 0 8 1 6
+  Bb  0  8 1 6
+  D   1  8 1 6
+  G   1  8 1 6
+  D   2  8
+  REST   2
+# kr2l pavane.mus 51 120 24
+
+MEASURE 51
+  LINE TLRH3a
+  TIELINE RH4 92
+  REST   2
+  A  -1  8
+  C   0  8
+  A  -1  8
+  F  -1  8
+
+MEASURE 51
+  LINE RH4
+  REST   2
+  C   0  8
+  F   0  8
+  C   0  8
+  A  -1  8
+
+MEASURE 51
+  LINE RH5
+  REST   2
+  F   0  8
+  A   0  8
+  F   0  8
+  D   0  8
+
+MEASURE 52
+  LINE TLRH3a
+  TIELINE RH4 92
+  A  -1 12
+  C   0 12
+  F   0 12
+  F   0  8  3
+  A  -1  8
+  C   0  8
+  F   0  8
+
+MEASURE 52
+  LINE RH4
+  C   0 12
+  F   0 12
+  A   0 12
+  A   0  8  3
+  C   0  8
+  F   0  8
+  A   0  8
+
+MEASURE 52
+  LINE RH5
+  F   0 12
+  A   0 12
+  D   1 12
+  E   1  8  3
+  F   0  8
+  A   0  8
+  D   1  8
+
+MEASURE 53
+  LINE TLRH3a
+  TIELINE RH4 92
+  F   0  8  3
+  F   0  8
+  REST   2
+
+MEASURE 53
+  LINE RH4
+  A   0  8  3
+  A   0  8
+  REST   2
+
+MEASURE 53
+  LINE RH5
+  E   1  8  3
+  E   1  8
+  C   1  8  3
+  REST   8
+# kr2l pavane.mus 55 120 24
+
+
+MEASURE 55
+  LINE TLRH3a
+  TIELINE RH4 92
+  REST   2
+  D   0  8
+  F   0  8
+  D   0  8
+  Bb -1  8
+
+MEASURE 55
+  LINE RH4
+  REST   2
+  F   0  8
+  A   0  8
+  F   0  8
+  D   0  8
+
+MEASURE 55
+  LINE RH5
+  REST   2
+  Bb  0  8
+  D   1  8
+  Bb  0  8
+  G   0  8
+
+MEASURE 56
+  LINE TLRH2a
+  TIELINE RH4 90
+  REST   8  5
+  Bb -1  8
+  D   0  8
+  F   0  8
+
+MEASURE 56
+  LINE TLRH3a
+  TIELINE RH4 92
+  D   0 12
+  F   0 12
+  A   0 12
+  Bb  0  8  3
+  D   0  8
+  F   0  8
+  A   0  8
+
+MEASURE 56
+  LINE RH4
+  F   0 12
+  A   0 12
+  D   1 12
+  D   1  8  3
+  F   0  8
+  A   0  8
+  D   1  8
+
+MEASURE 56
+  LINE RH5
+  Bb  0 12
+  D   1 12
+  F   1 12
+  A   1  8  3
+  Bb  0  8
+  D   1  8
+  F   1  8
+# kr2l pavane.mus 53 60 4
+
+MEASURE 53
+  LINE RH1
+  REST   8  5
+  F   0  8
+  REST   4
+
+MEASURE 53
+  LINE RH2
+  REST   8  5
+  G   0  8
+  REST   8
+  REST   8
+
+MEASURE 53
+  LINE LH6
+  REST 8 7
+  G   0  8
+
+MEASURE 53
+  LINE TLRH1a
+  TIELINE LH6 82
+  REST   8  7
+  E   0  8
+# kr2l pavane.mus 50 60 12
+
+MEASURE 50
+  LINE LH5
+  REST   2
+  D   1  4
+  REST   4
+
+MEASURE 50
+  LINE TLLH5
+  TIELINE RH9 76
+  REST 4 3
+  D   1  4
+
+MEASURE 51
+  LINE LH4
+  REST   8  3
+  REST   4
+  G  -1  4
+  G  -1  8
+
+LINE TLLH4
+  TIELINE LH5 90
+  REST 8 3
+  G -1 4
+  REST 8 3
+
+MEASURE 51
+  LINE LH5
+  C   1 12
+  G   0 12
+  C   1 12
+  D   0  8
+  D   0  4
+  D   0  4
+  D   0  8
+
+MEASURE 52
+  LINE LH4
+  CARRY  8
+  G  -1  8
+  D  -1  8  3
+  REST   8
+  G  -1  8
+  G  -1  8
+
+MEASURE 52
+  LINE LH5
+  CARRY  8
+  C   0  8
+  B  -1  8  3
+  REST   8
+  D   0  8
+  C   0  8
+
+MEASURE 53
+  LINE LH4
+  D  -1  8  3
+  G  -1  8
+  C  -1  4
+  REST   4
+
+MEASURE 53
+  LINE LH5
+  B  -1  8  3
+  B  -1  8
+  G  -1  4
+  REST   4
+# kr2l pavane.mus 54 60 12
+
+MEASURE 54
+  LINE LH5
+  Eb  0  8
+  D   1  8
+  C   1  8
+  Bb  0  8
+  G   0  4
+  REST   4
+
+MEASURE 54
+  LINE TLLH5
+  TIELINE RH9 76 
+  REST 4 3
+  A   0  8
+  REST   8
+
+MEASURE 55
+  LINE LH5
+  F   0 12
+  C   0 12
+  F   0 12
+  G  -1  4
+  Bb -1  8
+  D   0  8
+  Bb -1  8
+  G  -1  8
+# kr2l pavane.mus 56 60 12
+
+MEASURE 56
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8  7
+  A  -1  8
+
+MEASURE 56
+  LINE LH4
+  PHANTOM 12
+  PHANTOM 12
+  Bb -1 12
+  G  -1  8  3
+  D  -1  8
+  F  -1  8
+  Bb -1  8
+
+MEASURE 56
+  LINE LH5
+  Bb -1 12
+  D   0 12
+  F   0 12
+  E   0  8  3
+  G  -1  8
+  Bb -1  8
+  D   0  8
+# kr2l pavane.mus 52 60 4
+
+MEASURE 52
+  LINE LH2
+  REST   8  3
+  G  -2  8  3
+  REST   4
+
+MEASURE 53
+  LINE LH2
+  REST   8
+  G  -2  4
+  REST   8  5
+# kr2l pavane.mus 55 60 4
+
+MEASURE 55
+  LINE LH1
+  REST   8  3
+  REST 2
+  C  -2  8
+  LINE TLLH1
+  TIELINE LH2 90
+  REST 8 3
+  C -2 2
+  REST 8
+
+MEASURE 55
+  LINE LH2
+  REST   8  3
+  G  -2  2
+  G  -2  8
+
+MEASURE 56
+  LINE LH1
+  CARRY  4
+  REST   8
+  C  -2  8  5
+
+MEASURE 56
+  LINE LH2
+  CARRY  4
+  REST   8
+  G  -2  8  5
+# kr2l pavane.mus 57 60 4
+
+MEASURE 53
+  LINE LH7
+  REST   4  3
+  F   1  8
+  REST   8
+
+MEASURE 53
+  LINE LH8
+  REST   4  3
+  G   1  8
+  REST   8
+# kr2l pavane.mus 50 60 4
+
+MEASURE 50
+  LINE TLLH7
+  TIELINE LH8 60
+  REST   2
+  REST   8
+  Bb  1  4
+  TIENOTE LH8 RH9
+  F   2  8
+  TIENOTE LH8
+
+MEASURE 50
+  LINE TLLH6
+  TIELINE LH8 55
+  REST 8 5
+  G   1  4
+  TIENOTE LH8 RH9
+  REST   8
+
+MEASURE 50
+  LINE LH8
+  REST   2
+  TEMPO RESET
+  REST   32
+  G   1  32
+  Bb  1  32
+  F   2  32
+  G   2  8
+  REST   8
+  G   2  8
+# kr2l pavane.mus 54 60 4
+
+MEASURE 54
+  LINE TLLH7
+  TIELINE LH8 60
+  REST   2
+  REST  8 3 6
+  C   1  8 3 6
+  CARRY  4
+  TIENOTE LH8 RH9
+  Bb  1  8
+  TIENOTE LH8
+
+MEASURE 54
+  LINE TLLH6
+  TIELINE LH8 55
+  REST   2
+  REST 8 4 6 
+  Eb  1 8 2 6
+  CARRY 4
+  TIENOTE LH8 RH9
+  REST 8
+
+MEASURE 54
+  LINE LH8
+  REST   2
+  REST   8 2 6
+  Bb  0  8 1 6
+  C   1  8 1 6
+  Eb  1  8 1 6
+  Bb  1  8 1 6
+  C   2  8
+  REST   8
+  C   2  8
+
+
+REPEAT 47 48 57
+
+MEASURE 59
+  LINE TLRH2
+  TIELINE RH4 90
+  F# -1  4
+  G  -1  4
+
+MEASURE 59
+  LINE TLRH3
+  TIELINE RH4 92
+  C   0  4
+  Bb -1  4
+
+MEASURE 59
+  LINE RH4
+  D   0  4
+  D   0  4
+
+MEASURE 59
+  LINE RH5
+  F#  0  4
+  G   0  4
+# kr2l pavane.mus 47 60 8
+MEASURE 59
+  LINE LH5
+  D  -1  4
+  G  -2  4
+
+MEASURE 59
+  LINE LH4
+  D  -2  4
+  G  -3  4
+MEASURE 60
+  MARK Main-Theme-III
+
+MEASURE 67
+  MARK Reprenez-le-mouvement-(last-time)
+
+# kr2l pavane.mus 60 60 4
+
+MEASURE 60
+  LINE RH5
+  G   1  8  5
+  A   1  8
+  F#  1  8
+  E   1  8
+
+MEASURE 61
+  LINE RH5
+  D   1  4
+  E   1  8
+  F#  1  8
+  F#  1  8
+  E   1  8
+  E   1  4
+
+MEASURE 62
+  LINE RH5
+  B   1  8  5
+  C   2  8
+  A   1  8
+  G   1  8
+
+MEASURE 63
+  LINE RH5
+  F#  1  4
+  G   1  8
+  A   1  4
+  B   1  8
+  G   1  8
+  F#  1  8
+
+MEASURE 64
+  LINE RH5
+  E   1  4
+  F#  1  8
+  G   1  4
+  A   1  8
+  F#  1  8
+  E   1  8
+# kr2l pavane.mus 65 60 4
+
+MEASURE 65
+  LINE RH5
+  F#  1  2
+  REST   8
+  A   0  8
+  F#  0  8
+  E   0  8
+# kr2l pavane.mus 60 60 8
+
+MEASURE 60
+  LINE LH1
+  G  -2  4
+  RIPPLE
+  B  -1  4
+  C  -2  4
+  RIPPLE
+  B  -1  4
+
+MEASURE 60
+  LINE LH2
+  D  -1  4
+  G   0  4
+  G  -2  4
+  G   0  4
+# kr2l pavane.mus 61 60 4
+
+MEASURE 61
+  LINE LH1
+  D  -2  4
+  RIPPLE
+  B  -1  4
+  E  -2  4
+  RIPPLE
+  B  -1  4
+
+MEASURE 61
+  LINE LH2
+  B  -2  4
+  F#  0  4
+  B  -2  4
+  G  0  4
+
+MEASURE 62
+  LINE LH1
+  C  -1  4
+  RIPPLE
+  E   0  4
+  A  -2  4
+  RIPPLE
+  E   0  4
+
+MEASURE 62
+  LINE LH2
+  G  -1  4
+  C   1  4
+  E  -1  4
+  C   1  4
+# kr2l pavane.mus 63 60 4
+
+MEASURE 63
+  LINE TLLH1
+  TIELINE LH1 92
+  REST   4
+  D   0  4
+  REST   4
+  D   0  4
+
+MEASURE 63
+  LINE LH1
+  B  -2  4
+  RIPPLE
+  F#  0  4
+  G  -2  4
+  RIPPLE
+  F#  0  4
+
+MEASURE 63
+  LINE LH2
+  F# -1  4
+  B   0  4
+  D  -1  4
+  B   0  4
+# kr2l pavane.mus 64 60 4
+
+MEASURE 64
+  LINE TLLH1
+  TIELINE LH1 92
+  REST   4
+  C   0  4
+  REST   4
+  C   0  4
+
+MEASURE 64
+  LINE LH1
+  A  -2  4
+  RIPPLE
+  E   0  4
+  F# -2  4
+  RIPPLE
+  E   0  4
+
+MEASURE 64
+  LINE LH2
+  E  -1  4
+  A   0  4
+  C  -1  4
+  A   0  4
+# kr2l pavane.mus 65 60 4
+
+MEASURE 65
+  LINE LH1
+  B  -2  4
+  RIPPLE
+  B  -1  4
+  REST   2
+
+MEASURE 65
+  LINE LH2
+  F# -1  4
+  F#  0  4
+  F# -2  4
+  B  -2  8
+  D  -1  8
+
+MEASURE 66
+  LINE LH2
+  B  -2  1
+# kr2l pavane.mus 66 60 4
+
+MEASURE 66
+  LINE LH1
+  REST   2
+  B  -3  2
+# kr2l pavane.mus 66 60 4
+
+MEASURE 66
+  LINE RH4
+  VOLPERC 100
+  REST   4
+  B   0  2
+  B   0  4
+
+MEASURE 66
+  LINE RH5
+  F#  0  8
+  REST   8
+  B   1  2
+  B   1  4
+# kr2l pavane.mus 66 60 4
+
+MEASURE 66
+  LINE TLLH5a
+  TIELINE RH2 80
+  B  -1  8
+  REST   8  7
+
+MEASURE 66
+  LINE RH2
+  D   0  8
+  REST   8  7
+# kr2l pavane.mus 67 60 8
+
+
+MEASURE 67
+  METER 9 8
+  LINE RH4
+  REST 8
+  REST   8  5
+  A   0  8
+  D   1  8
+  B   0  8
+
+MEASURE 67
+  LINE RH5
+  REST 8 1 7
+  C   0 8 1 7
+  E   0 8 1 7
+  B   0 8 1 7
+  C   1 8 1 7
+  E   1 8 1 7
+  B   1 8 1 7
+  B   0  8  5
+  A   1  8
+  D   2  8
+  B   1  8
+
+MEASURE 67
+  LINE TLRH5
+  TIELINE RH5 100
+  REST 8 6 7
+  B  1 8 1 7
+  CARRY 8 5
+  REST 8 3
+
+MEASURE 68
+  METER 4 4
+  LINE RH4
+  B   0  4
+  A   0  4
+  G   0  4
+  A   0  4
+
+MEASURE 68
+  LINE RH5
+  B   1  4
+  A   1  4
+  G   1  4
+  A   1  4
+# kr2l pavane.mus 69 60 8
+
+MEASURE 69
+  LINE TLRH2
+  TIELINE RH4 90
+  REST   8  7
+  F#  0  8
+
+MEASURE 69
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  5
+  D   0  8
+  REST   8
+  C   1  8
+
+MEASURE 69
+  LINE RH4
+  E   0  8  5
+  C   1  8
+  G   0  8
+  D   1  8
+
+MEASURE 69
+  LINE RH5
+  E   1  8  5
+  D   1  8
+  G   1  8
+  F#  1  8
+# kr2l pavane.mus 70 60 8
+
+MEASURE 70
+  LINE RH5
+  E   1  4
+  B   0  4
+  B   1  4
+  RIPPLE
+  D   2  4
+# kr2l pavane.mus 71 60 8
+
+
+MEASURE 72
+  LINE RH5
+  REST 16 
+  D   2  1
+  LINE LH1
+  G -3 16 17
+  LINE LH2
+  G -2 16 17
+  LINE LH4
+  REST 16
+  G -1 1
+  LINE LH5
+  REST 16
+  D 0 1
+  LINE TLLH3
+  TIELINE LH4 92
+  REST 16
+  D -1 1
+
+MEASURE 70
+  LINE RH4
+  B   0  8
+  B  -1  8
+  D   0  8
+  E   0  8
+  D   1  4
+  C   1 12
+  B   0 12
+  A   0 12
+# kr2l pavane.mus 71 60 12
+
+MEASURE 71
+  LINE LH1
+  G -3 4 5
+  LINE LH2
+  G -2 4 5
+  LINE LH3
+  REST 8
+  F# -1 8
+  CARRY 2
+  E -2 4
+  D -2 4
+  LINE LH4
+  REST 8
+  REST 8 1 6
+  B -1 8 5 6
+  CARRY 1
+  LINE TLLH4
+  TIELINE LH4 100
+  REST 8
+  REST 8 1 6 
+  B -1 8 5 6
+  TIENOTE LH4 LH1
+  CARRY 1
+  LINE LH5
+  REST 8
+  REST 8 2 6
+  F# 0 8 4 6
+  CARRY 2
+  E -1 4
+  D -1 4
+  LINE RH5
+  REST 8
+  REST 8 3 6
+  B 0 8 3 6
+  CARRY 1
+  LINE RH6
+  REST 8
+  REST 8 4 6
+  F# 1 8 2 6
+  CARRY 1
+  LINE RH7
+  REST 8
+  REST 8 5 6
+  B 1 8 1 6
+  CARRY 1
+  LINE RH8
+  REST 8
+  REST 8
+  D 2 1
+
+  
+MEASURE 71
+  METER 5 4
+  LINE RH4
+  REST   4 3
+  E   0  4
+  D   0  4
+
+MEASURE 72
+  METER 17 16
+  LINE RH4
+  REST 16
+  G   1  1
+# kr2l pavane.mus 70 60 8
+
+MEASURE 70
+  LINE TLRH2
+  TIELINE RH5 80
+  REST   4  3
+  E   1  4
+
+MEASURE 70
+  LINE TLRH3
+  TIELINE RH5 82
+  E   0  4
+  REST   2
+  A   1  4
+# kr2l pavane.mus 72 60 8
+
+MEASURE 72
+  LINE TLRH3
+  TIELINE RH4 92
+  REST 16
+  D   1  1
+# kr2l pavane.mus 70 60 8
+
+MEASURE 70
+  LINE RH1
+  REST   2
+  G# -1  4
+  REST   4
+
+MEASURE 70
+  LINE RH2
+  REST   2
+  D   0  4
+  REST   4
+
+MEASURE 70
+  LINE RH3
+  REST   2
+  F#  0  4
+  REST   4
+# kr2l pavane.mus 67 60 4
+
+MEASURE 67
+  LINE TLRH4
+  TIELINE RH4 92
+  REST 8
+  REST   8  5
+  A  -1  8
+  D   0  8
+  B  -1  8
+
+MEASURE 68
+  LINE TLRH4
+  TIELINE RH4 92
+  B  -1  4
+  F# -1  4
+  B  -1  4
+  A  -1  4
+# kr2l pavane.mus 67 60 4
+
+MEASURE 67
+  LINE RH3
+  REST 8
+  REST   2
+  B  -1  8
+  REST   8  3
+# kr2l pavane.mus 67 60 8
+
+MEASURE 67
+  LINE TLLH1
+  TIELINE LH2 90
+  REST 8
+  A -2 2
+  REST 2
+  LINE LH2
+  REST 8
+  E -1 2
+  REST 2
+MEASURE 67
+  LINE TLLH2
+  TIELINE LH4 90
+  REST  8
+  REST   8  5
+  E   0  8
+  REST   8
+  C   0  8
+
+MEASURE 67
+  LINE TLLH3
+  TIELINE LH4 92
+  REST 8
+  REST   8  5
+  G   0  8
+  REST   8
+  E   0  8
+
+MEASURE 67
+  LINE LH4
+  REST 8
+  REST   8  5
+  E   1  8
+  REST   8
+  C   1  8
+
+MEASURE 67
+  LINE LH5
+  B  -1  8 5
+  REST   8
+  G   1  8
+  REST   8
+  E   1  8
+# kr2l pavane.mus 68 60 8
+
+MEASURE 68
+  LINE LH1
+  REST   8
+  D  -2  4
+  REST   8  5
+
+MEASURE 68
+  LINE LH2
+  REST   8
+  A  -2  4
+  REST   8 5
+
+MEASURE 68 
+  LINE TLLH2
+  TIELINE LH4 90
+  REST 8 3
+  C   0  4
+  C   0  4
+  C   0  8
+
+MEASURE 68
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  F# -1  4
+  E   0  4
+  E   0  4
+  E   0  8
+
+MEASURE 68
+  LINE LH4
+  REST   8
+  C   0  4
+  C   1  4
+  C   1  4
+  C   1  8
+
+MEASURE 68
+  LINE LH5
+  REST   8
+  E   0  4
+  E   1  4
+  E   1  4
+  E   1  8
+
+MEASURE 69
+  LINE TLLH2
+  TIELINE LH4 90
+  CARRY  8
+  B  -1  4
+  B  -1  4
+  REST   8  3
+
+MEASURE 69
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  8
+  E   0  4
+  E   0  4
+  REST   8  3
+
+MEASURE 69
+  LINE LH4
+  CARRY  8
+  B   0  4
+  B   0  4
+  REST   8  3
+
+MEASURE 69
+  LINE LH5
+  CARRY  8
+  E   1  4
+  E   1  4
+  REST   8  3
+# kr2l pavane.mus 70 60 8
+
+MEASURE 70
+  LINE LH5
+  REST   8
+  B  -2  8
+  D  -1  8
+  E  -1  8
+  F# -1  4
+  E   0  4
+# kr2l pavane.mus 70 60 12
+
+MEASURE 70
+  LINE LH4
+  REST   2
+  B  -2  4
+  C   0 12
+  B  -1 12
+  A  -1 12
+# kr2l pavane.mus 70 60 8
+
+MEASURE 70
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4  3
+  F# -1  4
+# kr2l pavane.mus 69 60 8
+
+MEASURE 69
+  LINE TLLH1
+  TIELINE LH2 90
+  REST   8  5
+  D  -2  8
+  REST   8
+  C  -1  8
+
+MEASURE 69
+  LINE LH1
+  REST   2
+  E  -2  8
+  C  -1  8
+  G  -2  8
+  D  -1  8
+
+MEASURE 69
+  LINE LH2
+  G  -1  2
+  E  -1  8
+  D  -1  8
+  G  -1  8
+  F# -1  8
+# kr2l pavane.mus 70 60 8
+
+MEASURE 70
+  LINE LH2
+  E  -1  4
+  REST   4
+  E  -2 32  7
+  RIPPLE
+  A  -2 32  9
+# kr2l pavane.mus 70 60 8
+
+MEASURE 70
+  LINE LH1
+  B  -2  8
+  REST 8 3
+  REST 32 7
+  D  -2  32 9
+# kr2l pavane.mus 70 60 8
+
+MEASURE 70
+  LINE TLLH1
+  TIELINE LH2 90
+  E  -2  4
+  REST   4  3
+# kr2l pavane.mus 67 60 4
+
+MEASURE 67
+  LINE RH1
+  REST   4
+  C   1  8
+  REST   8
+  C   1  8
+  REST   2
+
+MEASURE 67
+  LINE RH2
+  REST   4
+  E   1  8
+  REST   8
+  E   1  8
+  REST   2
+# kr2l pavane.mus 67 60 4
+
+MEASURE 67
+  LINE LH8
+  REST   8
+  REST   4
+  C   0  8
+  REST   8  5
+
+MEASURE 67
+  LINE LH9
+  REST   8
+  REST   4
+  E   0  8
+  REST   8  5
+# kr2l pavane.mus 28 60 4
+
+MEASURE 28
+  LINE LH4
+  REST   4
+  B  -1  4
+  REST   4
+  B  -1  4
+
+MEASURE 28
+  LINE LH5
+  B  -1  4
+  G   0  4
+  E  -1  4
+  G   0  4
+
+MEASURE 29
+  LINE LH4
+  REST   4
+  B  -1  4
+  REST   4
+  B  -1  4
+
+MEASURE 29
+  LINE LH5
+  F# -1  4
+  F#  0  4
+  G  -1  4
+  G   0  4
+# kr2l pavane.mus 30 60 4
+
+MEASURE 30
+  LINE LH4
+  REST   4
+  E   0  4
+  REST   4
+  E   0  4
+
+MEASURE 30
+  LINE LH5
+  E   0  4
+  C   1  4
+  C   0  4
+  C   1  4
+
+MEASURE 31
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  D   0  4
+  REST   4
+  D   0  4
+
+MEASURE 31
+  LINE LH4
+  REST   4
+  F#  0  4
+  REST   4
+  F#  0  4
+
+MEASURE 31
+  LINE LH5
+  D   0  4
+  B   0  4
+  B  -1  4
+  B   0  4
+
+MEASURE 32
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  4
+  REST   4
+  C   0  4
+
+MEASURE 32
+  LINE LH4
+  REST   4
+  E   0  4
+  REST   4
+  E   0  4
+
+MEASURE 32
+  LINE LH5
+  C   0  4
+  A   0  4
+  A  -1  4
+  A   0  4
+# kr2l pavane.mus 33 60 4
+
+MEASURE 33
+  LINE LH4
+  REST   4
+  B  -1  4
+  REST   2
+
+MEASURE 33
+  LINE LH5
+  D   0  4
+  F#  0  4
+  REST   2
+# kr2l pavane.mus 28 60 8
+
+MEASURE 28
+  LINE TLRH1
+  TIELINE RH1 82
+  D   0  8
+  REST   8
+  D   0  8
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+  REST   8
+
+MEASURE 28
+  LINE RH1
+  B   0  8
+  D   1  8
+  B   0  8
+  D   1  8
+  B   0  8
+  E   1  8
+  B   0  8
+  PHANTOM  8
+# kr2l pavane.mus 29 60 8
+
+MEASURE 29
+  LINE TLRH1
+  TIELINE RH1 82
+  B  -1  8
+  REST   8  3
+  E   0  8
+  REST   8  3
+
+MEASURE 29
+  LINE RH1
+  F#  0  8
+  B   0  8
+  PHANTOM   8
+  B   0  8
+  B   0  8
+  B   0  8
+  E   0  8
+  B   0  8
+
+MEASURE 30
+  LINE TLRH1
+  TIELINE RH1 82
+  B   0  8
+  REST   8
+  REST   8
+  REST   8
+  B   0  8
+  REST   8
+  G   0  8
+  REST   8
+
+MEASURE 30
+  LINE RH1
+  C   1  8
+  E   1  8
+  B   0  8
+  E   1  8
+  C   1  8
+  E   1  8
+  A   0  8
+  E   1  8
+
+MEASURE 31
+  LINE TLRH1
+  TIELINE RH1 82
+  REST   8
+  B   0  8
+  REST   4
+  F#  0  8
+  REST   8  3
+
+MEASURE 31
+  LINE RH1
+  PHANTOM  8
+  D   1  8
+  PHANTOM  8
+  D   1  8
+  B   0  8
+  D   1  8
+  G   0  8
+  D   1  8
+# kr2l pavane.mus 32 60 8
+
+MEASURE 32
+  LINE TLRH1
+  TIELINE RH1 82
+  REST   2
+  E   0  8
+  REST   8  3
+
+MEASURE 32
+  LINE RH1
+  B   0  8
+  C   1  8
+  PHANTOM  8
+  C   1  8
+  A   0  8
+  C   1  8
+  F#  0  8
+  C   1  8
+
+MEASURE 33
+  LINE TLRH1
+  TIELINE RH1 82
+  F#  0  8
+  REST   8
+  D   0  8
+  REST   8  5
+
+MEASURE 33
+  LINE RH1
+  B   0  8
+  D   1  8
+  B   0  8
+  D   1  8
+  REST   2
+# kr2l pavane.mus 60 60 4
+
+MEASURE 60
+  LINE LH4
+  B  -1  4
+  REST   4
+  E  -1  4
+  REST   4
+
+MEASURE 61
+  LINE LH4
+  F# -1  4
+  REST   4
+  G  -1  4
+  REST   4
+
+MEASURE 62
+  LINE LH4
+  E   0  4
+  REST   4
+  C   0  4
+  REST   4
+
+MEASURE 63
+  LINE LH4
+  D   0  4
+  REST   4
+  B  -1  4
+  REST   4
+
+MEASURE 64
+  LINE LH4
+  C   0  4
+  REST   4
+  A  -1  4
+  REST   4
+
+MEASURE 65
+  LINE LH4
+  D   0  4
+  REST   4  3
+# kr2l pavane.mus 60 60 8
+
+MEASURE 60
+  LINE RH4
+  VOLPERC 78
+  D   0 16
+  B   0 16
+  D   1 16
+  B   0 16
+  D   0 16
+  B   0 16
+  D   1 16
+  B   0 16
+  E   0 16
+  B   0 16
+  E   1 16
+  B   0 16
+  E   0 16
+  B   0 16
+  PHANTOM  16
+  B   0 16
+# kr2l pavane.mus 61 60 8
+
+MEASURE 61
+  LINE RH4
+  B  -1 16
+  F#  0 16
+  B   0 16
+  F#  0 16
+  PHANTOM  16
+  F#  0 16
+  B   0 16
+  F#  0 16
+  E   0 16
+  B   0 16
+  PHANTOM  16
+  B   0 16
+  E   0 16
+  B   0 16
+  E   1 16
+  B   0 16
+# kr2l pavane.mus 62 60 8
+
+MEASURE 62
+  LINE TLRH3
+  TIELINE RH4 89
+  REST   4  3
+  G   0 16
+  REST  16  3
+
+MEASURE 62
+  LINE RH4
+  B   0 16
+  C   1 16
+  E   1 16
+  C   1 16
+  B   0 16
+  C   1 16
+  E   1 16
+  C   1 16
+  B   0 16
+  C   1 16
+  E   1 16
+  C   1 16
+  A   0 16
+  C   1 16
+  E   1 16
+  C   1 16
+# kr2l pavane.mus 63 60 8
+
+MEASURE 63
+  LINE RH4
+  PHANTOM  16
+  B   0 16
+  D   1 16
+  B   0 16
+  PHANTOM  16
+  B   0 16
+  D   1 16
+  B   0 16
+  F#  0 16
+  B   0 16
+  D   1 16
+  B   0 16
+  G   0 16
+  B   0 16
+  D   1 16
+  B   0 16
+
+MEASURE 64
+  LINE RH4
+  PHANTOM 16
+  B   0 16
+  C   1 16
+  B   0 16
+  PHANTOM  16
+  B   0 16
+  C   1 16
+  B   0 16
+  E   0 16
+  A   0 16
+  C   1 16
+  A   0 16
+  F#  0 16
+  A   0 16
+  C   1 16
+  A   0 16
+# kr2l pavane.mus 65 60 8
+
+MEASURE 65
+  LINE RH4
+  F#  0 16
+  B   0 16
+  D   1 16
+  B   0 16
+  D   0 16
+  B   0 16
+  D   1 16
+  B   0 16
+  A   0 16
+  E   0 16
+  E   0 16
+  C   0 16
+  D   0 16
+  B  -1 16
+  C   0 16
+  F# -1 16
+# kr2l pavane.mus 63 60 4
+
+MEASURE 63
+  LINE TLRH1
+  TIELINE RH5 82
+  F#  0  4
+  G   0  8
+  A   0  8
+  TIENOTE RH5 RH4
+  REST   2
+
+MEASURE 64
+  LINE TLRH1
+  TIELINE RH5 82
+  E 0 4
+  F# 0 8
+  G  0 8
+  TIENOTE RH5 RH4
+  REST 2
+

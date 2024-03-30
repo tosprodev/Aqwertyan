@@ -1,0 +1,532 @@
+NAME How Great Thou Art
+
+MEASURE 1
+  METER 4 4
+  TEMPO 4 72.000000
+  KEY 2b
+
+
+# kr2l how-great.mus 1 40 8
+
+MEASURE 1
+  LINE LH4
+  REST   8  5
+  Bb -2  8
+  Bb -2  8
+  Bb -2  8
+
+MEASURE 1
+  LINE LH5
+  REST   8  5
+  Bb -1  8
+  Bb -1  8
+  Bb -1  8
+
+MEASURE 1
+  LINE RH4
+  REST   8  5
+  D   0  8
+  D   0  8
+  D   0  8
+
+MEASURE 1
+  LINE RH5
+  REST   8  5
+  F   0  8
+  F   0  8
+  F   0  8
+
+MEASURE 2
+  LINE LH4
+  Bb -2  8  3
+  Bb -2  8
+  C  -1  8
+  D  -1  8
+  Eb -1  8
+  Eb -1  8
+
+MEASURE 2
+  LINE LH5
+  F  -1  8  3
+  Bb -1  8
+  A  -1  8
+  F  -1  8
+  Bb -1  8
+  Bb -1  8
+
+MEASURE 2
+  LINE RH4
+  Bb -1  8  3
+  D   0  8
+  Eb  0  8
+  Bb -1  8
+  Eb  0  8
+  Eb  0  8
+
+MEASURE 2
+  LINE RH5
+  D   0  8  3
+  F   0  8
+  F   0  8
+  F   0  8
+  G   0  8
+  G   0  8
+
+MEASURE 3
+  LINE LH4
+  Eb -1  4
+  Eb -1  8  3
+  Eb -1  8
+  Eb -1  8
+  E  -1  8
+
+MEASURE 3
+  LINE LH5
+  G  -1  4
+  Bb -1  8  3
+  Bb -1  8
+  Bb -1  8
+  Bb -1  8
+
+MEASURE 3
+  LINE RH4
+  Bb -1  4
+  Eb  0  8  3
+  Eb  0  8
+  Eb  0  8
+  C#  0  8
+
+MEASURE 3
+  LINE RH5
+  Eb  0  4
+  G   0  8  3
+  G   0  8
+  G   0  8
+  G   0  8
+
+MEASURE 4
+  LINE LH4
+  F  -1  8  3
+  REST   8
+  F  -2  8
+  F  -2  8
+  F  -2  8
+  F  -2  8
+
+MEASURE 4
+  LINE LH5
+  Bb -1  8  3
+  F  -1  8
+  A  -1  8
+  A  -1  8
+  G  -1  8
+  F  -1  8
+
+MEASURE 4
+  LINE RH4
+  D   0  8  3
+  Bb -1  8
+  D   0  8
+  D   0  8
+  C   0  8
+  A  -1  8
+
+MEASURE 4
+  LINE RH5
+  F   0  8  3
+  D   0  8
+  F   0  8
+  F   0  8
+  Eb  0  8
+  Eb  0  8
+
+MEASURE 5
+  LINE LH4
+  Bb -2  8  5
+  Bb -2  8
+  Bb -2  8
+  Bb -2  8
+
+MEASURE 5
+  LINE LH5
+  F  -1  8  5
+  Bb -1  8
+  Bb -1  8
+  Bb -1  8
+
+MEASURE 5
+  LINE RH4
+  Bb -1  8  5
+  D   0  8
+  D   0  8
+  D   0  8
+
+MEASURE 5
+  LINE RH5
+  D   0  8  5
+  F   0  8
+  F   0  8
+  F   0  8
+
+MEASURE 6
+  LINE LH4
+  Bb -2  8  3
+  Bb -2  8
+  C  -1  8
+  D  -1  8
+  Eb -1  8
+  Eb -1  8
+
+MEASURE 6
+  LINE LH5
+  F  -1  8  3
+  Bb -1  8
+  A  -1  8
+  F  -1  8
+  Bb -1  8
+  Bb -1  8
+
+MEASURE 6
+  LINE RH4
+  Bb -1  8  3
+  D   0  8
+  Eb  0  8
+  Bb -1  8
+  Eb  0  8
+  Eb  0  8
+
+MEASURE 6
+  LINE RH5
+  D   0  8  3
+  F   0  8
+  F   0  8
+  F   0  8
+  G   0  8
+  G   0  8
+# kr2l how-great.mus 7 40 8
+
+MEASURE 7
+  LINE LH4
+  Eb -1  4
+  Eb -1  8  3
+  Eb -1  8
+  Eb -1  8
+  E  -1  8
+
+MEASURE 7
+  LINE LH5
+  G  -1  4
+  Bb -1  8  3
+  Bb -1  8
+  Bb -1  8
+  Bb -1  8
+
+MEASURE 7
+  LINE RH4
+  Bb -1  4
+  Eb  0  8  3
+  Eb  0  8
+  Eb  0  8
+  C#  0  8
+
+MEASURE 7
+  LINE RH5
+  Eb  0  4
+  G   0  8  3
+  G   0  8
+  G   0  8
+  G   0  8
+
+MEASURE 8
+  LINE LH4
+  F  -1  8  3
+  REST   8
+  F  -2  8
+  F  -2  8
+  F  -2  8
+  F  -2  8
+
+MEASURE 8
+  LINE LH5
+  Bb -1  8  3
+  F  -1  8
+  A  -1  8
+  A  -1  8
+  G  -1  8
+  F  -1  8
+
+MEASURE 8
+  LINE RH4
+  D   0  8  3
+  Bb -1  8
+  D   0  8
+  D   0  8
+  C   0  8
+  A  -1  8
+
+MEASURE 8
+  LINE RH5
+  F   0  8  3
+  D   0  8
+  F   0  8
+  F   0  8
+  Eb  0  8
+  Eb  0  8
+
+MEASURE 9
+  LINE LH4
+  Bb -2  8  5
+  Bb -2  8
+  Bb -2  8
+  Bb -2  8
+
+MEASURE 9
+  LINE LH5
+  F  -1  8  5
+  Bb -1  8
+  Bb -1  8
+  Bb -1  8
+
+MEASURE 9
+  LINE RH4
+  Bb -1  8  5
+  D   0  8
+  D   0  8
+  D   0  8
+
+MEASURE 9
+  LINE RH5
+  D   0  8  5
+  F   0  8
+  F   0  8
+  Bb  0  8
+
+MEASURE 10
+  LINE LH4
+  Bb -2  8  3
+  D  -1  8
+  Eb -1  8
+  Eb -1  8
+  Eb -1  8
+  Eb -1  8
+
+MEASURE 10
+  LINE LH5
+  Bb -1  8  3
+  Bb -1  8
+  Eb  0  8
+  Eb  0  8
+  Eb  0  8
+  Bb -1  8
+
+MEASURE 10
+  LINE RH4
+  F   0  8  3
+  Ab  0  8
+  G   0  8
+  F#  0  8
+  G   0  8
+  Eb  0  8
+
+MEASURE 10
+  LINE RH5
+  D   1  8  3
+  C   1  8
+  Bb  0  8
+  A   0  8
+  Bb  0  8
+  G   0  8
+# kr2l how-great.mus 11 40 8
+
+MEASURE 11
+  LINE LH4
+  Bb -2  8  5
+  Bb -2  8
+  REST   8
+  F  -1  8
+
+MEASURE 11
+  LINE LH5
+  Bb -1  8  5
+  F  -1  8
+  F  -1  8
+  C   0  8
+
+MEASURE 11
+  LINE RH4
+  D   0  8  5
+  D   0  8
+  D   0  8
+  Eb  0  8
+
+MEASURE 11
+  LINE RH5
+  F   0  8  5
+  Bb  0  8
+  Bb  0  8
+  A   0  8
+
+MEASURE 12
+  LINE LH4
+  F  -2  8  5
+  F  -2  8
+  F  -2  8
+  F  -2  8
+
+MEASURE 12
+  LINE LH5
+  F  -1  8  5
+  A  -1  8
+  Bb -1  8
+  A  -1  8
+
+MEASURE 12
+  LINE RH4
+  A  -1  8  5
+  C   0  8
+  Eb  0  8
+  C   0  8
+
+MEASURE 12
+  LINE RH5
+  C   0  8  5
+  Eb  0  8
+  G   0  8
+  F   0  8
+
+MEASURE 13
+  LINE LH4
+  Bb -2  8  5
+  Bb -2  8
+  Bb -2  8
+  Bb -2  8
+
+MEASURE 13
+  LINE LH5
+  F  -1  8  5
+  Bb -1  8
+  Bb -1  8
+  Bb -1  8
+
+MEASURE 13
+  LINE RH4
+  Bb -1  8  5
+  D   0  8
+  D   0  8
+  D   0  8
+
+MEASURE 13
+  LINE RH5
+  D   0  8  5
+  F   0  8
+  F   0  8
+  Bb  0  8
+
+MEASURE 14
+  LINE LH4
+  Bb -2  8  3
+  D  -1  8
+  Eb -1  8
+  Eb -1  8
+  Eb -1  8
+  Eb -1  8
+
+MEASURE 14
+  LINE LH5
+  Bb -1  8  3
+  Bb -1  8
+  Eb  0  8
+  Eb  0  8
+  Eb  0  8
+  Bb -1  8
+
+MEASURE 14
+  LINE RH4
+  F   0  8  3
+  Ab  0  8
+  G   0  8
+  F#  0  8
+  G   0  8
+  Eb  0  8
+
+MEASURE 14
+  LINE RH5
+  D   1  8  3
+  C   1  8
+  Bb  0  8
+  A   0  8
+  Bb  0  8
+  G   0  8
+
+MEASURE 15
+  LINE LH4
+  Bb -2  8  5
+  Bb -2  8
+  C  -1  8
+  D  -1  8
+
+MEASURE 15
+  LINE LH5
+  Bb -1  8  5
+  Bb -1  8
+  F  -1  8
+  Bb -1  8
+
+MEASURE 15
+  LINE RH4
+  D   0  8  5
+  D   0  8
+  Eb  0  8
+  F   0  8
+
+MEASURE 15
+  LINE RH5
+  F   0  8  5
+  Bb  0  8
+  A   0  8
+  Bb  0  8
+# kr2l how-great.mus 16 40 8
+
+MEASURE 16
+  LINE LH4
+  Eb -1  8  5
+  D  -1  8
+  C  -1  8
+  F  -1  8
+
+MEASURE 16
+  LINE LH5
+  Bb -1  8  5
+  B  -1  8
+  C   0  8
+  C   0  8
+
+MEASURE 16
+  LINE RH4
+  G   0  8  5
+  F   0  8
+  G   0  8
+  Eb  0  8
+
+MEASURE 16
+  LINE RH5
+  C   1  8  5
+  D   1  8
+  Eb  1  8
+  A   0  8
+
+MEASURE 17
+  LINE LH4
+  Bb -2  1
+
+MEASURE 17
+  LINE LH5
+  Bb -1  1
+
+MEASURE 17
+  LINE RH4
+  D   0  1
+
+MEASURE 17
+  LINE RH5
+  Bb  0  1

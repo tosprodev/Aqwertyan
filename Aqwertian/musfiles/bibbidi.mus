@@ -1,0 +1,633 @@
+NAME Bibbidi Bobbity Boo
+
+MEASURE 1
+METER 4 4
+TEMPO 4 80
+KEY 1b
+
+# kr2l tmp bibbidi.mus 1 48 4 0 88 /tmp/kr2l
+
+MEASURE 1
+  LINE RH8
+  C   1 12
+  B   0 12
+  C   1 12
+  D   1  6
+  C   1 12
+  A   0 16
+  Ab  0 48  5
+  A   0 12
+  Bb  0  6
+  A   0 12
+
+MEASURE 2
+  LINE RH8
+  F   0 12
+  F   0 12
+  F   0 12
+  F   0 12
+  E   0 12
+  D   0 12
+  C   0  4
+  REST   4
+
+MEASURE 3
+  LINE RH8
+  C   0 12
+  D   0 12
+  E   0 12
+  F   0 12
+  G   0 12
+  A   0 12
+  Bb  0 12
+  A   0 12
+  G   0 12
+  C   1  4
+
+MEASURE 4
+  LINE RH8
+  C   1 12
+  D   1 12
+  C   1 12
+  Bb  0 12
+  A   0 12
+  G   0 12
+  F   0  4
+  REST   4
+
+MEASURE 5
+  LINE RH8
+  C   1 12
+  B   0 12
+  C   1 12
+  D   1  6
+  C   1 12
+  A   0 16
+  Ab  0 48  5
+  A   0 12
+  Bb  0  6
+  A   0 12
+
+MEASURE 6
+  LINE RH8
+  F   0 12
+  F   0 12
+  F   0 12
+  F   0 12
+  E   0 12
+  D   0 12
+  C   0  4
+  REST   4
+
+MEASURE 7
+  LINE RH8
+  C   0 12
+  D   0 12
+  E   0 12
+  F   0 12
+  G   0 12
+  A   0 12
+  Bb  0 12
+  A   0 12
+  G   0 12
+  C   1  4
+
+MEASURE 8
+  LINE RH8
+  C   1 12
+  D   1 12
+  C   1 12
+  Bb  0 12
+  A   0 12
+  G   0 12
+  F   0  4
+  REST   4
+
+MEASURE 9
+  LINE RH8
+  Bb  0 12
+  Bb  0 12
+  Bb  0 12
+  G   0  6
+  F   0 12
+  Bb  0  4
+  REST   4
+
+MEASURE 10
+  LINE RH8
+  A   0 12
+  A   0 12
+  A   0 12
+  G   0  6
+  F   0 12
+  A   0  4
+  REST  12
+  A   0 12
+  Ab  0 12
+
+MEASURE 11
+  LINE RH8
+  G   0 12
+  G   0 12
+  G   0 12
+  G   0  6
+  G   0 12
+  G   0  6
+  G   0 12
+  G   0  6
+  F   0 12
+
+MEASURE 12
+  LINE RH8
+  E   0 12
+  Eb  0 12
+  E   0 12
+  F   0 12
+  E   0 12
+  F   0 12
+  G   0  4
+  C   2  4
+
+MEASURE 13
+  LINE RH8
+  C   1 12
+  B   0 12
+  C   1 12
+  D   1  6
+  C   1 12
+  A   0 16
+  Ab  0 48  5
+  A   0 12
+  Bb  0  6
+  A   0 12
+
+MEASURE 14
+  LINE RH8
+  F   0 12
+  F   0 12
+  F   0 12
+  F   0 12
+  E   0 12
+  D   0 12
+  C   0  4
+  REST   4
+
+MEASURE 15
+  LINE RH8
+  C   0 12
+  D   0 12
+  E   0 12
+  F   0 12
+  G   0 12
+  A   0 12
+  Bb  0 12
+  A   0 12
+  G   0 12
+  C   1  4
+
+MEASURE 16
+  LINE RH8
+  C   1 12
+  D   1 12
+  C   1 12
+  Bb  0 12
+  A   0 12
+  G   0 12
+  C   1 12
+  D   1 12
+  C   1 12
+  Bb  0 12
+  A   0 12
+  G   0 12
+
+MEASURE 17
+  LINE RH8
+  C   1 16
+  D   1 48  5
+  C   1 12
+  Bb  0 12
+  A   0 12
+  G   0 12
+  F   0  4
+  F   2  4
+# kr2l tmp bibbidi.mus 1 48 4 0 88 /tmp/kr2l
+
+MEASURE 1
+  LINE TLRH5
+  TIELINE RH8 70
+  C  -1  4
+  D  -1  4
+  E  -1  4
+  D  -1  4
+
+MEASURE 1
+  LINE TLRH6
+  TIELINE RH8 70
+  F  -1  4
+  F  -1  4
+  F  -1  4
+  F  -1  4
+
+MEASURE 1
+  LINE TLRH7
+  TIELINE RH8 70
+  A  -1  4
+  A  -1  4
+  A  -1  4
+  A  -1  4
+
+MEASURE 2
+  LINE TLRH5
+  TIELINE RH8 70
+  C  -1  4
+  D  -1  4
+  E  -1  4
+  REST   4
+
+MEASURE 2
+  LINE TLRH6
+  TIELINE RH8 70
+  F  -1  4
+  F  -1  4
+  F  -1  4
+  REST   4
+
+MEASURE 2
+  LINE TLRH7
+  TIELINE RH8 70
+  A  -1  4
+  A  -1  4
+  A  -1  4
+  REST   4
+
+MEASURE 3
+  LINE TLRH5
+  TIELINE RH8 70
+  REST   4  3
+  G  -1  4
+
+MEASURE 3
+  LINE TLRH6
+  TIELINE RH8 70
+  REST   4  3
+  Bb -1  4
+
+MEASURE 3
+  LINE TLRH7
+  TIELINE RH8 70
+  E  -1 12
+  F  -1 12
+  G  -1 12
+  A  -1 12
+  Bb -1 12
+  C   0 12
+  D   0 12
+  C   0 12
+  Bb -1 12
+  E   0  4
+
+MEASURE 4
+  LINE TLRH5
+  TIELINE RH8 70
+  G  -1  4
+  REST   4
+  F  -1  4
+  REST   4
+
+MEASURE 4
+  LINE TLRH6
+  TIELINE RH8 70
+  Bb -1  4
+  REST   4
+  A  -1  4
+  REST   4
+
+MEASURE 4
+  LINE TLRH7
+  TIELINE RH8 70
+  E   0  4
+  REST   4
+  C   0  4
+  REST   4
+# kr2l tmp bibbidi.mus 5 48 4 0 88 /tmp/kr2l
+
+MEASURE 5
+  LINE TLRH5
+  TIELINE RH8 70
+  C  -1  4
+  D  -1  4
+  E  -1  4
+  D  -1  4
+
+MEASURE 5
+  LINE TLRH6
+  TIELINE RH8 70
+  F  -1  4
+  F  -1  4
+  F  -1  4
+  F  -1  4
+
+MEASURE 5
+  LINE TLRH7
+  TIELINE RH8 70
+  A  -1  4
+  A  -1  4
+  A  -1  4
+  A  -1  4
+
+MEASURE 6
+  LINE TLRH5
+  TIELINE RH8 70
+  C  -1  4
+  D  -1  4
+  E  -1  4
+  REST   4
+
+MEASURE 6
+  LINE TLRH6
+  TIELINE RH8 70
+  F  -1  4
+  F  -1  4
+  F  -1  4
+  REST   4
+
+MEASURE 6
+  LINE TLRH7
+  TIELINE RH8 70
+  A  -1  4
+  A  -1  4
+  A  -1  4
+  REST   4
+
+MEASURE 7
+  LINE TLRH5
+  TIELINE RH8 70
+  REST   4  3
+  G  -1  4
+
+MEASURE 7
+  LINE TLRH6
+  TIELINE RH8 70
+  REST   4  3
+  Bb -1  4
+
+MEASURE 7
+  LINE TLRH7
+  TIELINE RH8 70
+  E  -1 12
+  F  -1 12
+  G  -1 12
+  A  -1 12
+  Bb -1 12
+  C   0 12
+  D   0 12
+  C   0 12
+  Bb -1 12
+  E   0  4
+
+MEASURE 8
+  LINE TLRH5
+  TIELINE RH8 70
+  G  -1  4
+  REST   4
+  F  -2  4
+  REST   4
+
+MEASURE 8
+  LINE TLRH6
+  TIELINE RH8 70
+  Bb -1  4
+  REST   4
+  C  -1  4
+  REST   4
+
+MEASURE 8
+  LINE TLRH7
+  TIELINE RH8 70
+  C   0  4
+  REST   4
+  A  -1  4
+  REST   4
+
+MEASURE 9
+  LINE TLRH5
+  TIELINE RH8 70
+  D  -1  4
+  REST   4
+  Bb -2  4
+  REST   4
+
+MEASURE 9
+  LINE TLRH6
+  TIELINE RH8 70
+  F  -1  4
+  REST   4
+  F  -1  4
+  REST   4
+
+MEASURE 9
+  LINE TLRH7
+  TIELINE RH8 70
+  Bb -1  4
+  REST   4
+  D   0  4
+  REST   4
+
+MEASURE 10
+  LINE TLRH5
+  TIELINE RH8 70
+  C  -1  4
+  REST   4
+  F  -2  4
+  REST   4
+
+MEASURE 10
+  LINE TLRH6
+  TIELINE RH8 70
+  F  -1  4
+  REST   4
+  C  -1  4
+  REST   4
+
+MEASURE 10
+  LINE TLRH7
+  TIELINE RH8 70
+  A  -1  4
+  REST   4
+  A  -1  4
+  REST   4
+
+MEASURE 11
+  LINE TLRH5
+  TIELINE RH8 70
+  B  -1  4
+  C   0  4
+  G  -1  4
+  F  -1  4
+
+MEASURE 11
+  LINE TLRH6
+  TIELINE RH8 70
+  D   0  4
+  D   0  4
+  Bb -1  4
+  B  -1  4
+
+MEASURE 11
+  LINE TLRH7
+  TIELINE RH8 70
+  F   0  4
+  F   0  4
+  C#  0  4
+  D   0  4
+
+MEASURE 12
+  LINE TLRH5
+  TIELINE RH8 70
+  G  -1  4
+  F  -1  4
+  E  -1  4
+  C  -2  4
+
+MEASURE 12
+  LINE TLRH6
+  TIELINE RH8 70
+  Bb -1  4
+  Bb -1  4
+  Bb -1  4
+  Bb -2  4
+
+MEASURE 12
+  LINE TLRH7
+  TIELINE RH8 70
+  C   0  4
+  D   0  4
+  C   0  4
+  E  -1  4
+
+MEASURE 13
+  LINE TLRH5
+  TIELINE RH8 70
+  C  -1  4
+  D  -1  4
+  E  -1  4
+  D  -1  4
+
+MEASURE 13
+  LINE TLRH6
+  TIELINE RH8 70
+  F  -1  4
+  F  -1  4
+  F  -1  4
+  F  -1  4
+
+MEASURE 13
+  LINE TLRH7
+  TIELINE RH8 70
+  A  -1  4
+  A  -1  4
+  A  -1  4
+  A  -1  4
+
+MEASURE 14
+  LINE TLRH5
+  TIELINE RH8 70
+  C  -1  4
+  D  -1  4
+  E  -1  4
+  REST   4
+
+MEASURE 14
+  LINE TLRH6
+  TIELINE RH8 70
+  F  -1  4
+  F  -1  4
+  F  -1  4
+  REST   4
+
+MEASURE 14
+  LINE TLRH7
+  TIELINE RH8 70
+  A  -1  4
+  A  -1  4
+  A  -1  4
+  REST   4
+
+MEASURE 15
+  LINE TLRH5
+  TIELINE RH8 70
+  REST   4  3
+  G  -1  4
+
+MEASURE 15
+  LINE TLRH6
+  TIELINE RH8 70
+  REST   4  3
+  Bb -1  4
+
+MEASURE 15
+  LINE TLRH7
+  TIELINE RH8 70
+  E  -1 12
+  F  -1 12
+  G  -1 12
+  A  -1 12
+  Bb -1 12
+  C   0 12
+  D   0 12
+  C   0 12
+  Bb -1 12
+  E   0  4
+
+MEASURE 16
+  LINE TLRH5
+  TIELINE RH8 70
+  C  -1  4
+  REST   4  3
+
+MEASURE 16
+  LINE TLRH6
+  TIELINE RH8 70
+  E  -1  4
+  REST   4  3
+
+MEASURE 16
+  LINE TLRH7
+  TIELINE RH8 70
+  Bb -1  4
+  REST   4
+  C   0 12
+  D   0 12
+  C   0 12
+  Bb -1 12
+  A  -1 12
+  G  -1 12
+
+MEASURE 17
+  LINE TLRH4
+  TIELINE RH8 70
+  REST   4
+  REST   2
+  F  -2  4
+
+MEASURE 17
+  LINE TLRH5
+  TIELINE RH8 70
+  C  -1  4
+  REST   2
+  C  -1  4
+
+MEASURE 17
+  LINE TLRH6
+  TIELINE RH8 70
+  E  -1  4
+  REST   2
+  A   -1 4
+
+MEASURE 17
+  LINE TLRH7
+  TIELINE RH8 70
+  Bb -1  4
+  REST   4
+  F  -1  4
+  F  -3  4

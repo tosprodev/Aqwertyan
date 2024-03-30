@@ -1,0 +1,5733 @@
+NAME Albeniz: Cordoba, from Cantos D'Espana
+
+MEASURE 1
+  METER 3 4
+  TEMPO 4 60.000000
+  KEY 1b
+
+
+# kr2l alb-cordoba.mus 1 92 4
+
+MEASURE 1
+  LINE LH4
+  F  -3  4  3
+
+MEASURE 1
+  LINE LH5
+  C  -2  4  3
+
+MEASURE 2
+  LINE LH4
+  CARRY  4  3
+
+MEASURE 2
+  LINE LH5
+  CARRY  4  3
+
+MEASURE 3
+  LINE LH4
+  F  -3  4  3
+
+MEASURE 3
+  LINE LH5
+  C  -2  4  3
+
+MEASURE 4
+  LINE LH4
+  CARRY  4  3
+
+MEASURE 4
+  LINE LH5
+  CARRY  4  3
+
+MEASURE 5
+  LINE LH4
+  F  -2  4  3
+
+MEASURE 5
+  LINE LH5
+  C  -1  4  3
+
+MEASURE 6
+  LINE LH4
+  CARRY  4  3
+
+MEASURE 6
+  LINE LH5
+  CARRY  4  3
+
+MEASURE 7
+  LINE LH4
+  F  -2  4  3
+
+MEASURE 7
+  LINE LH5
+  C  -1  4  3
+
+MEASURE 8
+  LINE LH4
+  CARRY  4  3
+
+MEASURE 8
+  LINE LH5
+  CARRY  4  3
+
+MEASURE 9
+  LINE LH4
+  F  -2  4  3
+
+MEASURE 9
+  LINE LH5
+  C  -1  4  3
+
+MEASURE 10
+  LINE LH4
+  CARRY  4  3
+
+MEASURE 10
+  LINE LH5
+  CARRY  4  3
+
+MEASURE 11
+  LINE LH4
+  F  -2  4  3
+
+MEASURE 11
+  LINE LH5
+  C  -1  4  3
+
+MEASURE 12
+  LINE LH4
+  CARRY  4  3
+
+MEASURE 12
+  LINE LH5
+  CARRY  4  3
+
+MEASURE 13
+  LINE LH4
+  F  -2  4  3
+
+MEASURE 13
+  LINE LH5
+  C  -1  4  3
+
+MEASURE 14
+  LINE LH4
+  CARRY  4  3
+
+MEASURE 14
+  LINE LH5
+  CARRY  4  3
+
+MEASURE 15
+  LINE LH4
+  F  -2  4  3
+
+MEASURE 15
+  LINE LH5
+  C  -1  4  3
+
+MEASURE 16
+  LINE LH4
+  CARRY  4  3
+
+MEASURE 16
+  LINE LH5
+  CARRY  4  3
+
+MEASURE 17
+  LINE LH4
+  F  -2  4  3
+
+MEASURE 17
+  LINE LH5
+  C  -1  4  3
+
+MEASURE 18
+  LINE LH4
+  CARRY  4  3
+
+MEASURE 18
+  LINE LH5
+  CARRY  4  3
+
+
+# kr2l alb-cordoba.mus 5 50 4
+
+MEASURE 5
+  LINE TLRH3
+  TIELINE RH4 92
+  Bb -1  4  3
+
+MEASURE 5
+  LINE RH4
+  D   0  4  3
+
+MEASURE 5
+  LINE RH5
+  G   0  4  3
+
+MEASURE 6
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  4
+  F  -1  4
+  Bb -1  4
+
+MEASURE 6
+  LINE RH4
+  CARRY  4
+  Bb -1  4
+  D   0  4
+
+MEASURE 6
+  LINE RH5
+  CARRY  4
+  D   0  4
+  G   0  4
+
+MEASURE 7
+  LINE TLRH3
+  TIELINE RH4 92
+  D   0  4
+  C   0  4
+  Bb -1  4
+
+MEASURE 7
+  LINE RH4
+  E   0  4
+  E   0  4
+  D   0  4
+
+MEASURE 7
+  LINE RH5
+  Bb  0  4
+  A   0  4
+  G   0  4
+
+MEASURE 8
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  4
+  C   0  4
+  A  -1  4
+
+MEASURE 8
+  LINE RH4
+  CARRY  4
+  E   0  4
+  C   0  4
+
+MEASURE 8
+  LINE RH5
+  CARRY  4
+  A   0  4
+  F   0  4
+
+
+# kr2l alb-cordoba.mus 9 50 4
+
+MEASURE 9
+  LINE TLRH3
+  TIELINE RH4 92
+  F  -1  4
+  G  -1  4
+  Bb -1  4
+
+MEASURE 9
+  LINE RH4
+  A  -1  4
+  Bb -1  4
+  D   0  4
+
+MEASURE 9
+  LINE RH5
+  D   0  4
+  E   0  4
+  G   0  4
+
+MEASURE 10
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  4
+  C   0  2
+
+MEASURE 10
+  LINE RH4
+  CARRY  4
+  E   0  2
+
+MEASURE 10
+  LINE RH5
+  CARRY  4
+  A   0  2
+
+MEASURE 11
+  LINE TLRH3
+  TIELINE RH4 92
+  Bb -1  4  3
+
+MEASURE 11
+  LINE RH4
+  D   0  4  3
+
+MEASURE 11
+  LINE RH5
+  G   0  4  3
+
+MEASURE 12
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  4  3
+
+MEASURE 12
+  LINE RH4
+  CARRY  4  3
+
+MEASURE 12
+  LINE RH5
+  CARRY  4  3
+
+MEASURE 13
+  LINE TLRH3
+  TIELINE RH4 92
+  Bb -1  4  3
+
+MEASURE 13
+  LINE RH4
+  C#  0  4  3
+
+MEASURE 13
+  LINE RH5
+  G   0  4  3
+
+MEASURE 14
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  4
+  F  -1  4
+  Bb -1  4
+
+MEASURE 14
+  LINE RH4
+  CARRY  4
+  Bb -1  4
+  C#  0  4
+
+MEASURE 14
+  LINE RH5
+  CARRY  4
+  C#  0  4
+  G   0  4
+
+# kr2l cordoba2.mus 15 50 4
+
+MEASURE 15
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  0  4
+  C   0  4
+  Bb -1  4
+
+MEASURE 15
+  LINE RH4
+  E   0  4
+  E   0  4
+  C#  0  4
+
+MEASURE 15
+  LINE RH5
+  Bb  0  4
+  Ab  0  4
+  G   0  4
+
+MEASURE 16
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  4
+  C   0  4
+  Ab -1  4
+
+MEASURE 16
+  LINE RH4
+  CARRY  4
+  E   0  4
+  C   0  4
+
+MEASURE 16
+  LINE RH5
+  CARRY  4
+  Ab  0  4
+  F   0  4
+
+MEASURE 17
+  LINE TLRH3
+  TIELINE RH4 92
+  F  -1  4
+  G  -1  4
+  Bb -1  4
+
+MEASURE 17
+  LINE RH4
+  Ab -1  4
+  Bb -1  4
+  C#  0  4
+
+MEASURE 17
+  LINE RH5
+  C#  0  4
+  E   0  4
+  G   0  4
+
+MEASURE 18
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  4
+  C   0  2
+
+MEASURE 18
+  LINE RH4
+  CARRY  4
+  E   0  2
+
+MEASURE 18
+  LINE RH5
+  CARRY  4
+  Ab  0  2
+# kr2l alb-cordoba.mus 19 100 4
+
+MEASURE 19
+  LINE TLRH3
+  TIELINE RH4 92
+  Bb -1  4  3
+
+MEASURE 19
+  LINE RH4
+  C#  0  4  3
+
+MEASURE 19
+  LINE RH5
+  G   0  4  3
+
+MEASURE 20
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  4  3
+
+MEASURE 20
+  LINE RH4
+  CARRY  4  3
+
+MEASURE 20
+  LINE RH5
+  CARRY  4  3
+
+MEASURE 21
+  LINE TLRH3
+  TIELINE RH4 92
+  G  -1  4  3
+
+MEASURE 21
+  LINE RH4
+  Bb -1  4  3
+
+MEASURE 21
+  LINE RH5
+  E   0  4  3
+
+MEASURE 22
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  4  3
+
+MEASURE 22
+  LINE RH4
+  CARRY  4  3
+
+MEASURE 22
+  LINE RH5
+  CARRY  4  3
+
+MEASURE 23
+  LINE TLRH3
+  TIELINE RH4 92
+  F  -1  4  3
+
+MEASURE 23
+  LINE RH4
+  C   0  4  3
+
+MEASURE 23
+  LINE RH5
+  F   0  4  3
+
+MEASURE 24
+  LINE TLRH2
+  TIELINE RH4 90
+  Ab -1  4  3
+
+MEASURE 24
+  LINE TLRH3
+  TIELINE RH4 92
+  C   0  4  3
+
+MEASURE 24
+  LINE RH4
+  F   0  4  3
+
+MEASURE 24
+  LINE RH5
+  Ab  0  4  3
+# kr2l alb-cordoba.mus 25 100 4
+
+MEASURE 25
+  LINE TLRH2
+  TIELINE RH4 90
+  Ab -1  4  3
+
+MEASURE 25
+  LINE TLRH3
+  TIELINE RH4 92
+  D   0  4  3
+
+MEASURE 25
+  LINE RH4
+  F   0  4  3
+
+MEASURE 25
+  LINE RH5
+  Ab  0  4  3
+
+MEASURE 26
+  LINE TLRH2
+  TIELINE RH4 90
+  CARRY  4  3
+
+MEASURE 26
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  4  3
+
+MEASURE 26
+  LINE RH4
+  CARRY  4  3
+
+MEASURE 26
+  LINE RH5
+  CARRY  4  3
+
+MEASURE 27
+  LINE TLRH2
+  TIELINE RH4 90
+  CARRY  4  3
+
+MEASURE 27
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  4  3
+
+MEASURE 27
+  LINE RH4
+  CARRY  4  3
+
+MEASURE 27
+  LINE RH5
+  CARRY  4  3
+
+MEASURE 28
+  LINE TLRH2
+  TIELINE RH4 90
+  CARRY  4  3
+
+MEASURE 28
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  4  3
+
+MEASURE 28
+  LINE RH4
+  CARRY  4  3
+
+MEASURE 28
+  LINE RH5
+  CARRY  4  3
+
+MEASURE 29
+  LINE TLRH2
+  TIELINE RH4 90
+  A  -1  4  3
+
+MEASURE 29
+  LINE TLRH3
+  TIELINE RH4 92
+  D   0  4  3
+
+MEASURE 29
+  LINE RH4
+  F   0  4  3
+
+MEASURE 29
+  LINE RH5
+  A   0  4  3
+# kr2l alb-cordoba.mus 30 50 4
+
+MEASURE 30
+  LINE TLRH3
+  TIELINE RH4 92
+  F   0  2
+  E   0  4
+
+MEASURE 30
+  LINE RH4
+  A   0  2
+  A   0  4
+
+MEASURE 30
+  LINE RH5
+  D   1  2
+  C   1  4
+
+MEASURE 31
+  LINE TLRH3
+  TIELINE RH4 92
+  F   0  4
+  E   0  2
+
+MEASURE 31
+  LINE RH4
+  A   0  4
+  A   0  2
+
+MEASURE 31
+  LINE RH5
+  D   1  4
+  C   1  2
+
+MEASURE 32
+  LINE TLRH3
+  TIELINE RH4 92
+  F   0  4
+  G   0  4
+  A   0  4
+
+MEASURE 32
+  LINE RH4
+  A   0  4
+  C   1  4
+  C   1  4
+
+MEASURE 32
+  LINE RH5
+  D   1  4
+  E   1  4
+  F   1  4
+
+MEASURE 33
+  LINE TLRH3
+  TIELINE RH4 92
+  F   0  4
+  F   0  4
+  F   0  4
+
+MEASURE 33
+  LINE RH4
+  Bb  0  4
+  A   0  4
+  Bb  0  4
+
+MEASURE 33
+  LINE RH5
+  D   1  4
+  C   1  4
+  D   1  4
+
+MEASURE 34
+  LINE TLRH3
+  TIELINE RH4 92
+  G   0  2
+  F   0  4
+
+MEASURE 34
+  LINE RH4
+  Bb  0  2
+  Bb  0  4
+
+MEASURE 34
+  LINE RH5
+  Eb  1  2
+  D   1  4
+
+MEASURE 35
+  LINE TLRH3
+  TIELINE RH4 92
+  F   0  4
+  F   0  4
+  F   0  4
+
+MEASURE 35
+  LINE RH4
+  A   0  4
+  Bb  0  4
+  A   0  4
+
+MEASURE 35
+  LINE RH5
+  C   1  4
+  D   1  4
+  C   1  4
+
+MEASURE 36
+  LINE TLRH3
+  TIELINE RH4 92
+  D   0  2
+  C#  0  4
+
+MEASURE 36
+  LINE RH4
+  E   0  2
+  E   0  4
+
+MEASURE 36
+  LINE RH5
+  Bb  0  2
+  A   0  4
+
+MEASURE 37
+  LINE TLRH3
+  TIELINE RH4 92
+  D   0  4
+  C#  0  2
+
+MEASURE 37
+  LINE RH4
+  E   0  4
+  E   0  2
+
+MEASURE 37
+  LINE RH5
+  G   0  4
+  A   0  2
+# kr2l alb-cordoba.mus 38 50 4
+
+MEASURE 38
+  LINE TLRH3
+  TIELINE RH4 92
+  A   0  2
+  G   0  4
+
+MEASURE 38
+  LINE RH4
+  C   1  2
+  C   1  4
+
+MEASURE 38
+  LINE RH5
+  F   1  2
+  E   1  4
+
+MEASURE 39
+  LINE TLRH3
+  TIELINE RH4 92
+  A   0  4
+  G   0  4
+  F   0  4
+
+MEASURE 39
+  LINE RH4
+  C   1  4
+  C   1  4
+  A   0  4
+
+MEASURE 39
+  LINE RH5
+  F   1  4
+  E   1  4
+  D   1  4
+
+MEASURE 40
+  LINE TLRH3
+  TIELINE RH4 92
+  E   0  2
+  F   0  4
+
+MEASURE 40
+  LINE RH4
+  A   0  2
+  A   0  4
+
+MEASURE 40
+  LINE RH5
+  C   1  2
+  D   1  4
+
+MEASURE 41
+  LINE TLRH3
+  TIELINE RH4 92
+  E   0  4
+  D   0  4
+  C   0  4
+
+MEASURE 41
+  LINE RH4
+  A   0  4
+  F   0  4
+  F   0  4
+
+MEASURE 41
+  LINE RH5
+  C   1  4
+  Bb  0  4
+  A   0  4
+
+MEASURE 42
+  LINE TLRH3
+  TIELINE RH4 92
+  Bb -1  2
+  A  -1  4
+
+MEASURE 42
+  LINE RH4
+  D   0  2
+  D   0  4
+
+MEASURE 42
+  LINE RH5
+  G   0  2
+  F   0  4
+
+MEASURE 43
+  LINE TLRH3
+  TIELINE RH4 92
+  Bb -1  4
+  A  -1  4
+  Ab -1  4
+
+MEASURE 43
+  LINE RH4
+  D   0  4
+  D   0  4
+  D   0  4
+
+MEASURE 43
+  LINE RH5
+  G   0  4
+  F   0  4
+  E   0  4
+# kr2l alb-cordoba.mus 19 100 4
+
+MEASURE 19
+  LINE LH4
+  F  -2  4  3
+
+MEASURE 20
+  LINE LH4
+  CARRY  4  3
+
+MEASURE 21
+  LINE LH4
+  CARRY  4  3
+
+MEASURE 22
+  LINE LH4
+  CARRY  4  3
+# kr2l alb-cordoba.mus 19 100 4
+
+MEASURE 19
+  LINE LH5
+  C  -1  4  3
+
+MEASURE 20
+  LINE LH5
+  CARRY  4  3
+
+MEASURE 21
+  LINE LH5
+  CARRY  4
+  C# -1  2
+
+MEASURE 22
+  LINE LH5
+  CARRY  4
+  C  -1  4
+  Bb -2  4
+
+MEASURE 23
+  LINE LH5
+  Ab -2  4
+  G  -2  4
+  F  -2  4
+# kr2l alb-cordoba.mus 24 100 4
+
+MEASURE 24
+  LINE LH5
+  Eb -2  4
+  C# -2  4
+  C  -2  4
+
+MEASURE 25
+  LINE LH5
+  B  -3  4  3
+
+MEASURE 26
+  LINE LH5
+  CARRY  4  3
+
+MEASURE 27
+  LINE LH5
+  Bb -3  4  3
+
+MEASURE 28
+  LINE LH5
+  CARRY  4  3
+
+MEASURE 29
+  LINE LH5
+  A  -3  4  3
+
+MEASURE 30
+  LINE LH5
+  D   0  2
+  A  -1  4
+
+MEASURE 31
+  LINE LH5
+  D   0  4
+  A  -1  2
+
+MEASURE 32
+  LINE LH5
+  D   0  4
+  C   0  4
+  F  -1  4
+
+MEASURE 33
+  LINE LH5
+  Bb -1  4
+  F  -1  4
+  Bb -1  4
+
+MEASURE 34
+  LINE LH5
+  Eb -1  2
+  Bb -1  4
+
+MEASURE 35
+  LINE LH5
+  F  -1  4
+  Bb -1  4
+  F  -1  4
+
+MEASURE 36
+  LINE LH5
+  G  -1  2
+  A  -1  4
+
+MEASURE 37
+  LINE LH5
+  Bb -1  4
+  A  -1  2
+# kr2l alb-cordoba.mus 38 100 4
+
+MEASURE 38
+  LINE LH5
+  F   0  2
+  C   0  4
+
+MEASURE 39
+  LINE LH5
+  F   0  4
+  C   0  4
+  D   0  4
+
+MEASURE 40
+  LINE LH5
+  A  -1  2
+  D   0  4
+
+MEASURE 41
+  LINE LH5
+  A  -1  4
+  Bb -1  4
+  F  -1  4
+
+MEASURE 42
+  LINE LH5
+  G  -1  2
+  D  -1  4
+
+MEASURE 43
+  LINE LH5
+  G  -1  4
+  D  -1  4
+  Bb -2  4
+# kr2l alb-cordoba.mus 44 100 4
+
+MEASURE 44
+  LINE LH5
+  A  -2  2
+  Ab -2  4
+
+MEASURE 45
+  LINE LH5
+  A  -2  4  3
+# kr2l alb-cordoba.mus 46 100 4
+
+MEASURE 46
+  LINE LH5
+  F   1  2
+  C   1  4
+
+MEASURE 47
+  LINE LH5
+  F   1  4
+  C   1  4
+  D   1  4
+
+MEASURE 48
+  LINE LH5
+  A   0  2
+  D   1  4
+
+MEASURE 49
+  LINE LH5
+  A   0  4
+  Bb  0  4
+  F   0  4
+
+MEASURE 50
+  LINE LH5
+  G   0  2
+  D   0  4
+
+MEASURE 51
+  LINE LH5
+  G   0  4
+  D   0  4
+  Bb -1  4
+
+MEASURE 52
+  LINE LH5
+  A  -1  2
+  A  -2  8
+  REST   8
+# kr2l alb-cordoba.mus 44 50 4
+
+MEASURE 44
+  LINE TLRH2
+  TIELINE RH4 90
+  REST   2
+  E  -1  4
+
+MEASURE 44
+  LINE TLRH3
+  TIELINE RH4 92
+  E  -1  2
+  Bb -1  4
+
+MEASURE 44
+  LINE RH4
+  C#  0  2
+  D   0  4
+
+MEASURE 44
+  LINE RH5
+  E   0  2
+  E   0  4
+
+MEASURE 45
+  LINE TLRH3
+  TIELINE RH4 92
+  E  -1  4  3
+
+MEASURE 45
+  LINE RH4
+  C#  0  4  3
+
+MEASURE 45
+  LINE RH5
+  E   0  4  3
+
+MEASURE 46
+  LINE TLRH3
+  TIELINE RH4 92
+  A   1  2
+  G   1  4
+
+MEASURE 46
+  LINE RH4
+  C   2  2
+  C   2  4
+
+MEASURE 46
+  LINE RH5
+  F   2  2
+  E   2  4
+
+MEASURE 47
+  LINE TLRH3
+  TIELINE RH4 92
+  A   1  4
+  G   1  4
+  F   1  4
+
+MEASURE 47
+  LINE RH4
+  C   2  4
+  C   2  4
+  A   1  4
+
+MEASURE 47
+  LINE RH5
+  F   2  4
+  E   2  4
+  D   2  4
+
+MEASURE 48
+  LINE TLRH3
+  TIELINE RH4 92
+  E   1  2
+  F   1  4
+
+MEASURE 48
+  LINE RH4
+  A   1  2
+  A   1  4
+
+MEASURE 48
+  LINE RH5
+  C   2  2
+  D   2  4
+
+MEASURE 49
+  LINE TLRH3
+  TIELINE RH4 92
+  E   1  4
+  D   1  4
+  C   1  4
+
+MEASURE 49
+  LINE RH4
+  A   1  4
+  F   1  4
+  F   1  4
+
+MEASURE 49
+  LINE RH5
+  C   2  4
+  Bb  1  4
+  A   1  4
+
+MEASURE 50
+  LINE TLRH3
+  TIELINE RH4 92
+  Bb  0  2
+  A   0  4
+
+MEASURE 50
+  LINE RH4
+  D   1  2
+  D   1  4
+
+MEASURE 50
+  LINE RH5
+  G   1  2
+  F   1  4
+
+MEASURE 51
+  LINE TLRH3
+  TIELINE RH4 92
+  Bb  0  4
+  A   0  4
+  Ab  0  4
+
+MEASURE 51
+  LINE RH4
+  D   1  4
+  D   1  4
+  D   1  4
+
+MEASURE 51
+  LINE RH5
+  G   1  4
+  F   1  4
+  E   1  4
+# kr2l alb-cordoba.mus 52 50 4
+
+MEASURE 52
+  LINE TLRH2
+  TIELINE RH4 90
+  A   0  2
+  REST   4
+
+MEASURE 52
+  LINE TLRH3
+  TIELINE RH4 92
+  D   1  2
+  G   0  8
+  REST   8
+
+MEASURE 52
+  LINE RH4
+  F   1  2
+  C#  1  8
+  REST   8
+
+MEASURE 52
+  LINE RH5
+  A   1  2
+  A   1  8
+  REST   8
+# kr2l alb-cordoba.mus 53 50 4
+
+MEASURE 53
+  LINE RH6
+  TEMPO RESET
+  REST  16
+  A  -1 16
+  D   0 16
+  F   0 16
+  A   0  2
+
+MEASURE 54
+  LINE RH6
+  REST   4  3
+
+MEASURE 55
+  LINE RH6
+  REST  16
+  A  -1 16
+  D   0 24
+  F   0 12
+  A   0  2
+
+MEASURE 56
+  LINE RH6
+  REST   4  3
+
+MEASURE 57
+  LINE RH6
+  F   0  4
+  G   0  4
+  A   0  4
+
+MEASURE 58
+  LINE RH6
+  E   1  4  3
+# kr2l alb-cordoba.mus 59 50 4
+
+MEASURE 59
+  LINE RH6
+  D   1  64 0
+  E   1  64 0
+  D   1  4
+  C   1  4
+  D   1  4
+
+MEASURE 60
+  LINE RH6
+  A   0  4  3
+# kr2l alb-cordoba.mus 53 50 4
+
+MEASURE 53
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  3
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 53
+  LINE RH4
+  REST   8  3
+  D   0  8
+  REST   8
+  D   0  8
+
+MEASURE 53
+  LINE RH5
+  REST   8  3
+  F   0  8
+  REST   8
+  F   0  8
+# kr2l alb-cordoba.mus 54 50 4
+
+MEASURE 54
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  Ab -1  8
+  REST   8
+  Ab -1  8
+  REST   8
+  G  -1  8
+
+MEASURE 54
+  LINE RH4
+  REST   8
+  D   0  8
+  REST   8
+  D   0  8
+  REST   8
+  A  -1  8
+
+MEASURE 54
+  LINE RH5
+  REST   8
+  F   0  8
+  REST   8
+  E   0  8
+  REST   8
+  C#  0  8
+# kr2l alb-cordoba.mus 55 50 4
+
+MEASURE 55
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  3
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 55
+  LINE RH4
+  REST   8  3
+  D   0  8
+  REST   8
+  D   0  8
+
+MEASURE 55
+  LINE RH5
+  REST   8  3
+  F   0  8
+  REST   8
+  F   0  8
+
+MEASURE 56
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  Ab -1  8
+  REST   8
+  Ab -1  8
+  REST   8
+  G  -1  8
+
+MEASURE 56
+  LINE RH4
+  REST   8
+  D   0  8
+  REST   8
+  D   0  8
+  REST   8
+  A  -1  8
+
+MEASURE 56
+  LINE RH5
+  REST   8
+  F   0  8
+  REST   8
+  E   0  8
+  REST   8
+  C#  0  8
+
+MEASURE 57
+  LINE LH8
+  REST   8
+  A  -1  8
+  REST   8
+  D   0  8
+  REST   8
+  D   0  8
+
+MEASURE 57
+  LINE LH9
+  REST   8
+  D   0  8
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+
+MEASURE 58
+  LINE LH8
+  REST   8
+  G   0  8
+  REST   8
+  G   0  8
+  REST   8
+  G   0  8
+
+MEASURE 58
+  LINE LH9
+  REST   8
+  A   0  8
+  REST   8
+  A   0  8
+  REST   8
+  A   0  8
+
+MEASURE 59
+  LINE LH8
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+
+MEASURE 59
+  LINE LH9
+  REST   8
+  A   0  8
+  REST   8
+  A   0  8
+  REST   8
+  A   0  8
+
+MEASURE 60
+  LINE LH8
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+
+MEASURE 60
+  LINE LH9
+  REST   8
+  G   0  8
+  REST   8
+  G   0  8
+  REST   8
+  G   0  8
+
+MEASURE 61
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  5
+  A  -1  8
+
+MEASURE 61
+  LINE RH4
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+  REST   8
+  F   0  8
+
+MEASURE 61
+  LINE RH5
+  REST   8
+  D   0  8
+  REST   8
+  F   0  8
+  REST   8
+  A   0  8
+
+MEASURE 62
+  LINE RH4
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 62
+  LINE RH5
+  REST   8
+  G   0  8
+  REST   8
+  A   0  8
+  REST   8
+  G   0  8
+
+MEASURE 63
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  3
+  A  -1  8
+  REST   8
+  Ab -1  8
+
+MEASURE 63
+  LINE RH4
+  REST   8
+  A  -1  8
+  REST   8
+  F   0  8
+  REST   8
+  D   0  8
+
+MEASURE 63
+  LINE RH5
+  REST   8
+  F   0  8
+  REST   8
+  A   0  8
+  REST   8
+  E   0  8
+
+MEASURE 64
+  LINE RH4
+  REST   8
+  A  -1  8
+  REST   2
+
+MEASURE 64
+  LINE RH5
+  REST   8
+  C#  0  8
+  REST   8
+  Bb -1  8
+  A  -1  8
+  G  -1  8
+# kr2l alb-cordoba.mus 65 50 4
+
+MEASURE 65
+  LINE LH8
+  REST   8
+  A  -1  8
+  REST   8
+  D   0  8
+  REST   8
+  D   0  8
+
+MEASURE 65
+  LINE LH9
+  REST   8
+  D   0  8
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+
+MEASURE 66
+  LINE LH8
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+
+MEASURE 66
+  LINE LH9
+  REST   8
+  A   0  8
+  REST   8
+  A   0  8
+  REST   8
+  A   0  8
+
+MEASURE 67
+  LINE LH8
+  REST   8
+  D   0  8
+  REST   8
+  D   0  8
+  REST   8
+  D   0  8
+
+MEASURE 67
+  LINE LH9
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+
+MEASURE 68
+  LINE LH8
+  REST   8
+  C   0  8
+  REST   8
+  C   0  8
+  REST   8
+  C   0  8
+
+MEASURE 68
+  LINE LH9
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+
+MEASURE 69
+  LINE LH8
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+
+MEASURE 69
+  LINE LH9
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+
+MEASURE 70
+  LINE LH8
+  REST   8
+  C   0  8
+  REST   8
+  C   0  8
+  REST   8
+  C   0  8
+
+MEASURE 70
+  LINE LH9
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+
+MEASURE 71
+  LINE LH8
+  REST   8
+  D   0  8
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+
+MEASURE 71
+  LINE LH9
+  REST   8
+  E   0  8
+  REST   8
+  G#  0  8
+  REST   8
+  G#  0  8
+
+MEASURE 72
+  LINE LH8
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+
+MEASURE 72
+  LINE LH9
+  REST   8
+  A   0  8
+  REST   8
+  Ab  0  8
+  REST   8
+  A   0  8
+
+MEASURE 73
+  LINE LH8
+  REST   8
+  Ab  0  8
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+
+MEASURE 73
+  LINE LH9
+  REST   8
+  B   0  8
+  REST   8
+  A   0  8
+  REST   8
+  A   0  8
+
+MEASURE 74
+  LINE LH8
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+  REST   8
+  F#  0  8
+
+MEASURE 74
+  LINE LH9
+  REST   8
+  Ab  0  8
+  REST   8
+  A   0  8
+  REST   8
+  A   0  8
+
+MEASURE 75
+  LINE LH8
+  REST   8
+  D   0  8
+  REST   8
+  D   0  8
+  REST   8
+  D   0  8
+
+MEASURE 75
+  LINE LH9
+  REST   8
+  Ab  0  8
+  REST   8
+  Ab  0  8
+  REST   8
+  Ab  0  8
+
+MEASURE 76
+  LINE LH8
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+
+MEASURE 76
+  LINE LH9
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+
+MEASURE 77
+  LINE LH8
+  REST   8
+  Bb -1  8
+  REST   8
+  D   0  8
+  REST   8
+  E   0  8
+
+MEASURE 77
+  LINE LH9
+  REST   8
+  D   0  8
+  REST   8
+  E   0  8
+  REST   8
+  G   0  8
+
+MEASURE 78
+  LINE LH8
+  REST   8
+  G   0  8
+  REST   8
+  G   0  8
+  REST   8
+  G   0  8
+
+MEASURE 78
+  LINE LH9
+  REST   8
+  Bb  0  8
+  REST   8
+  Bb  0  8
+  REST   8
+  Bb  0  8
+
+MEASURE 79
+  LINE LH8
+  REST   8
+  G   0  8
+  REST   8
+  G   0  8
+  REST   8
+  G   0  8
+
+MEASURE 79
+  LINE LH9
+  REST   8
+  Bb  0  8
+  REST   8
+  Bb  0  8
+  REST   8
+  Bb  0  8
+
+MEASURE 80
+  LINE LH8
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+
+MEASURE 80
+  LINE LH9
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+
+MEASURE 81
+  LINE LH8
+  REST   8
+  Bb -1  8
+  REST   8
+  D   0  8
+  REST   8
+  E   0  8
+
+MEASURE 81
+  LINE LH9
+  REST   8
+  D   0  8
+  REST   8
+  E   0  8
+  REST   8
+  G   0  8
+
+MEASURE 82
+  LINE LH8
+  REST   8
+  G   0  8
+  REST   8
+  G   0  8
+  REST   8
+  G   0  8
+
+MEASURE 82
+  LINE LH9
+  REST   8
+  Bb  0  8
+  REST   8
+  Bb  0  8
+  REST   8
+  Bb  0  8
+
+MEASURE 83
+  LINE LH8
+  REST   8
+  G   0  8
+  REST   8
+  G   0  8
+  REST   8
+  G   0  8
+
+MEASURE 83
+  LINE LH9
+  REST   8
+  Bb  0  8
+  REST   8
+  Bb  0  8
+  REST   8
+  Bb  0  8
+
+MEASURE 84
+  LINE LH8
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+
+MEASURE 84
+  LINE LH9
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+
+MEASURE 85
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  3
+  C   0  8
+  REST   8
+  C   0  8
+
+MEASURE 85
+  LINE RH4
+  REST   8
+  C   0  8
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+
+MEASURE 85
+  LINE RH5
+  REST   8
+  F   0  8
+  REST   8
+  A   0  8
+  REST   8
+  C   1  8
+
+MEASURE 86
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  5
+  C   0  8
+
+MEASURE 86
+  LINE RH4
+  REST   8
+  C   0  8
+  REST   8
+  C   0  8
+  REST   8
+  G   0  8
+
+MEASURE 86
+  LINE RH5
+  REST   8
+  E   0  8
+  REST   8
+  G   0  8
+  REST   8
+  C   1  8
+
+MEASURE 87
+  LINE RH4
+  REST   8
+  Bb -1  8
+  REST   8
+  Bb -1  8
+  REST   8
+  Bb -1  8
+
+MEASURE 87
+  LINE RH5
+  REST   8
+  F   0  8
+  REST   8
+  Bb  0  8
+  REST   8
+  F   0  8
+
+MEASURE 88
+  LINE RH4
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 88
+  LINE RH5
+  REST   8
+  E   0  8
+  REST   8
+  A   0  8
+  REST   8
+  E   0  8
+
+MEASURE 89
+  LINE TLRH5
+  TIELINE RH6 86
+  REST 64 0
+  REST 64 0
+  A  -1  4  3
+# kr2l alb-cordoba.mus 64 50 4
+
+MEASURE 64
+  LINE RH6
+  REST   8  3
+  C#  0  8  3
+
+MEASURE 65
+  LINE RH6
+  F   0  4
+  G   0  4
+  A   0  4
+
+MEASURE 66
+  LINE RH6
+  E   1  4  3
+
+MEASURE 67
+  LINE RH6
+  D   1  64 0
+  E   1  64 0
+  D   1  4
+  C   1  4
+  D   1  4
+
+MEASURE 68
+  LINE RH6
+  A   0  4  3
+
+MEASURE 69
+  LINE RH6
+  G   0  4
+  A   0  4
+  G   0  4
+
+MEASURE 70
+  LINE RH6
+  C   1  4
+  Bb  0  4
+  A   0  4
+
+MEASURE 71
+  LINE RH6
+  Ab  0  4
+  B   0  4
+  E   1  4
+
+MEASURE 72
+  LINE RH6
+  E   1  4
+  D   1  4
+  C   1  4
+
+MEASURE 73
+  LINE RH6
+  F   1  4
+  E   1  4
+  C   1  4
+
+MEASURE 74
+  LINE RH6
+  D   1  4
+  E   1  4
+  C   1  4
+
+MEASURE 75
+  LINE RH6
+  C   1  2
+  B   0  4
+
+MEASURE 76
+  LINE RH6
+  A   0  4  3
+
+MEASURE 77
+  LINE RH6
+  G   0  4
+  A   0  4
+  Bb  0  4
+
+MEASURE 78
+  LINE RH6
+  E   1  4  3
+
+MEASURE 79
+  LINE RH6
+  D   1  64 0
+  E   1  64 0
+  D   1  4
+  C   1  4
+  D   1  4
+
+MEASURE 80
+  LINE RH6
+  A   0  4  3
+
+MEASURE 81
+  LINE RH6
+  G   0  4
+  A   0  4
+  Bb  0  4
+
+MEASURE 82
+  LINE RH6
+  F   1  2
+  E   1  4
+
+MEASURE 83
+  LINE RH6
+  D   1  64 0
+  E   1  64 0
+  D   1  4
+  C   1  4
+  D   1  4
+
+MEASURE 84
+  LINE RH6
+  A   0  4  3
+
+MEASURE 85
+  LINE RH6
+  REST   4  3
+
+MEASURE 86
+  LINE RH6
+  REST   4  3
+
+MEASURE 87
+  LINE RH6
+  REST   4  3
+
+MEASURE 88
+  LINE RH6
+  REST   4  3
+# kr2l alb-cordoba.mus 89 50 4
+
+MEASURE 89
+  LINE RH6
+  F   0  64 0
+  G   0  64 0
+  F   0  8
+  E   0  8
+  D   0  8
+  E   0  8
+  F   0  8
+  A   0  8
+
+MEASURE 90
+  LINE RH6
+  E   0  8
+  F   0  8
+  E   0  8
+  D   0  8
+  C#  0  8
+  E   0  8
+
+MEASURE 91
+  LINE RH6
+  D   0  8
+  E   0  8
+  D   0  8
+  C   0  8
+  Bb -1  8
+  D   0  8
+
+MEASURE 92
+  LINE RH6
+  C#  0  4  3
+# kr2l alb-cordoba.mus 90 50 4
+
+MEASURE 90
+  LINE TLRH3
+  TIELINE RH4 92
+  Ab -1  2
+  REST   4
+
+MEASURE 90
+  LINE RH4
+  D   0  2
+  G  -1  4
+
+MEASURE 91
+  LINE TLRH3
+  TIELINE RH4 92
+  F  -1  4  3
+
+MEASURE 91
+  LINE RH4
+  Bb -1  4  3
+
+MEASURE 92
+  LINE TLRH3
+  TIELINE RH4 92
+  E  -1  4  3
+
+MEASURE 92
+  LINE RH4
+  A  -1  4  3
+# kr2l alb-cordoba.mus 53 50 4
+
+MEASURE 53
+  LINE LH5
+  D  -1  2
+  C# -1  8
+  C  -1  8
+
+MEASURE 54
+  LINE LH5
+  B  -2  4
+  Bb -2  4
+  A  -2  4
+
+MEASURE 55
+  LINE LH5
+  D  -1  2
+  C# -1  8
+  C  -1  8
+
+MEASURE 56
+  LINE LH5
+  B  -2  4
+  Bb -2  4
+  A  -2  4
+
+MEASURE 57
+  LINE LH5
+  D  -1  8
+  REST   8
+  A  -1  8
+  REST   8
+  A  -2  8
+  REST   8
+
+MEASURE 58
+  LINE LH5
+  C# -1  8
+  REST   8
+  A  -1  8
+  REST   8
+  A  -2  8
+  REST   8
+
+MEASURE 59
+  LINE LH5
+  D  -1  8
+  REST   8
+  A  -1  8
+  REST   8
+  A  -2  8
+  REST   8
+
+MEASURE 60
+  LINE LH5
+  E  -1  8
+  REST   8
+  A  -1  8
+  REST   8
+  A  -2  8
+  REST   8
+
+MEASURE 61
+  LINE LH5
+  F  -1  64 0
+  G  -1  64 0
+  F  -1  4
+  E  -1  4
+  D  -1  4
+
+MEASURE 62
+  LINE LH5
+  C# -1  8  3
+  B  -2  8
+  C# -1  4
+
+MEASURE 63
+  LINE LH5
+  D  -1  4
+  C  -1  4
+  Bb -2  4
+# kr2l alb-cordoba.mus 64 50 4
+
+MEASURE 64
+  LINE LH5
+  REST   4
+  G  -1  4
+  F  -1  8
+  E  -1  8
+
+MEASURE 65
+  LINE LH5
+  D  -1  4  3
+
+MEASURE 66
+  LINE LH5
+  C  -1  4  3
+
+MEASURE 67
+  LINE LH5
+  Bb -2  4  3
+
+MEASURE 68
+  LINE LH5
+  F  -2  4  3
+
+MEASURE 69
+  LINE TLRH1
+  TIELINE RH1 100
+  Bb -1  4  3
+
+MEASURE 69
+  LINE RH1
+  PHANTOM 4
+  PHANTOM 4
+  PHANTOM 4
+
+MEASURE 70
+  LINE RH1
+  A  -1  4
+  C   0  4
+  Eb  0  4
+
+MEASURE 71
+  LINE TLRH1
+  TIELINE RH1 100
+  D   0  4  3
+
+MEASURE 71
+  LINE RH1
+  PHANTOM 4
+  PHANTOM 4
+  PHANTOM 4
+
+MEASURE 72
+  LINE RH1
+  C   0  4
+  B  -1  4
+  A  -1  4
+
+MEASURE 73
+  LINE RH1
+  D   0  4
+  C   0  4
+  A  -1  4
+
+MEASURE 74
+  LINE RH1
+  B  -1  4
+  C   0  4
+  Eb  0  4
+
+MEASURE 75
+  LINE RH1
+  E   0  2
+  E  -1  4
+
+MEASURE 76
+  LINE RH1
+  A  -1  4  3
+
+MEASURE 77
+  LINE TLRH1
+  TIELINE RH6 86
+  G  -1  4
+  A  -1  4
+  Bb -1  4
+
+MEASURE 78
+  LINE TLRH1
+  E   0  4  3
+
+MEASURE 79
+  LINE TLRH1
+  D   0  64 0
+  E   0  64 0
+  D   0  4
+  C   0  4
+  D   0  4
+
+MEASURE 80
+  LINE TLRH1
+  A  -1  4  3
+
+MEASURE 81
+  LINE TLRH1
+  G  -1  4
+  A  -1  4
+  Bb -1  4
+
+MEASURE 82
+  LINE TLRH1
+  F   0  2
+  E   0  4
+
+MEASURE 83
+  LINE TLRH1
+  D   0  64 0
+  E   0  64 0
+  D   0  4
+  C   0  4
+  D   0  4
+
+MEASURE 84
+  LINE TLRH1
+  A  -1  4  3
+
+MEASURE 85
+  LINE LH5
+  A  -1  64 0
+  Bb -1  64 0
+  A  -1  4
+  G  -1  8
+  F  -1  8
+  G  -1  8
+  A  -1  8
+
+MEASURE 86
+  LINE LH5
+  G  -1  8
+  A  -1  8
+  G  -1  8
+  F  -1  8
+  E  -1  4
+
+MEASURE 87
+  LINE LH5
+  D  -1  64 0
+  E  -1  64 0
+  D  -1  4
+  C# -1  8
+  D  -1  8
+  E  -1  8
+  D  -1  8
+
+MEASURE 88
+  LINE LH5
+  C# -1  8
+  D  -1  8
+  C# -1  8
+  B  -2  8
+  A  -2  4
+
+MEASURE 89
+  LINE LH5
+  D  -1  2
+  C# -1  8
+  C  -1  8
+
+MEASURE 90
+  LINE LH5
+  B  -2  4
+  Bb -2  4
+  A  -2  4
+
+MEASURE 91
+  LINE LH5
+  Ab -2  4  3
+
+MEASURE 92
+  LINE LH5
+  A  -2  8
+  Bb -2  8
+  A  -2  8
+  Ab -2  8
+  A  -2  8
+  E  -2  8
+# kr2l alb-cordoba.mus 64 50 4
+
+MEASURE 64
+  LINE LH4
+  A  -2  4  3
+# kr2l alb-cordoba.mus 77 50 4
+
+MEASURE 77
+  LINE LH4
+  A  -2  4  3
+
+MEASURE 78
+  LINE LH4
+  CARRY  4  3
+
+MEASURE 79
+  LINE LH4
+  REST   4  3
+
+MEASURE 80
+  LINE LH4
+  REST   4  3
+
+MEASURE 81
+  LINE LH4
+  A  -2  4  3
+
+MEASURE 82
+  LINE LH4
+  CARRY  4  3
+MEASURE 53
+  MARK Main-Intro
+
+MEASURE 1
+  MARK Introduction
+
+# kr2l alb-cordoba.mus 93 50 4
+
+MEASURE 93
+  LINE RH6
+  E   0  4  3
+
+MEASURE 94
+  LINE RH6
+  CARRY  4
+  F   0  4
+  G   0  4
+
+MEASURE 95
+  LINE RH6
+  E   0  2
+  F   0  4
+
+MEASURE 96
+  LINE RH6
+  D   0  64 0
+  E   0  64 0
+  D   0  4
+  C#  0  2
+# kr2l alb-cordoba.mus 97 50 4
+
+MEASURE 97
+  LINE TLRH3
+  TIELINE RH4 92
+  A  -1  4
+  G  -1  4
+  A  -1  4
+
+MEASURE 97
+  LINE RH4
+  C   0  4
+  C   0  4
+  C   0  4
+
+MEASURE 97
+  LINE RH5
+  F   0  4
+  E   0  4
+  F   0  4
+
+MEASURE 98
+  LINE TLRH1
+  TIELINE RH4 87
+  REST   4
+  E  -1  4
+  REST   4
+
+MEASURE 98
+  LINE TLRH3
+  TIELINE RH4 92
+  G  -1  4
+  Ab -1  4
+  E  -1  4
+
+MEASURE 98
+  LINE RH4
+  C   0  4
+  D   0  4
+  C#  0  4
+
+MEASURE 98
+  LINE RH5
+  E   0  4
+  E   0  4
+  E   0  4
+
+MEASURE 99
+  LINE TLRH1
+  TIELINE RH4 87
+  E  -1  2
+  E  -1  4
+
+MEASURE 99
+  LINE TLRH3
+  TIELINE RH4 92
+  Bb -1  2
+  Bb -1  4
+
+MEASURE 99
+  LINE RH4
+  D   0  2
+  D   0  4
+
+MEASURE 99
+  LINE RH5
+  E   0  2
+  E   0  4
+
+MEASURE 100
+  LINE TLRH3
+  TIELINE RH4 92
+  E  -1  4  3
+
+MEASURE 100
+  LINE RH4
+  C#  0  4  3
+
+MEASURE 100
+  LINE RH5
+  E   0  4  3
+MEASURE 101
+  KEY 2#
+
+# kr2l alb-cordoba.mus 101 50 4
+
+MEASURE 101
+  LINE TLRH1
+  TIELINE RH4 87
+  F# -1  4
+  REST   2
+
+MEASURE 101
+  LINE TLRH3
+  TIELINE RH4 92
+  A  -1  4
+  REST   2
+
+MEASURE 101
+  LINE RH4
+  D   0  4
+  G  -1  4
+  A  -1  4
+
+MEASURE 101
+  LINE RH5
+  F#  0  4
+  G   0  4
+  A   0  4
+
+MEASURE 102
+  LINE TLRH1
+  TIELINE RH4 87
+  A  -1  4
+  REST   2
+
+MEASURE 102
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  0  4
+  REST   2
+
+MEASURE 102
+  LINE RH4
+  G   0  4
+  B  -1  4
+  C#  0  4
+
+MEASURE 102
+  LINE RH5
+  A   0  4
+  B   0  4
+  C#  1  4
+
+MEASURE 103
+  LINE TLRH3
+  TIELINE RH4 92
+  D   0  4
+  REST   2
+
+MEASURE 103
+  LINE RH4
+  A   0  4
+  E   0  4
+  F#  0  4
+
+MEASURE 103
+  LINE RH5
+  D   1  4
+  E   1  4
+  F#  1  4
+
+MEASURE 104
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  0  4
+  REST   2
+
+MEASURE 104
+  LINE RH4
+  G   0  4
+  D   0  4
+  E   0  4
+
+MEASURE 104
+  LINE RH5
+  C#  1  4
+  D   1  4
+  E   1  4
+
+MEASURE 105
+  LINE TLRH1
+  TIELINE RH4 87
+  A  -1  4  3
+
+MEASURE 105
+  LINE TLRH3
+  TIELINE RH4 92
+  D   0  4  3
+
+MEASURE 105
+  LINE RH4
+  F#  0  4  3
+
+MEASURE 105
+  LINE RH5
+  A   0  4  3
+
+MEASURE 106
+  LINE TLRH1
+  TIELINE RH4 87
+  A  -1  4  3
+
+MEASURE 106
+  LINE TLRH3
+  TIELINE RH4 92
+  C   0  4  3
+
+MEASURE 106
+  LINE RH4
+  F#  0  4  3
+
+MEASURE 106
+  LINE RH5
+  A   0  4  3
+
+MEASURE 107
+  LINE TLRH1
+  TIELINE RH4 87
+  A  -1  4
+  REST   2
+
+MEASURE 107
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  0  4
+  REST   2
+
+MEASURE 107
+  LINE RH4
+  G   0  4
+  B  -1  4
+  C#  0  4
+
+MEASURE 107
+  LINE RH5
+  A   0  4
+  B   0  4
+  C#  1  4
+
+MEASURE 108
+  LINE TLRH1
+  TIELINE RH4 87
+  B  -1  2
+  REST   4
+
+MEASURE 108
+  LINE TLRH3
+  TIELINE RH4 92
+  E   0  2
+  REST   4
+
+MEASURE 108
+  LINE RH4
+  G   0  2
+  A  -1  4
+
+MEASURE 108
+  LINE RH5
+  B   0  2
+  A   0  4
+# kr2l alb-cordoba.mus 109 50 4
+
+MEASURE 109
+  LINE TLRH1
+  TIELINE RH4 87
+  F#  0  4
+  REST   2
+
+MEASURE 109
+  LINE TLRH3
+  TIELINE RH4 92
+  A   0  4
+  REST   2
+
+MEASURE 109
+  LINE RH4
+  D   1  4
+  G   0  4
+  A   0  4
+
+MEASURE 109
+  LINE RH5
+  F#  1  4
+  G   1  4
+  A   1  4
+
+MEASURE 110
+  LINE TLRH1
+  TIELINE RH4 87
+  A   0  4
+  REST   2
+
+MEASURE 110
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  1  4
+  REST   2
+
+MEASURE 110
+  LINE RH4
+  G   1  4
+  B   0  4
+  C#  1  4
+
+MEASURE 110
+  LINE RH5
+  A   1  4
+  B   1  4
+  C#  2  4
+# kr2l alb-cordoba.mus 93 100 24
+
+MEASURE 97
+  LINE LH1
+  F  -2  8
+  B  -2  64 0
+  C  -1  8
+  REST   8
+  B  -1  64 0
+  C   0  8
+  REST   8
+  B  -2  64 0
+  C  -1  8
+
+MEASURE 98
+  LINE LH1
+  C  -2  8
+  C  -1  8
+  Bb -3  8
+  Bb -2  8
+  A  -3  8
+  A  -2  8
+
+MEASURE 99
+  LINE LH1
+  Ab -3  8
+  Ab -2  8
+  REST   8
+  Ab -1  8
+  REST   8
+  Ab -2  8
+# kr2l alb-cordoba.mus 100 50 4
+
+MEASURE 100
+  LINE LH1
+  A  -3  8
+  A  -2  8
+  REST   8
+  A  -1  8
+  REST   8
+  A   0  8
+# kr2l alb-cordoba.mus 101 50 4
+
+MEASURE 101
+  LINE LH1
+  D  -2  8
+  G# -2  64 0
+  A  -2  4
+  A  -2  8
+  A  -3  8
+  A  -2  8
+
+MEASURE 102
+  LINE LH1
+  E  -2  8
+  G# -2  64 0
+  A  -2  4
+  A  -2  8
+  A  -3  8
+  A  -2  8
+
+MEASURE 103
+  LINE LH1
+  F# -2  8
+  G# -2  64 0
+  A  -2  4
+  A  -2  8
+  A  -3  8
+  A  -2  8
+
+MEASURE 104
+  LINE LH1
+  E  -2  8
+  G# -2  64 0
+  A  -2  4
+  A  -2  8
+  A  -3  8
+  A  -2  8
+
+MEASURE 105
+  LINE LH1
+  D  -2  8
+  G# -2  64 0
+  A  -2  4
+  A  -2  8
+  A  -3  8
+  A  -2  8
+
+MEASURE 106
+  LINE LH1
+  Eb -2  8
+  G# -2  64 0
+  A  -2  4
+  A  -2  8
+  A  -3  8
+  A  -2  8
+
+MEASURE 107
+  LINE LH1
+  E  -2  8
+  G# -2  64 0
+  A  -2  4
+  A  -2  8
+  A  -3  8
+  A  -2  8
+
+MEASURE 108
+  LINE LH1
+  C# -2  8
+  G# -2  64 0
+  A  -2  4
+  A  -2  8
+  A  -3  8
+  A  -2  8
+
+MEASURE 109
+  LINE LH1
+  D  -2  8
+  G# -2  64 0
+  A  -2  4
+  A  -2  8
+  A  -3  8
+  A  -2  8
+
+MEASURE 110
+  LINE LH1
+  E  -2  8
+  G# -2  64 0
+  A  -2  4
+  A  -2  8
+  A  -3  8
+  A  -2  8
+# kr2l alb-cordoba.mus 93 50 4
+
+MEASURE 93
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  3
+  E  -1  8
+  REST   8
+  E  -1  8
+
+MEASURE 93
+  LINE RH4
+  REST   8  3
+  Bb -1  8
+  REST   8
+  Bb -1  8
+
+MEASURE 93
+  LINE RH5
+  REST   8  3
+  D   0  8
+  REST   8
+  D   0  8
+
+MEASURE 94
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  3
+  E  -1  8
+  REST   8
+  E  -1  8
+
+MEASURE 94
+  LINE RH4
+  REST   8  3
+  Bb -1  8
+  REST   8
+  Bb -1  8
+
+MEASURE 94
+  LINE RH5
+  REST   8  3
+  D   0  8
+  REST   8
+  D   0  8
+
+MEASURE 95
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  3
+  E  -1  8
+  REST   8
+  E  -1  8
+
+MEASURE 95
+  LINE RH4
+  REST   8  3
+  Bb -1  8
+  REST   8
+  Bb -1  8
+
+MEASURE 95
+  LINE RH5
+  REST   8  3
+  D   0  8
+  REST   8
+  D   0  8
+
+MEASURE 96
+  LINE RH4
+  REST   8  3
+  E  -1  8
+  REST   8
+  E  -1  8
+
+MEASURE 96
+  LINE RH5
+  REST   8  3
+  A  -1  8
+  REST   8
+  A  -1  8
+MEASURE 85
+  MARK Left-hand-marcato
+
+# kr2l musfiles/alb-cordoba.mus 111 50 4
+
+MEASURE 111
+  LINE TLRH3
+  TIELINE RH4 92
+  D   1  4
+  REST   2
+
+MEASURE 111
+  LINE RH4
+  A   1  4
+  E   1  4
+  F#  1  4
+
+MEASURE 111
+  LINE RH5
+  D   2  4
+  E   2  4
+  F#  2  4
+
+MEASURE 112
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  1  4
+  REST   2
+
+MEASURE 112
+  LINE RH4
+  G   1  4
+  D   1  4
+  E   1  4
+
+MEASURE 112
+  LINE RH5
+  C#  2  4
+  D   2  4
+  E   2  4
+
+MEASURE 113
+  LINE TLRH2
+  TIELINE RH4 90
+  A   0  4  3
+
+MEASURE 113
+  LINE TLRH3
+  TIELINE RH4 92
+  D   1  4  3
+
+MEASURE 113
+  LINE RH4
+  F#  1  4  3
+
+MEASURE 113
+  LINE RH5
+  A   1  4  3
+
+MEASURE 114
+  LINE TLRH2
+  TIELINE RH4 90
+  A   0  4  3
+
+MEASURE 114
+  LINE TLRH3
+  TIELINE RH4 92
+  C   1  4  3
+
+MEASURE 114
+  LINE RH4
+  F#  1  4  3
+
+MEASURE 114
+  LINE RH5
+  A   1  4  3
+
+MEASURE 115
+  LINE TLRH2
+  TIELINE RH4 90
+  A   0  4
+  REST   2
+
+MEASURE 115
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  1  4
+  REST   2
+
+MEASURE 115
+  LINE RH4
+  G   1  4
+  B   0  4
+  C#  1  4
+
+MEASURE 115
+  LINE RH5
+  A   1  4
+  B   1  4
+  C#  2  4
+
+MEASURE 116
+  LINE TLRH2
+  TIELINE RH4 90
+  B   0  2
+  REST   4
+
+MEASURE 116
+  LINE TLRH3
+  TIELINE RH4 92
+  E   1  2
+  REST   4
+
+MEASURE 116
+  LINE RH4
+  G   1  2
+  A   0  4
+
+MEASURE 116
+  LINE RH5
+  B   1  2
+  A   1  4
+
+MEASURE 117
+  LINE RH6
+  E   1  4  3
+
+MEASURE 118
+  LINE RH6
+  CARRY  4
+  C   1  4
+  D   1  4
+
+MEASURE 119
+  LINE RH6
+  E   1  4
+  F#  1  4
+  G   1  4
+
+MEASURE 120
+  LINE RH6
+  E   1  4  3
+
+MEASURE 121
+  LINE RH6
+  Eb  1  4  3
+
+MEASURE 122
+  LINE RH6
+  CARRY  4
+  C   1  4
+  D   1  4
+
+MEASURE 123
+  LINE RH6
+  Eb  1  4
+  F   1  4
+  G   1  4
+
+MEASURE 124
+  LINE RH6
+  D   1  4  3
+
+MEASURE 125
+  LINE TLRH3
+  TIELINE RH4 92
+  D   0  4
+  E   0  4
+  G   0  4
+
+MEASURE 125
+  LINE RH4
+  G   0  4
+  G   0  4
+  D   1  4
+
+MEASURE 125
+  LINE RH5
+  D   1  4
+  E   1  4
+  G   1  4
+# kr2l musfiles/alb-cordoba.mus 126 50 4
+
+MEASURE 126
+  LINE TLRH3
+  TIELINE RH4 92
+  F#  0  4
+  A   0  4
+  C   0  4
+
+MEASURE 126
+  LINE RH4
+  C   1  4
+  C   1  4
+  F#  0  4
+
+MEASURE 126
+  LINE RH5
+  F#  1  4
+  A   1  4
+  C   1  4
+# kr2l musfiles/alb-cordoba.mus 127 50 4
+
+MEASURE 127
+  LINE TLRH3
+  TIELINE RH4 92
+  B  -1  4
+  F   0  4
+  B   0  4
+
+MEASURE 127
+  LINE RH4
+  F   0  4
+  B   0  4
+  F   1  4
+
+MEASURE 127
+  LINE RH5
+  B   0  4
+  F   1  4
+  B   1  4
+# kr2l musfiles/alb-cordoba.mus 128 50 4
+
+MEASURE 128
+  LINE TLRH3
+  TIELINE RH4 92
+  C   1  4
+  C   1  4
+  C   1  4
+
+MEASURE 128
+  LINE RH4
+  F#  1  4
+  F#  1  4
+  F#  1  4
+
+MEASURE 128
+  LINE RH5
+  C   2  4
+  C#  2  4
+  E   2  4
+# kr2l musfiles/alb-cordoba.mus 129 50 4
+
+MEASURE 129
+  LINE TLRH3
+  TIELINE RH4 92
+  D   1  4
+  G   1  4
+  E   1  4
+
+MEASURE 129
+  LINE RH4
+  G   1  4
+  D   2  4
+  G   1  4
+
+MEASURE 129
+  LINE RH5
+  D   2  4
+  G   2  4
+  E   2  4
+# kr2l musfiles/alb-cordoba.mus 130 50 4
+
+MEASURE 130
+  LINE TLRH2
+  TIELINE RH4 90
+  F#  1  4
+  E   1  4
+  D   1  4
+
+MEASURE 130
+  LINE TLRH3
+  TIELINE RH4 92
+  C   2  4
+  F#  1  4
+  F#  1  4
+
+MEASURE 130
+  LINE RH4
+  D   2  4
+  C   2  4
+  C   2  4
+
+MEASURE 130
+  LINE RH5
+  F#  2  4
+  E   2  4
+  D   2  4
+# kr2l musfiles/alb-cordoba.mus 131 50 4
+
+MEASURE 131
+  LINE TLRH3
+  TIELINE RH4 92
+  B   0  4
+  REST   2
+
+MEASURE 131
+  LINE RH4
+  F   1  4
+  C   1  4
+  C#  1  4
+
+MEASURE 131
+  LINE RH5
+  B   1  4
+  C   2  4
+  C#  2  4
+
+MEASURE 132
+  LINE TLRH3
+  TIELINE RH4 92
+  C   1  4
+  REST   2
+
+MEASURE 132
+  LINE RH4
+  F#  1  4
+  E   1  4
+  D   1  4
+
+MEASURE 132
+  LINE RH5
+  C#  2  4
+  E   2  4
+  D   2  4
+# kr2l musfiles/alb-cordoba.mus 133 50 4
+
+MEASURE 133
+  LINE TLRH3
+  TIELINE RH4 92
+  D   0  4
+  REST   2
+
+MEASURE 133
+  LINE RH4
+  F   0  4
+  C   0  4
+  Bb -1  4
+
+MEASURE 133
+  LINE RH5
+  D   1  4
+  C   1  4
+  Bb  0  4
+
+MEASURE 134
+  LINE TLRH3
+  TIELINE RH4 92
+  D   0  4
+  REST   2
+
+MEASURE 134
+  LINE RH4
+  F   0  4
+  C   0  4
+  Bb -1  4
+
+MEASURE 134
+  LINE RH5
+  D   1  4
+  C   1  4
+  Bb  0  4
+
+MEASURE 135
+  LINE TLRH3
+  TIELINE RH4 92
+  D   0  4
+  REST   2
+
+MEASURE 135
+  LINE RH4
+  F   0  4
+  C   0  4
+  Bb -1  4
+
+MEASURE 135
+  LINE RH5
+  D   1  4
+  C   1  4
+  Bb  0  4
+
+MEASURE 136
+  LINE TLRH3
+  TIELINE RH4 92
+  D   0  4
+  REST   2
+
+MEASURE 136
+  LINE RH4
+  F   0  4
+  C   0  4
+  Bb -1  4
+
+MEASURE 136
+  LINE RH5
+  D   1  4
+  C   1  4
+  Bb  0  4
+# kr2l musfiles/alb-cordoba.mus 131 50 4
+
+MEASURE 131
+  LINE TLRH1
+  TIELINE RH4 100
+  F   1  4  3
+
+MEASURE 132
+  LINE TLRH1
+  TIELINE RH4 100
+  F#  1  4  3
+
+MEASURE 133
+  LINE TLRH1
+  TIELINE RH4 100
+  F   0  4  3
+
+MEASURE 134
+  LINE TLRH1
+  TIELINE RH4 100
+  F   0  4  3
+
+MEASURE 135
+  LINE TLRH1
+  TIELINE RH4 100
+  F   0  4  3
+
+MEASURE 136
+  LINE TLRH1
+  TIELINE RH4 100
+  F   0  4  3
+MEASURE 125
+  MARK Big-Build
+
+# kr2l musfiles/alb-cordoba.mus 137 50 4
+
+MEASURE 137
+  LINE TLRH3
+  TIELINE RH5 88
+  D  -1  4
+  C  -1  4
+  Bb -2  4
+
+MEASURE 137
+  LINE RH5
+  D   0  4
+  C   0  4
+  Bb -1  4
+
+MEASURE 138
+  LINE TLRH3
+  TIELINE RH5 88
+  D  -1  4
+  C  -1  4
+  Bb -2  4
+
+MEASURE 138
+  LINE RH5
+  D   0  4
+  C   0  4
+  Bb -1  4
+
+MEASURE 139
+  LINE TLRH3
+  TIELINE RH5 88
+  D  -1  4
+  C  -1  4
+  Bb -2  4
+
+MEASURE 139
+  LINE RH5
+  D   0  4
+  C   0  4
+  Bb -1  4
+
+MEASURE 140
+  LINE TLRH3
+  TIELINE RH5 88
+  D  -1  4
+  C  -1  4
+  Bb -2  4
+
+MEASURE 140
+  LINE RH5
+  D   0  4
+  C   0  4
+  Bb -1  4
+# kr2l musfiles/alb-cordoba.mus 137 50 4
+
+MEASURE 137
+  LINE RH4
+  F  -1  4  3
+
+MEASURE 138
+  LINE RH4
+  F  -1 16 11
+  REST  16
+
+MEASURE 138
+  LINE RH4A
+  REST  16 11
+  F  -1 16
+
+MEASURE 139
+  LINE RH4
+  Bb -1  4  3
+
+MEASURE 140
+  LINE RH4
+  CARRY  4  3
+MEASURE 133
+  MARK Drone-and-rumble
+
+# kr2l musfiles/alb-cordoba.mus 141 50 4
+
+MEASURE 141
+  LINE TLRH2
+  TIELINE RH4 90
+  F# -1  4
+  REST   2
+
+MEASURE 141
+  LINE TLRH3
+  TIELINE RH4 92
+  A  -1  4
+  REST   2
+
+MEASURE 141
+  LINE RH4
+  D   0  4
+  G  -1  4
+  G# -1  4
+
+MEASURE 141
+  LINE RH5
+  F#  0  4
+  G   0  4
+  G#  0  4
+
+MEASURE 142
+  LINE TLRH2
+  TIELINE RH4 90
+  A  -1  2
+  A  -1  4
+
+MEASURE 142
+  LINE TLRH3
+  TIELINE RH4 92
+  C   0  2
+  C   0  4
+
+MEASURE 142
+  LINE RH4
+  F#  0  2
+  F#  0  4
+
+MEASURE 142
+  LINE RH5
+  A   0  2
+  A   0  4
+
+MEASURE 143
+  LINE TLRH2
+  TIELINE RH4 90
+  A  -1  4
+  REST   2
+
+MEASURE 143
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  0  4
+  REST   2
+
+MEASURE 143
+  LINE RH4
+  G   0  4
+  B  -1  4
+  C   0  4
+
+MEASURE 143
+  LINE RH5
+  A   0  4
+  B   0  4
+  C   1  4
+# kr2l musfiles/alb-cordoba.mus 144 50 4
+
+MEASURE 144
+  LINE TLRH2
+  TIELINE RH4 90
+  C#  0  4
+  REST   2
+
+MEASURE 144
+  LINE TLRH3
+  TIELINE RH4 92
+  G   0  4
+  REST   4
+  G   0  4
+
+MEASURE 144
+  LINE RH4
+  A   0  4
+  E   0  4
+  C#  1  4
+
+MEASURE 144
+  LINE RH5
+  C#  1  4
+  E   1  4
+  G   1  4
+
+MEASURE 145
+  LINE TLRH2
+  TIELINE RH4 90
+  F#  0  4
+  REST   2
+
+MEASURE 145
+  LINE TLRH3
+  TIELINE RH4 92
+  A   0  4
+  REST   2
+
+MEASURE 145
+  LINE RH4
+  D   1  4
+  G   0  4
+  G#  0  4
+
+MEASURE 145
+  LINE RH5
+  F#  1  4
+  G   1  4
+  G#  1  4
+
+MEASURE 146
+  LINE TLRH2
+  TIELINE RH4 90
+  A   0  2
+  A   0  4
+
+MEASURE 146
+  LINE TLRH3
+  TIELINE RH4 92
+  C   1  2
+  C   1  4
+
+MEASURE 146
+  LINE RH4
+  F#  1  2
+  F#  1  4
+
+MEASURE 146
+  LINE RH5
+  A   1  2
+  A   1  4
+
+MEASURE 147
+  LINE TLRH2
+  TIELINE RH4 90
+  A   0  4
+  REST   2
+
+MEASURE 147
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  1  4
+  REST   2
+
+MEASURE 147
+  LINE RH4
+  G   1  4
+  B   0  4
+  C   1  4
+
+MEASURE 147
+  LINE RH5
+  A   1  4
+  B   1  4
+  C   2  4
+
+MEASURE 148
+  LINE TLRH2
+  TIELINE RH4 90
+  C#  1  4
+  REST   2
+
+MEASURE 148
+  LINE TLRH3
+  TIELINE RH4 92
+  G   1  4
+  REST   2
+
+MEASURE 148
+  LINE RH4
+  A   1  4
+  E   1  4
+  A   1  4
+
+MEASURE 148
+  LINE RH5
+  C#  2  4
+  E   2  4
+  A   2  4
+
+MEASURE 149
+  LINE TLRH3
+  TIELINE RH4 92
+  A   1  2
+  G   1  4
+
+MEASURE 149
+  LINE RH4
+  C   2  2
+  C   2  4
+
+MEASURE 149
+  LINE RH5
+  F   2  2
+  E   2  4
+
+MEASURE 150
+  LINE TLRH3
+  TIELINE RH4 92
+  A   1  4
+  G   1  4
+  F   1  4
+
+MEASURE 150
+  LINE RH4
+  C   2  4
+  C   2  4
+  A   1  4
+
+MEASURE 150
+  LINE RH5
+  F   2  4
+  E   2  4
+  D   2  4
+
+MEASURE 151
+  LINE TLRH3
+  TIELINE RH4 92
+  E   1  2
+  F   1  4
+
+MEASURE 151
+  LINE RH4
+  A   1  2
+  A   1  4
+
+MEASURE 151
+  LINE RH5
+  C   2  2
+  D   2  4
+
+MEASURE 152
+  LINE TLRH3
+  TIELINE RH4 92
+  E   1  4
+  D   1  4
+  C   1  4
+
+MEASURE 152
+  LINE RH4
+  A   1  4
+  F   1  4
+  F   1  4
+
+MEASURE 152
+  LINE RH5
+  C   2  4
+  Bb  1  4
+  A   1  4
+
+MEASURE 153
+  LINE TLRH3
+  TIELINE RH4 92
+  Bb  0  2
+  A   0  4
+
+MEASURE 153
+  LINE RH4
+  D   1  2
+  D   1  4
+
+MEASURE 153
+  LINE RH5
+  G   1  2
+  F   1  4
+
+MEASURE 154
+  LINE TLRH3
+  TIELINE RH4 92
+  Bb  0  4
+  A   0  4
+  G#  0  4
+
+MEASURE 154
+  LINE RH4
+  D   1  4
+  D   1  4
+  D   1  4
+
+MEASURE 154
+  LINE RH5
+  G   1  4
+  F   1  4
+  E   1  4
+
+MEASURE 155
+  LINE TLRH2
+  TIELINE RH4 90
+  A   0  2
+  REST   4
+
+MEASURE 155
+  LINE TLRH3
+  TIELINE RH4 92
+  D   1  2
+  G   0  8
+  REST   8
+
+MEASURE 155
+  LINE RH4
+  F   1  2
+  C#  1  8
+  REST   8
+
+MEASURE 155
+  LINE RH5
+  A   1  2
+  A   1  8
+  REST   8
+MEASURE 156
+  KEY 1b
+
+MEASURE 148
+  MARK Chorale-again
+
+MEASURE 156
+  MARK Back-to-main-theme
+
+# kr2l musfiles/alb-cordoba.mus 156 50 4
+
+MEASURE 156
+  LINE RH5
+  F   0  4
+  G   0  4
+  A   0  4
+
+MEASURE 157
+  LINE RH5
+  E   1  4  3
+
+MEASURE 158
+  LINE RH5
+  D   1  64 0
+  E   1  64 0
+  D   1  4
+  C   1  4
+  D   1  4
+
+MEASURE 159
+  LINE RH5
+  A   0  4  3
+
+MEASURE 160
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  5
+  A  -1  8
+
+MEASURE 160
+  LINE RH4
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+  REST   8
+  F   0  8
+
+MEASURE 160
+  LINE RH5
+  REST   8
+  D   0  8
+  REST   8
+  F   0  8
+  REST   8
+  A   0  8
+
+MEASURE 161
+  LINE RH4
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 161
+  LINE RH5
+  REST   8
+  G   0  8
+  REST   8
+  A   0  8
+  REST   8
+  G   0  8
+
+MEASURE 162
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  3
+  A  -1  8
+  REST   8
+  Ab -1  8
+
+MEASURE 162
+  LINE RH4
+  REST   8
+  A  -1  8
+  REST   8
+  F   0  8
+  REST   8
+  D   0  8
+
+MEASURE 162
+  LINE RH5
+  REST   8
+  F   0  8
+  REST   8
+  A   0  8
+  REST   8
+  E   0  8
+
+MEASURE 163
+  LINE RH4
+  REST   8
+  A  -1  8
+  REST   2
+
+MEASURE 163
+  LINE RH5
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8  3
+# kr2l musfiles/alb-cordoba.mus 164 50 4
+
+MEASURE 164
+  LINE RH5
+  F   0  4
+  G   0  4
+  A   0  4
+
+MEASURE 165
+  LINE RH5
+  E   1  4  3
+
+MEASURE 166
+  LINE RH5
+  D   1  64 0
+  E   1  64 0
+  D   1  4
+  C   1  4
+  D   1  4
+
+MEASURE 167
+  LINE RH5
+  A   0  4  3
+
+MEASURE 168
+  LINE RH5
+  A   0  64 0
+  Bb  0  64 0
+  A   0  4
+  G   0  4
+  A   0  4
+
+MEASURE 169
+  LINE RH5
+  C   1  8
+  Bb  0  8
+  A   0  8
+  REST   8
+  E   0  4
+# kr2l musfiles/alb-cordoba.mus 163 50 4
+
+MEASURE 163
+  LINE RH3
+  REST   8  3
+  Bb -1  8
+  A  -1  8
+  G  -1  8
+# kr2l musfiles/alb-cordoba.mus 169 50 4
+
+MEASURE 169
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   2
+  Ab -1  4
+
+MEASURE 169
+  LINE RH4
+  C#  0  4
+  C   0  8
+  REST   8
+  D   0  4
+# kr2l musfiles/alb-cordoba.mus 111 50 4
+
+MEASURE 111
+  LINE LH5
+  F# -2  8
+  G# -2 64 0
+  A  -2  4
+  A  -2  8
+  A  -3  8
+  A  -2  8
+
+MEASURE 112
+  LINE LH5
+  E  -2  8
+  G# -2 64 0
+  A  -2  4
+  A  -2  8
+  A  -3  8
+  A  -2  8
+
+MEASURE 113
+  LINE LH5
+  D  -2  8
+  G# -2 64 0
+  A  -2  4
+  A  -2  8
+  A  -3 12
+  A  -2  6
+
+MEASURE 114
+  LINE LH5
+  Eb -2  8
+  G# -2 64 0
+  A  -2  4
+  A  -2  8
+  A  -3  8
+  A  -2  8
+
+MEASURE 115
+  LINE LH5
+  E  -2  8
+  G# -2 64 0
+  A  -2  4
+  A  -2  8
+  A  -3  8
+  A  -2  8
+
+MEASURE 116
+  LINE LH5
+  C# -2  8
+  G# -2 64 0
+  A  -2  4
+  A  -2  8
+  A  -3  8
+  A  -2  8
+
+# kr2l musfiles/alb-cordoba.mus 117 50 4
+
+MEASURE 117
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  3
+  E   0  8
+  REST   8
+  E   0  8
+
+MEASURE 117
+  LINE RH4
+  REST   8  3
+  A   0  8
+  REST   8
+  A   0  8
+
+MEASURE 117
+  LINE RH5
+  REST   8  3
+  C   1  8
+  REST   8
+  C   1  8
+
+MEASURE 118
+  LINE RH4
+  REST   8  3
+  E   0  8
+  REST   8
+  E   0  8
+
+MEASURE 118
+  LINE RH5
+  REST   8  3
+  A   0  8
+  REST   8
+  A   0  8
+
+MEASURE 119
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  3
+  E   0  8
+  REST   8
+  E   0  8
+
+MEASURE 119
+  LINE RH4
+  REST   8  3
+  A   0  8
+  REST   8
+  A   0  8
+
+MEASURE 119
+  LINE RH5
+  REST   8  3
+  C   1  8
+  REST   8
+  C   1  8
+
+MEASURE 120
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  3
+  E   0  8
+  REST   8
+  E   0  8
+
+MEASURE 120
+  LINE RH4
+  REST   8  3
+  A   0  8
+  REST   8
+  A   0  8
+
+MEASURE 120
+  LINE RH5
+  REST   8  3
+  C   1  8
+  REST   8
+  C   1  8
+
+MEASURE 121
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  5
+  Eb  0  8
+
+MEASURE 121
+  LINE RH4
+  REST   8  3
+  Eb  0  8
+  REST   8
+  G   0  8
+
+MEASURE 121
+  LINE RH5
+  REST   8  3
+  G   0  8
+  REST   8
+  C   1  8
+
+MEASURE 122
+  LINE RH4
+  REST   8  3
+  Eb  0  8
+  REST   8
+  Eb  0  8
+
+MEASURE 122
+  LINE RH5
+  REST   8  3
+  G   0  8
+  REST   8
+  G   0  8
+
+MEASURE 123
+  LINE RH4
+  REST   8  3
+  G   0  8
+  REST   8
+  G   0  8
+
+MEASURE 123
+  LINE RH5
+  REST   8  3
+  C   1  8
+  REST   8
+  C   1  8
+
+MEASURE 124
+  LINE RH4
+  REST   8  3
+  C   0  8
+  REST   8
+  C   0  8
+
+MEASURE 124
+  LINE RH5
+  REST   8  3
+  A   0  8
+  REST   8
+  F#  0  8
+MEASURE 117
+  MARK Pause
+
+MEASURE 101
+  MARK Little-Build
+
+# kr2l musfiles/alb-cordoba.mus 117 50 4
+
+MEASURE 117
+  LINE LH1
+  D  -1  8
+  REST   8
+  G   0  8
+  REST   8
+  A  -1  8
+  REST   8
+
+MEASURE 118
+  LINE LH1
+  D  -1  8
+  REST   8
+  G   0  8
+  REST   8
+  A  -1  8
+  REST   8
+
+MEASURE 119
+  LINE LH1
+  D  -1  8
+  REST   8
+  G   0  8
+  REST   8
+  A  -1  8
+  REST   8
+
+MEASURE 120
+  LINE LH1
+  D  -1  8
+  REST   8
+  G   0  8
+  REST   8
+  A  -1  8
+  REST   8
+
+MEASURE 121
+  LINE LH1
+  D  -1  8
+  REST   8
+  G   0  8
+  REST   8
+  A  -1  8
+  REST   8
+
+MEASURE 122
+  LINE LH1
+  D  -1  8
+  REST   8
+  G   0  8
+  REST   8
+  A  -1  8
+  REST   8
+
+MEASURE 123
+  LINE LH1
+  D  -1  8
+  REST   8
+  Eb  0  8
+  REST   8
+  A  -1  8
+  REST   8
+
+MEASURE 124
+  LINE LH1
+  D  -1  8
+  REST   8
+  F#  0  8
+  REST   8
+  D   0  8
+  REST   8
+# kr2l musfiles/alb-cordoba.mus 117 100 24
+
+MEASURE 117
+  LINE RH1
+  REST   8
+  C   1 24
+  A   0 24
+  E   0 24
+  REST   2
+# kr2l musfiles/alb-cordoba.mus 118 100 24
+
+MEASURE 118
+  LINE RH1
+  REST   8
+  C   1 24
+  A   0 24
+  E   0 24
+  REST   2
+# kr2l musfiles/alb-cordoba.mus 119 100 24
+
+MEASURE 119
+  LINE RH1
+  REST   8
+  C   1 24
+  A   0 24
+  E   0 24
+  REST   2
+# kr2l musfiles/alb-cordoba.mus 120 100 24
+
+MEASURE 120
+  LINE RH1
+  REST   8
+  C   1 24
+  A   0 24
+  E   0 24
+  REST   2
+# kr2l musfiles/alb-cordoba.mus 121 100 24
+
+MEASURE 121
+  LINE RH1
+  REST   8
+  C   1 24
+  G   0 24
+  Eb  0 24
+  REST   2
+# kr2l musfiles/alb-cordoba.mus 122 100 24
+
+MEASURE 122
+  LINE RH1
+  REST   8
+  C   1 24
+  G   0 24
+  Eb  0 24
+  REST   2
+# kr2l musfiles/alb-cordoba.mus 123 100 24
+
+MEASURE 123
+  LINE RH1
+  REST   8
+  C   1 24
+  G   0 24
+  Eb  0 24
+  REST   2
+# kr2l musfiles/alb-cordoba.mus 124 100 24
+
+MEASURE 124
+  LINE RH1
+  REST   8
+  A   0 24
+  F#  0 24
+  C   0 24
+  REST   2
+# kr2l musfiles/alb-cordoba.mus 93 100 24
+
+MEASURE 93
+  LINE RH1
+  REST   8
+  D   0 24
+  Bb -1 24
+  E  -1 24
+  REST   2
+# kr2l musfiles/alb-cordoba.mus 94 100 24
+
+MEASURE 94
+  LINE RH1
+  REST   8
+  D   0 24
+  Bb -1 24
+  E  -1 24
+  REST   2
+# kr2l musfiles/alb-cordoba.mus 95 100 24
+
+MEASURE 95
+  LINE RH1
+  REST   8
+  D   0 24
+  Bb -1 24
+  E  -1 24
+  REST   2
+# kr2l musfiles/alb-cordoba.mus 96 100 24
+
+MEASURE 96
+  LINE RH1
+  REST   8
+  C#  0 24
+  A  -1 24
+  E  -1 24
+  REST   2
+# kr2l musfiles/alb-cordoba.mus 93 50 4
+
+MEASURE 93
+  LINE LH1
+  A  -3  8
+  REST   8
+  G  -1  8
+  REST   8
+  A  -2  8
+  REST   8
+
+MEASURE 94
+  LINE LH1
+  A  -3  8
+  REST   8
+  G  -1  8
+  REST   8
+  A  -2  8
+  REST   8
+
+MEASURE 95
+  LINE LH1
+  A  -3  8
+  REST   8
+  G  -1  8
+  REST   8
+  A  -2  8
+  REST   8
+# kr2l musfiles/alb-cordoba.mus 96 50 4
+
+MEASURE 96
+  LINE LH1
+  A  -3  8
+  REST   8
+  A  -1  8
+  REST   8
+  A  -2  8
+  REST   8
+# kr2l musfiles/alb-cordoba.mus 125 50 4
+
+MEASURE 125
+  LINE LH5
+  B  -2  8
+  C# -1  64 0
+  D  -1  4
+  C#  0  64 0
+  D   0  4
+  C# -1  64 0
+  D  -1  8
+
+MEASURE 126
+  LINE LH5
+  A  -2  8
+  C# -1  64 0
+  D  -1  4
+  C#  0  64 0
+  D   0  4
+  C# -1  64 0
+  D  -1  8
+
+MEASURE 127
+  LINE LH5
+  G# -2  8
+  C# -1  64 0
+  D  -1  4
+  C#  0  64 0
+  D   0  4
+  C# -1  64 0
+  D  -1  8
+
+MEASURE 128
+  LINE LH5
+  A  -2  8
+  C# -1  64 0
+  D  -1  4
+  C#  0  64 0
+  D   0  4
+  C# -1  64 0
+  D  -1  8
+
+MEASURE 129
+  LINE LH5
+  B  -2  8
+  C# -1  64 0
+  D  -1  4
+  C#  0  64 0
+  D   0  4
+  C# -1  64 0
+  D  -1  8
+
+MEASURE 130
+  LINE LH5
+  A  -2  8
+  C# -1  64 0
+  D  -1  4
+  C#  0  64 0
+  D   0  4
+  C# -1  64 0
+  D  -1  8
+
+MEASURE 131
+  LINE LH5
+  G# -2  8
+  C# -1  64 0
+  D  -1  4
+  C#  0  64 0
+  D   0  4
+  C# -1  64 0
+  D  -1  8
+
+MEASURE 132
+  LINE LH5
+  A  -2  8
+  C# -1  64 0
+  D  -1  4
+  C#  0  64 0
+  D   0  4
+  C# -1  64 0
+  D  -1  8
+
+MEASURE 133
+  LINE LH5
+  VOLPERC 85
+  G# -3  4  3
+  TRILL G# -2
+# kr2l musfiles/alb-cordoba.mus 134 50 4
+
+MEASURE 134
+  LINE LH5
+  CARRY  4  3
+# kr2l musfiles/alb-cordoba.mus 135 50 4
+
+MEASURE 135
+  LINE LH5
+  CARRY  4  3
+# kr2l musfiles/alb-cordoba.mus 136 50 4
+
+MEASURE 136
+  LINE LH5
+  CARRY  4  3
+# kr2l musfiles/alb-cordoba.mus 137 50 4
+
+MEASURE 137
+  LINE LH5
+  CARRY  4  3
+# kr2l musfiles/alb-cordoba.mus 138 50 4
+
+MEASURE 138
+  LINE LH5
+  CARRY  4  3
+# kr2l musfiles/alb-cordoba.mus 139 50 4
+
+MEASURE 139
+  LINE LH5
+  CARRY  4  3
+# kr2l musfiles/alb-cordoba.mus 140 50 4
+
+MEASURE 140
+  LINE LH5
+  CARRY  4  3
+# kr2l musfiles/alb-cordoba.mus 141 50 4
+
+MEASURE 141
+  LINE LH5
+  VOLPERC 100
+  A  -3  8
+  F# -1  4
+  D  -1  4
+  A  -2  8
+
+MEASURE 142
+  LINE LH5
+  A  -3  8
+  Eb -1  4
+  A  -2  4
+  Eb -1  8
+
+MEASURE 143
+  LINE LH5
+  A  -3  8
+  E  -1  4
+  A  -2  4
+  G  -1  8
+# kr2l musfiles/alb-cordoba.mus 144 50 4
+
+MEASURE 144
+  LINE LH5
+  A  -3  8
+  C#  0  4
+  A  -1  4
+  E   0  8
+
+MEASURE 145
+  LINE LH5
+  A  -3  8
+  F#  0  4
+  E   0  4
+  D   0  8
+# kr2l musfiles/alb-cordoba.mus 146 50 4
+
+MEASURE 146
+  LINE LH5
+  A  -3  8
+  Eb  0  4
+  A  -1  4
+  Eb  0  8
+
+MEASURE 147
+  LINE LH5
+  A  -3  8
+  E   0  4
+  C#  0  4
+  A  -1  8
+
+MEASURE 148
+  LINE LH5
+  G  -1  8
+  E  -1  8
+  C# -1  8
+  A  -2  8
+  E  -2  8
+  A  -3  8
+# kr2l musfiles/alb-cordoba.mus 149 50 4
+
+MEASURE 149
+  LINE LH5
+  F   1  2
+  C   1  4
+
+MEASURE 150
+  LINE LH5
+  F   1  4
+  C   1  4
+  D   1  4
+
+MEASURE 151
+  LINE LH5
+  A   0  2
+  D   1  4
+
+MEASURE 152
+  LINE LH5
+  A   0  4
+  Bb  0  4
+  F   0  4
+
+MEASURE 153
+  LINE LH5
+  G   0  2
+  D   0  4
+
+MEASURE 154
+  LINE LH5
+  G   0  4
+  D   0  4
+  Bb -1  4
+
+MEASURE 155
+  LINE LH5
+  A  -1  2
+  A  -2  8
+  REST   8
+# kr2l musfiles/alb-cordoba.mus 156 50 4
+
+MEASURE 156
+  LINE LH4
+  REST   8
+  A  -1  8
+  REST   8
+  D   0  8
+  REST   8
+  D   0  8
+
+MEASURE 156
+  LINE LH5
+  REST   8
+  D   0  8
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+
+MEASURE 157
+  LINE LH4
+  REST   8
+  G   0  8
+  REST   8
+  G   0  8
+  REST   8
+  G   0  8
+
+MEASURE 157
+  LINE LH5
+  REST   8
+  A   0  8
+  REST   8
+  A   0  8
+  REST   8
+  A   0  8
+
+MEASURE 158
+  LINE LH4
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+
+MEASURE 158
+  LINE LH5
+  REST   8
+  A   0  8
+  REST   8
+  A   0  8
+  REST   8
+  A   0  8
+
+MEASURE 159
+  LINE LH4
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+
+MEASURE 159
+  LINE LH5
+  REST   8
+  G   0  8
+  REST   8
+  G   0  8
+  REST   8
+  G   0  8
+
+MEASURE 160
+  LINE LH5
+  REST   4  3
+
+MEASURE 161
+  LINE LH5
+  REST   4  3
+
+MEASURE 162
+  LINE LH5
+  REST   4  3
+
+MEASURE 163
+  LINE LH5
+  REST   4
+  G  -1  4
+  F  -1  8
+  E  -1  8
+# kr2l musfiles/alb-cordoba.mus 164 50 4
+
+MEASURE 164
+  LINE LH4
+  REST   8
+  A  -1  8
+  REST   8
+  D   0  8
+  REST   8
+  D   0  8
+
+MEASURE 164
+  LINE LH5
+  REST   8
+  D   0  8
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+
+MEASURE 165
+  LINE LH4
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+
+MEASURE 165
+  LINE LH5
+  REST   8
+  A   0  8
+  REST   8
+  A   0  8
+  REST   8
+  A   0  8
+
+MEASURE 166
+  LINE LH4
+  REST   8
+  D   0  8
+  REST   8
+  D   0  8
+  REST   8
+  D   0  8
+
+MEASURE 166
+  LINE LH5
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+
+MEASURE 167
+  LINE LH4
+  REST   8
+  C   0  8
+  REST   8
+  C   0  8
+  REST   8
+  C   0  8
+
+MEASURE 167
+  LINE LH5
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+
+MEASURE 168
+  LINE LH4
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+  REST   8
+  C   0  8
+
+MEASURE 168
+  LINE LH5
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+  REST   8
+  F   0  8
+# kr2l musfiles/alb-cordoba.mus 156 50 4
+
+MEASURE 156
+  LINE LH2
+  D  -1  8
+  REST   8
+  A  -1  8
+  REST   8
+  A  -2  8
+  REST   8
+
+MEASURE 157
+  LINE LH2
+  C# -1  8
+  REST   8
+  A  -1  8
+  REST   8
+  A  -2  8
+  REST   8
+
+MEASURE 158
+  LINE LH2
+  D  -1  8
+  REST   8
+  A  -1  8
+  REST   8
+  A  -2  8
+  REST   8
+
+MEASURE 159
+  LINE LH2
+  E  -1  8
+  REST   8
+  A  -1  8
+  REST   8
+  A  -2  8
+  REST   8
+
+MEASURE 160
+  LINE LH2
+  F  -1  64 0
+  G  -1  64 0
+  F  -1  4
+  E  -1  4
+  D  -1  4
+
+MEASURE 161
+  LINE LH2
+  C# -1  8  3
+  B  -2  8
+  C# -1  4
+
+MEASURE 162
+  LINE LH2
+  D  -1  4
+  C  -1  4
+  Bb -2  4
+
+MEASURE 163
+  LINE LH2
+  A  -2  4  3
+
+MEASURE 164
+  LINE LH2
+  D  -1  4  3
+
+MEASURE 165
+  LINE LH2
+  C  -1  4  3
+
+MEASURE 166
+  LINE LH2
+  Bb -2  4  3
+
+MEASURE 167
+  LINE LH2
+  F  -2  4  3
+
+MEASURE 168
+  LINE LH1
+  Bb -2  2
+  F  -2  4
+
+MEASURE 168
+  LINE LH2
+  F  -1  2
+  F  -1  4
+
+MEASURE 169
+  LINE LH1
+  Bb -2  4
+  F  -2  8
+  REST   8  3
+
+MEASURE 169
+  LINE LH2
+  F  -1  4
+  F  -1  8
+  REST   8
+  C  -1  8
+  Bb -2  8
+# kr2l musfiles/alb-cordoba.mus 170 50 4
+
+MEASURE 170
+  LINE RH6
+  F   0  8
+  G   0  8
+  A   0  2
+# kr2l musfiles/alb-cordoba.mus 170 50 4
+
+MEASURE 170
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  5
+  G  -1  8
+
+MEASURE 170
+  LINE RH4
+  REST   8  5
+  A  -1  8
+
+MEASURE 170
+  LINE RH5
+  REST   8  5
+  C#  0  8
+# kr2l musfiles/alb-cordoba.mus 171 50 4
+
+MEASURE 171
+  LINE TLRH2
+  TIELINE RH4 90
+  A  -1  8
+  REST   8  5
+
+MEASURE 171
+  LINE TLRH3
+  TIELINE RH4 92
+  D   0  8
+  REST   8  5
+
+MEASURE 171
+  LINE RH4
+  F   0  8
+  D   0  8
+  F   0  8
+  A   0  8
+  D   1  8
+  F   1  8
+
+MEASURE 171
+  LINE RH5
+  A   0  8
+  F   0  8
+  A   0  8
+  D   1  8
+  F   1  8
+  A   1  8
+# kr2l musfiles/alb-cordoba.mus 172 50 4
+
+MEASURE 172
+  LINE RH6
+  E   1  4
+  F   1  4
+  G   1  4
+
+MEASURE 173
+  LINE RH6
+  E   1  4  3
+
+MEASURE 174
+  LINE RH6
+  A   1  4
+  G   1  4
+  F   1  4
+
+MEASURE 175
+  LINE RH6
+  Bb  1  4
+  A   1  4
+  G   1  4
+# kr2l musfiles/alb-cordoba.mus 172 50 4
+
+MEASURE 172
+  LINE RH1
+  D   0  4  3
+
+MEASURE 173
+  LINE RH1
+  Bb  0  8  3
+  A   0  8
+  G   0  4
+
+MEASURE 174
+  LINE RH1
+  F   0  4
+  E   0  4
+  D   0  4
+
+MEASURE 175
+  LINE RH1
+  G   0  4
+  A   0  4
+  Bb  0  4
+
+MEASURE 176
+  LINE RH1
+  A   0  4
+  C   1  64 0
+  Bb  0  4
+  A   0  4
+# kr2l musfiles/alb-cordoba.mus 177 50 4
+
+MEASURE 177
+  LINE RH1
+  Ab  0  4
+  REST   8
+  Bb  0  4
+  A   0  8
+# kr2l musfiles/alb-cordoba.mus 177 50 4
+
+MEASURE 177
+  LINE RH5
+  REST   8  3
+  C#   1  8  3
+
+MEASURE 178
+  LINE RH4
+  A   0  8
+  C#  1  8
+  D   1  8
+  E   1  8
+  F   1  8
+  E   1  8
+
+MEASURE 178
+  LINE RH5
+  D   1  8
+  E   1  8
+  F   1  8
+  G   1  8
+  A   1  8
+  G   1  8
+
+MEASURE 179
+  LINE RH4
+  D   1  8
+  E   1  8
+  C#  1  8
+  D   1  8
+  A   0  4
+
+MEASURE 179
+  LINE RH5
+  F   1  8
+  G   1  8
+  E   1  8
+  F   1  8
+  D   1  4
+# kr2l musfiles/alb-cordoba.mus 180 50 4
+
+MEASURE 180
+  LINE RH6
+  E   0  4
+  F   0  4
+  G   0  4
+
+MEASURE 181
+  LINE RH6
+  E   0  4  3
+
+MEASURE 182
+  LINE RH6
+  D   0  4
+  F   0  4
+  A   0  4
+
+MEASURE 183
+  LINE RH6
+  A   0  2
+  D   0  4
+# kr2l musfiles/alb-cordoba.mus 180 50 4
+
+MEASURE 180
+  LINE RH1
+  D  -1  4  3
+
+MEASURE 181
+  LINE RH1
+  Bb -1  8  3
+  A  -1  8
+  G  -1  4
+
+MEASURE 182
+  LINE RH1
+  F  -1  4
+  E  -1  4
+  D  -1  4
+
+MEASURE 183
+  LINE RH1
+  C  -1  2
+  Bb -2  4
+# kr2l musfiles/alb-cordoba.mus 184 50 4
+
+MEASURE 184
+  LINE TLRH3
+  TIELINE RH4 92
+  F  -1  4
+  G  -1  4
+  A  -1  4
+
+MEASURE 184
+  LINE RH4
+  A  -1  4
+  Bb -1  4
+  C   0  4
+
+MEASURE 184
+  LINE RH5
+  D   0  4
+  E   0  4
+  F   0  4
+
+MEASURE 185
+  LINE TLRH3
+  TIELINE RH4 92
+  C   0  4
+  Bb -1  4
+  F  -1  8
+  E  -1  8
+
+
+MEASURE 185
+  LINE RH4
+  E   0  4
+  D   0  4
+  A  -1  8
+  G  -1  8
+
+MEASURE 185
+  LINE RH5
+  A   0  4
+  G   0  4
+  C#  0  4
+# kr2l musfiles/alb-cordoba.mus 186 50 4
+
+MEASURE 186
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  3
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 186
+  LINE RH4
+  TEMPO RESET
+  REST   8  3
+  D   0  8
+  REST   8
+  D   0  8
+
+MEASURE 186
+  LINE RH5
+  REST   8  3
+  F   0  8
+  REST   8
+  F   0  8
+
+MEASURE 187
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  Ab -1  8
+  REST   8
+  Ab -1  8
+  REST   8
+  G  -1  8
+
+MEASURE 187
+  LINE RH4
+  REST   8
+  D   0  8
+  REST   8
+  D   0  8
+  REST   8
+  A  -1  8
+
+MEASURE 187
+  LINE RH5
+  REST   8
+  F   0  8
+  REST   8
+  E   0  8
+  REST   8
+  C#  0  8
+
+MEASURE 188
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  3
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 188
+  LINE RH4
+  REST   8  3
+  D   0  8
+  REST   8
+  D   0  8
+
+MEASURE 188
+  LINE RH5
+  REST   8  3
+  F   0  8
+  REST   8
+  F   0  8
+
+MEASURE 189
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  Ab -1  8
+  REST   8
+  Ab -1  8
+  REST   8
+  G  -1  8
+
+MEASURE 189
+  LINE RH4
+  REST   8
+  D   0  8
+  REST   8
+  D   0  8
+  REST   8
+  A  -1  8
+
+MEASURE 189
+  LINE RH5
+  REST   8
+  F   0  8
+  REST   8
+  E   0  8
+  REST   8
+  C#  0  8
+
+MEASURE 190
+  LINE RH4
+  A  -1  8
+  C#  0  8
+  D   0  8
+  E   0  8
+  F   0  8
+  E   0  8
+
+MEASURE 190
+  LINE RH5
+  D   0  8
+  E   0  8
+  F   0  8
+  G   0  8
+  A   0  8
+  G   0  8
+
+MEASURE 191
+  LINE RH4
+  D   0  8
+  C#  1  8
+  D   1  8
+  E   1  8
+  F   1  8
+  E   1  8
+
+MEASURE 191
+  LINE RH5
+  F   0  8
+  E   1  8
+  F   1  8
+  G   1  8
+  A   1  8
+  G   1  8
+# kr2l musfiles/alb-cordoba.mus 192 50 4
+
+MEASURE 192
+  LINE RH4
+  D   1  8
+  C#  2  8
+  D   2  8
+  E   2  8
+  F   2  8
+  E   2  8
+
+MEASURE 192
+  LINE RH5
+  F   1  8
+  E   2  8
+  F   2  8
+  G   2  8
+  A   2  8
+  G   2  8
+
+MEASURE 193
+  LINE RH4
+  D   2  4  3
+
+MEASURE 193
+  LINE RH5
+  F   2  4  3
+# kr2l musfiles/alb-cordoba.mus 194 50 4
+
+MEASURE 194
+  LINE TLRH3
+  TIELINE RH4 92
+  G   0  8
+  REST   8  5
+
+MEASURE 194
+  LINE RH4
+  C#  1  8
+  REST   8  5
+
+MEASURE 194
+  LINE RH5
+  A   1  8
+  REST   8  5
+# kr2l musfiles/alb-cordoba.mus 195 50 4
+
+MEASURE 195
+  LINE TLRH2
+  TIELINE RH4 90
+  D   1  8
+  REST   8  5
+
+MEASURE 195
+  LINE TLRH3
+  TIELINE RH4 92
+  F   1  8
+  REST   8  5
+
+MEASURE 195
+  LINE RH4
+  A   1  8
+  REST   8  5
+
+MEASURE 195
+  LINE RH5
+  D   2  8
+  REST   8  5
+# kr2l musfiles/alb-cordoba.mus 186 50 4
+
+MEASURE 186
+  LINE RH6
+  REST  16
+  A  -1 16
+  D   0 16
+  F   0 16
+  A   0  2
+
+MEASURE 187
+  LINE RH6
+  REST   4  3
+
+MEASURE 188
+  LINE RH6
+  REST  16
+  A  -1 16
+  D   0 16
+  F   0 16
+  A   0  2
+# kr2l musfiles/alb-cordoba.mus 170 50 4
+
+MEASURE 170
+  LINE LH4
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+  REST   4
+
+MEASURE 170
+  LINE LH5
+  REST   8
+  D   0  8
+  REST   8
+  D   0  8
+  REST   4
+
+MEASURE 171
+  LINE LH5
+  REST   4  3
+
+MEASURE 172
+  LINE LH4
+  REST   8
+  Bb  0  8
+  REST   8
+  Bb  0  8
+  REST   8
+  Bb  0  8
+
+MEASURE 172
+  LINE LH5
+  REST   8
+  C#  1  8
+  REST   8
+  C#  1  8
+  REST   8
+  C#  1  8
+
+MEASURE 173
+  LINE LH4
+  REST   8
+  Bb  0  8
+  REST   8
+  Bb  0  8
+  REST   8
+  Bb  0  8
+
+MEASURE 173
+  LINE LH5
+  REST   8
+  C#  1  8
+  REST   8
+  C#  1  8
+  REST   8
+  C#  1  8
+
+MEASURE 174
+  LINE LH4
+  REST   8
+  A   0  8
+  REST   8
+  A   0  8
+  REST   8
+  A   0  8
+
+MEASURE 174
+  LINE LH5
+  REST   8
+  D   1  8
+  REST   8
+  C#  1  8
+  REST   8
+  D   1  8
+
+MEASURE 175
+  LINE LH4
+  REST   8
+  D   1  8
+  REST   8
+  D   1  8
+  REST   8
+  D   1  8
+
+MEASURE 175
+  LINE LH5
+  REST   8
+  E   1  8
+  REST   8
+  E   1  8
+  REST   8
+  E   1  8
+
+MEASURE 176
+  LINE LH4
+  REST   8
+  D   1  8
+  REST   8
+  D   1  8
+  REST   8
+  D   1  8
+
+MEASURE 176
+  LINE LH5
+  REST   8
+  F   1  8
+  REST   8
+  F   1  8
+  REST   8
+  F   1  8
+# kr2l musfiles/alb-cordoba.mus 177 50 4
+
+MEASURE 177
+  LINE LH4
+  REST   8
+  D   1  8
+  REST   2
+
+MEASURE 177
+  LINE LH5
+  REST   8
+  E   1  8
+  REST   4
+  G   0  4
+# kr2l musfiles/alb-cordoba.mus 178 50 4
+
+MEASURE 178
+  LINE LH5
+  F   0  8
+  G   0  8
+  A   0  8
+  Bb  0  8
+  C   1  8
+  Bb  0  8
+
+MEASURE 179
+  LINE LH5
+  A   0  8
+  Bb  0  8
+  G   0  8
+  A   0  8
+  F   0  4
+
+MEASURE 180
+  LINE LH4
+  REST   8
+  Bb -1  8
+  REST   8
+  Bb -1  8
+  REST   8
+  Bb -1  8
+
+MEASURE 180
+  LINE LH5
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+
+MEASURE 181
+  LINE LH4
+  REST   8
+  Bb -1  8
+  REST   8
+  Bb -1  8
+  REST   8
+  Bb -1  8
+
+MEASURE 181
+  LINE LH5
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+
+MEASURE 182
+  LINE LH4
+  REST   8
+  PHANTOM  8
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 182
+  LINE LH5
+  REST   8
+  A  -1  8
+  REST   8
+  D   0  8
+  REST   8
+  F   0  8
+# kr2l musfiles/alb-cordoba.mus 183 50 4
+
+MEASURE 183
+  LINE LH4
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+  REST   8
+  F  -1  8
+
+MEASURE 183
+  LINE LH5
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+  REST   8
+  Ab -1  8
+# kr2l musfiles/alb-cordoba.mus 184 50 4
+
+MEASURE 184
+  LINE LH5
+  A  -2  8
+  A  -2  4
+  A  -2  4
+  A  -2  8
+
+MEASURE 185
+  LINE LH5
+  CARRY  8
+  A  -2  4
+  A  -2  4
+  A  -2  8
+
+MEASURE 186
+  LINE LH5
+  D  -1  2
+  C# -1  8
+  C  -1  8
+
+MEASURE 187
+  LINE LH5
+  B  -2  4
+  Bb -2  4
+  A  -2  4
+
+MEASURE 188
+  LINE LH5
+  D  -1  2
+  C# -1  8
+  C  -1  8
+
+MEASURE 189
+  LINE LH5
+  B  -2  4
+  Bb -2  4
+  A  -2  4
+
+MEASURE 190
+  LINE LH5
+  F  -1  8
+  G  -1  8
+  A  -1  8
+  Bb -1  8
+  C   0  8
+  Bb -1  8
+
+MEASURE 191
+  LINE LH5
+  A  -1  8
+  G   0  8
+  A   0  8
+  Bb  0  8
+  C   1  8
+  Bb  0  8
+
+MEASURE 192
+  LINE LH5
+  A   0  8
+  G   1  8
+  A   1  8
+  Bb  1  8
+  C   2  8
+  Bb  1  8
+
+MEASURE 193
+  LINE LH5
+  A   1  4  3
+
+MEASURE 194
+  LINE LH4
+  A  -3  8
+  REST   8  5
+
+MEASURE 194
+  LINE LH5
+  A  -2  8
+  REST   8  5
+
+MEASURE 195
+  LINE LH4
+  D  -3  8
+  REST   8  5
+
+MEASURE 195
+  LINE LH5
+  D  -2  8
+  REST   8  5
+# kr2l musfiles/alb-cordoba.mus 170 50 4
+
+MEASURE 170
+  LINE LH1
+  A  -2  2
+  F  -2  8
+  E  -2  8
+
+MEASURE 171
+  LINE LH1
+  D  -2  8
+  A  -1  8
+  D   0  8
+  F   0  8
+  A   0  8
+  D   1  8
+# kr2l musfiles/alb-cordoba.mus 177 50 4
+
+MEASURE 177
+  LINE LH1
+  REST   4
+  A  -1  2
+
+MEASURE 178
+  LINE LH1
+  D   0  4  3
+
+MEASURE 179
+  LINE LH1
+  CARRY  4  3
+# kr2l musfiles/alb-cordoba.mus 190 50 4
+
+MEASURE 190
+  LINE LH1
+  D  -1  4  3
+
+MEASURE 191
+  LINE LH1
+  CARRY  8
+  REST   8  5
+MEASURE 186
+  MARK Coda
+

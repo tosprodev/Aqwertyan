@@ -1,0 +1,1744 @@
+NAME Grieg: Lyric Piece, Opus 8, Number 2: Waltz.
+
+MEASURE 1
+  METER 3 4
+  TEMPO 4 60.000000
+  KEY 0
+
+# kr2l grieg08-2.mus 1 120 4
+
+MEASURE 1
+  LINE LH1
+  A  -2  4
+  REST   2
+
+MEASURE 2
+  LINE LH1
+  A  -2  4
+  REST   2
+
+MEASURE 3
+  LINE LH1
+  A  -2  4
+  REST   2
+
+MEASURE 4
+  LINE LH1
+  A  -2  4
+  REST   2
+
+MEASURE 5
+  LINE LH1
+  A  -2  4
+  REST   2
+
+MEASURE 6
+  LINE LH1
+  A  -2  4
+  REST   2
+
+MEASURE 7
+  LINE LH1
+  A  -2  4
+  REST   2
+
+MEASURE 8
+  LINE LH1
+  A  -2  4
+  REST   2
+
+MEASURE 9
+  LINE LH1
+  A  -2  4
+  REST   2
+
+MEASURE 10
+  LINE LH1
+  A  -2  4
+  REST   2
+
+MEASURE 37
+  KEY 3#
+
+MEASURE 53
+  KEY 0
+
+MEASURE 72
+  KEY 3#
+
+# kr2l grieg08-2.mus 1 120 4
+
+MEASURE 1
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 1
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 2
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 2
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 3
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 3
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 4
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 4
+  LINE LH5
+  REST   4
+  D   0  4
+  D   0  4
+
+MEASURE 5
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 5
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 6
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 6
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 7
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 7
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 8
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 8
+  LINE LH5
+  REST   4
+  D   0  4
+  D   0  4
+
+MEASURE 9
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 9
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 10
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 10
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 11
+  LINE LH4
+  C   0  4
+  C   0  4
+  C   0  4
+
+MEASURE 11
+  LINE LH5
+  E   0  4
+  F   0  4
+  F#  0  4
+# kr2l grieg08-2.mus 12 120 4
+
+MEASURE 12
+  LINE TLLH3
+  TIELINE LH4 92
+  G  -1  4  3
+
+MEASURE 12
+  LINE LH4
+  D   0  4  3
+
+MEASURE 12
+  LINE LH5
+  G   0  4  3
+
+MEASURE 13
+  LINE LH4
+  A  -1  4
+  A  -1  4
+  A  -1  4
+
+MEASURE 13
+  LINE LH5
+  C   0  4
+  D   0  4
+  Eb  0  4
+
+MEASURE 14
+  LINE TLLH3
+  TIELINE LH4 92
+  E  -1  4  3
+
+MEASURE 14
+  LINE LH4
+  B  -1  4  3
+
+MEASURE 14
+  LINE LH5
+  E   0  4  3
+
+MEASURE 15
+  LINE LH4
+  F  -1  4  3
+
+MEASURE 15
+  LINE LH5
+  C   0  4  3
+
+MEASURE 16
+  LINE TLLH3
+  TIELINE LH4 92
+  C  -1  4  3
+
+MEASURE 16
+  LINE LH4
+  G  -1  4  3
+
+MEASURE 16
+  LINE LH5
+  C   0  4  3
+
+MEASURE 17
+  LINE LH4
+  D  -1  4
+  E  -1  8
+  F  -1  8
+  D  -1  4
+
+MEASURE 17
+  LINE LH5
+  A  -1  4
+  A  -1  8
+  A  -1  8
+  A  -1  4
+# kr2l grieg08-2.mus 18 120 4
+
+MEASURE 18
+  LINE LH4
+  F  -1  4
+  E  -1  2
+
+MEASURE 18
+  LINE LH5
+  A  -1  4
+  G# -1  2
+
+MEASURE 19
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 19
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 20
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 20
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 21
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 21
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 22
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 22
+  LINE LH5
+  REST   4
+  D   0  4
+  D   0  4
+
+MEASURE 23
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 23
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 24
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 24
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 25
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 25
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 26
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 26
+  LINE LH5
+  REST   4
+  D   0  4
+  D   0  4
+
+MEASURE 27
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 27
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 28
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 28
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 29
+  LINE LH4
+  C   0  4
+  C   0  4
+  C   0  4
+
+MEASURE 29
+  LINE LH5
+  E   0  4
+  F   0  4
+  F#  0  4
+# kr2l grieg08-2.mus 30 120 4
+
+MEASURE 30
+  LINE TLLH3
+  TIELINE LH4 92
+  G  -1  4  3
+
+MEASURE 30
+  LINE LH4
+  D   0  4  3
+
+MEASURE 30
+  LINE LH5
+  G   0  4  3
+
+MEASURE 31
+  LINE LH4
+  A  -1  4
+  A  -1  4
+  A  -1  4
+
+MEASURE 31
+  LINE LH5
+  C   0  4
+  D   0  4
+  Eb  0  4
+
+MEASURE 32
+  LINE TLLH3
+  TIELINE LH4 92
+  E  -1  4  3
+
+MEASURE 32
+  LINE LH4
+  B  -1  4  3
+
+MEASURE 32
+  LINE LH5
+  E   0  4  3
+
+MEASURE 33
+  LINE LH4
+  F  -1  4  3
+
+MEASURE 33
+  LINE LH5
+  C   0  4  3
+
+MEASURE 34
+  LINE TLLH3
+  TIELINE LH4 92
+  C  -1  4  3
+
+MEASURE 34
+  LINE LH4
+  G  -1  4  3
+
+MEASURE 34
+  LINE LH5
+  C   0  4  3
+# kr2l grieg08-2.mus 35 120 4
+
+MEASURE 35
+  LINE LH4
+  D  -1  4
+  E  -1  8
+  F  -1  8
+  D  -1  4
+
+MEASURE 35
+  LINE LH5
+  A  -1  4
+  A  -1  8
+  A  -1  8
+  A  -1  4
+# kr2l grieg08-2.mus 19 120 4
+
+MEASURE 19
+  LINE LH1
+  A  -2  4
+  REST   2
+
+MEASURE 20
+  LINE LH1
+  A  -2  4
+  REST   2
+
+MEASURE 21
+  LINE LH1
+  A  -2  4
+  REST   2
+
+MEASURE 22
+  LINE LH1
+  A  -2  4
+  REST   2
+
+MEASURE 23
+  LINE LH1
+  A  -2  4
+  REST   2
+
+MEASURE 24
+  LINE LH1
+  A  -2  4
+  REST   2
+
+MEASURE 25
+  LINE LH1
+  A  -2  4
+  REST   2
+
+MEASURE 26
+  LINE LH1
+  A  -2  4
+  REST   2
+
+MEASURE 27
+  LINE LH1
+  A  -2  4
+  REST   2
+
+MEASURE 28
+  LINE LH1
+  A  -2  4
+  REST   2
+# kr2l grieg08-2.mus 3 60 4
+
+MEASURE 3
+  LINE RH5
+  E   0  4
+  F#  0  8
+  G#  0  8
+  A   0  4
+
+MEASURE 4
+  LINE RH5
+  A   0  4
+  B   0  8
+  G#  0  8
+  F#  0  4
+
+MEASURE 5
+  LINE RH5
+  A   0 32 0
+  F#  0  4
+  E   0  2
+
+MEASURE 6
+  LINE RH5
+  CARRY  4
+  REST   2
+
+MEASURE 7
+  LINE RH5
+  REST   8
+  E   0  8
+  F#  0  8
+  G#  0  8
+  G#  0  8
+  A   0  8
+# kr2l grieg08-2.mus 8 60 4
+
+MEASURE 8
+  LINE RH5
+  REST   8
+  A   0  8
+  B   0  8
+  G#  0  8
+  G#  0  8
+  F#  0  8
+
+MEASURE 9
+  LINE RH5
+  A   0 32 0
+  F#  0  4
+  E   0  2
+
+MEASURE 10
+  LINE RH5
+  CARRY  4
+  REST   2
+
+MEASURE 11
+  LINE RH4
+  G   0  4
+  G#  0  4
+  A   0  4
+
+MEASURE 11
+  LINE RH5
+  E   1  4
+  E   1  4
+  E   1  4
+
+MEASURE 12
+  LINE RH5
+  E   1 12
+  D   1 12
+  C   1 12
+  D   1  2
+
+MEASURE 13
+  LINE RH4
+  E   0  4
+  F   0  4
+  F#  0  4
+
+MEASURE 13
+  LINE RH5
+  C   1  4
+  C   1  4
+  C   1  4
+
+MEASURE 14
+  LINE RH5
+  C   1 12
+  B   0 12
+  A   0 12
+  B   0  2
+
+MEASURE 15
+  LINE RH5
+  B   0 12
+  A   0 12
+  G   0 12
+  A   0  2
+
+MEASURE 16
+  LINE RH5
+  G   0  4  3
+
+MEASURE 17
+  LINE RH4
+  C   0  4
+  C   0  8
+  C   0  8
+  C   0  4
+
+MEASURE 17
+  LINE RH5
+  F   0  4
+  G   0  8
+  A   0  8
+  F   0  4
+
+MEASURE 18
+  LINE RH4
+  B  -1  4
+  B  -1  2
+
+MEASURE 18
+  LINE RH5
+  D   0  4
+  E   0  2
+# kr2l grieg08-2.mus 12 60 4
+
+MEASURE 12
+  LINE RH4
+  B   0  4  3
+# kr2l grieg08-2.mus 14 60 4
+
+MEASURE 14
+  LINE RH4
+  G   0  4  3
+# kr2l grieg08-2.mus 15 60 4
+
+MEASURE 15
+  LINE RH4
+  F   0  4  3
+
+MEASURE 16
+  LINE RH4
+  F   0 12
+  E   0 12
+  D   0 12
+  E   0  2
+# kr2l grieg08-2.mus 21 60 4
+
+MEASURE 21
+  LINE RH5
+  E   0  4
+  F#  0  8
+  G#  0  8
+  A   0  4
+
+MEASURE 22
+  LINE RH5
+  A   0  4
+  B   0  8
+  G#  0  8
+  F#  0  4
+
+MEASURE 23
+  A   0 32 0
+  LINE RH5
+  F#  0  4
+  E   0  2
+
+MEASURE 24
+  LINE RH5
+  CARRY  4
+  REST   2
+
+MEASURE 25
+  LINE RH5
+  REST   8
+  E   0  8
+  F#  0  8
+  G#  0  8
+  G#  0  8
+  A   0  8
+
+MEASURE 26
+  LINE RH5
+  REST   8
+  A   0  8
+  B   0  8
+  G#  0  8
+  G#  0  8
+  F#  0  8
+
+MEASURE 27
+  LINE RH5
+  A   0 32 0
+  F#  0  4
+  E   0  2
+
+MEASURE 28
+  LINE RH5
+  CARRY  4
+  REST   2
+# kr2l grieg08-2.mus 29 60 4
+
+MEASURE 29
+  LINE RH4
+  G   0  4
+  G#  0  4
+  A   0  4
+
+MEASURE 29
+  LINE RH5
+  E   1  4
+  E   1  4
+  E   1  4
+# kr2l grieg08-2.mus 30 60 4
+
+MEASURE 30
+  LINE RH4
+  B   0 4 3
+
+MEASURE 30
+  LINE RH5
+  E   1 12
+  D   1 12
+  C   1 12
+  D   1  2
+
+MEASURE 31
+  LINE RH4
+  E   0  4
+  F   0  4
+  F#  0  4
+
+MEASURE 31
+  LINE RH5
+  C   1  4
+  C   1  4
+  C   1  4
+
+MEASURE 32
+  LINE RH4
+  G   0 4 3
+
+MEASURE 32
+  LINE RH5
+  C   1 12
+  B   0 12
+  A   0 12
+  B   0  2
+
+MEASURE 33
+  LINE RH4
+  F  0  4 3
+
+MEASURE 33
+  LINE RH5
+  B   0 12
+  A   0 12
+  G   0 12
+  A   0  2
+# kr2l grieg08-2.mus 34 60 4
+
+MEASURE 34
+  LINE RH5
+  G   0  4  3
+
+MEASURE 35
+  LINE RH4
+  C   0  4
+  C   0  8
+  C   0  8
+  C   0  4
+
+MEASURE 35
+  LINE RH5
+  F   0  4
+  G   0  8
+  A   0  8
+  F   0  4
+
+MEASURE 36
+  LINE RH4
+  B  -1  4
+  B  -1  2
+
+MEASURE 36
+  LINE RH5
+  D   0  4
+  E   0  2
+# kr2l grieg08-2.mus 34 60 4
+
+MEASURE 34
+  LINE RH4
+  F   0 12
+  E   0 12
+  D   0 12
+  E   0  2
+# kr2l grieg08-2.mus 37 60 4
+
+MEASURE 37
+  LINE RH5
+  A   0  2
+  B   0  8
+  G#  0  8
+
+MEASURE 38
+  LINE RH5
+  G#  0  32 0
+  F#  0  8
+  E   0  8
+  E   0  2
+# kr2l grieg08-2.mus 39 60 4
+
+MEASURE 39
+  LINE RH5
+  A   0  4
+  B   0  8
+  C#  1  8
+  A   0  8
+  F#  0  8
+
+MEASURE 40
+  LINE RH5
+  G#  0  32 0
+  F#  0  8
+  E   0  8
+  E   0  2
+
+MEASURE 41
+  LINE RH5
+  A   0  2
+  E   0  8
+  F#  0  8
+# kr2l grieg08-2.mus 42 60 4
+
+MEASURE 42
+  LINE RH5
+  F#  0  8
+  G#  0  8
+  G#  0  2
+
+MEASURE 43
+  LINE RH5
+  G#  0  8
+  B   0  8
+  B   0  8
+  A   0  8
+  E   0  8
+  F#  0  8
+
+MEASURE 44
+  LINE RH5
+  F#  0  8
+  G#  0  8
+  G#  0  2
+
+MEASURE 45
+  LINE RH5
+  A   0  2
+  B   0  8
+  G#  0  8
+
+MEASURE 46
+  LINE RH5
+  G#  0  32 0
+  F#  0  8
+  E   0  8
+  E   0  2
+
+MEASURE 47
+  LINE RH5
+  A   0  4
+  B   0  8
+  C#  1  8
+  A   0  8
+  F#  0  8
+
+MEASURE 48
+  LINE RH5
+  G#  0  32 0
+  F#  0  8
+  E   0  8
+  E   0  2
+
+MEASURE 49
+  LINE RH5
+  A   0  2
+  E   0  8
+  F#  0  8
+
+MEASURE 50
+  LINE RH5
+  F#  0  8
+  G   0  8
+  G   0  2
+
+MEASURE 51
+  LINE RH5
+  G   0  8
+  G#  0  8
+  G#  0  2
+
+MEASURE 52
+  LINE RH5
+  G#  0  8
+  A   0  8
+  A   0  2
+MEASURE 1
+  MARK Beginning
+
+MEASURE 37
+  MARK Key-change
+
+MEASURE 53
+  MARK Recap
+
+
+# kr2l grieg08-2.mus 37 120 4
+
+MEASURE 37
+  LINE LH4
+  REST   4
+  C#  1  4
+  C#  1  4
+
+MEASURE 37
+  LINE LH5
+  REST   4
+  E   1  4
+  E   1  4
+
+MEASURE 38
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  G#  0  4
+  G#  0  4
+
+MEASURE 38
+  LINE LH4
+  REST   4
+  D   1  4
+  D   1  4
+
+MEASURE 38
+  LINE LH5
+  REST   4
+  E   1  4
+  E   1  4
+
+MEASURE 39
+  LINE LH4
+  REST   4
+  C#  1  4
+  C#  1  4
+
+MEASURE 39
+  LINE LH5
+  REST   4
+  E   1  4
+  E   1  4
+
+MEASURE 40
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  G#  0  4
+  G#  0  4
+
+MEASURE 40
+  LINE LH4
+  REST   4
+  D   1  4
+  D   1  4
+
+MEASURE 40
+  LINE LH5
+  REST   4
+  E   1  4
+  E   1  4
+# kr2l grieg08-2.mus 41 120 4
+
+MEASURE 41
+  LINE LH4
+  REST   4
+  C#  1  4
+  C#  1  4
+
+MEASURE 41
+  LINE LH5
+  REST   4
+  E   1  4
+  E   1  4
+
+MEASURE 42
+  LINE LH4
+  REST   4
+  C#  1  4
+  C#  1  4
+
+MEASURE 42
+  LINE LH5
+  REST   4
+  E   1  4
+  E   1  4
+
+MEASURE 43
+  LINE LH4
+  REST   4
+  C#  1  4
+  C#  1  4
+
+MEASURE 43
+  LINE LH5
+  REST   4
+  E   1  4
+  E   1  4
+
+MEASURE 44
+  LINE LH4
+  REST   4
+  C#  1  4
+  C#  1  4
+
+MEASURE 44
+  LINE LH5
+  REST   4
+  E   1  4
+  E   1  4
+
+MEASURE 45
+  LINE LH4
+  REST   4
+  C#  1  4
+  C#  1  4
+
+MEASURE 45
+  LINE LH5
+  REST   4
+  E   1  4
+  E   1  4
+
+MEASURE 46
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  G#  0  4
+  G#  0  4
+
+MEASURE 46
+  LINE LH4
+  REST   4
+  D   1  4
+  D   1  4
+
+MEASURE 46
+  LINE LH5
+  REST   4
+  E   1  4
+  E   1  4
+
+MEASURE 47
+  LINE LH4
+  REST   4
+  C#  1  4
+  C#  1  4
+
+MEASURE 47
+  LINE LH5
+  REST   4
+  E   1  4
+  E   1  4
+
+MEASURE 48
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  G#  0  4
+  G#  0  4
+
+MEASURE 48
+  LINE LH4
+  REST   4
+  D   1  4
+  D   1  4
+
+MEASURE 48
+  LINE LH5
+  REST   4
+  E   1  4
+  E   1  4
+
+MEASURE 49
+  LINE LH4
+  REST   4
+  C#  1  4
+  C#  1  4
+
+MEASURE 49
+  LINE LH5
+  REST   4
+  E   1  4
+  E   1  4
+
+MEASURE 50
+  LINE LH4
+  REST   4
+  C#  1  4
+  C#  1  4
+
+MEASURE 50
+  LINE LH5
+  REST   4
+  E   1  4
+  E   1  4
+
+MEASURE 51
+  LINE LH4
+  REST   4
+  C#  1  4
+  C#  1  4
+
+MEASURE 51
+  LINE LH5
+  REST   4
+  E   1  4
+  E   1  4
+
+MEASURE 52
+  LINE LH4
+  REST   4
+  C#  1  4
+  C#  1  4
+
+MEASURE 52
+  LINE LH5
+  REST   4
+  E   1  4
+  E   1  4
+# kr2l grieg08-2.mus 53 120 4
+
+# kr2l grieg08-2.mus 53 120 4
+
+MEASURE 53
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 53
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 54
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 54
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 55
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 55
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 56
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 56
+  LINE LH5
+  REST   4
+  D   0  4
+  D   0  4
+
+MEASURE 57
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 57
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 58
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 58
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 59
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 59
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 60
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 60
+  LINE LH5
+  REST   4
+  D   0  4
+  D   0  4
+
+MEASURE 61
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 61
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 62
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 62
+  LINE LH5
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 63
+  LINE LH4
+  C   0  4
+  C   0  4
+  C   0  4
+
+MEASURE 63
+  LINE LH5
+  E   0  4
+  F   0  4
+  F#  0  4
+# kr2l grieg08-2.mus 64 120 4
+
+MEASURE 64
+  LINE TLLH3
+  TIELINE LH4 92
+  G  -1  4  3
+
+MEASURE 64
+  LINE LH4
+  D   0  4  3
+
+MEASURE 64
+  LINE LH5
+  G   0  4  3
+
+MEASURE 65
+  LINE LH4
+  A  -1  4
+  A  -1  4
+  A  -1  4
+
+MEASURE 65
+  LINE LH5
+  C   0  4
+  D   0  4
+  Eb  0  4
+
+MEASURE 66
+  LINE TLLH3
+  TIELINE LH4 92
+  E  -1  4  3
+
+MEASURE 66
+  LINE LH4
+  B  -1  4  3
+
+MEASURE 66
+  LINE LH5
+  E   0  4  3
+
+MEASURE 67
+  LINE LH4
+  F  -1  4  3
+
+MEASURE 67
+  LINE LH5
+  C   0  4  3
+
+MEASURE 68
+  LINE TLLH3
+  TIELINE LH4 92
+  C  -1  4  3
+
+MEASURE 68
+  LINE LH4
+  G  -1  4  3
+
+MEASURE 68
+  LINE LH5
+  C   0  4  3
+# kr2l grieg08-2.mus 69 120 4
+
+MEASURE 69
+  LINE LH4
+  D  -1  4
+  E  -1  8
+  F  -1  8
+  D  -1  4
+
+MEASURE 69
+  LINE LH5
+  A  -1  4
+  A  -1  8
+  A  -1  8
+  A  -1  4
+# kr2l grieg08-2.mus 70 120 4
+
+MEASURE 70
+  LINE LH4
+  F# -1  4
+  E  -1  2
+
+MEASURE 70
+  LINE LH5
+  A  -1  4
+  G# -1  2
+# kr2l grieg08-2.mus 71 120 4
+
+MEASURE 71
+  LINE LH4
+  A  -2  4  3
+
+MEASURE 71
+  LINE LH5
+  E  -1  4  3
+
+MEASURE 72
+  LINE LH4
+  CARRY  4  3
+
+MEASURE 72
+  LINE LH5
+  CARRY  4  3
+
+MEASURE 73
+  LINE LH4
+  A  -2  4  3
+
+MEASURE 73
+  LINE LH5
+  E  -1  4  3
+
+MEASURE 74
+  LINE LH4
+  CARRY  4  3
+
+MEASURE 74
+  LINE LH5
+  CARRY  4  3
+
+MEASURE 75
+  LINE LH4
+  A  -2  4  3
+
+MEASURE 75
+  LINE LH5
+  E  -1  4  3
+
+MEASURE 76
+  LINE LH4
+  CARRY  4
+  REST   2
+
+MEASURE 76
+  LINE LH5
+  CARRY  4
+  REST   2
+
+MEASURE 77
+  LINE LH4
+  A  -2  4  3
+
+MEASURE 77
+  LINE LH5
+  E  -1  4  3
+
+MEASURE 78
+  LINE LH4
+  CARRY  4  3
+
+MEASURE 78
+  LINE LH5
+  CARRY  4  3
+# kr2l grieg08-2.mus 79 120 4
+
+MEASURE 79
+  LINE LH5
+  A  -3  4
+  REST   2
+ 
+# kr2l D:\musfiles\Scriabin\grieg08-2.mus 36 60 4
+
+MEASURE 36
+  LINE LH4
+  F  -1  4
+  E  -1  2
+
+MEASURE 36
+  LINE LH5
+  A  -1  4
+  G# -1  2
+# kr2l D:\musfiles\Scriabin\grieg08-2.mus 53 120 4
+
+MEASURE 53
+  LINE LH2
+  A  -2  4
+  REST   2
+
+MEASURE 54
+  LINE LH2
+  A  -2  4
+  REST   2
+
+MEASURE 55
+  LINE LH2
+  A  -2  4
+  REST   2
+
+MEASURE 56
+  LINE LH2
+  A  -2  4
+  REST   2
+
+MEASURE 57
+  LINE LH2
+  A  -2  4
+  REST   2
+
+MEASURE 58
+  LINE LH2
+  A  -2  4
+  REST   2
+
+MEASURE 59
+  LINE LH2
+  A  -2  4
+  REST   2
+
+MEASURE 60
+  LINE LH2
+  A  -2  4
+  REST   2
+
+MEASURE 61
+  LINE LH2
+  A  -2  4
+  REST   2
+
+MEASURE 62
+  LINE LH2
+  A  -2  4
+  REST   2
+# kr2l D:\musfiles\Scriabin\grieg08-2.mus 55 60 4
+
+MEASURE 55
+  LINE RH5
+  E   0  4
+  F#  0  8
+  G#  0  8
+  A   0  4
+
+MEASURE 56
+  LINE RH5
+  A   0  4
+  B   0  8
+  G#  0  8
+  F#  0  4
+
+MEASURE 57
+  LINE RH5
+  A   0 32 0
+  F#  0  4
+  E   0  2
+
+MEASURE 58
+  LINE RH5
+  CARRY  4
+  REST   2
+
+MEASURE 59
+  LINE RH5
+  REST   8
+  E   0  8
+  F#  0  8
+  G#  0  8
+  G#  0  8
+  A   0  8
+
+MEASURE 60
+  LINE RH5
+  REST   8
+  A   0  8
+  B   0  8
+  G#  0  8
+  G#  0  8
+  F#  0  8
+
+MEASURE 61
+  LINE RH5
+  A   0 32 0
+  F#  0  4
+  E   0  2
+
+MEASURE 62
+  LINE RH5
+  CARRY  4
+  REST   2
+
+MEASURE 63
+  LINE RH4
+  G   0  4
+  G#  0  4
+  A   0  4
+
+MEASURE 63
+  LINE RH5
+  E   1  4
+  E   1  4
+  E   1  4
+
+MEASURE 64
+  LINE RH5
+  E   1 12
+  D   1 12
+  C   1 12
+  D   1  2
+
+MEASURE 65
+  LINE RH4
+  E   0  4
+  F   0  4
+  F#  0  4
+
+MEASURE 65
+  LINE RH5
+  C   1  4
+  C   1  4
+  C   1  4
+
+MEASURE 66
+  LINE RH5
+  C   1 12
+  B   0 12
+  A   0 12
+  B   0  2
+
+MEASURE 67
+  LINE RH5
+  B   0 12
+  A   0 12
+  G   0 12
+  A   0  2
+
+MEASURE 68
+  LINE RH5
+  G   0  4  3
+
+MEASURE 69
+  LINE RH4
+  C   0  4
+  C   0  8
+  C   0  8
+  C   0  4
+
+MEASURE 69
+  LINE RH5
+  F   0  4
+  G   0  8
+  A   0  8
+  F   0  4
+
+MEASURE 70
+  LINE RH4
+  B  -1  4
+  B  -1  2
+
+MEASURE 70
+  LINE RH5
+  D   0  4
+  E   0  2
+# kr2l D:\musfiles\Scriabin\grieg08-2.mus 71 60 4
+
+MEASURE 71
+  LINE RH5
+  A   0  2
+  B   0  8
+  G#  0  8
+
+MEASURE 72
+  LINE RH5
+  G#  0 32 0
+  F#  0  8
+  E   0  8
+  E   0  2
+
+MEASURE 73
+  LINE RH5
+  A   0  4
+  B   0  8
+  C#  1  8
+  A   0  8
+  F#  0  8
+
+MEASURE 74
+  LINE RH5
+  G#  0 32 0
+  F#  0  8
+  E   0  8
+  E   0  2
+
+MEASURE 75
+  LINE RH5
+  A   0 32 0
+  F#  0  4
+  E   0  2
+
+MEASURE 76
+  LINE RH5
+  CARRY  4
+  REST   2
+
+MEASURE 77
+  LINE RH5
+  A   0 32 0
+  F   0  4
+  E   0  2
+
+MEASURE 78
+  LINE RH5
+  CARRY  4  3
+# kr2l D:\musfiles\Scriabin\grieg08-2.mus 64 120 4
+
+MEASURE 64
+  LINE RH4
+  B   0  4  3
+# kr2l D:\musfiles\Scriabin\grieg08-2.mus 66 120 4
+
+MEASURE 66
+  LINE RH4
+  G   0  4  3
+
+MEASURE 67
+  LINE RH4
+  F   0  4  3
+
+MEASURE 68
+  LINE RH4
+  F   0 12
+  E   0 12
+  D   0 12
+  E   0  2

@@ -1,0 +1,3246 @@
+NAME Brahms -- Hungarian Dance #5
+
+MEASURE 1
+  METER 2 4
+  TEMPO 4 60.000000
+  KEY 3#
+
+# kr2l brahms-hd5.mus 1 50 4
+
+MEASURE 1
+  LINE RH5
+  C#  0  8  3
+  F#  0  8
+
+MEASURE 2
+  LINE RH5
+  A   0  8  3
+  F#  0  8
+
+MEASURE 3
+  LINE RH5
+  F   0  8  3
+  F#  0 16
+  G#  0 16
+
+MEASURE 4
+  LINE RH5
+  F#  0  2
+
+MEASURE 5
+  LINE TLRH4
+  TIELINE RH5 85
+  REST   8  3
+  C#  0 24
+  D   0 12
+
+MEASURE 5
+  LINE RH5
+  D   0  8  3
+  E   0 24
+  F#  0 12
+
+MEASURE 6
+  LINE RH5
+  C#  0  2
+
+MEASURE 7
+  LINE RH5
+  B  -1 16
+  A  -1 16
+  A  -1 16
+  G# -1 16
+  G# -1 16  3
+  C#  0 16
+
+MEASURE 8
+  LINE RH5
+  F# -1  2
+
+MEASURE 9
+  LINE TLRH4
+  TIELINE RH5 85
+  C#  0  8  3
+  F#  0 16
+  A   0 16
+
+MEASURE 9
+  LINE RH5
+  C#  1  8  3
+  F#  1 16
+  A   1 16
+
+MEASURE 10
+  LINE TLRH4
+  TIELINE RH5 85
+  C#  1  8  3
+  A   0  8
+
+MEASURE 10
+  LINE RH5
+  C#  2  8  3
+  A   1  8
+# kr2l brahms-hd5.mus 11 50 4
+
+MEASURE 11
+  LINE TLRH1
+  TIELINE RH5 82
+  G#  0  8  3
+  REST   8
+
+MEASURE 11
+  LINE TLRH3
+  TIELINE RH5 85
+  D  1  8  3
+  A   0 16
+  B   0 16
+
+MEASURE 11
+  LINE TLRH5
+  TIELINE RH5 88
+  F   1  8  3
+  REST   8
+
+MEASURE 11
+  LINE RH5
+  G#  1  8  3
+  A   1 16
+  B   1 16
+
+MEASURE 12
+  LINE TLRH1
+  TIELINE RH5 81
+  A   0  2
+
+MEASURE 12
+  LINE TLRH3
+  TIELINE RH5 85
+  C#  1  2
+
+MEASURE 12
+  LINE TLRH4
+  TIELINE RH5 88
+  F#  1  2
+
+MEASURE 12
+  LINE RH5
+  A   1  2
+# kr2l brahms-hd5.mus 13 50 8
+
+MEASURE 13
+  LINE RH5
+  D   1 16
+  E   1 16
+  F#  1 16
+  D   1 16
+  C#  1 16
+  D   1 16
+  E   1 16
+  C#  1 16
+
+MEASURE 14
+  LINE RH5
+  B   0 16
+  C#  1 16
+  D   1 16
+  B   0 16
+  A   0 16
+  B   0 16
+  C#  1 16
+  A   0 16
+
+MEASURE 15
+  LINE RH5
+  B   0 16
+  A   0 16
+  A   0 16
+  G#  0 16
+  G#  0 16  3
+  C#  1 16
+
+MEASURE 16
+  LINE TLRH3
+  TIELINE RH5 85
+  REST   4
+  A   0  8
+  REST   8
+
+MEASURE 16
+  LINE RH4
+  REST   4
+  C#  1  8
+  REST   8
+
+MEASURE 16
+  LINE RH5
+  F#  0  4
+  F#  1  8
+  REST   8
+
+MEASURE 17
+  LINE TLRH3
+  TIELINE RH5 85
+  C#  0  8  3
+  F#  0  8
+
+MEASURE 17
+  LINE RH5
+  C#  1  8  3
+  F#  1  8
+
+MEASURE 18
+  LINE TLRH3
+  TIELINE RH5 85
+  A   0  8  3
+  F#  0  8
+
+MEASURE 18
+  LINE RH5
+  A   1  8  3
+  F#  1  8
+# kr2l brahms-hd5.mus 19 50 8
+
+MEASURE 19
+  LINE TLRH2
+  TIELINE RH5 83
+  F   0  8  3
+  REST   8
+
+MEASURE 19
+  LINE TLRH3
+  TIELINE RH5 85
+  B   0  8  3
+  F#  0 16
+  G#  0 16
+
+MEASURE 19
+  LINE TLRH4
+  TIELINE RH5 88
+  D   1  8  3
+  REST   8
+
+MEASURE 19
+  LINE RH5
+  F   1  8  3
+  F#  1 16
+  G#  1 16
+
+MEASURE 20
+  LINE TLRH3
+  TIELINE RH5 85
+  F#  0  2
+
+MEASURE 20
+  LINE TLRH4
+  TIELINE RH5 88
+  C#  1  2
+
+MEASURE 20
+  LINE RH5
+  F#  1  2
+
+MEASURE 21
+  LINE TLRH3
+  TIELINE RH5 85
+  B   0  8  3
+  C#  1 16
+  D   1 16
+
+MEASURE 21
+  LINE RH5
+  D   1  8  3
+  E   1 16
+  F#  1 16
+
+MEASURE 22
+  LINE TLRH3
+  TIELINE RH5 85
+  A   0  2
+
+MEASURE 22
+  LINE RH5
+  C#  1  2
+
+MEASURE 23
+  LINE TLRH3
+  TIELINE RH5 85
+  REST  16  7
+  C#  0 16
+
+MEASURE 23
+  LINE RH5
+  B   0 16
+  A   0 16
+  A   0 16
+  G#  0 16
+  G#  0 16  3
+  C#  1 16
+
+MEASURE 24
+  LINE TLRH3
+  TIELINE RH5 85
+  F# -1  2
+
+MEASURE 24
+  LINE RH5
+  F#  0  2
+
+MEASURE 25
+  LINE TLRH3
+  TIELINE RH5 85
+  C#  0 16  3
+  F#  0 16
+  A   0 16
+  C#  1 16
+  F#  1 16
+  A   1 16
+
+MEASURE 25
+  LINE RH5
+  C#  1 16  3
+  F#  1 16
+  A   1 16
+  C#  2 16
+  F#  2 16
+  A   2 16
+
+MEASURE 26
+  LINE TLRH3
+  TIELINE RH5 85
+  C#  2  8  3
+  A   1  8
+
+MEASURE 26
+  LINE RH5
+  C#  3  8  3
+  A   2  8
+
+MEASURE 27
+  LINE TLRH2
+  TIELINE RH5 83
+  G#  1  8  3
+  REST   8
+
+MEASURE 27
+  LINE TLRH3
+  TIELINE RH5 85
+  D   2  8  3
+  A   1 16
+  B   1 16
+
+MEASURE 27
+  LINE TLRH4
+  TIELINE RH5 88
+  F   2  8  3
+  REST   8
+
+MEASURE 27
+  LINE RH5
+  G#  2  8  3
+  A   2 16
+  B   2 16
+
+MEASURE 28
+  LINE TLRH2
+  TIELINE RH5 83
+  A   1  2
+
+MEASURE 28
+  LINE TLRH3
+  TIELINE RH5 85
+  C#  2  2
+
+MEASURE 28
+  LINE TLRH4
+  TIELINE RH5 88
+  F#  2  2
+
+MEASURE 28
+  LINE RH5
+  A   2  2
+
+MEASURE 29
+  LINE RH5
+  D   1 16
+  E   1 16
+  F#  1 16
+  D   1 16
+  C#  1 16
+  D   1 16
+  E   1 16
+  C#  1 16
+
+MEASURE 30
+  LINE RH5
+  B   0 16
+  C#  1 16
+  D   1 16
+  B   0 16
+  A   0 16
+  B   0 16
+  C#  1 16
+  A   0 16
+# kr2l brahms-hd5.mus 31 50 8
+
+MEASURE 31
+  LINE TLRH3
+  TIELINE RH5 85
+  B   0 16
+  A   0 16
+  A   0 16
+  G#  0 16
+  G#  0 16  3
+  C#  1 16
+
+MEASURE 31
+  LINE RH5
+  B   1 16
+  A   1 16
+  A   1 16
+  G#  1 16
+  G#  1 16  3
+  C#  2 16
+# kr2l brahms-hd5.mus 32 50 8
+
+MEASURE 32
+  LINE TLRH3
+  TIELINE RH5 85
+  F#  0  4
+  REST   4
+
+MEASURE 32
+  LINE TLRH4
+  TIELINE RH5 88
+  C#  1  4
+  REST   4
+
+MEASURE 32
+  LINE RH4
+  REST   4
+  F#  1  8
+  REST   8
+
+MEASURE 32
+  LINE RH5
+  F#  1  4
+  F#  2  8
+  REST   8
+# kr2l brahms-hd5.mus 1 50 4
+
+MEASURE 1
+  LINE LH1
+  F# -2  8
+  REST   8
+  C# -2  8
+  REST   8
+
+MEASURE 2
+  LINE LH1
+  F# -2  8
+  REST   8
+  C# -2  8
+  REST   8
+
+MEASURE 3
+  LINE LH1
+  F# -2  8
+  REST   8
+  B  -3  8
+  REST   8
+
+MEASURE 4
+  LINE LH1
+  F# -2  8
+  REST   8
+  C# -2  8
+  REST   8
+
+MEASURE 5
+  LINE LH1
+  F# -2  8
+  REST   8
+  B  -3  8
+  REST   8
+
+MEASURE 6
+  LINE LH1
+  F# -2  8
+  REST   8
+  C# -2  8
+  REST   8
+
+MEASURE 7
+  LINE LH1
+  F  -2  8
+  REST   8
+  C# -2  8
+  REST   8
+
+MEASURE 8
+  LINE LH1
+  F# -2  8
+  REST   8
+  C# -2  8
+  REST   8
+
+MEASURE 9
+  LINE LH1
+  F# -2  8
+  REST   8
+  C# -2  8
+  REST   8
+
+MEASURE 10
+  LINE LH1
+  F# -2  8
+  REST   8
+  C# -2  8
+  REST   8
+
+MEASURE 11
+  LINE LH1
+  F# -2  8
+  REST   8
+  B  -3  8
+  REST   8
+
+MEASURE 12
+  LINE LH1
+  F# -2  8
+  REST   8
+  C# -2  8
+  REST   8
+
+MEASURE 13
+  LINE LH1
+  F# -1  8
+  REST   8
+  E  -1  8
+  REST   8
+
+MEASURE 14
+  LINE LH1
+  D  -1  8
+  REST   8
+  C# -1  8
+  REST   8
+
+MEASURE 15
+  LINE LH1
+  C# -2  8
+  REST   8  3
+# kr2l brahms-hd5.mus 16 50 4
+
+MEASURE 16
+  LINE LH1
+  F# -2  8
+  REST   8  3
+# kr2l brahms-hd5.mus 17 50 4
+
+MEASURE 17
+  LINE LH1
+  F# -2  8
+  REST   8
+  C# -2  8
+  REST   8
+
+MEASURE 18
+  LINE LH1
+  F# -2  8
+  REST   8
+  C# -2  8
+  REST   8
+
+MEASURE 19
+  LINE LH1
+  F# -2  8
+  REST   8
+  B  -3  8
+  REST   8
+
+MEASURE 20
+  LINE LH1
+  F# -2  8
+  REST   8
+  C# -2  8
+  REST   8
+
+MEASURE 21
+  LINE LH1
+  F# -2  8
+  REST   8
+  B  -3  8
+  REST   8
+
+MEASURE 22
+  LINE LH1
+  F# -2  8
+  REST   8
+  C# -2  8
+  REST   8
+
+MEASURE 23
+  LINE LH1
+  F  -2  8
+  REST   8
+  C# -2  8
+  REST   8
+
+MEASURE 24
+  LINE LH1
+  F# -2  8
+  REST   8
+  C# -2  8
+  REST   8
+
+MEASURE 25
+  LINE LH1
+  F# -2  8
+  REST   8
+  C# -2  8
+  REST   8
+
+MEASURE 26
+  LINE LH1
+  F# -2  8
+  REST   8
+  C# -2  8
+  REST   8
+
+MEASURE 27
+  LINE LH1
+  F# -2  8
+  REST   8
+  B  -3  8
+  REST   8
+
+MEASURE 28
+  LINE LH1
+  F# -2  8
+  REST   8
+  C# -2  8
+  REST   8
+# kr2l brahms-hd5.mus 1 50 4
+
+MEASURE 1
+  LINE LH4
+  REST   8
+  C# -1  8
+  RIPPLE
+  REST   8
+  C# -1  8
+
+MEASURE 1
+  LINE LH5
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 2
+  LINE LH4
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+
+MEASURE 2
+  LINE LH5
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+# kr2l brahms-hd5.mus 3 50 4
+
+MEASURE 3
+  LINE LH4
+  REST   8
+  D  -1  8
+  REST   8
+  D  -1  8
+
+MEASURE 3
+  LINE LH5
+  REST   8
+  B  -1  8
+  REST   8
+  B  -1  8
+
+MEASURE 4
+  LINE LH4
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+
+MEASURE 4
+  LINE LH5
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 5
+  LINE LH4
+  REST   8
+  D  -1  8
+  REST   8
+  D  -1  8
+
+MEASURE 5
+  LINE LH5
+  REST   8
+  B  -1  8
+  REST   8
+  B  -1  8
+
+MEASURE 6
+  LINE LH4
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+
+MEASURE 6
+  LINE LH5
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 7
+  LINE LH4
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+
+MEASURE 7
+  LINE LH5
+  REST   8
+  F  -1  8
+  REST   8
+  F  -1  8
+
+MEASURE 8
+  LINE LH4
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+
+MEASURE 8
+  LINE LH5
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 9
+  LINE LH4
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+
+MEASURE 9
+  LINE LH5
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 10
+  LINE LH4
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+
+MEASURE 10
+  LINE LH5
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 11
+  LINE LH4
+  REST   8
+  D  -1  8
+  REST   8
+  D  -1  8
+
+MEASURE 11
+  LINE LH5
+  REST   8
+  B  -1  8
+  REST   8
+  B  -1  8
+
+MEASURE 12
+  LINE LH4
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+
+MEASURE 12
+  LINE LH5
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 13
+  LINE LH4
+  REST   8
+  A  -1  8
+  REST   8
+  G# -1  8
+
+MEASURE 13
+  LINE LH5
+  REST   8
+  PHANTOM  8
+  REST   8
+  C#  0  8
+
+MEASURE 14
+  LINE LH4
+  REST   8
+  F# -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 14
+  LINE LH5
+  REST   8
+  B  -1  8
+  REST   8
+  C#  0  8
+# kr2l brahms-hd5.mus 15 50 4
+
+MEASURE 15
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  G# -1  8
+  REST   8
+  C# -1  8
+
+MEASURE 15
+  LINE LH4
+  REST   8
+  B  -1  8
+  REST   8
+  F  -1  8
+
+MEASURE 15
+  LINE LH5
+  REST   8
+  F   0  8
+  REST   8
+  B  -1  8
+# kr2l brahms-hd5.mus 16 50 4
+
+MEASURE 16
+  LINE LH4
+  REST   8
+  C# -1  8
+  RIPPLE
+  F# -3  8
+  REST   8
+
+MEASURE 16
+  LINE LH5
+  REST   8
+  A  -1  8
+  F# -2  8
+  REST   8
+# kr2l brahms-hd5.mus 17 50 4
+
+MEASURE 17
+  LINE LH4
+  REST   8
+  C# -1  8
+  RIPPLE
+  REST   8
+  C# -1  8
+
+MEASURE 17
+  LINE LH5
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 18
+  LINE LH4
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+
+MEASURE 18
+  LINE LH5
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 19
+  LINE LH4
+  REST   8
+  D  -1  8
+  REST   8
+  D  -1  8
+
+MEASURE 19
+  LINE LH5
+  REST   8
+  B  -1  8
+  REST   8
+  B  -1  8
+
+MEASURE 20
+  LINE LH4
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+
+MEASURE 20
+  LINE LH5
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 21
+  LINE LH4
+  REST   8
+  D  -1  8
+  REST   8
+  D  -1  8
+
+MEASURE 21
+  LINE LH5
+  REST   8
+  B  -1  8
+  REST   8
+  B  -1  8
+# kr2l brahms-hd5.mus 22 50 4
+
+MEASURE 22
+  LINE LH4
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+
+MEASURE 22
+  LINE LH5
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 23
+  LINE LH4
+  REST   8
+  C# -1  8
+  REST   8
+  F  -1  8
+
+MEASURE 23
+  LINE LH5
+  REST   8
+  F  -1  8
+  REST   8
+  B  -1  8
+
+MEASURE 24
+  LINE LH4
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+
+MEASURE 24
+  LINE LH5
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 25
+  LINE LH4
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+
+MEASURE 25
+  LINE LH5
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 26
+  LINE LH4
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+
+MEASURE 26
+  LINE LH5
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 27
+  LINE LH4
+  REST   8
+  D  -1  8
+  REST   8
+  D  -1  8
+
+MEASURE 27
+  LINE LH5
+  REST   8
+  B  -1  8
+  REST   8
+  B  -1  8
+
+MEASURE 28
+  LINE LH4
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+
+MEASURE 28
+  LINE LH5
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+# kr2l brahms-hd5.mus 29 50 8
+
+MEASURE 29
+  LINE TLLH3
+  TIELINE LH4 92
+  F# -1  8
+  A  -1  8
+  E  -1  8
+  G# -1  8
+
+MEASURE 29
+  LINE LH4
+  A  -1  8
+  D   0  8
+  G# -1  8
+  C#  0  8
+
+MEASURE 29
+  LINE LH5
+  D   0  8
+  F#  0  8
+  C#  0  8
+  E   0  8
+
+MEASURE 30
+  LINE TLLH3
+  TIELINE LH4 92
+  D  -1  8
+  F# -1  8
+  C# -1  8
+  E  -1  8
+
+MEASURE 30
+  LINE LH4
+  F# -1  8
+  B  -1  8
+  E  -1  8
+  A  -1  8
+
+MEASURE 30
+  LINE LH5
+  B  -1  8
+  D   0  8
+  A  -1  8
+  C#  0  8
+
+MEASURE 31
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8  3
+  C# -1  8
+
+MEASURE 31
+  LINE LH4
+  REST   8
+  C# -1  8
+  REST   8
+  F  -1  8
+
+MEASURE 31
+  LINE LH5
+  REST   8
+  F  -1  8
+  REST   8
+  B  -1  8
+# kr2l brahms-hd5.mus 32 50 8
+
+MEASURE 32
+  LINE LH4
+  C# -1  8
+  REST   8
+  F# -3  8
+  REST   8
+
+MEASURE 32
+  LINE LH5
+  A  -1  8
+  REST   8
+  F# -2  8
+  REST   8
+# kr2l brahms-hd5.mus 31 50 8
+
+MEASURE 31
+  LINE LH1
+  C# -2  8
+  REST   8  3
+
+MEASURE 32
+  LINE LH1
+  F# -2  8
+  RIPPLE
+  REST   8  3
+# kr2l brahms-hd5.mus 5 50 4
+
+MEASURE 5
+  LINE TLLH1
+  TIELINE LH1 88
+  B  -1  8
+  REST   8  3
+
+MEASURE 6
+  LINE TLLH1
+  TIELINE LH1 88
+  A  -1  8
+  REST   8  3
+# kr2l brahms-hd5.mus 33 50 8
+
+MEASURE 33
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  1  4
+  C#  1  4
+
+MEASURE 33
+  LINE RH4
+  E   1  4
+  E   1  4
+
+MEASURE 33
+  LINE RH5
+  C#  2  4
+  C#  2  4
+
+MEASURE 34
+  LINE TLRH3
+  TIELINE RH4 92
+  D   1  8  3
+  C#  1  8
+
+MEASURE 34
+  LINE RH4
+  F#  1  8  3
+  E   1  8
+
+MEASURE 34
+  LINE RH5
+  D   2  8  3
+  C#  2  8
+
+
+# kr2l brahms-hd5.mus 35 50 8
+
+MEASURE 35
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  B   0  4
+  REST   8
+
+MEASURE 35
+  LINE RH4
+  REST   8
+  D   1  4
+  REST   8
+
+MEASURE 35
+  LINE RH5
+  REST   8
+  B   1  4
+  A#  1 16
+  B   1 16
+# kr2l brahms-hd5.mus 36 50 8
+
+MEASURE 36
+  LINE RH5
+  C#  2 16
+  B   1 16
+  A#  1 16
+  C#  2 16
+  B   1  8
+  REST   8
+
+MEASURE 37
+  LINE TLRH3
+  TIELINE RH4 92
+  B   0  4
+  B   0  4
+
+MEASURE 37
+  LINE RH4
+  D   1  4
+  D   1  4
+
+MEASURE 37
+  LINE RH5
+  B   1  4
+  B   1  4
+
+MEASURE 38
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  1  8  3
+  B   0  8
+
+MEASURE 38
+  LINE RH4
+  E   1  8  3
+  D   1  8
+
+MEASURE 38
+  LINE RH5
+  C#  2  8  3
+  B   1  8
+
+MEASURE 39
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  A   0  4
+  REST   8
+
+MEASURE 39
+  LINE RH4
+  REST   8
+  C#  1  4
+  REST   8
+
+MEASURE 39
+  LINE RH5
+  REST   8
+  A   1  4
+  G#  1 16
+  A   1 16
+
+MEASURE 40
+  LINE RH5
+  B   1 16
+  A   1 16
+  G#  1 16
+  B   1 16
+  A   1  8
+  REST   8
+
+MEASURE 41
+  LINE RH4
+  B   0  4
+  B   0  4
+
+MEASURE 41
+  LINE RH5
+  G#  1  4
+  G#  1  4
+
+MEASURE 42
+  LINE RH4
+  D   1  8
+  C#  1  4
+  B   0  8
+
+MEASURE 42
+  LINE RH5
+  B   1  8
+  A   1  4
+  G#  1  8
+
+MEASURE 43
+  LINE RH4
+  CARRY  8
+  A   0  4
+  G#  0 16
+  A   0 16
+
+MEASURE 43
+  LINE RH5
+  CARRY  8
+  F#  1  4
+  F   1 16
+  F#  1 16
+
+MEASURE 44
+  LINE RH4
+  B   0 16
+  A   0 16
+  G#  0 16
+  B   0 16
+  A   0  4
+
+MEASURE 44
+  LINE RH5
+  G#  1 16
+  F#  1 16
+  F   1 16
+  G#  1 16
+  F#  1  4
+# kr2l brahms-hd5.mus 45 50 8
+
+MEASURE 45
+  LINE TLRH2
+  TIELINE RH4 90
+  C#  1  8
+  REST   8  3
+
+MEASURE 45
+  LINE TLRH3
+  TIELINE RH4 92
+  F   1  8
+  REST   8  3
+
+MEASURE 45
+  LINE RH4
+  G#  1  8
+  REST  16  5
+  C#  0 16
+
+MEASURE 45
+  LINE RH5
+  C#  2  8
+  REST  16  5
+  C#  1 16
+
+MEASURE 46
+  LINE RH4
+  D#  0  8
+  REST   8
+  F   0  8
+  REST   8
+
+MEASURE 46
+  LINE RH5
+  D#  1  8
+  REST   8
+  F   1  8
+  REST   8
+
+MEASURE 47
+  LINE TLRH3
+  TIELINE RH4 92
+  F#  0  8
+  F#  0  4
+  REST   8
+
+MEASURE 47
+  LINE RH4
+  C#  1  8
+  C#  1  4
+  REST   8
+
+MEASURE 47
+  LINE RH5
+  G#  1 64 0
+  F#  1  8
+  F#  1  4
+  F   1 16
+  F#  1 16
+# kr2l brahms-hd5.mus 48 50 8
+
+MEASURE 48
+  LINE TLRH2
+  TIELINE RH4 85
+  G#  0 4 1 5
+  REST  4 4 5
+  F#  0  8
+  REST   8
+
+MEASURE 48
+  LINE TLRH3
+  TIELINE RH4 88
+  D   1 4 1 5
+  REST  4 4 5
+  C#  1  8
+  REST   8
+
+MEASURE 48
+  LINE RH4
+  G#  1 4 1 5
+  F#  1 4 1 5
+  F   1 4 1 5
+  F#  1 4 1 5
+  G#  1 4 1 5
+  F#  1  8
+  REST   8
+# kr2l brahms-hd5.mus 35 50 4
+
+MEASURE 35
+  LINE TLRH1
+  TIELINE RH5 82
+  REST   8  3
+  D   1  8
+
+MEASURE 36
+  LINE TLRH1
+  TIELINE RH5 82
+  CARRY  8  3
+  REST   8
+# kr2l brahms-hd5.mus 39 50 4
+
+MEASURE 39
+  LINE TLRH1
+  TIELINE RH5 82
+  REST   8  3
+  C#  1  8
+
+MEASURE 40
+  LINE TLRH1
+  TIELINE RH5 82
+  CARRY  8  3
+  REST   8
+
+MEASURE 41
+  LINE TLRH1
+  TIELINE RH5 82
+  REST   2
+
+MEASURE 42
+  LINE TLRH1
+  TIELINE RH5 82
+  REST   2
+
+MEASURE 43
+  LINE TLRH1
+  TIELINE RH5 82
+  REST   8
+  D   1  8  3
+
+MEASURE 44
+  LINE TLRH1
+  TIELINE RH5 82
+  CARRY  4
+  C#  1  4
+# kr2l brahms-hd5.mus 33 50 4
+
+MEASURE 33
+  LINE LH1
+  A# -2  8
+  REST   8
+  F# -2  8
+  REST   8
+
+MEASURE 34
+  LINE LH1
+  A# -2  8
+  REST   8
+  F# -2  8
+  REST   8
+
+MEASURE 35
+  LINE LH1
+  B  -2  8
+  REST   8
+  F# -2  8
+  REST   8
+
+MEASURE 36
+  LINE LH1
+  B  -2  8
+  REST   8
+  A  -2  8
+  REST   8
+
+MEASURE 37
+  LINE LH1
+  G# -2  8
+  REST   8
+  E  -2  8
+  REST   8
+
+MEASURE 38
+  LINE LH1
+  G# -2  8
+  REST   8
+  E  -2  8
+  REST   8
+
+MEASURE 39
+  LINE LH1
+  A  -2  8
+  REST   8
+  E  -2  8
+  REST   8
+
+MEASURE 40
+  LINE LH1
+  A  -2  8
+  REST   8
+  E  -2  8
+  REST   8
+
+MEASURE 41
+  LINE LH1
+  F  -2  8
+  REST   8
+  C# -2  8
+  REST   8
+
+MEASURE 42
+  LINE LH1
+  F  -2  8
+  REST   8
+  C# -2  8
+  REST   8
+
+MEASURE 43
+  LINE LH1
+  D  -2  8
+  REST   8
+  A  -3  8
+  REST   8
+
+MEASURE 44
+  LINE LH1
+  D  -2  8
+  REST   8
+  A  -3  8
+  REST   8
+# kr2l brahms-hd5.mus 47 50 4
+
+MEASURE 47
+  LINE TLLH1
+  TIELINE LH1 90
+  F# -3  8
+  REST   8  3
+
+MEASURE 47
+  LINE LH1
+  F# -2  8
+  REST   8  3
+# kr2l brahms-hd5.mus 33 50 4
+
+MEASURE 33
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  F# -1  8
+  REST   8
+  F# -1  8
+
+MEASURE 33
+  LINE LH4
+  REST   8
+  A# -1  8
+  REST   8
+  A# -1  8
+
+MEASURE 33
+  LINE LH5
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+
+MEASURE 34
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  F# -1  8
+  REST   8
+  F# -1  8
+
+MEASURE 34
+  LINE LH4
+  REST   8
+  A# -1  8
+  REST   8
+  A# -1  8
+
+MEASURE 34
+  LINE LH5
+  REST   8
+  F#  0  8
+  REST   8
+  E   0  8
+
+MEASURE 35
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  F# -1  8
+  REST   8
+  F# -1  8
+
+MEASURE 35
+  LINE LH4
+  REST   8
+  B  -1  8
+  REST   8
+  B  -1  8
+
+MEASURE 35
+  LINE LH5
+  REST   8
+  D   0  8
+  REST   8
+  D   0  8
+
+MEASURE 36
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  F# -1  8
+  REST   8
+  F# -1  8
+
+MEASURE 36
+  LINE LH4
+  REST   8
+  B  -1  8
+  REST   8
+  B  -1  8
+
+MEASURE 36
+  LINE LH5
+  REST   8
+  D   0  8
+  REST   8
+  D   0  8
+
+MEASURE 37
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  E  -1  8
+  REST   8
+  E  -1  8
+
+MEASURE 37
+  LINE LH4
+  REST   8
+  G# -1  8
+  REST   8
+  G# -1  8
+
+MEASURE 37
+  LINE LH5
+  REST   8
+  D   0  8
+  REST   8
+  D   0  8
+
+MEASURE 38
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  E  -1  8
+  REST   8
+  E  -1  8
+
+MEASURE 38
+  LINE LH4
+  REST   8
+  G# -1  8
+  REST   8
+  G# -1  8
+
+MEASURE 38
+  LINE LH5
+  REST   8
+  E   0  8
+  REST   8
+  D   0  8
+
+MEASURE 39
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  E  -1  8
+  REST   8
+  E  -1  8
+
+MEASURE 39
+  LINE LH4
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 39
+  LINE LH5
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+
+MEASURE 40
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  E  -1  8
+  REST   8
+  E  -1  8
+
+MEASURE 40
+  LINE LH4
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 40
+  LINE LH5
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+
+MEASURE 41
+  LINE LH4
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+
+MEASURE 41
+  LINE LH5
+  REST   8
+  B  -1  8
+  REST   8
+  B  -1  8
+
+MEASURE 42
+  LINE LH4
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+
+MEASURE 42
+  LINE LH5
+  REST   8
+  C#  0  8
+  REST   8
+  B  -1  8
+
+MEASURE 43
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  A  -2  8
+  REST   8
+  A  -2  8
+
+MEASURE 43
+  LINE LH4
+  REST   8
+  D  -1  8
+  REST   8
+  D  -1  8
+
+MEASURE 43
+  LINE LH5
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+
+MEASURE 44
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  A  -2  8
+  REST   8
+  C# -1  8
+
+MEASURE 44
+  LINE LH4
+  REST   8
+  D  -1  8
+  REST   8
+  F# -1  8
+
+MEASURE 44
+  LINE LH5
+  REST   8
+  A  -1  8
+  REST   8
+  A  -1  8
+# kr2l brahms-hd5.mus 45 50 4
+
+MEASURE 45
+  LINE TLLH2
+  TIELINE LH4 90
+  F  -1  8
+  REST   8  3
+
+MEASURE 45
+  LINE TLLH3
+  TIELINE LH4 92
+  G# -1  8
+  REST   8  3
+
+MEASURE 45
+  LINE LH4
+  C#  -3 64 0
+  C#  -2 64 0
+  C#  0  8
+  REST  16  5
+  C# -2 16
+
+MEASURE 45
+  LINE LH5
+  F   0  8
+  REST  16  5
+  C# -1 16
+
+MEASURE 46
+  LINE LH4
+  D# -2  8
+  REST   8
+  F  -2  8
+  REST   8
+
+MEASURE 46
+  LINE LH5
+  D# -1  8
+  REST   8
+  F  -1  8
+  REST   8
+# kr2l brahms-hd5.mus 47 50 4
+
+MEASURE 47
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  A  -2  4
+  REST   8
+
+MEASURE 47
+  LINE LH4
+  REST   8
+  C# -1  4
+  REST   8
+
+MEASURE 47
+  LINE LH5
+  REST   8
+  A  -1  4
+  REST   8
+# kr2l brahms-hd5.mus 48 50 4
+
+MEASURE 48
+  LINE LH1
+  F# -2  4
+  F# -2  8
+  REST   8
+
+MEASURE 48
+  LINE LH2
+  B  -2  4
+  A  -2  8
+  REST   8
+
+MEASURE 48
+  LINE LH4
+  D  -1  4
+  C# -1  8
+  REST   8
+
+MEASURE 48
+  LINE LH5
+  B  -1  4
+  RIPPLE
+  A  -1  8
+  RIPPLE
+  REST   8
+
+REPEAT 33 48 49
+MEASURE 65
+  KEY 6#
+
+# kr2l brahms-hd5.mus 65 50 8
+
+MEASURE 65
+  LINE TLRH3
+  TIELINE RH4 88
+  F#  0  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+
+MEASURE 65
+  LINE RH4
+  A#  0  8
+  A#  0  8
+  A#  0  8
+  A#  0  8
+
+MEASURE 65
+  LINE RH5
+  F#  1  8
+  C#  1  8
+  C#  1  8
+  C#  1  8
+
+MEASURE 66
+  LINE TLRH3
+  TIELINE RH4 88
+  C#  0  8
+  B  -1  8
+  A# -1  8
+  B  -1  8
+
+MEASURE 66
+  LINE RH4
+  A#  0  8
+  G#  0  8
+  F#  0  8
+  G#  0  8
+
+MEASURE 66
+  LINE RH5
+  C#  1  8
+  B   0  8
+  A#  0  8
+  B   0  8
+
+MEASURE 67
+  LINE TLRH2
+  TIELINE RH4 85
+  C#  0  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+
+MEASURE 67
+  LINE TLRH3
+  TIELINE RH4 88
+  F#  0  8
+  F#  0  8
+  F#  0  8
+  F#  0  8
+
+MEASURE 67
+  LINE RH4
+  A#  0  8
+  A#  0  8
+  A#  0  8
+  A#  0  8
+
+MEASURE 67
+  LINE RH5
+  C#  1  8
+  C#  1  8
+  C#  1  8
+  C#  1  8
+
+MEASURE 68
+  LINE TLRH3
+  TIELINE RH4 88
+  F#  0  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+
+MEASURE 68
+  LINE RH4
+  A#  0  8
+  A#  0  8
+  A#  0  8
+  A#  0  8
+
+MEASURE 68
+  LINE RH5
+  F#  1  8
+  C#  1  8
+  C#  1  8
+  C#  1  8
+
+MEASURE 69
+  LINE TLRH3
+  TIELINE RH4 88
+  C#  0  8
+  B  -1  8
+  A# -1  8
+  G# -1  8
+
+MEASURE 69
+  LINE RH4
+  A#  0  8
+  G#  0  8
+  F#  0  8
+  E#  0  8
+
+MEASURE 69
+  LINE RH5
+  C#  1  8
+  B   0  8
+  A#  0  8
+  G#  0  8
+
+MEASURE 70
+  LINE TLRH2
+  TIELINE RH4 85
+  F# -1  8
+  F# -1  8
+  F# -1  8
+  F# -1  8
+
+MEASURE 70
+  LINE TLRH3
+  TIELINE RH4 88
+  A# -1  8
+  A# -1  8
+  A# -1  8
+  A# -1  8
+
+MEASURE 70
+  LINE RH4
+  C#  0  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+
+MEASURE 70
+  LINE RH5
+  F#  0  8
+  F#  0  8
+  F#  0  8
+  F#  0  8
+
+# kr2l brahms-hd5.mus 65 50 4
+
+MEASURE 65
+  LINE LH1
+  F# -3  8
+  REST   8
+  F# -3  8
+  REST   8
+# kr2l brahms-hd5.mus 66 50 4
+
+MEASURE 66
+  LINE LH1
+  F# -3  8
+  REST   8
+  F# -3  8
+  REST   8
+# kr2l brahms-hd5.mus 67 50 4
+
+MEASURE 67
+  LINE LH1
+  F# -3  8
+  REST   8
+  F# -3  8
+  REST   8
+# kr2l brahms-hd5.mus 68 50 4
+
+MEASURE 68
+  LINE LH1
+  F# -3  8
+  REST   8
+  F# -3  8
+  REST   8
+# kr2l brahms-hd5.mus 69 50 4
+
+MEASURE 69
+  LINE LH1
+  F# -3  8
+  REST   8
+  F# -3  8
+  REST   8
+# kr2l brahms-hd5.mus 70 50 4
+
+MEASURE 70
+  LINE LH1
+  F# -3  8
+  REST   8
+  F# -3  8
+  REST   8
+# kr2l brahms-hd5.mus 65 50 4
+
+MEASURE 65
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  C# -2  8
+  REST   8
+  C# -2  8
+
+MEASURE 65
+  LINE LH4
+  REST   8
+  F# -2  8
+  REST   8
+  F# -2  8
+
+MEASURE 65
+  LINE LH5
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+
+MEASURE 66
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  C# -2  8
+  REST   8
+  C# -2  8
+
+MEASURE 66
+  LINE LH4
+  REST   8
+  F# -2  8
+  REST   8
+  F# -2  8
+
+MEASURE 66
+  LINE LH5
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+# kr2l brahms-hd5.mus 67 50 4
+
+MEASURE 67
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  C# -2  8
+  REST   8
+  C# -2  8
+
+MEASURE 67
+  LINE LH4
+  REST   8
+  F# -2  8
+  REST   8
+  F# -2  8
+
+MEASURE 67
+  LINE LH5
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+
+MEASURE 68
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  C# -2  8
+  REST   8
+  C# -2  8
+
+MEASURE 68
+  LINE LH4
+  REST   8
+  F# -2  8
+  REST   8
+  F# -2  8
+
+MEASURE 68
+  LINE LH5
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+# kr2l brahms-hd5.mus 69 50 4
+
+MEASURE 69
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  C# -2  8
+  REST   8
+  C# -2  8
+
+MEASURE 69
+  LINE LH4
+  REST   8
+  F# -2  8
+  REST   8
+  F# -2  8
+
+MEASURE 69
+  LINE LH5
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+
+MEASURE 70
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  C# -2  8
+  REST   8
+  C# -2  8
+
+MEASURE 70
+  LINE LH4
+  REST   8
+  F# -2  8
+  REST   8
+  F# -2  8
+
+MEASURE 70
+  LINE LH5
+  REST   8
+  C# -1  8
+  REST   8
+  C# -1  8
+
+REPEAT 65 70 71
+# kr2l brahms-hd5.mus 77 50 4
+
+MEASURE 77
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  C# -2  8
+  REST   8
+  C# -2  8
+
+MEASURE 77
+  LINE LH4
+  REST   8
+  F# -2  8
+  REST   8
+  F# -2  8
+
+MEASURE 77
+  LINE LH5
+  REST   8
+  C# -1  8
+  REST   8
+  D# -1  8
+
+MEASURE 78
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  C# -2  8
+  REST   8
+  C# -2  8
+
+MEASURE 78
+  LINE LH4
+  REST   8
+  F# -2  8
+  REST   8
+  F# -2  8
+
+MEASURE 78
+  LINE LH5
+  REST   8
+  C# -1  8
+  REST   8
+  B  -1  8
+
+MEASURE 79
+  LINE LH4
+  F# -3  8
+  F# -1  8
+  D# -1  8
+  B  -2  8
+
+MEASURE 79
+  LINE LH5
+  F# -2  8
+  F#  0  8
+  D#  0  8
+  B  -1  8
+# kr2l brahms-hd5.mus 80 50 4
+
+MEASURE 80
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   8
+  F# -1  8
+  REST   8
+  F# -1  8
+
+MEASURE 80
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  A# -1  8
+  REST   8
+  A# -1  8
+
+MEASURE 80
+  LINE LH4
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+
+MEASURE 80
+  LINE LH5
+  REST   8
+  F#  0  8
+  REST   8
+  F#  0  8
+
+MEASURE 81
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  C# -2  8
+  REST   8
+  D# -2  8
+
+MEASURE 81
+  LINE LH4
+  REST   8
+  F# -2  8
+  REST   8
+  F# -2  8
+
+MEASURE 81
+  LINE LH5
+  REST   8
+  C# -1  8
+  REST   8
+  D# -1  8
+# kr2l brahms-hd5.mus 82 50 4
+
+MEASURE 82
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  E# -2  8
+  REST   8
+  F# -2  8
+
+MEASURE 82
+  LINE LH4
+  REST   8
+  G# -2  8
+  REST   8
+  A# -2  8
+
+MEASURE 82
+  LINE LH5
+  REST   8
+  E# -1  8
+  REST   8
+  F# -1  8
+
+MEASURE 83
+  LINE LH4
+  F# -3  8
+  B  -2  8
+  C# -1  8
+  C# -2  8
+
+MEASURE 83
+  LINE LH5
+  F# -2  8
+  B  -1  8
+  C#  0  8
+  C# -1  8
+# kr2l brahms-hd5.mus 84 50 4
+
+MEASURE 84
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  F# -1  4
+
+MEASURE 84
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  A# -1  4
+
+MEASURE 84
+  LINE LH4
+  REST   4
+  C#  0  4
+
+MEASURE 84
+  LINE LH5
+  REST   4
+  F#  0  4
+
+MEASURE 85
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  C# -2  8
+  REST   8
+  C# -2  8
+
+MEASURE 85
+  LINE LH4
+  REST   8
+  F# -2  8
+  REST   8
+  F# -2  8
+
+MEASURE 85
+  LINE LH5
+  REST   8
+  C# -1  8
+  REST   8
+  D# -1  8
+
+MEASURE 86
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  C# -2  8
+  REST   8
+  C# -2  8
+
+MEASURE 86
+  LINE LH4
+  REST   8
+  F# -2  8
+  REST   8
+  F# -2  8
+
+MEASURE 86
+  LINE LH5
+  REST   8
+  C# -1  8
+  REST   8
+  B  -2  8
+# kr2l brahms-hd5.mus 87 50 4
+
+MEASURE 87
+  LINE LH4
+  F# -3  8
+  F# -1  8
+  D# -2  8
+  B  -3  8
+
+MEASURE 87
+  LINE LH5
+  F# -2  8
+  F#  0  8
+  D# -1  8
+  B  -2  8
+# kr2l brahms-hd5.mus 88 50 4
+
+MEASURE 88
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   8
+  F# -1  4
+  F# -1  8
+
+MEASURE 88
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  A# -1  4
+  A# -1  8
+
+MEASURE 88
+  LINE LH4
+  REST   8
+  C#  0  4
+  C#  0  8
+
+MEASURE 88
+  LINE LH5
+  REST   8
+  F#  0  4
+  F#  0  8
+# kr2l brahms-hd5.mus 89 50 4
+
+MEASURE 89
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  C# -2  8
+  REST   8
+  D# -2  8
+
+MEASURE 89
+  LINE LH4
+  REST   8
+  F# -2  8
+  REST   8
+  F# -2  8
+
+MEASURE 89
+  LINE LH5
+  REST   8
+  C# -1  8
+  REST   8
+  D# -1  8
+
+MEASURE 90
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  E# -2  8
+  REST   8
+  F# -2  8
+
+MEASURE 90
+  LINE LH4
+  REST   8
+  G# -2  8
+  REST   8
+  A# -2  8
+
+MEASURE 90
+  LINE LH5
+  REST   8
+  E# -1  8
+  REST   8
+  F# -1  8
+# kr2l brahms-hd5.mus 91 50 4
+
+MEASURE 91
+  LINE LH4
+  F# -3  8
+  B  -2  8
+  C# -1  8
+  C# -2  8
+
+MEASURE 91
+  LINE LH5
+  F# -2  8
+  B  -1  8
+  C#  0  8
+  C# -1  8
+# kr2l brahms-hd5.mus 77 50 4
+
+MEASURE 77
+  LINE LH1
+  F# -3  8
+  REST   8
+  F# -3  8
+  REST   8
+
+MEASURE 78
+  LINE LH1
+  F# -3  8
+  REST   8
+  F# -3  8
+  REST   8
+
+MEASURE 79
+  LINE LH1
+  REST   2
+
+MEASURE 80
+  LINE TLLH1
+  TIELINE LH1 90
+  F# -2  8
+  REST   8  3
+
+MEASURE 80
+  LINE LH1
+  F# -1  8
+  REST   8  3
+
+MEASURE 81
+  LINE LH1
+  F# -3  8
+  REST   8
+  F# -3  8
+  REST   8
+
+MEASURE 82
+  LINE LH1
+  F# -3  8
+  REST   8
+  F# -3  8
+  REST   8
+
+MEASURE 83
+  LINE LH1
+  REST   2
+
+MEASURE 84
+  LINE TLLH0
+  TIELINE LH1 88
+  F# -2  4
+  REST   4
+
+MEASURE 84
+  LINE TLLH1
+  TIELINE LH1 90
+  C# -1  4
+  REST   4
+
+MEASURE 84
+  LINE LH1
+  F# -1  4
+  REST   4
+# kr2l brahms-hd5.mus 85 50 4
+
+MEASURE 85
+  LINE LH1
+  F# -3  8
+  REST   8
+  F# -3  8
+  REST   8
+
+MEASURE 86
+  LINE LH1
+  F# -3  8
+  REST   8
+  F# -3  8
+  REST   8
+
+MEASURE 87
+  LINE LH1
+  REST   2
+
+MEASURE 88
+  LINE TLLH1
+  TIELINE LH1 90
+  F# -2  8
+  REST   8  3
+
+MEASURE 88
+  LINE LH1
+  F# -1  8
+  REST   8  3
+
+MEASURE 89
+  LINE LH1
+  F# -3  8
+  REST   8
+  F# -3  8
+  REST   8
+
+MEASURE 90
+  LINE LH1
+  F# -3  8
+  REST   8
+  F# -3  8
+  REST   8
+
+MEASURE 91
+  LINE LH1
+  REST   2
+
+MEASURE 92
+  LINE TLLH0
+  TIELINE LH1 88
+  F# -2  4
+  REST   4
+
+MEASURE 92
+  LINE TLLH1
+  TIELINE LH1 90
+  C# -1  4
+  REST   4
+
+MEASURE 92
+  LINE LH1
+  F# -1  4
+  REST   4
+# kr2l brahms-hd5.mus 92 50 4
+
+MEASURE 92
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  F# -1  8
+  REST   8
+
+MEASURE 92
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  A# -1  8
+  REST   8
+
+MEASURE 92
+  LINE LH4
+  REST   4
+  C#  0  8
+  REST   8
+
+MEASURE 92
+  LINE LH5
+  REST   4
+  F#  0  8
+  REST   8
+# kr2l brahms-hd5.mus 77 50 4
+
+MEASURE 77
+  LINE TLRH3
+  TIELINE RH4 88
+  REST   8
+  A# -1  8
+  REST   8
+  B  -1  8
+
+MEASURE 77
+  LINE RH4
+  REST   8
+  C#  0  8
+  REST   8
+  D#  0  8
+
+MEASURE 77
+  LINE RH5
+  REST   8
+  F#  0  8
+  REST   8
+  F#  0  8
+
+MEASURE 78
+  LINE TLRH3
+  TIELINE RH4 88
+  REST   8
+  A# -1  8
+  REST   8
+  G# -1  8
+
+MEASURE 78
+  LINE RH4
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+
+MEASURE 78
+  LINE RH5
+  REST   8
+  F#  0  8
+  REST   8
+  E#  0  8
+# kr2l brahms-hd5.mus 79 50 8
+
+MEASURE 79
+  LINE TLRH3
+  TIELINE RH4 88
+  A#  0  8
+  A#  0  8
+  B   0  8
+  B   0  8
+
+MEASURE 79
+  LINE RH4
+  F#  1  8
+  F#  1  8
+  G#  1  8
+  G#  1  8
+
+MEASURE 79
+  LINE RH5
+  A#  1  8
+  A#  1  8
+  B   1  8
+  B   1  8
+
+MEASURE 80
+  LINE TLRH3
+  TIELINE RH4 88
+  C#  1  8
+  F#  1  8
+  C#  1  4
+
+MEASURE 80
+  LINE RH4
+  A#  1  8
+  A#  1  8
+  A#  1  4
+
+MEASURE 80
+  LINE RH5
+  C#  2  8
+  F#  2  8
+  C#  2  4
+
+MEASURE 81
+  LINE TLRH3
+  TIELINE RH4 88
+  REST   8
+  A# -1  8
+  REST   4
+
+MEASURE 81
+  LINE RH4
+  REST   8
+  C#  0  8
+  REST   8
+  B  -1  8
+
+MEASURE 81
+  LINE RH5
+  REST   8
+  F#  0  8
+  REST   8
+  F#  0  8
+
+MEASURE 82
+  LINE TLRH3
+  TIELINE RH4 88
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+
+MEASURE 82
+  LINE RH4
+  REST   8
+  G#  0  8
+  REST   8
+  F#  0  8
+
+MEASURE 82
+  LINE RH5
+  REST   8
+  B   0  8
+  REST   8
+  A#  0  8
+# kr2l brahms-hd5.mus 83 50 8
+
+MEASURE 83
+  LINE TLRH3
+  TIELINE RH4 88
+  C#  1  8
+  B   0  8
+  A#  0  8
+  G#  0  8
+
+MEASURE 83
+  LINE RH4
+  A#  1  8
+  G#  1  8
+  F#  1  8
+  E#  1  8
+
+MEASURE 83
+  LINE RH5
+  C#  2  8
+  B   1  8
+  A#  1  8
+  G#  1  8
+
+MEASURE 84
+  LINE TLRH2
+  TIELINE RH4 85
+  F#  0  8
+  F#  1  8
+  REST   4
+
+MEASURE 84
+  LINE TLRH3
+  TIELINE RH4 88
+  A#  0  8
+  A#  1  8
+  REST   4
+
+MEASURE 84
+  LINE RH4
+  C#  1  8
+  C#  2  8
+  REST   4
+
+MEASURE 84
+  LINE RH5
+  F#  1  8
+  F#  2  8
+  REST   4
+
+MEASURE 85
+  LINE TLRH3
+  TIELINE RH4 88
+  REST   8
+  A# -1  8
+  REST   8
+  B  -1  8
+
+MEASURE 85
+  LINE RH4
+  REST   8
+  C#  0  8
+  REST   8
+  D#  0  8
+
+MEASURE 85
+  LINE RH5
+  REST   8
+  F#  0  8
+  REST   8
+  F#  0  8
+
+MEASURE 86
+  LINE TLRH3
+  TIELINE RH4 88
+  REST   8
+  A# -1  8
+  REST   8
+  G# -1  8
+
+MEASURE 86
+  LINE RH4
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+
+MEASURE 86
+  LINE RH5
+  REST   8
+  F#  0  8
+  REST   8
+  E#  0  8
+
+MEASURE 87
+  LINE TLRH3
+  TIELINE RH4 88
+  A#  0  8
+  A#  0  8
+  B   0  8
+  B   0  8
+
+MEASURE 87
+  LINE RH4
+  F#  1  8
+  F#  1  8
+  G#  1  8
+  G#  1  8
+
+MEASURE 87
+  LINE RH5
+  A#  1  8
+  A#  1  8
+  B   1  8
+  B   1  8
+
+MEASURE 88
+  LINE TLRH3
+  TIELINE RH4 88
+  C#  1  8
+  F#  1  8
+  C#  1  4
+
+MEASURE 88
+  LINE RH4
+  A#  1  8
+  A#  1  8
+  A#  1  4
+
+MEASURE 88
+  LINE RH5
+  C#  2  8
+  F#  2  8
+  C#  2  4
+
+MEASURE 89
+  LINE TLRH3
+  TIELINE RH4 88
+  REST   8
+  A# -1  8
+  REST   4
+
+MEASURE 89
+  LINE RH4
+  REST   8
+  C#  0  8
+  REST   8
+  B  -1  8
+
+MEASURE 89
+  LINE RH5
+  REST   8
+  F#  0  8
+  REST   8
+  F#  0  8
+
+MEASURE 90
+  LINE TLRH3
+  TIELINE RH4 88
+  REST   8
+  C#  0  8
+  REST   8
+  C#  0  8
+
+MEASURE 90
+  LINE RH4
+  REST   8
+  G#  0  8
+  REST   8
+  F#  0  8
+
+MEASURE 90
+  LINE RH5
+  REST   8
+  B   0  8
+  REST   8
+  A#  0  8
+
+MEASURE 91
+  LINE TLRH3
+  TIELINE RH4 88
+  C#  1  8
+  B   0  8
+  A#  0  8
+  G#  0  8
+
+MEASURE 91
+  LINE RH4
+  A#  1  8
+  G#  1  8
+  F#  1  8
+  E#  1  8
+
+MEASURE 91
+  LINE RH5
+  C#  2  8
+  B   1  8
+  A#  1  8
+  G#  1  8
+
+MEASURE 92
+  LINE TLRH2
+  TIELINE RH4 85
+  F#  0  8
+  F#  1  8
+  REST   4
+
+MEASURE 92
+  LINE TLRH3
+  TIELINE RH4 88
+  A#  0  8
+  A#  1  8
+  REST   4
+
+MEASURE 92
+  LINE RH4
+  C#  1  8
+  C#  2  8
+  REST   4
+
+MEASURE 92
+  LINE RH5
+  F#  1  8
+  F#  2  8
+  REST   4
+# kr2l brahms-hd5.mus 77 50 4
+
+MEASURE 77
+  LINE RH6
+  A#  0  4
+  B   0  4
+
+MEASURE 78
+  LINE RH6
+  A#  0  4
+  G#  0  4
+
+MEASURE 79
+  LINE RH6
+  REST   2
+
+MEASURE 80
+  LINE RH6
+  REST   2
+
+MEASURE 81
+  LINE RH6
+  A#  0  4
+  B   0  4
+
+MEASURE 82
+  LINE RH6
+  C#  1  4
+  C#  1  4
+
+MEASURE 83
+  LINE RH6
+  REST   2
+
+MEASURE 84
+  LINE RH6
+  REST   2
+
+MEASURE 85
+  LINE RH6
+  A#  0  4
+  B   0  4
+
+MEASURE 86
+  LINE RH6
+  A#  0  4
+  G#  0  4
+
+MEASURE 87
+  LINE RH6
+  REST   2
+
+MEASURE 88
+  LINE RH6
+  REST   2
+
+MEASURE 89
+  LINE RH6
+  A#  0  4
+  B   0  4
+
+MEASURE 90
+  LINE RH6
+  C#  1  4
+  C#  1  4
+
+REPEAT 1 8 93
+REPEAT 25 48 101
+
+# kr2l brahms-hd5.mus 126 50 8
+
+MEASURE 126
+  LINE TLRH2
+  TIELINE RH4 85
+  F#  1  8
+  REST   8
+  C#  1  8
+  REST   8
+
+MEASURE 126
+  LINE TLRH3
+  TIELINE RH4 88
+  G#  1  8
+  REST   8
+  F   1  8
+  REST   8
+
+MEASURE 126
+  LINE RH4
+  D   2  8
+  REST   8
+  G#  1  8
+  REST   8
+
+MEASURE 126
+  LINE RH5
+  F#  2  8
+  REST   8
+  C#  2  8
+  REST   8
+
+MEASURE 127
+  LINE TLRH2
+  TIELINE RH4 85
+  F#  0  8  3
+  REST   8
+
+MEASURE 127
+  LINE TLRH3
+  TIELINE RH4 88
+  A   0  8  3
+  REST   8
+
+MEASURE 127
+  LINE RH4
+  C#  1  8  3
+  REST   8
+
+MEASURE 127
+  LINE RH5
+  F#  1  8  3
+  REST   8
+# kr2l brahms-hd5.mus 126 50 8
+
+MEASURE 126
+  LINE TLLH3
+  TIELINE LH4 92
+  B  -3  8
+  REST   8
+  C# -2  8
+  REST   8
+
+MEASURE 126
+  LINE LH4
+  G# -2  8
+  REST   8
+  G# -2  8
+  REST   8
+
+MEASURE 126
+  LINE LH5
+  D  -1  8
+  REST   8
+  C# -1  8
+  REST   8
+# kr2l brahms-hd5.mus 127 50 8
+
+MEASURE 127
+  LINE TLLH2
+  TIELINE LH4 90
+  F# -2  8  3
+  REST   8
+
+MEASURE 127
+  LINE TLLH3
+  TIELINE LH4 92
+  A  -2  8  3
+  REST   8
+
+MEASURE 127
+  LINE LH4
+  C# -1  8  3
+  REST   8
+
+MEASURE 127
+  LINE LH5
+  A  -1  8  3
+  REST   8
+MEASURE 1
+  MARK Beginning
+
+MEASURE 17
+  MARK Restate-theme
+
+MEASURE 33
+  MARK Theme-II
+
+MEASURE 49
+  MARK Theme-II-Repeat
+
+MEASURE 65
+  MARK Theme-III
+
+MEASURE 77
+  MARK Trio?
+
+MEASURE 93
+  MARK Recap-Theme-I
+
+MEASURE 109
+  MARK Recap-Theme-II
+

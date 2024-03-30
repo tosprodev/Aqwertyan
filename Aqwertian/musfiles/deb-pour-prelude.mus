@@ -1,0 +1,960 @@
+NAME Debussy: Prelude to Pour le Piano: Assez anime et tres rythme
+
+MEASURE 1
+  METER 3 4
+  TEMPO 4 60.000000
+  KEY 0
+
+
+# kr2l deb-pour-prelude.mus 1 60 8
+
+MEASURE 1
+  LINE RH5
+  A  -1 16
+  C   0 16
+  E   0 16
+  C   0 16
+  A  -1 16
+  C   0 16
+  A  -1 16
+  C   0 16
+  A  -1 16
+  C   0 16
+  E  -1 16
+  C   0 16
+
+MEASURE 1
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8  3
+  E   0 16
+  REST  16  3
+  E   0 16
+  REST  16
+# kr2l deb-pour-prelude.mus 2 60 8
+
+MEASURE 2
+  LINE RH5
+  G  -1 16
+  Bb -1 16
+  G  -1 16
+  Bb -1 16
+  G  -1 16
+  Bb -1 16
+  G  -1 16
+  Bb -1 16
+  G  -1 16
+  Bb -1 16
+  G# -1 16
+  B  -1 16
+
+MEASURE 2
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8
+  D   0 16
+  REST  16  3
+  D   0 16
+  REST   8
+  D   0 16
+  REST  16
+  Eb  0 16
+# kr2l deb-pour-prelude.mus 3 60 8
+
+MEASURE 3
+  LINE RH5
+  A  -1 16
+  C   0 16
+  E   0 16
+  C   0 16
+  A  -1 16
+  C   0 16
+  A  -1 16
+  C   0 16
+  A  -1 16
+  C   0 16
+  E  -1 16
+  C   0 16
+
+MEASURE 3
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8  3
+  E   0 16
+  REST  16  3
+  E   0 16
+  REST  16
+# kr2l deb-pour-prelude.mus 4 60 8
+
+MEASURE 4
+  LINE RH5
+  G  -1 16
+  Bb -1 16
+  G  -1 16
+  Bb -1 16
+  F# -1 16
+  A  -1 16
+  F# -1 16
+  A  -1 16
+  F  -1 16
+  A  -1 16
+  F  -1 16
+  A  -1 16
+
+MEASURE 4
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8
+  D   0 16
+  REST  16  3
+  C#  0 16
+  REST  16  3
+  C#  0 16
+  REST  16
+
+MEASURE 5
+  LINE RH5
+  E  -1 16
+  G# -1 16
+  C   0 16
+  G# -1 16
+  E  -1 16
+  G# -1 16
+  E  -1 16
+  G# -1 16
+  C  -1 16
+  G# -1 16
+  C  -1 16
+  G# -1 16
+
+MEASURE 5
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8  3
+  C   0 16
+  REST  16  3
+  C   0 16
+  REST  16
+# kr2l deb-pour-prelude.mus 6 60 8
+
+MEASURE 6
+  LINE RH5
+  A  -2 16
+  C  -1 16
+  A  -1 16
+  C  -1 16
+  B  -2 16
+  D  -1 16
+  A  -1 16
+  D  -1 16
+  C  -1 16
+  E  -1 16
+  A  -1 16
+  E  -1 16
+
+MEASURE 7
+  LINE RH5
+  D  -1 16
+  F  -1 16
+  A  -1 16
+  F  -1 16
+  B  -2 16
+  D  -1 16
+  A  -1 16
+  D  -1 16
+  C  -1 16
+  E  -1 16
+  A  -1 16
+  E  -1 16
+
+MEASURE 8
+  LINE RH5
+  A  -2 16
+  C  -1 16
+  A  -1 16
+  C  -1 16
+  B  -2 16
+  D  -1 16
+  A  -1 16
+  D  -1 16
+  C  -1 16
+  E  -1 16
+  A  -1 16
+  E  -1 16
+
+MEASURE 9
+  LINE RH5
+  D  -1 16
+  F  -1 16
+  B  -1 16
+  F  -1 16
+  E  -1 16
+  G  -1 16
+  C   0 16
+  G  -1 16
+  F  -1 16
+  A  -1 16
+  D   0 16
+  A  -1 16
+
+MEASURE 10
+  LINE RH5
+  G  -1 16
+  Bb -1 16
+  E   0 16
+  Bb -1 16
+  E  -1 16
+  G  -1 16
+  C#  0 16
+  G  -1 16
+  F  -1 16
+  A  -1 16
+  D   0 16
+  A  -1 16
+
+MEASURE 11
+  LINE RH5
+  G  -1 16
+  Bb -1 16
+  E   0 16
+  Bb -1 16
+  Bb -1 16
+  D   0 16
+  G   0 16
+  D   0 16
+  A  -1 16
+  C   0 16
+  F   0 16
+  C   0 16
+
+MEASURE 12
+  LINE RH5
+  G  -1 16
+  Bb -1 16
+  E   0 16
+  Bb -1 16
+  E  -1 16
+  G  -1 16
+  C#  0 16
+  G  -1 16
+  F  -1 16
+  A  -1 16
+  D   0 16
+  A  -1 16
+
+MEASURE 13
+  LINE RH5
+  G  -1 16
+  Bb -1 16
+  E   0 16
+  Bb -1 16
+  Bb -1 16
+  D   0 16
+  G   0 16
+  D   0 16
+  A  -1 16
+  C   0 16
+  F   0 16
+  C   0 16
+# kr2l deb-pour-prelude.mus 14 60 8
+
+MEASURE 14
+  LINE RH5
+  D   0 16
+  F   0 16
+  Bb  0 16
+  F   0 16
+  F   0 16
+  G#  0 16
+  D   1 16
+  G#  0 16
+  E   0 16
+  G   0 16
+  C   1 16
+  G   0 16
+
+MEASURE 15
+  LINE RH5
+  G   0 16
+  Bb  0 16
+  E   1 16
+  Bb  0 16
+  Bb  0 16
+  C#  1 16
+  G   1 16
+  C#  1 16
+  A   0 16
+  C   1 16
+  F   1 16
+  C   1 16
+# kr2l deb-pour-prelude.mus 16 60 8
+
+MEASURE 16
+  LINE RH5
+  D   0 16
+  F   0 16
+  B   0 16
+  F   0 16
+  F   0 16
+  G#  0 16
+  D   1 16
+  G#  0 16
+  E   0 16
+  G   0 16
+  C   1 16
+  G   0 16
+# kr2l deb-pour-prelude.mus 17 60 8
+
+MEASURE 17
+  LINE RH5
+  G   0 16
+  Bb  0 16
+  E   1 16
+  Bb  0 16
+  A   0 16
+  C#  1 16
+  G   0 16
+  C#  1 16
+  A   0 16
+  Bb  0 16
+  E   1 16
+  Bb  0 16
+
+MEASURE 17
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8  3
+  G   1 16
+  REST  16  5
+# kr2l deb-pour-prelude.mus 18 60 8
+
+MEASURE 18
+  LINE RH5
+  F   0 16
+  G#  0 16
+  D   1 16
+  G#  0 16
+  G   0 16
+  B   0 16
+  E   1 16
+  B   0 16
+  F   0 16
+  A   0 16
+  D   1 16
+  A   0 16
+
+MEASURE 19
+  LINE RH5
+  D   0 16
+  F   0 16
+  B   0 16
+  F   0 16
+  E   0 16
+  G#  0 16
+  D   0 16
+  G#  0 16
+  E   0 16
+  F   0 16
+  B   0 16
+  F   0 16
+
+MEASURE 19
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8  3
+  D   1 16
+  REST  16  5
+# kr2l deb-pour-prelude.mus 20 60 8
+
+MEASURE 20
+  LINE RH5
+  C   0 16
+  Eb  0 16
+  A   0 16
+  Eb  0 16
+  D   0 16
+  F#  0 16
+  B   0 16
+  F#  0 16
+  C   0 16
+  Eb  0 16
+  A   0 16
+  Eb  0 16
+
+MEASURE 21
+  LINE RH5
+  C   0 16
+  Eb  0 16
+  A   0 16
+  Eb  0 16
+  D   0 16
+  F   0 16
+  B   0 16
+  F   0 16
+  C   0 16
+  Eb  0 16
+  A   0 16
+  Eb  0 16
+
+MEASURE 22
+  LINE RH5
+  C   0 16
+  Eb  0 16
+  A   0 16
+  Eb  0 16
+  D   0 16
+  F#  0 16
+  B   0 16
+  F#  0 16
+  C   0 16
+  Eb  0 16
+  A   0 16
+  Eb  0 16
+
+MEASURE 23
+  LINE RH5
+  C   0 16
+  Eb  0 16
+  A   0 16
+  Eb  0 16
+  D   0 16
+  F   0 16
+  B   0 16
+  F   0 16
+  C   0 16
+  Eb  0 16
+  A   0 16
+  Eb  0 16
+
+MEASURE 24
+  LINE RH5
+  F  -1 16
+  G  -1 16
+  A  -1 16
+  B  -1 16
+  E  -1 16
+  F  -1 16
+  G  -1 16
+  A  -1 16
+  D  -1 16
+  E  -1 16
+  F  -1 16
+  G  -1 16
+
+MEASURE 25
+  LINE RH5
+  F  -1 16
+  G  -1 16
+  A  -1 16
+  B  -1 16
+  E  -1 16
+  F  -1 16
+  G  -1 16
+  A  -1 16
+  D  -1 16
+  E  -1 16
+  F  -1 16
+  G  -1 16
+
+MEASURE 26
+  LINE RH5
+  REST   4
+  C  -1 16
+  D  -1 16
+  E  -1 16
+  F  -1 16
+  B  -2 16
+  C  -1 16
+  D  -1 16
+  E  -1 16
+
+MEASURE 27
+  LINE RH5
+  A  -2 16
+  C  -1 16
+  A  -1 16
+  C  -1 16
+  B  -2 16
+  D  -1 16
+  A  -1 16
+  D  -1 16
+  C  -1 16
+  E  -1 16
+  A  -1 16
+  E  -1 16
+# kr2l deb-pour-prelude.mus 1 60 4
+
+MEASURE 6
+  LINE TLRH5
+  TIELINE RH5 100
+  A  -2  4
+  B  -2  4
+  C  -1  4
+
+MEASURE 7
+  LINE TLRH5
+  TIELINE RH5 100
+  D  -1  4
+  B  -2  4
+  C  -1  4
+
+MEASURE 8
+  LINE TLRH5
+  TIELINE RH5 100
+  A  -2  4
+  B  -2  4
+  C  -1  4
+
+MEASURE 9
+  LINE TLRH5
+  TIELINE RH5 100
+  D  -1  4
+  E  -1  4
+  F  -1  4
+# kr2l deb-pour-prelude.mus 10 60 4
+
+MEASURE 10
+  LINE TLRH5
+  TIELINE RH5 100
+  G  -1  4
+  E  -1  4
+  F  -1  4
+
+MEASURE 11
+  LINE TLRH5
+  TIELINE RH5 100
+  G  -1  4
+  Bb -1  4
+  A  -1  4
+
+MEASURE 12
+  LINE TLRH5
+  TIELINE RH5 100
+  G  -1  4
+  E  -1  4
+  F  -1  4
+
+MEASURE 13
+  LINE TLRH5
+  TIELINE RH5 100
+  G  -1  4
+  Bb -1  4
+  A  -1  4
+# kr2l deb-pour-prelude.mus 14 60 4
+
+MEASURE 14
+  LINE TLRH3
+  TIELINE TLRH5 80
+  G# -1  4
+  B  -1  4
+  C   0  4
+
+MEASURE 14
+  LINE TLRH5
+  TIELINE RH5 100
+  D   0  4
+  F   0  4
+  E   0  4
+
+MEASURE 15
+  LINE TLRH3
+  TIELINE TLRH5 80
+  C#  0  4
+  E   0  4
+  F   0  4
+
+MEASURE 15
+  LINE TLRH5
+  TIELINE RH5 100
+  G   0  4
+  Bb  0  4
+  A   0  4
+
+MEASURE 16
+  LINE TLRH3
+  TIELINE TLRH5 80
+  G# -1  4
+  B  -1  4
+  C   0  4
+
+MEASURE 16
+  LINE TLRH5
+  TIELINE RH5 100
+  D   0  4
+  F   0  4
+  E   0  4
+
+MEASURE 17
+  LINE TLRH3
+  TIELINE TLRH5 80
+  C#  0  4
+  E   0  8
+  C#  0  8
+  E   0  4
+
+MEASURE 17
+  LINE TLRH5
+  TIELINE RH5 100
+  G   0  4
+  A   0  8
+  G   0  8
+  A   0  4
+
+MEASURE 18
+  LINE TLRH3
+  TIELINE TLRH5 80
+  B  -1  4
+  D   0  4
+  B  -1  4
+
+MEASURE 18
+  LINE TLRH5
+  TIELINE RH5 100
+  F   0  4
+  G   0  4
+  F   0  4
+# kr2l deb-pour-prelude.mus 19 60 4
+
+MEASURE 19
+  LINE TLRH3
+  TIELINE TLRH5 80
+  G# -1  4
+  B  -1  8
+  G# -1  8
+  B  -1  4
+
+MEASURE 19
+  LINE TLRH5
+  TIELINE RH5 100
+  D   0  4
+  E   0  8
+  D   0  8
+  E   0  4
+# kr2l deb-pour-prelude.mus 20 60 4
+
+MEASURE 20
+  LINE TLRH3
+  TIELINE TLRH5 80
+  F# -1  4
+  A  -1  4
+  F# -1  4
+
+MEASURE 20
+  LINE TLRH5
+  TIELINE RH5 100
+  C   0  4
+  D   0  4
+  C   0  4
+# kr2l deb-pour-prelude.mus 21 60 4
+
+MEASURE 21
+  LINE TLRH3
+  TIELINE TLRH5 80
+  F  -1  4
+  A  -1  4
+  F  -1  4
+
+MEASURE 21
+  LINE TLRH5
+  TIELINE RH5 100
+  C   0  4
+  D   0  4
+  C   0  4
+
+MEASURE 22
+  LINE TLRH3
+  TIELINE TLRH5 80
+  F# -1  4
+  A  -1  4
+  F# -1  4
+
+MEASURE 22
+  LINE TLRH5
+  TIELINE RH5 100
+  C   0  4
+  D   0  4
+  C   0  4
+
+MEASURE 23
+  LINE TLRH3
+  TIELINE TLRH5 80
+  F  -1  4
+  A  -1  4
+  F  -1  4
+
+MEASURE 23
+  LINE TLRH5
+  TIELINE RH5 100
+  C   0  4
+  D   0  4
+  C   0  4
+# kr2l deb-pour-prelude.mus 27 60 4
+
+MEASURE 27
+  LINE TLRH5
+  TIELINE RH5 100
+  A  -2  4
+  B  -2  4
+  C  -1  4
+# kr2l deb-pour-prelude.mus 1 60 4
+
+MEASURE 1
+  LINE TLRH5
+  TIELINE RH5 100
+  A  -1  4
+  REST   2
+
+MEASURE 2
+  LINE TLRH5
+  TIELINE RH5 100
+  REST   4  3
+
+MEASURE 3
+  LINE TLRH5
+  TIELINE RH5 100
+  A  -1  4
+  REST   2
+
+MEASURE 4
+  LINE TLRH5
+  TIELINE RH5 100
+  REST   4  3
+
+MEASURE 5
+  LINE TLRH5
+  TIELINE RH5 100
+  E  -1  4
+  REST   2
+# kr2l deb-pour-prelude.mus 6 120 4
+
+MEASURE 6
+  LINE LH5
+  A  -3  4  3
+
+MEASURE 7
+  LINE LH5
+  CARRY  4  3
+
+MEASURE 8
+  LINE LH5
+  A  -3  4  3
+
+MEASURE 9
+  LINE LH5
+  A  -2  4  3
+
+MEASURE 10
+  LINE LH5
+  CARRY  4  3
+
+MEASURE 11
+  LINE LH5
+  A  -2  4  3
+
+MEASURE 12
+  LINE LH5
+  CARRY  4  3
+
+MEASURE 13
+  LINE LH5
+  A  -2  4  3
+# kr2l deb-pour-prelude.mus 14 120 4
+
+MEASURE 14
+  LINE LH5
+  REST   4  3
+
+MEASURE 15
+  LINE LH5
+  REST   4  3
+
+MEASURE 16
+  LINE LH5
+  A  -3  4  3
+
+MEASURE 17
+  LINE LH5
+  CARRY  4  3
+
+MEASURE 18
+  LINE LH5
+  CARRY  4  3
+
+MEASURE 19
+  LINE LH5
+  CARRY  4  3
+
+MEASURE 20
+  LINE LH5
+  CARRY  4  3
+
+MEASURE 21
+  LINE LH4
+  A  -3  4  3
+
+MEASURE 21
+  LINE LH5
+  A  -2  4  3
+
+MEASURE 22
+  LINE LH4
+  CARRY  4  3
+
+MEASURE 22
+  LINE LH5
+  CARRY  4  3
+
+MEASURE 23
+  LINE LH4
+  A  -3  4  3
+
+MEASURE 23
+  LINE LH5
+  A  -2  4  3
+# kr2l deb-pour-prelude.mus 6 120 4
+
+MEASURE 6
+  LINE TLLH3
+  TIELINE LH5 100
+  A  -3  4  3
+
+MEASURE 7
+  LINE TLLH3
+  TIELINE LH5 100
+  CARRY  4  3
+  TIENOTE LH5 RH5
+
+MEASURE 8
+  LINE TLLH3
+  TIELINE LH5 100
+  A  -3  4  3
+
+MEASURE 9
+  LINE TLLH3
+  TIELINE LH5 100
+  CARRY  4  3
+
+MEASURE 10
+  LINE TLLH3
+  TIELINE LH5 100
+  CARRY  4  3
+
+MEASURE 11
+  LINE TLLH3
+  TIELINE LH5 100
+  CARRY  4  3
+
+MEASURE 12
+  LINE TLLH3
+  TIELINE LH5 100
+  CARRY  4  3
+
+MEASURE 13
+  LINE TLLH3
+  TIELINE LH5 100
+  CARRY  4  3
+
+MEASURE 14
+  LINE TLLH3
+  TIELINE LH5 100
+  CARRY  4  3
+
+MEASURE 15
+  LINE TLLH3
+  TIELINE LH5 100
+  CARRY  4  3
+  TIENOTE LH5 RH5
+
+MEASURE 16
+  LINE TLLH3
+  TIELINE LH5 100
+  A -3  4  3
+
+MEASURE 17
+  LINE TLLH3
+  TIELINE LH5 100
+  CARRY  4  3
+
+MEASURE 18
+  LINE TLLH3
+  TIELINE LH5 100
+  CARRY  4  3
+
+MEASURE 19
+  LINE TLLH3
+  TIELINE LH5 100
+  CARRY  4  3
+
+MEASURE 20
+  LINE TLLH3
+  TIELINE LH5 100
+  CARRY  4  3
+  TIENOTE LH5 RH5
+# kr2l deb-pour-prelude.mus 21 120 4
+
+MEASURE 21
+  LINE TLLH3
+  TIELINE LH5 100
+  A  -2  4  3
+
+MEASURE 22
+  LINE TLLH3
+  TIELINE LH5 100
+  CARRY  4  3
+  TIENOTE LH5 RH5
+
+MEASURE 23
+  LINE TLLH3
+  TIELINE LH5 100
+  A  -2  4  3
+  TIENOTE LH5 RH5
+
+
+MEASURE 21
+  LINE TLLH2
+  TIELINE LH4 100
+  A  -2  4  3
+
+MEASURE 22
+  LINE TLLH2
+  TIELINE LH4 100
+  CARRY  4  3
+  TIENOTE LH4 RH5
+
+MEASURE 23
+  LINE TLLH2
+  TIELINE LH4 100
+  A  -2  4  3
+  TIENOTE LH4 RH5
+
+
+# kr2l deb-pour-prelude.mus 9 120 4
+
+MEASURE 9
+  LINE TLLH3a
+  TIELINE LH5 100
+  A  -2  4  3
+
+MEASURE 10
+  LINE TLLH3a
+  TIELINE LH5 100
+  CARRY  4  3
+  TIENOTE LH5 RH5
+
+MEASURE 11
+  LINE TLLH3a
+  TIELINE LH5 100
+  A  -2  4  3
+
+MEASURE 12
+  LINE TLLH3a
+  TIELINE LH5 100
+  CARRY  4  3
+  TIENOTE LH5 RH5
+
+MEASURE 13
+  LINE TLLH3a
+  TIELINE LH5 100
+  A  -2  4  3
+  TIENOTE LH5 RH5
+

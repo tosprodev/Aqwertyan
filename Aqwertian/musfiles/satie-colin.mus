@@ -1,0 +1,546 @@
+NAME Satie: Colin-Maillard (Blindman's Buff) from Sports et Divertissements
+
+MEASURE 1
+METER 2 4
+TEMPO 4 60
+KEY 0
+
+# kr2l tmp satie-colin.mus 1 50 8 0 88 /tmp/kr2l
+
+MEASURE 1
+  LINE RH5
+  F# -1 16
+  G# -1 16
+  C#  0 16
+  G# -1 16
+  F# -1  8
+  REST   8
+
+MEASURE 2
+  LINE RH5
+  REST   2
+
+MEASURE 3
+  LINE RH5
+  E   0  8
+  D   0  8
+  E   0  8
+  D   0  8
+
+MEASURE 3
+  LINE RH6
+  E   1  8
+  D   1  8
+  E   1  8
+  D   1  8
+
+MEASURE 4
+  LINE RH5
+  E   0  8
+  D   0  8
+  E   0  8
+  D   0  8
+
+MEASURE 4
+  LINE RH6
+  E   1  8
+  D   1  8
+  E   1  8
+  D   1  8
+# kr2l tmp satie-colin.mus 5 50 8 0 88 /tmp/kr2l
+
+MEASURE 5
+  LINE RH5
+  B   1 16
+  C#  2 16
+  F#  2 16
+  C#  2 16
+  B   1  8
+  REST   8
+
+MEASURE 6
+  LINE RH5
+  REST   2
+
+MEASURE 7
+  LINE RH5
+  F#  1  8
+  E   1  8
+  D   1  8
+  C#  1  8
+
+MEASURE 7
+  LINE RH6
+  C#  2  64 0
+  A   1  8
+  B   1  64 0
+  G#  1  8
+  A   1  64 0
+  F#  1  8
+  G#  1  64 0
+  E   1  8
+
+MEASURE 8
+  LINE RH5
+  B   0  8
+  A   0  8
+  G#  0  8
+  F#  0  8
+
+MEASURE 8
+  LINE RH6
+  F#  1  64 0
+  D   1  8
+  E   1  64 0
+  C#  1  8
+  D   1  64 0
+  B   0  8
+  C#  1  64 0
+  A   0  8
+
+MEASURE 9
+  LINE RH5
+  D  -1 16
+  E  -1 16
+  G# -1 16
+  E  -1 16
+  D  -1  8
+  REST   8
+
+MEASURE 10
+  LINE RH5
+  REST   2
+
+MEASURE 11
+  LINE RH5
+  D   0  8
+  F#  0  8
+  C#  0  8
+  E   0  8
+
+MEASURE 11
+  LINE RH6
+  REST   8
+  A   0  8
+  REST   8
+  G#  0  8
+
+MEASURE 11
+  LINE RH7
+  REST   8
+  D   1  8
+  REST   8
+  C#  1  8
+
+MEASURE 12
+  LINE RH5
+  B  -1  8
+  D   0  8
+  A  -1  8
+  C#  0  8
+
+MEASURE 12
+  LINE RH6
+  REST   8
+  F#  0  8
+  REST   8
+  E   0  8
+
+MEASURE 12
+  LINE RH7
+  REST   8
+  B   0  8
+  REST   8
+  A   0  8
+
+MEASURE 13
+  LINE RH5
+  G# -1  8
+  B  -1  8
+  F# -1  8
+  A  -1  8
+
+MEASURE 13
+  LINE RH6
+  REST   8
+  D   0  8
+  REST   8
+  C#  0  8
+
+MEASURE 13
+  LINE RH7
+  REST   8
+  G#  0  8
+  REST   8
+  F#  0  8
+
+MEASURE 14
+  LINE RH5
+  E  -1  8
+  G# -1  8
+  REST   4
+
+MEASURE 14
+  LINE RH6
+  REST   8
+  B  -1  8
+  REST   4
+
+MEASURE 14
+  LINE RH7
+  REST   8
+  E   0  8
+  REST   4
+
+MEASURE 15
+  LINE RH5
+  C# -1 16
+  D  -1 16
+  E  -1 16
+  F# -1 16
+  G# -1 16
+  F# -1 16
+  E  -1 16
+  D  -1 16
+
+MEASURE 16
+  LINE RH5
+  C# -1 16
+  D  -1 16
+  E  -1 16
+  F# -1 16
+  G# -1  8
+  REST   8
+# kr2l tmp satie-colin.mus 17 50 8 0 88 /tmp/kr2l
+
+MEASURE 17
+  LINE RH5
+  G#  1  8
+  E   1  8
+  F#  1  8
+  D   1  8
+
+MEASURE 17
+  LINE RH6
+  B   1  8
+  REST   8
+  A   1  8
+  REST   8
+
+MEASURE 17
+  LINE RH7
+  E   2  8
+  REST   8
+  D   2  8
+  REST   8
+
+MEASURE 18
+  LINE RH5
+  G#  1  8
+  E   1  8
+  F#  1  8
+  D   1  8
+
+MEASURE 18
+  LINE RH6
+  B   1  8
+  REST   8
+  A   1  8
+  REST   8
+
+MEASURE 18
+  LINE RH7
+  E   2  8
+  REST   8
+  D   2  8
+  REST   8
+# kr2l tmp satie-colin.mus 19 50 8 0 88 /tmp/kr2l
+
+MEASURE 19
+  LINE RH5
+  A  -1  8
+  C#  0  8
+  D   0  8
+  C#  0  8
+
+MEASURE 19
+  LINE RH6
+  B  -1  8
+  REST   8
+  E   0  8
+  REST   8
+
+MEASURE 20
+  LINE RH5
+  A  -1  8
+  C#  0  8
+  D   0  8
+  C#  0  8
+
+MEASURE 20
+  LINE RH6
+  B  -1  8
+  REST   8
+  E   0  8
+  REST   8
+# kr2l tmp satie-colin.mus 21 50 8 0 88 /tmp/kr2l
+
+MEASURE 21
+  LINE RH5
+  F# -1  2
+
+MEASURE 21
+  LINE RH6
+  B  -1  2
+
+MEASURE 21
+  LINE RH7
+  C#  0  2
+
+MEASURE 21
+  LINE RH8
+  F#  0  2
+
+MEASURE 22
+  LINE RH5
+  CARRY  4
+  REST   4
+
+MEASURE 22
+  LINE RH6
+  CARRY  4
+  REST   4
+
+MEASURE 22
+  LINE RH7
+  CARRY  4
+  REST   4
+
+MEASURE 22
+  LINE RH8
+  CARRY  4
+  REST   4
+
+MEASURE 23
+  LINE RH5
+  REST   8  3
+  B  -1  8
+
+MEASURE 24
+  LINE RH5
+  C#  0  8
+  G#  0  4
+  REST   8
+# kr2l tmp satie-colin.mus 1 50 8 0 88 /tmp/kr2l
+
+MEASURE 1
+  LINE LH1
+  E  -2  8
+  D  -2  8
+  E  -2  8
+  D  -2  8
+
+MEASURE 1
+  LINE LH2
+  E  -1  8
+  D  -1  8
+  E  -1  8
+  D  -1  8
+
+MEASURE 2
+  LINE LH1
+  E  -2  8
+  D  -2  8
+  E  -2  8
+  D  -2  8
+
+MEASURE 2
+  LINE LH2
+  E  -1  8
+  D  -1  8
+  E  -1  8
+  D  -1  8
+
+MEASURE 3
+  LINE LH1
+  C#  0  8
+  A  -1  8
+  C#  0  8
+  A  -1  8
+
+MEASURE 4
+  LINE LH1
+  C#  0  8
+  A  -1  8
+  C#  0  8
+  A  -1  8
+
+MEASURE 5
+  LINE LH1
+  A   1  8
+  G#  1  8
+  A   1  8
+  G#  1  8
+
+MEASURE 6
+  LINE LH1
+  A   1  8
+  G#  1  8
+  A   1  8
+  G#  1  8
+
+MEASURE 7
+  LINE LH1
+  REST   2
+
+MEASURE 8
+  LINE LH1
+  REST   2
+
+MEASURE 9
+  LINE LH1
+  B  -3  8
+  B  -2  8
+  B  -3  8
+  B  -2  8
+
+MEASURE 10
+  LINE LH1
+  B  -3  8
+  B  -2  8
+  B  -3  8
+  B  -2  8
+
+MEASURE 11
+  LINE LH1
+  C#  0  8
+  B  -1  8
+  A  -1  8
+  G# -1  8
+
+MEASURE 12
+  LINE LH1
+  F# -1  8
+  E  -1  8
+  D  -1  8
+  C# -1  8
+
+MEASURE 13
+  LINE LH1
+  B  -2  8
+  A  -2  8
+  G# -2  8
+  F# -2  8
+
+MEASURE 14
+  LINE LH1
+  G# -2  8
+  F# -2  8
+  G# -2  8
+  F# -2  8
+
+MEASURE 15
+  LINE LH1
+  B  -3  8
+  A  -3  8
+  B  -3  8
+  A  -3  8
+
+MEASURE 15
+  LINE LH2
+  B  -2  8
+  A  -2  8
+  B  -2  8
+  A  -2  8
+
+MEASURE 16
+  LINE LH1
+  B  -3  8
+  A  -3  8
+  B  -3  8
+  A  -3  8
+
+MEASURE 16
+  LINE LH2
+  B  -2  8
+  A  -2  8
+  B  -2  8
+  A  -2  8
+
+MEASURE 17
+  LINE LH1
+  D   1  8
+  C#  1  8
+  B   0  8
+  A   0  8
+
+MEASURE 18
+  LINE LH1
+  D   1  8
+  C#  1  8
+  B   0  8
+  A   0  8
+
+MEASURE 19
+  LINE LH1
+  F# -2  8
+  E  -2  8
+  F# -2  8
+  E  -2  8
+
+MEASURE 19
+  LINE LH2
+  F# -1  8
+  E  -1  8
+  F# -1  8
+  E  -1  8
+
+MEASURE 20
+  LINE LH1
+  F# -2  8
+  E  -2  8
+  F# -2  8
+  E  -2  8
+
+MEASURE 20
+  LINE LH2
+  F# -1  8
+  E  -1  8
+  F# -1  8
+  E  -1  8
+
+MEASURE 21
+  LINE LH1
+  B  -3  8
+  B  -3  8
+  REST   8
+  B  -3  8
+
+MEASURE 21
+  LINE LH2
+  B  -2  8
+  B  -2  8
+  REST   8
+  B  -2  8
+
+MEASURE 22
+  LINE LH1
+  B  -3  4
+  REST   8
+  A  -3  8
+
+MEASURE 22
+  LINE LH2
+  B  -2  4
+  REST   4
+
+MEASURE 23
+  LINE LH1
+  E  -2  8
+  C# -1  8
+  F# -1  4
+
+MEASURE 24
+  LINE LH1
+  CARRY  8  3
+  REST   8

@@ -1,0 +1,866 @@
+NAME Peter Cottontail
+
+MEASURE 1
+METER 4 4
+TEMPO 4 80
+KEY 0
+
+# kr2l tmp peter-cottontail.mus 1 92 4 0 88 /tmp/kr2l
+
+MEASURE 1
+  LINE RH5
+  G   0  4
+  G   0  4
+  G   0  4
+  E   0  4
+
+MEASURE 2
+  LINE RH5
+  E   0  4
+  C   0  4
+  C   0  2
+
+MEASURE 3
+  LINE RH5
+  C   1  4
+  C   1  4
+  C   1  8  3
+  C   1  8
+
+MEASURE 4
+  LINE RH5
+  A   0  4
+  F   0  4
+  F   0  2
+
+MEASURE 5
+  LINE RH5
+  G   0  8
+  G   0  8
+  G   0  4
+  G   0  8
+  G   0  8
+  G   0  4
+
+MEASURE 6
+  LINE RH5
+  B   0  4
+  A   0  4
+  F   0  4
+  A   0  4
+
+MEASURE 7
+  LINE RH5
+  G   0  1
+
+MEASURE 8
+  LINE RH5
+  CARRY  1
+
+MEASURE 9
+  LINE RH5
+  G   0  4
+  G   0  4
+  G   0  4
+  E   0  4
+
+MEASURE 10
+  LINE RH5
+  E   0  4
+  C   0  4
+  C   0  2
+
+MEASURE 11
+  LINE RH5
+  C   1  4
+  C   1  4
+  C   1  8  3
+  C   1  8
+
+MEASURE 12
+  LINE RH5
+  A   0  4
+  F   0  4
+  F   0  2
+
+MEASURE 13
+  LINE RH5
+  G   0  8
+  G   0  8
+  G   0  4
+  G   0  8
+  G   0  8
+  G   0  4
+
+MEASURE 14
+  LINE RH5
+  B   0  4
+  A   0  4
+  F   0  4
+  D   0  4
+# kr2l tmp peter-cottontail.mus 1 92 4 0 88 /tmp/kr2l
+
+MEASURE 1
+  LINE TLRH3
+  TIELINE RH5 80
+  C   0  4
+  REST   4
+  B  -1  4
+  REST   4
+
+MEASURE 1
+  LINE TLRH4
+  TIELINE RH5 80
+  E   0  4
+  REST   4
+  E   0  4
+  REST   4
+
+MEASURE 2
+  LINE TLRH3
+  TIELINE RH5 80
+  G  -1  4
+  REST   4
+  G  -1  2
+
+MEASURE 2
+  LINE TLRH4
+  TIELINE RH5 80
+  Bb -1  4
+  REST   4
+  Bb -1  2
+
+MEASURE 3
+  LINE TLRH3
+  TIELINE RH5 80
+  F   0  4
+  REST   4
+  E   0  8 3
+  REST   8
+
+MEASURE 3
+  LINE TLRH4
+  TIELINE RH5 80
+  A   0  4
+  REST   4
+  A   0  8 3
+  REST   8
+
+MEASURE 4
+  LINE TLRH3
+  TIELINE RH5 80
+  D   0  4
+  REST   4
+  A  -1  2
+
+MEASURE 4
+  LINE TLRH4
+  TIELINE RH5 80
+  F   0  4
+  REST   4
+  C   0  2
+
+MEASURE 5
+  LINE TLRH3
+  TIELINE RH5 80
+  B  -1  2
+  Bb -1  2
+
+MEASURE 5
+  LINE TLRH4
+  TIELINE RH5 80
+  F   0  2
+  E   0  2
+
+MEASURE 6
+  LINE TLRH3
+  TIELINE RH5 80
+  B  -1  2
+  B  -1  2
+
+MEASURE 6
+  LINE TLRH4
+  TIELINE RH5 80
+  F   0  2
+  D   0  2
+
+MEASURE 7
+  LINE TLRH3
+  TIELINE RH5 80
+  C   0  1
+
+MEASURE 7
+  LINE TLRH4
+  TIELINE RH5 80
+  E   0  1
+
+MEASURE 8
+  LINE TLRH3
+  TIELINE RH5 80
+  CARRY  1
+
+MEASURE 8
+  LINE TLRH4
+  TIELINE RH5 80
+  CARRY  1
+
+MEASURE 9
+  LINE TLRH3
+  TIELINE RH5 80
+  C   0  4
+  REST   4
+  B  -1  4
+  REST   4
+
+MEASURE 9
+  LINE TLRH4
+  TIELINE RH5 80
+  E   0  4
+  REST   4
+  E   0  4
+  REST   4
+
+MEASURE 10
+  LINE TLRH3
+  TIELINE RH5 80
+  G  -1  4
+  REST   4
+  G  -1  2
+
+MEASURE 10
+  LINE TLRH4
+  TIELINE RH5 80
+  Bb -1  4
+  REST   4
+  Bb -1  2
+
+MEASURE 11
+  LINE TLRH3
+  TIELINE RH5 80
+  F   0  4
+  REST   4
+  E   0  8 3
+  REST   8
+
+MEASURE 11
+  LINE TLRH4
+  TIELINE RH5 80
+  A   0  4
+  REST   4
+  A   0  8 3
+  REST   8
+
+MEASURE 12
+  LINE TLRH3
+  TIELINE RH5 80
+  D   0  4
+  REST   4
+  A  -1  2
+
+MEASURE 12
+  LINE TLRH4
+  TIELINE RH5 80
+  F   0  4
+  REST   4
+  C   0  2
+
+# kr2l tmp peter-cottontail.mus 13 92 4 0 88 /tmp/kr2l
+
+MEASURE 13
+  LINE TLRH3
+  TIELINE RH5 80
+  B  -1  2
+  Bb -1  2
+
+MEASURE 13
+  LINE TLRH4
+  TIELINE RH5 80
+  F   0  2
+  E   0  2
+
+MEASURE 14
+  LINE TLRH3
+  TIELINE RH5 80
+  B  -1  2
+  REST   2
+
+MEASURE 14
+  LINE TLRH4
+  TIELINE RH5 80
+  F   0  2
+  A  -1  4
+  B  -1  4
+# kr2l tmp peter-cottontail.mus 1 92 4 0 88 /tmp/kr2l
+
+MEASURE 1
+  LINE TLLH1
+  TIELINE RH5 80
+  C  -1  2
+  G  -2  2
+
+MEASURE 2
+  LINE TLLH1
+  TIELINE RH5 80
+  C  -2  1
+
+MEASURE 3
+  LINE TLLH1
+  TIELINE RH5 80
+  F  -2  2
+  A  -1  2
+
+MEASURE 4
+  LINE TLLH1
+  TIELINE RH5 80
+  F  -1  1
+
+MEASURE 5
+  LINE TLLH1
+  TIELINE RH5 80
+  D  -1  2
+  C# -1  2
+
+MEASURE 6
+  LINE TLLH1
+  TIELINE RH5 80
+  D  -1  2
+  G  -2  2
+
+MEASURE 7
+  LINE TLLH1
+  TIELINE RH5 80
+  C  -1  1
+
+MEASURE 8
+  LINE TLLH1
+  TIELINE RH5 80
+  CARRY  1
+
+MEASURE 9
+  LINE TLLH1
+  TIELINE RH5 80
+  C  -1  2
+  G  -2  2
+
+MEASURE 10
+  LINE TLLH1
+  TIELINE RH5 80
+  C  -2  1
+
+MEASURE 11
+  LINE TLLH1
+  TIELINE RH5 80
+  F  -2  2
+  A  -1  2
+
+MEASURE 12
+  LINE TLLH1
+  TIELINE RH5 80
+  F  -1  1
+
+MEASURE 13
+  LINE TLLH1
+  TIELINE RH5 80
+  D  -1  2
+  C# -1  2
+
+MEASURE 14
+  LINE TLLH1
+  TIELINE RH5 80
+  D  -1  2
+  G  -2  4
+  F  -1  4
+# kr2l tmp peter-cottontail.mus 15 92 4 0 88 /tmp/kr2l
+
+MEASURE 15
+  LINE RH5
+  C   0  1
+
+MEASURE 16
+  LINE RH5
+  CARRY  2
+  C   1  4
+  C   1  4
+
+MEASURE 17
+  LINE RH5
+  A   0  4
+  F   0  4
+  F   0  4
+  G   0  4
+
+MEASURE 18
+  LINE RH5
+  A   0  4
+  C   1  4
+  B   0  4
+  A   0  4
+
+MEASURE 19
+  LINE RH5
+  A   0  4
+  G   0  4
+  G   0  4
+  E   0  4
+
+MEASURE 20
+  LINE RH5
+  G   0  4  3
+  C   1  8
+  C   1  8
+
+MEASURE 21
+  LINE RH5
+  A   0  4
+  F   0  4
+  F   0  4
+  G   0  4
+
+MEASURE 22
+  LINE RH5
+  A   0  4
+  C   1  4
+  B   0  4
+  C   1  4
+
+MEASURE 23
+  LINE RH5
+  D   1  4
+  C   1  4
+  B   0  4
+  A   0  4
+
+MEASURE 24
+  LINE RH5
+  G   0  4
+  REST   4
+  G   0  2
+
+MEASURE 25
+  LINE RH5
+  G   0  4
+  G   0  4
+  G   0  4
+  E   0  4
+
+MEASURE 26
+  LINE RH5
+  E   0  4
+  C   0  4
+  C   0  2
+
+MEASURE 27
+  LINE RH5
+  C   1  4
+  C   1  4
+  C   1  8  3
+  C   1  8
+
+MEASURE 28
+  LINE RH5
+  A   0  4
+  F   0  4
+  F   0  2
+
+MEASURE 29
+  LINE RH5
+  G   0 12
+  G   0  6
+  G   0  4
+  G   0 12
+  G   0  6
+  G   0  4
+
+MEASURE 30
+  LINE RH5
+  B   0  4
+  B   0  4
+  C   1  4
+  D   1  4
+
+MEASURE 31
+  LINE RH5
+  C   1  1
+# kr2l tmp peter-cottontail.mus 15 69 4 0 88 /tmp/kr2l
+
+MEASURE 15
+  LINE TLLH1
+  TIELINE RH5 80
+  C  -1  1
+
+MEASURE 15
+  LINE TLLH2
+  TIELINE RH5 80
+  E  -1  1
+
+MEASURE 15
+  LINE TLLH3
+  TIELINE RH5 80
+  G  -1  1
+
+MEASURE 16
+  LINE TLLH1
+  TIELINE RH5 80
+  CARRY  2
+  D  -1  4
+  E  -1  4
+
+MEASURE 16
+  LINE TLLH2
+  TIELINE RH5 80
+  CARRY  2
+  F   0  4
+  G   0  4
+
+MEASURE 16
+  LINE TLLH3
+  TIELINE RH5 80
+  CARRY  2
+  Bb  0  4
+  Bb  0  4
+# kr2l tmp peter-cottontail.mus 17 69 4 0 88 /tmp/kr2l
+
+MEASURE 17
+  LINE TLLH1
+  TIELINE RH5 80
+  F  -2  1
+
+MEASURE 17
+  LINE TLLH2
+  TIELINE RH5 80
+  C  -1  2
+  C# -1  2
+
+MEASURE 17
+  LINE TLLH3
+  TIELINE RH5 80
+  A  -1  1
+
+# kr2l tmp peter-cottontail.mus 18 69 4 0 88 /tmp/kr2l
+
+MEASURE 18
+  LINE TLLH1
+  TIELINE RH5 80
+  CARRY  1
+
+MEASURE 19
+  LINE TLLH1
+  TIELINE RH5 80
+  C  -2  2
+  G  -2  2
+
+MEASURE 20
+  LINE TLLH1
+  TIELINE RH5 80
+  C  -1  1
+
+MEASURE 21
+  LINE TLLH1
+  TIELINE RH5 80
+  F  -2  1
+
+MEASURE 22
+  LINE TLLH1
+  TIELINE RH5 80
+  CARRY  2
+  A  -2  2
+
+MEASURE 23
+  LINE TLLH1
+  TIELINE RH5 80
+  D  -1  4
+  E  -1  4
+  F# -1  4
+  D  -1  4
+
+MEASURE 24
+  LINE TLLH1
+  TIELINE RH5 80
+  G  -1  4
+  REST   4
+  G  -2  2
+
+# kr2l tmp peter-cottontail.mus 18 69 4 0 88 /tmp/kr2l
+
+MEASURE 18
+  LINE TLLH2
+  TIELINE RH5 80
+  D  -1  4  3
+  C  -1  4
+
+MEASURE 19
+  LINE TLLH2
+  TIELINE RH5 80
+  REST   1
+
+MEASURE 20
+  LINE TLLH2
+  TIELINE RH5 80
+  REST   1
+
+MEASURE 21
+  LINE TLLH2
+  TIELINE RH5 80
+  C  -1  2
+  C# -1  2
+
+MEASURE 22
+  LINE TLLH2
+  TIELINE RH5 80
+  D  -1  2
+  REST   2
+
+MEASURE 23
+  LINE TLLH2
+  TIELINE RH5 80
+  REST   1
+
+MEASURE 24
+  LINE TLLH2
+  TIELINE RH5 80
+  REST   2
+  F  -1  2
+
+# kr2l tmp peter-cottontail.mus 18 69 4 0 88 /tmp/kr2l
+
+MEASURE 18
+  LINE TLLH3
+  TIELINE RH5 80
+  REST   4
+  F   0  4
+  REST   4
+  C   0  4
+
+MEASURE 18
+  LINE TLLH4
+  TIELINE RH5 80
+  REST   4
+  A   0  4
+  REST   4
+  F   0  4
+
+MEASURE 19
+  LINE TLLH3
+  TIELINE RH5 80
+  C   0  4  3
+  B  -1  4
+
+MEASURE 19
+  LINE TLLH4
+  TIELINE RH5 80
+  E   0  4  3
+  D   0  4
+
+MEASURE 20
+  LINE TLLH3
+  TIELINE RH5 80
+  REST   1
+
+MEASURE 21
+  LINE TLLH3
+  TIELINE RH5 80
+  A  -1  1
+
+MEASURE 22
+  LINE TLLH3
+  TIELINE RH5 80
+  CARRY  4
+  F   0  4
+  C   0  2
+
+MEASURE 22
+  LINE TLLH4
+  TIELINE RH5 80
+  REST   4
+  A   0  4
+  E   0  2
+
+MEASURE 23
+  LINE TLLH3
+  TIELINE RH5 80
+  F#  0  4
+  E   0  4
+  D   0  4
+  C   0  4
+
+MEASURE 24
+  LINE TLLH3
+  TIELINE RH5 80
+  B  -1  4
+  REST   4
+  B  -1  2
+
+MEASURE 24
+  LINE TLLH4
+  TIELINE RH5 80
+  REST   2
+  Eb  0  2
+# kr2l tmp peter-cottontail.mus 25 69 4 0 88 /tmp/kr2l
+
+MEASURE 25
+  LINE TLLH1
+  TIELINE RH5 80
+  C  -1  2
+  G  -2  2
+
+MEASURE 26
+  LINE TLLH1
+  TIELINE RH5 80
+  C  -2  2
+  G  -2  2
+
+MEASURE 27
+  LINE TLLH1
+  TIELINE RH5 80
+  F  -2  2
+  A  -1  2
+
+MEASURE 28
+  LINE TLLH1
+  TIELINE RH5 80
+  F  -1  2
+  D  -1  2
+
+MEASURE 29
+  LINE TLLH1
+  TIELINE RH5 80
+  D  -1  2
+  C# -1  2
+
+MEASURE 30
+  LINE TLLH1
+  TIELINE RH5 80
+  D  -1  2
+  G  -2  4
+  G  -1  4
+
+MEASURE 31
+  LINE TLLH1
+  TIELINE RH5 80
+  C  -1  1
+# kr2l tmp peter-cottontail.mus 25 69 4 0 88 /tmp/kr2l
+
+MEASURE 25
+  LINE TLLH2
+  TIELINE RH5 80
+  C   0  4
+  REST   4
+  B  -1  4
+  REST   4
+
+MEASURE 25
+  LINE TLLH3
+  TIELINE RH5 80
+  E   0  4
+  REST   4
+  E   0  4
+  REST   4
+
+MEASURE 26
+  LINE TLLH2
+  TIELINE RH5 80
+  G  -1  4
+  REST   4
+  G  -1  2
+
+MEASURE 26
+  LINE TLLH3
+  TIELINE RH5 80
+  Bb -1  4
+  REST   4
+  Bb -1  2
+
+MEASURE 27
+  LINE TLLH2
+  TIELINE RH5 80
+  F   0  4
+  REST   4
+  E   0  2
+
+MEASURE 27
+  LINE TLLH3
+  TIELINE RH5 80
+  A   0  4
+  REST   4
+  A   0  2
+# kr2l tmp peter-cottontail.mus 28 69 4 0 88 /tmp/kr2l
+
+MEASURE 28
+  LINE TLLH2
+  TIELINE RH5 80
+  D   0  4
+  REST   4
+  A  -1  2
+
+MEASURE 28
+  LINE TLLH3
+  TIELINE RH5 80
+  F   0  4
+  REST   4
+  C   0  2
+
+MEASURE 29
+  LINE TLLH2
+  TIELINE RH5 80
+  B  -1  2
+  Bb -1  2
+
+MEASURE 29
+  LINE TLLH3
+  TIELINE RH5 80
+  F   0  2
+  E   0  2
+
+MEASURE 30
+  LINE TLLH2
+  TIELINE RH5 80
+  B  -1  2
+  F   0  4
+  F   0  4
+
+MEASURE 30
+  LINE TLLH3
+  TIELINE RH5 80
+  F   0  2
+  A   0  4
+  B   0  4
+
+MEASURE 31
+  LINE TLLH2
+  TIELINE RH5 80
+  C   0  1
+
+MEASURE 31
+  LINE TLLH3
+  TIELINE RH5 80
+  E   0  1
+# kr2l tmp peter-cottontail.mus 32 69 4 0 88 /tmp/kr2l
+
+MEASURE 32
+  LINE RH5
+  C  2  1
+
+MEASURE 32
+  LINE TLLH1
+  TIELINE RH5 80
+  C  -2  1
+
+MEASURE 32
+  LINE TLLH2
+  TIELINE RH5 80
+  C  -1  1
+
+MEASURE 32
+  LINE TLLH3
+  TIELINE RH5 80
+  C   1  1
+
+MEASURE 32
+  LINE TLLH4
+  TIELINE RH5 80
+  E   1  1
+
+MEASURE 32
+  LINE TLLH5
+  TIELINE RH5 80
+  G   1  1

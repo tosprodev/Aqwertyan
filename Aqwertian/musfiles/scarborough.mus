@@ -1,0 +1,1123 @@
+NAME Scarborough Fair, by Simon and Garfunkel
+
+MEASURE 1
+  METER 3 4
+  TEMPO 4 60.000000
+  KEY 1#
+
+# kr2l scarborough.mus 1 50 4
+
+MEASURE 1
+  APART
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  D   0  8
+  C#  0  8
+  A  -1  8
+  B  -1  8
+
+MEASURE 2
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  A  -1  8
+  B  -1  8
+  F# -1  8
+  G  -1  8
+
+MEASURE 3
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  D   0  8
+  C#  0  8
+  A  -1  8
+  B  -1  8
+
+MEASURE 4
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  A  -1  8
+  B  -1  8
+  F# -1  8
+  G  -1  8
+# kr2l scarborough.mus 5 50 4
+
+MEASURE 5
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  D   0  8
+  C#  0  8
+  A  -1  8
+  B  -1  8
+
+MEASURE 6
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  A  -1  8
+  B  -1  8
+  F# -1  8
+  G  -1  8
+
+MEASURE 7
+  LINE LH5
+  D  -1  8
+  A  -1  8
+  D  -1  8
+  E  -1  8
+  F# -1  8
+  A  -1  8
+# kr2l scarborough.mus 8 50 4
+
+MEASURE 8
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  D   0  8
+  C#  0  8
+  A  -1  8
+  B  -1  8
+
+MEASURE 9
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  A  -1  8
+  B  -1  8
+  F# -1  8
+  A  -1  8
+
+MEASURE 10
+  LINE LH5
+  G  -1  8
+  B  -1  8
+  D   0  8
+  B  -1  8
+  G  -1  8
+  B  -1  8
+
+MEASURE 11
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  E   0  8
+  B  -1  8
+  E  -1  8
+  B  -1  8
+
+MEASURE 12
+  LINE LH5
+  G  -1  8
+  D   0  8
+  A  -1  8
+  C#  0  8
+  E   0  8
+  C#  0  8
+
+MEASURE 13
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  D   0  8
+  C#  0  8
+  A  -1  8
+  B  -1  8
+
+MEASURE 14
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  A  -1  8
+  B  -1  8
+  F# -1  8
+  G  -1  8
+
+MEASURE 15
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  D   0  8
+  C#  0  8
+  A  -1  8
+  B  -1  8
+
+MEASURE 16
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  A  -1  8
+  B  -1  8
+  F# -1  8
+  G  -1  8
+
+MEASURE 17
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  E   0  8
+  B  -1  8
+  E  -1  8
+  A  -1  8
+
+MEASURE 18
+  LINE LH5
+  G  -1  8
+  B  -1  8
+  D   0  8
+  B  -1  8
+  D   0  8
+  B  -1  8
+
+# kr2l scarborough.mus 19 50 4
+
+MEASURE 19
+  LINE LH5
+  G  -1  8
+  B  -1  8
+  F# -1  8
+  A  -1  8
+  E  -1  8
+  G  -1  8
+
+MEASURE 20
+  LINE LH5
+  D  -1  8
+  A  -1  8
+  D   0  8
+  A  -1  8
+  G  -1  8
+  A  -1  8
+
+MEASURE 21
+  LINE LH5
+  F# -1  8
+  A  -1  8
+  E  -1  8
+  A  -1  8
+  D  -1  8
+  A  -1  8
+
+MEASURE 22
+  LINE LH5
+  E  -1  8
+  G  -1  8
+  B  -1  8
+  G  -1  8
+  E  -1  8
+  G  -1  8
+
+MEASURE 23
+  LINE LH5
+  D  -1  8
+  F# -1  8
+  A  -1  8
+  F# -1  8
+  E  -1  8
+  G  -1  8
+
+MEASURE 24
+  LINE LH5
+  D  -1  8
+  F# -1  8
+  E  -1  8
+  G  -1  8
+  F# -1  8
+  A  -1  8
+
+MEASURE 25
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  D   0  8
+  C#  0  8
+  A  -1  8
+  B  -1  8
+
+MEASURE 26
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  A  -1  8
+  B  -1  8
+  F# -1  8
+  G  -1  8
+
+MEASURE 27
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  D   0  8
+  C#  0  8
+  A  -1  8
+  B  -1  8
+
+MEASURE 28
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  A  -1  8
+  B  -1  8
+  F# -1  8
+  G  -1  8
+# kr2l scarborough.mus 29 50 4
+
+MEASURE 29
+  TOGETHER
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  D   0  8
+  C#  0  8
+  A  -1  8
+  B  -1  8
+
+MEASURE 30
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  A  -1  8
+  B  -1  8
+  F# -1  8
+  G  -1  8
+
+# kr2l scarborough.mus 31 50 4
+
+MEASURE 31
+  LINE LH5
+  D  -1  8
+  A  -1  8
+  E  -1  8
+  A  -1  8
+  D  -1  8
+  A  -1  8
+
+MEASURE 32
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  D   0  8
+  C#  0  8
+  A  -1  8
+  B  -1  8
+# kr2l scarborough.mus 5 50 4
+
+MEASURE 5
+  LINE RH5
+  E   0  2
+  E   0  4
+# kr2l scarborough.mus 6 50 4
+
+MEASURE 6
+  LINE RH4
+  G   0  8
+  G   0  2
+  REST   8
+
+MEASURE 6
+  LINE RH5
+  B   0  8
+  B   0  2
+  B   0  8
+
+MEASURE 7
+  LINE RH5
+  F#  0  8  3
+  G   0  8
+  F#  0  4
+
+MEASURE 8
+  LINE RH5
+  E   0  4  3
+
+MEASURE 9
+  LINE RH5
+  CARRY  4  3
+
+MEASURE 10
+  LINE RH4
+  REST   4
+  G   0  4
+  B   0  4
+
+MEASURE 10
+  LINE RH5
+  REST   4
+  B   0  4
+  D   1  4
+
+MEASURE 11
+  LINE RH4
+  G   0  2
+  G   0  4
+
+MEASURE 11
+  LINE RH5
+  E   1  2
+  D   1  4
+
+MEASURE 12
+  LINE RH4
+  G   0  4
+  A   0  4
+  REST   4
+
+MEASURE 12
+  LINE RH5
+  B   0  4
+  C#  1  4
+  A   0  4
+
+MEASURE 13
+  LINE RH4
+  G   0  4  3
+
+MEASURE 13
+  LINE RH5
+  B   0  4  3
+
+MEASURE 14
+  LINE RH4
+  CARRY  4  3
+
+MEASURE 14
+  LINE RH5
+  CARRY  4  3
+
+MEASURE 15
+  LINE RH4
+  CARRY  4  3
+
+MEASURE 15
+  LINE RH5
+  CARRY  4  3
+
+MEASURE 16
+  LINE RH4
+  CARRY  4
+  REST   2
+
+MEASURE 16
+  LINE RH5
+  CARRY  4
+  REST   4
+  E   1  4
+
+MEASURE 17
+  LINE RH4
+  G   0  2
+  G   0  4
+
+MEASURE 17
+  LINE RH5
+  E   1  2
+  E   1  4
+
+MEASURE 18
+  LINE RH4
+  B   0  2
+  REST   4
+
+MEASURE 18
+  LINE RH5
+  D   1  2
+  B   0  4
+
+MEASURE 19
+  LINE RH5
+  B   0  4
+  A   0  4
+  G   0  4
+
+MEASURE 20
+  LINE RH5
+  F#  0  4  3
+
+MEASURE 21
+  LINE RH5
+  CARRY  4  3
+
+MEASURE 22
+  LINE RH5
+  E   0  2
+  B   0  4
+
+MEASURE 23
+  LINE RH5
+  A   0  2
+  G   0  4
+
+MEASURE 24
+  LINE RH5
+  F#  0  4
+  E   0  4
+  D   0  4
+
+MEASURE 25
+  LINE RH5
+  E   0  4  3
+
+MEASURE 26
+  LINE RH5
+  CARRY  4  3
+
+MEASURE 27
+  LINE RH5
+  CARRY  4  3
+
+MEASURE 28
+  LINE RH5
+  CARRY  4  3
+# kr2l scarborough.mus 33 50 4
+
+MEASURE 33
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  A  -1  8
+  B  -1  8
+  F# -1  8
+  A  -1  8
+
+MEASURE 34
+  LINE LH5
+  G  -1  8
+  B  -1  8
+  D   0  8
+  B  -1  8
+  G  -1  8
+  B  -1  8
+
+MEASURE 35
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  E   0  8
+  B  -1  8
+  E  -1  8
+  B  -1  8
+
+MEASURE 36
+  LINE LH5
+  G  -1  8
+  D   0  8
+  A  -1  8
+  C#  0  8
+  E   0  8
+  C#  0  8
+
+MEASURE 37
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  D   0  8
+  C#  0  8
+  A  -1  8
+  B  -1  8
+
+MEASURE 38
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  A  -1  8
+  B  -1  8
+  F# -1  8
+  G  -1  8
+
+MEASURE 39
+  LINE LH5
+  E  -1  8
+  G  -1  8
+  A  -1  8
+  B  -1  8
+  A  -1  8
+  F# -1  8
+
+MEASURE 40
+  LINE LH5
+  E  -1  8
+  G  -1  8
+  A  -1  8
+  B  -1  8
+  A  -1  8
+  G  -1  8
+
+MEASURE 41
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  E   0  8
+  B  -1  8
+  E  -1  8
+  B  -1  8
+
+MEASURE 42
+  LINE LH5
+  G  -1  8
+  B  -1  8
+  D   0  8
+  B  -1  8
+  D   0  8
+  B  -1  8
+
+MEASURE 43
+  LINE LH5
+  G  -1  8
+  B  -1  8
+  F# -1  8
+  A  -1  8
+  E  -1  8
+  G  -1  8
+
+MEASURE 44
+  LINE LH5
+  D  -1  8
+  A  -1  8
+  D   0  8
+  A  -1  8
+  G  -1  8
+  A  -1  8
+
+MEASURE 45
+  LINE LH5
+  F# -1  8
+  A  -1  8
+  E  -1  8
+  A  -1  8
+  D  -1  8
+  A  -1  8
+
+MEASURE 46
+  LINE LH5
+  E  -1  8
+  G  -1  8
+  B  -1  8
+  G  -1  8
+  E  -1  8
+  G  -1  8
+
+MEASURE 47
+  LINE LH5
+  D  -1  8
+  F# -1  8
+  A  -1  8
+  F# -1  8
+  E  -1  8
+  G  -1  8
+
+MEASURE 48
+  LINE LH5
+  D  -1  8
+  F# -1  8
+  E  -1  8
+  G  -1  8
+  F# -1  8
+  A  -1  8
+
+MEASURE 49
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  A  -1  8
+  B  -1  8
+  G  -1  8
+  B  -1  8
+
+MEASURE 50
+  LINE LH5
+  F# -1  8
+  B  -1  8
+  E  -1  8
+  B  -1  8
+  D  -1  8
+  B  -1  8
+
+MEASURE 51
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  F# -1  8
+  B  -1  8
+  G  -1  8
+  B  -1  8
+
+MEASURE 52
+  LINE LH5
+  E  -1  8
+  G  -1  8
+  A  -1  8
+  B  -1  8
+  A  -1  8
+  G  -1  8
+# kr2l scarborough.mus 29 50 4
+
+MEASURE 29
+  LINE RH5
+  E   0  4
+  E   0  4
+  E   0  4
+
+MEASURE 30
+  LINE RH5
+  B   0  4
+  B   0  4
+  B   0  4
+
+MEASURE 31
+  LINE RH5
+  F#  0  4
+  G   0  4
+  F#  0  4
+
+MEASURE 32
+  LINE RH5
+  E   0  4  3
+
+MEASURE 33
+  LINE RH5
+  CARRY  4  3
+# kr2l scarborough.mus 34 50 4
+
+MEASURE 34
+  LINE RH4
+  REST   2
+  B   0  4
+
+MEASURE 34
+  LINE TLRH3
+  TIELINE RH5 85
+  REST 4
+  G   0  4
+  REST 4
+
+MEASURE 34
+  LINE RH5
+  REST   4
+  B   0  4
+  D   1  4
+
+MEASURE 35
+  LINE RH4
+  G   0  2
+  G   0  4
+
+MEASURE 35
+  LINE RH5
+  E   1  2
+  D   1  4
+
+MEASURE 36
+  LINE RH4
+  G   0  4
+  A   0  4
+  REST   4
+
+MEASURE 36
+  LINE RH5
+  B   0  4
+  C#  1  4
+  A   0  4
+
+MEASURE 37
+  LINE RH5
+  B   0  4  3
+
+MEASURE 38
+  LINE RH5
+  CARRY  4  3
+
+MEASURE 39
+  LINE RH5
+  CARRY  4  3
+
+MEASURE 40
+  LINE RH5
+  REST   2
+  E   1  4
+
+MEASURE 41
+  LINE RH5
+  E   1  2
+  E   1  4
+
+MEASURE 42
+  LINE RH5
+  D   1  2
+  B   0  4
+
+MEASURE 43
+  LINE RH5
+  B   0  4
+  A   0  4
+  G   0  4
+
+MEASURE 44
+  LINE RH5
+  F#  0  4  3
+
+MEASURE 45
+  LINE RH5
+  CARRY  4  3
+
+MEASURE 46
+  LINE RH5
+  E   0  2
+  B   0  4
+
+MEASURE 47
+  LINE RH5
+  A   0  2
+  G   0  4
+
+MEASURE 48
+  LINE RH5
+  F#  0  4
+  E   0  4
+  D   0  4
+
+MEASURE 49
+  LINE RH5
+  E   0  4  3
+
+MEASURE 50
+  LINE RH5
+  CARRY  4  3
+
+MEASURE 51
+  LINE RH5
+  CARRY  4  3
+
+MEASURE 52
+  LINE RH5
+  CARRY  4  3
+# kr2l scarborough.mus 41 50 4
+
+MEASURE 41
+  LINE RH4
+  G   0  2
+  G   0  4
+
+MEASURE 42
+  LINE RH4
+  B   0  2
+  REST   4
+
+MEASURE 30
+  LINE TLCOUNTER
+  TIELINE LH5 110
+  REST   4
+  E   0  4
+  E   0  4
+
+MEASURE 31
+  LINE TLCOUNTER
+  D   0  4
+  E   0  4
+  D   0  4
+
+MEASURE 32
+  LINE RH3-COUNTER
+  G   0  4
+  F#  0  4
+  E   0  4
+
+MEASURE 33
+  LINE RH3-COUNTER
+  F#  0  4
+  E   0  4
+  D   0  4
+# kr2l scarborough.mus 34 50 4
+
+MEASURE 34
+  LINE RH3-COUNTER
+  E   0  4
+  B  -1  2
+
+MEASURE 34
+  LINE TLRH3-DOUBLE
+  TIELINE RH3-COUNTER 100
+  REST 4
+  B  -1  2
+  TIENOTE RH3-COUNTER LH5
+
+# kr2l scarborough.mus 37 50 4
+
+
+MEASURE 37
+  LINE RH3-COUNTER
+  D   1  4
+  E   1  4
+  D   1  4
+
+MEASURE 38
+  LINE RH2-COUNTER
+  C#  1  4
+  B   0  4
+  C#  1  4
+
+MEASURE 38
+  LINE TLRH1-C
+  TIELINE RH2-COUNTER 92
+  A   0  2
+  REST   4
+
+MEASURE 38
+  LINE RH3-COUNTER
+  E   1  4
+  E   1  4
+  E   1  4
+
+MEASURE 39
+  LINE RH2-COUNTER 
+  D   1  4
+  C#  1  4
+  A   0  4
+
+MEASURE 39
+  LINE RH3-COUNTER
+  F#  1  4
+  F#  1  4
+  F#  1  4
+
+MEASURE 40
+  LINE RH2-COUNTER 
+  B   0  4  3
+
+MEASURE 40
+  LINE RH3-COUNTER
+  E   1  4  3
+# kr2l scarborough.mus 43 50 4
+
+MEASURE 43
+  LINE TLRH3-C
+  TIELINE TLCOUNTER 85
+  D   0  4
+  E   0  4
+  E   0  4
+
+MEASURE 43
+  LINE TLCOUNTER-2
+  TIELINE TLCOUNTER 85
+  G   0  4
+  A   0  4
+  B   0  4
+
+MEASURE 43
+  LINE TLCOUNTER
+  D   1  4
+  B   0  4
+  D   1  4
+
+MEASURE 44
+  LINE TLCOUNTER
+  A   0  4  3
+
+MEASURE 44
+  LINE RH3-COUNTER
+  D   0  4
+  D   0  4
+  D   0  4
+
+MEASURE 44
+  LINE TLCOUNTER-2
+  TIELINE LH5 82
+  D   1  4
+  REST   4
+  A   0  4
+
+MEASURE 45
+  LINE TLCOUNTER-2
+  TIELINE LH5 82
+  D   1  4
+  D   1  8
+  A   0  8
+  D   1  8
+  C#  1  8
+
+MEASURE 45
+  LINE TLRH3-C
+  TIELINE RH3-COUNTER 85
+  REST   4
+  E   0  4
+  D   0  4
+
+MEASURE 45
+  LINE RH3-COUNTER 
+  D   0  8
+  E   0  8
+  F#  0  4
+  G   0  4
+
+MEASURE 46
+  LINE TLCOUNTER-2
+  TIELINE LH5 82
+  E   1  4  3
+
+MEASURE 49
+  LINE RH3-COUNTER
+  G   0  4
+  F#  0  4
+  G   0  4
+
+MEASURE 50
+  LINE RH3-COUNTER 
+  A   0  4
+  G   0  4
+  F#  0  4
+
+MEASURE 51
+  LINE RH3-COUNTER 
+  G   0  4
+  F#  0  4
+  D   0  4
+
+MEASURE 52
+  LINE RH3-COUNTER 
+  E   0  4  3
+MEASURE 1
+  MARK Introduction
+
+MEASURE 29
+  MARK Second-Verse
+
+REPEAT 29 48 53
+
+REPEAT 5 24 77
+# kr2l scarborough.mus 73 50 4
+
+MEASURE 73
+  LINE LH5
+  E  -1  8
+  A  -1  8
+  D   0  8
+  C#  0  8
+  A  -1  8
+  B  -1  8
+
+MEASURE 74
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  A  -1  8
+  B  -1  8
+  F# -1  8
+  G  -1  8
+
+MEASURE 75
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  D   0  8
+  C#  0  8
+  A  -1  8
+  B  -1  8
+
+MEASURE 76
+  LINE LH5
+  E  -1  8
+  B  -1  8
+  A  -1  8
+  B  -1  8
+  F# -1  8
+  G  -1  8
+# kr2l scarborough.mus 73 50 4
+
+MEASURE 73
+  LINE RH5
+  E   0  4  3
+
+MEASURE 74
+  LINE RH5
+  CARRY  4  3
+
+MEASURE 75
+  LINE RH5
+  CARRY  4  3
+# kr2l scarborough.mus 97 50 4
+
+MEASURE 97
+  LINE RH3
+  E   0  4  3
+
+MEASURE 98
+  LINE RH3
+  CARRY  4  3
+
+MEASURE 99
+  LINE RH3
+  CARRY  4  3
+
+MEASURE 100
+  LINE RH3
+  E   0  4  3
+# kr2l scarborough.mus 98 50 4
+
+MEASURE 98
+  LINE RH5
+  A   0  4  3
+
+MEASURE 99
+  LINE RH5
+  G   0  2
+  F#  0  4
+
+MEASURE 100
+  LINE RH4
+  REST   4
+  E   1  2
+
+MEASURE 100
+  LINE RH5
+  REST   4
+  B   1  2
+# kr2l scarborough.mus 97 50 4
+
+MEASURE 97
+  LINE LH4
+  E  -1  8
+  B  -1  8
+  D   0  8
+  C#  0  8
+  A  -1  8
+  B  -1  8
+
+MEASURE 98
+  LINE LH4
+  E  -1  8
+  B  -1  8
+  A  -1  8
+  B  -1  8
+  F# -1  8
+  A  -1  8
+
+MEASURE 99
+  LINE LH4
+  E  -1  8
+  G  -1  8
+  B  -1  8
+  G  -1  8
+  A  -1  8
+  D   0  8
+
+MEASURE 100
+  LINE LH4
+  E  -1  4  3
+
+MEASURE 100
+  LINE LH5
+  B  -1  4  3
+
+MEASURE 77
+  APART
+MEASURE 5
+  MARK First-Verse
+
+MEASURE 53
+  MARK Third-Verse
+
+MEASURE 77
+  MARK Final-Verse
+

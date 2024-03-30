@@ -1,0 +1,129 @@
+NAME Drum Test
+MEASURE 1
+METER 2 4
+TEMPO 4 60
+KEY   0
+RHNOTE B -1
+
+MEASURE 1
+  LINE RH0001
+  CHANNEL 10
+  C   0 32
+  EXMATCH ; Q
+  C  0 32
+  EXMATCH L Q
+  C   0 32
+  EXMATCH K Q
+  C   0 32
+  EXMATCH J Q
+  C   0 32
+  EXMATCH SP Q
+  C -1  32 11
+  EXMATCH I Q
+  LYRIC 2 % Middle-C (C 0)
+
+MEASURE 2
+  LINE RH0001
+  C#   0 32
+  EXMATCH ; Q
+  C#  0 32
+  EXMATCH L Q
+  C#   0 32
+  EXMATCH K Q
+  C#   0 32
+  EXMATCH J Q
+  C#   0 32
+  EXMATCH SP Q
+  REST 32 11
+  LYRIC 2 % C# 0
+
+MEASURE 3
+  LINE RH0001
+  D   0 32
+  EXMATCH ; Q
+  D  0 32
+  EXMATCH L Q
+  D   0 32
+  EXMATCH K Q
+  D   0 32
+  EXMATCH J Q
+  D   0 32
+  EXMATCH SP Q
+  REST 32 11
+  LYRIC 2 % D 0
+
+MEASURE 4
+  LINE RH0001
+  D#   0 32
+  EXMATCH ; Q
+  D#  0 32
+  EXMATCH L Q
+  D#   0 32
+  EXMATCH K Q
+  D#   0 32
+  EXMATCH J Q
+  D#   0 32
+  EXMATCH SP Q
+  REST 32 11
+  LYRIC 2 % D# 0
+
+MEASURE 5
+  LINE RH0001
+  CHANNEL 10
+  C   -1 32
+  EXMATCH ; Q
+  C   -1 32
+  EXMATCH L Q
+  C   -1 32
+  EXMATCH K Q
+  C   -1 32
+  EXMATCH J Q
+  C   -1 32
+  EXMATCH SP Q
+  REST 32 11
+  LYRIC 2 % C -1
+
+MEASURE 6
+  LINE RH0001
+  C#   -1 32
+  EXMATCH ; Q
+  C#  -1 32
+  EXMATCH L Q
+  C#   -1 32
+  EXMATCH K Q
+  C#   -1 32
+  EXMATCH J Q
+  C#   -1 32
+  EXMATCH SP Q
+  REST 32 11
+  LYRIC 2 % C# -1
+
+MEASURE 7
+  LINE RH0001
+  D   -1 32
+  EXMATCH ; Q
+  D  -1 32
+  EXMATCH L Q
+  D   -1 32
+  EXMATCH K Q
+  D   -1 32
+  EXMATCH J Q
+  D   -1 32
+  EXMATCH SP Q
+  REST 32 11
+  LYRIC 2 % D -1
+
+MEASURE 8
+  LINE RH0001
+  D#   -1 32
+  EXMATCH ; Q
+  D#  -1 32
+  EXMATCH L Q
+  D#   -1 32
+  EXMATCH K Q
+  D#   -1 32
+  EXMATCH J Q
+  D#   -1 32
+  EXMATCH SP Q
+  REST 32 11
+  LYRIC 2 % D# -1

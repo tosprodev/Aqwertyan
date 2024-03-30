@@ -1,0 +1,387 @@
+NAME Ravel: Jeux D'eau
+
+MEASURE 1
+  METER 4 4
+  TEMPO 4 60.000000
+  KEY 4#
+
+MEASURE 2
+  METER 2 4
+
+MEASURE 3
+  METER 4 4
+
+MEASURE 8
+  METER 2 4
+
+# kr2l rav-jeux.mus 1 60 8
+
+MEASURE 1
+  LINE LH4
+  E   0  8
+  G#  0  8
+  E   1  8
+  A   0  8
+  E   0  8
+  G#  0  8
+  E   1  8
+  A   0  8
+
+MEASURE 1
+  LINE LH5
+  B   0  8
+  E   1  8
+  B   1  8
+  E   1  8
+  B   0  8
+  E   1  8
+  B   1  8
+  E   1  8
+
+MEASURE 2
+  LINE LH4
+  E   0  8
+  G#  0  8
+  B   0  8
+  E   1  8
+
+MEASURE 2
+  LINE LH5
+  B   0  8
+  E   1  8
+  E   1  8
+  B   1  8
+# kr2l rav-jeux.mus 3 60 8
+
+MEASURE 3
+  LINE LH3
+  REST   8  3
+  D   0  8
+  RIPPLE
+  REST   8  3
+  D   0  8
+  RIPPLE
+
+MEASURE 3
+  LINE LH4
+  A   0  8
+  C#  1  8
+  A   1  8
+  F#  0  8
+  A   0  8
+  C#  1  8
+  A   1  8
+  F#  0  8
+
+MEASURE 3
+  LINE LH5
+  E   1  8
+  A   1  8
+  E   2  8
+  C   1  8
+  E   1  8
+  A   1  8
+  E   2  8
+  C   1  8
+# kr2l rav-jeux.mus 4 60 8
+
+MEASURE 4
+  LINE LH4
+  A   0  8
+  C#  1  8
+  F#  0  8
+  D   0  8
+  A# -1  8
+  G  -1  8
+  E  -1  8
+  C  -1  8
+
+MEASURE 4
+  LINE LH5
+  E   1  8
+  A   1  8
+  C   1  8
+  A   0  8
+  G#  0  8
+  F   0  8
+  D   0  8
+  B  -1  8
+# kr2l rav-jeux.mus 5 60 8
+
+MEASURE 5
+  LINE LH4
+  REST   8
+  A# -1 16  3
+  REST  16  5
+  A# -1 16  3
+  REST  16  3
+
+MEASURE 5
+  LINE LH5
+  REST   8
+  G#  0 16  3
+  REST  16  5
+  G#  0 16  3
+  REST  16  3
+# kr2l rav-jeux.mus 6 60 8
+
+MEASURE 6
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8  5
+  G# -1  8
+  F# -1  8
+  F  -1  8
+
+MEASURE 6
+  LINE LH4
+  REST   8
+  A# -1  4
+  A# -1  4
+  C   0  8
+  A# -1  8
+  A  -1  8
+
+MEASURE 6
+  LINE LH5
+  REST   8
+  G#  0  4
+  G#  0  4
+  F#  0  8
+  F   0  8
+  D#  0  8
+# kr2l rav-jeux.mus 7 60 8
+
+MEASURE 7
+  LINE TLLH3
+  TIELINE LH4 92
+  E  -2  8
+  REST   8
+  D#  0  8
+  REST   8
+  E  -1  8
+  REST   8
+  D#  0  8
+  REST   8
+
+MEASURE 7
+  LINE LH4
+  B  -2  8
+  E   0  8
+  G#  0  8
+  A  -1  8
+  B  -1  8
+  E   0  8
+  G#  0  8
+  A  -1  8
+
+MEASURE 7
+  LINE LH5
+  G# -1  8
+  B   0  8
+  D#  1  8
+  E   0  8
+  G#  0  8
+  B   0  8
+  D#  1  8
+  E   0  8
+# kr2l rav-jeux.mus 8 60 8
+
+MEASURE 8
+  LINE TLLH3
+  TIELINE LH4 92
+  E  -1  8
+  REST   8
+  D#  0  8
+  B   0  8
+
+MEASURE 8
+  LINE LH4
+  B  -1  8
+  E   0  8
+  G#  0  8
+  E   1  8
+
+MEASURE 8
+  LINE LH5
+  G#  0  8
+  B   0  8
+  D#  1  8
+  B   1  8
+# kr2l rav-jeux.mus 1 60 16
+
+MEASURE 1
+  LINE RH4
+  D#  1 16
+  G#  1 16
+  D#  2 16
+  F#  2 16
+  D#  2 16
+  G#  1 16
+  C#  1 32
+  G#  1 32
+  C#  2 32
+  E   2 32
+  D#  1 16
+  G#  1 16
+  D#  2 16
+  F#  2 16
+  D#  2 16
+  G#  1 16
+  C#  1 32
+  G#  1 32
+  C#  2 32
+  E   2 32
+
+MEASURE 2
+  LINE RH4
+  D#  1 16
+  G#  1 16
+  D#  2 16
+  F#  2 16
+  G#  1 16
+  D#  2 16
+  G#  2 16
+  B   2 16
+
+MEASURE 3
+  LINE RH4
+  G#  1 16
+  C#  2 16
+  G#  2 16
+  C#  3 16
+  G#  2 16
+  C#  2 16
+  F#  1 32
+  C   2 32
+  E   2 32
+  G#  2 32
+  G#  1 16
+  C#  2 16
+  G#  2 16
+  C#  3 16
+  G#  2 16
+  C#  2 16
+  F#  1 32
+  B#   1 32
+  E   2 32
+  G#  2 32
+# kr2l rav-jeux.mus 4 60 32
+
+MEASURE 4
+  LINE RH4
+  G#  1 16
+  C#  2 16
+  G#  2 16
+  C#  3 16
+  F#  1 16
+  C   2 16
+  E   2 16
+  G#  2 16
+  D   1 32
+  G#  1 32
+  C   2 32
+  E   2 32
+  C#  2 32
+  A   1 32
+  F   1 32
+  B   0 32
+  G#  0 32
+  D   1 32
+  F#  1 32
+  A#  1 32
+  G   1 32
+  D   1 32
+  B   0 32
+  F   0 32
+# kr2l rav-jeux.mus 5 60 32
+
+MEASURE 5
+  LINE TLRH3
+  TIELINE RH4 82
+  REST   8  3
+  F   0 32
+  REST  32 15
+  F   0 32
+  REST  32  3
+
+MEASURE 5
+  LINE RH4
+  D   0 16
+  G#  0 16
+  C   1 16
+  E   1 16
+  C   1 16
+  G#  0 16
+  G   0 32
+  B   0 32
+  D   1 32
+  G   1 32
+  D   0 16
+  G#  0 16
+  C   1 16
+  E   1 16
+  C   1 16
+  G#  0 16
+  G   0 32
+  B   0 32
+  D   1 32
+  G   1 32
+
+MEASURE 6
+  LINE RH4
+  D   0 16
+  G#  0 16
+  C   1 16
+  E   1 16
+  C   1 16
+  G#  0 16
+  D   0 16
+  E   0 16
+  D   0 32
+  C   0 32
+  D   0 32
+  E   0 32
+  PHANTOM 32
+  G#  0 32
+  A#  0 32
+  C   1 32
+  D   1 32
+  E   1 32
+  F#  1 32
+  G#  1 32
+  B   1 100 0
+  B   0 64
+  C#  1 64
+  D#  1 64
+  F   1 64
+  G#  1 64
+  A   1 64
+  B   1 64
+  C#  2 64
+# kr2l rav-jeux.mus 5 60 4
+
+MEASURE 5
+  LINE LH1
+  A# -2  8  3
+  C# -1  8
+  A# -2  8  3
+  C# -1  8
+
+MEASURE 5
+  LINE LH2
+  G# -1  8  3
+  B  -1  8
+  G# -1  8  3
+  B  -1  8
+# kr2l rav-jeux.mus 6 60 4
+
+MEASURE 6
+  LINE LH1
+  A# -2  2
+  REST   2
+
+MEASURE 6
+  LINE LH2
+  G# -1  2
+  REST   2

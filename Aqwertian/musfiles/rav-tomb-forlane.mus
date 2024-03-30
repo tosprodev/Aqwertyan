@@ -1,0 +1,4751 @@
+NAME Ravel: Forlane from Le Tombeau de Couperin
+
+MEASURE 1
+MARK Main-Theme-I
+METER 3 4
+TEMPO 4 80
+KEY 1#
+
+# kr2l tmp rav-tomb-forlane.mus 1 50 4 0 88 /tmp/kr2l
+
+MEASURE 1
+  LINE RH8
+  E   0 16  3
+  Bb  0 16
+  B   0  8
+  Eb  1  8  3
+
+MEASURE 1
+  LINE TLLH2
+  TIELINE LH4 95
+  B  -1  8  3
+  G# -1  8  3
+
+MEASURE 1
+  LINE LH4
+  Eb  0  8  3
+  C   0  8  3
+
+MEASURE 1
+  LINE LH5
+  G   0  8  3
+  E   0  8  3
+
+MEASURE 2
+  LINE RH8
+  CARRY 16  3
+  C   1 16
+  Eb  1  8
+  C   1 16  3
+  B   0 16
+  C#  0  8
+
+MEASURE 2
+  LINE TLLH2
+  TIELINE LH4 95
+  CARRY  8  3
+  A  -1  8  3
+
+MEASURE 2
+  LINE LH4
+  CARRY  8  3
+  C#  0  8  3
+
+MEASURE 2
+  LINE LH5
+  CARRY  8  3
+  F   0  8  3
+
+# kr2l tmp rav-tomb-forlane.mus 3 50 4 0 88 /tmp/kr2l
+
+MEASURE 2
+  LINE LH1
+  A  -2  4  3
+
+MEASURE 2
+  LINE LH2
+  E  -1  4  3
+
+MEASURE 3
+  LINE RH8
+  B   0  4
+  C#  0  8
+  G#  0 16  3
+  C   0 16
+  G#  0  8
+
+MEASURE 3
+  LINE TLRH7
+  TIELINE RH8 92
+  REST   8  3
+  E   0 16  3
+  REST  16
+  Eb  0  8
+
+MEASURE 3
+  LINE TLLH2
+  TIELINE LH4 95
+  CARRY  4
+  REST   2
+
+MEASURE 3
+  LINE LH4
+  F   0  4
+  REST   8
+  A  -1  4
+  REST   8
+
+MEASURE 3
+  LINE LH5
+  G#  0  4
+  REST   8
+  C   0  4
+  REST   8
+
+MEASURE 3
+  LINE LH1
+  REST   4
+  F# -2  8
+  REST   4
+  F# -2  8
+
+MEASURE 4
+  LINE RH8
+  F#  0  4
+  E   0  8
+  E   0 16  3
+  F#  0 16
+  D   0  8
+
+MEASURE 4
+  LINE TLRH7
+  TIELINE RH8 92
+  C#  0  8  3
+  C   0  8  3
+
+MEASURE 4
+  LINE LH4
+  G  -1  4
+  REST   8
+  F# -1  4
+  REST   8
+
+MEASURE 4
+  LINE LH5
+  Bb -1  4
+  REST   8
+  A  -1  4
+  REST   8
+
+MEASURE 4
+  LINE LH1
+  REST   4
+  B  -2  8
+  REST   4
+  B  -2  8
+
+MEASURE 5
+  LINE RH8
+  E   0 16  3
+  Bb  0 16
+  B   0  8
+  Eb  1  8  3
+
+MEASURE 5
+  LINE TLRH6
+  TIELINE RH8 90
+  G  -1 16  3
+  REST  16  9
+
+MEASURE 5
+  LINE TLRH7
+  TIELINE RH8 92
+  B  -1 16  3
+  REST  16  9
+
+MEASURE 5
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   8  3
+  G# -1  8  3
+
+MEASURE 5
+  LINE LH4
+  E  -2  8  3
+  C   0  8  3
+
+MEASURE 5
+  LINE LH5
+  B  -2  8  3
+  E   0  8  3
+
+MEASURE 5
+  LINE LH1
+  REST   4  3
+
+MEASURE 6
+  LINE RH8
+  CARRY 16  3
+  C   1 16
+  Eb  1  8
+  C   1 16  3
+  B   0 16
+  C#  0  8
+
+MEASURE 6
+  LINE TLRH7
+  TIELINE RH8 92
+  REST   4  3
+
+MEASURE 6
+  LINE TLLH2
+  TIELINE LH4 95
+  CARRY  8  3
+  A  -1  8  3
+
+MEASURE 6
+  LINE LH4
+  CARRY  8  3
+  C#  0  8  3
+
+MEASURE 6
+  LINE LH5
+  CARRY  8  3
+  F   0  8  3
+
+MEASURE 6
+  LINE LH1
+  A  -2  4  3
+
+MEASURE 6
+  LINE LH2
+  E  -1  4  3
+
+MEASURE 7
+  LINE RH8
+  B   0  4
+  C#  0  8
+  G#  0 16  3
+  C   0 16
+  G#  0  8
+
+MEASURE 7
+  LINE TLRH7
+  TIELINE RH8 92
+  REST   8  3
+  E   0 16  3
+  REST  16
+  Eb  0  8
+
+MEASURE 7
+  LINE TLLH2
+  TIELINE LH4 95
+  CARRY  4
+  REST   2
+
+MEASURE 7
+  LINE LH4
+  F   0  4
+  REST   8
+  A  -1  4
+  REST   8
+
+MEASURE 7
+  LINE LH5
+  G#  0  4
+  REST   8
+  C   0  4
+  REST   8
+
+MEASURE 7
+  LINE LH1
+  REST   4
+  F# -2  8
+  REST   4
+  F# -2  8
+
+MEASURE 8
+  LINE RH8
+  F#  0  4
+  E   0  8
+  E   0 16  3
+  F#  0 16
+  D   0  8
+# kr2l tmp rav-tomb-forlane.mus 3 50 4 0 88 /tmp/kr2l
+
+MEASURE 8
+  LINE TLRH7
+  TIELINE RH8 92
+  C#  0  8  3
+  C   0  8  3
+# kr2l tmp rav-tomb-forlane.mus 1 50 4 0 88 /tmp/kr2l
+
+MEASURE 8
+  LINE LH4
+  G  -1  4
+  REST   8
+  F# -1  4
+  REST   8
+
+MEASURE 8
+  LINE LH5
+  Bb -1  4
+  REST   8
+  A  -1  4
+  REST   8
+# kr2l tmp rav-tomb-forlane.mus 2 50 4 0 88 /tmp/kr2l
+
+MEASURE 8
+  LINE LH1
+  REST   4
+  B  -2  8
+  REST   4
+  B  -2  8
+# kr2l tmp rav-tomb-forlane.mus 9 50 4 0 88 /tmp/kr2l
+
+MEASURE 9
+  MARK B-Theme-I
+  LINE TLRH6
+  TIELINE RH8 90
+  G  -1 16  3
+  REST  16  9
+
+MEASURE 9
+  LINE TLRH7
+  TIELINE RH8 92
+  B  -1 16  3
+  REST  16  9
+
+MEASURE 9
+  LINE RH8
+  E   0 16  3
+  Bb  0 16
+  B   0  8
+  Eb  1  8  3
+
+# kr2l tmp rav-tomb-forlane.mus 10 50 4 0 88 /tmp/kr2l
+
+MEASURE 9
+  LINE RH9
+  REST  16  9
+  B   0 16
+  B   1  8
+
+MEASURE 9
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   8  3
+  G# -1  8  3
+
+MEASURE 9
+  LINE LH4
+  E  -2  8  3
+  C   0  8  3
+
+MEASURE 9
+  LINE LH5
+  B  -2  8  3
+  E   0  8  3
+
+MEASURE 10
+  LINE RH8
+  CARRY 16  3
+  C#  1 16
+  Eb  1  8
+  G#  1  8
+  Bb  1  8
+  G#  1  8
+
+MEASURE 10
+  LINE RH9
+  CARRY  8  3
+  B   1  8  3
+
+MEASURE 10
+  LINE TLLH2
+  TIELINE LH4 95
+  CARRY  8  3
+  Eb  0  8  3
+
+MEASURE 10
+  LINE TLLH3
+  TIELINE LH4 93
+  REST   8  3
+  F   0  8  3
+
+MEASURE 10
+  LINE LH4
+  CARRY  8  3
+  G#  0  8  3
+
+MEASURE 10
+  LINE LH5
+  CARRY  8  3
+  B   0  8  3
+# kr2l tmp rav-tomb-forlane.mus 11 50 4 0 88 /tmp/kr2l
+
+MEASURE 10
+  LINE LH1
+  C# -2  4  3
+
+MEASURE 10
+  LINE LH2
+  G# -2  4  3
+# kr2l tmp rav-tomb-forlane.mus 10 50 4 0 88 /tmp/kr2l
+
+MEASURE 10
+  LINE LH3
+  REST   8  5
+  C#  0  8
+
+MEASURE 11
+  LINE RH8
+  F#  1  8
+  C#  1  8
+  E   1  8
+  G#  1 16  3
+  Bb  1 16
+  G#  1  8
+
+MEASURE 11
+  LINE RH9
+  C#  2  8  3
+  B   1  8  3
+
+MEASURE 11
+  LINE TLLH2
+  TIELINE LH4 95
+  E   0  4
+  REST   8
+  Eb  0  4
+  REST   8
+
+MEASURE 11
+  LINE TLLH3
+  TIELINE LH4 93
+  F#  0  4
+  REST   8
+  F   0  4
+  REST   8
+
+MEASURE 11
+  LINE LH4
+  A   0  4
+  REST   8
+  G#  0  4
+  REST   8
+
+MEASURE 11
+  LINE LH5
+  C#  1  4
+  REST   8
+  B   0  4
+  REST   8
+
+# kr2l tmp rav-tomb-forlane.mus 12 50 4 0 88 /tmp/kr2l
+
+MEASURE 11
+  LINE LH3
+  REST   4
+  C#  0  8
+  REST   4
+  C#  0  8
+
+MEASURE 12
+  LINE RH8
+  F#  1  8
+  C#  1  8
+  E   1  8
+  F#  1  8
+  A   1  8
+  C#  2  8
+# kr2l tmp rav-tomb-forlane.mus 9 50 4 0 88 /tmp/kr2l
+
+MEASURE 12
+  LINE RH9
+  C#  2  8  3
+  REST   8  3
+# kr2l tmp rav-tomb-forlane.mus 13 50 4 0 88 /tmp/kr2l
+
+MEASURE 12
+  LINE TLLH2
+  TIELINE LH4 95
+  E   0  4
+  REST   8
+  E   0  4
+  REST   8
+
+MEASURE 12
+  LINE TLLH3
+  TIELINE LH4 93
+  F#  0  4
+  REST   8
+  F#  0  4
+  REST   8
+
+MEASURE 12
+  LINE LH4
+  A   0  4
+  REST   8
+  A   0  4
+  REST   8
+
+MEASURE 12
+  LINE LH5
+  C#  1  4
+  REST   8
+  C#  1  4
+  REST   8
+
+# kr2l tmp rav-tomb-forlane.mus 13 50 4 0 88 /tmp/kr2l
+
+MEASURE 12
+  LINE TLLH2a
+  TIELINE LH3 92
+  REST   8  5
+  E   1  8
+
+MEASURE 12
+  LINE LH3
+  REST   4
+  C#  0  8
+  REST   4
+  G#  1  8
+# kr2l tmp rav-tomb-forlane.mus 20 50 4 0 88 /tmp/kr2l
+
+MEASURE 13
+  LINE RH8
+  E   2 16  3
+  F#  2 16
+  Eb  2  8
+  Eb  2  4
+  E   2  8
+
+MEASURE 13
+  LINE TLRH7
+  TIELINE RH8 90
+  A   1  8  3
+  G#  1  8  3
+
+MEASURE 13
+  LINE TLLH2
+  TIELINE LH4 95
+  C#  1  8  3
+  B   0  8  3
+
+MEASURE 13
+  LINE LH4
+  E   1  8  3
+  Eb  1  8  3
+
+MEASURE 13
+  LINE LH5
+  F#  1  8  3
+  E   1  8  3
+
+MEASURE 14
+  LINE RH8
+  C#  2 16  3
+  Eb  2 16
+  B   1  8
+  B   1  4
+  C#  2  8
+
+MEASURE 14
+  LINE TLRH7
+  TIELINE RH8 90
+  F#  1  8  3
+  E   1  8  3
+
+MEASURE 14
+  LINE TLLH2
+  TIELINE LH4 95
+  A   0  8  3
+  G#  0  8  3
+
+MEASURE 14
+  LINE LH4
+  C#  1  8  3
+  B   0  8  3
+
+MEASURE 14
+  LINE LH5
+  E   1  8  3
+  Eb  1  8  3
+
+MEASURE 15
+  LINE RH8
+  G#  1 16  3
+  A   1 16
+  F#  1  8
+  E   1 16  3
+  F#  1 16
+  C#  1  8
+
+MEASURE 15
+  LINE TLRH7
+  TIELINE RH8 90
+  C#  1  8  3
+  A   0  8  3
+
+MEASURE 15
+  LINE TLLH2
+  TIELINE LH4 95
+  E   0  8  3
+  C#  0  8  3
+
+MEASURE 15
+  LINE LH4
+  F#  0  8  3
+  E   0  8  3
+
+MEASURE 15
+  LINE LH5
+  A   0  8  3
+  F#  0  8  3
+
+MEASURE 16
+  LINE RH8
+  B   0 16  3
+  C#  1 16
+  A   0  8
+  G#  0 16  3
+  F#  0 16
+  C#  0  8
+# kr2l tmp rav-tomb-forlane.mus 13 50 4 0 88 /tmp/kr2l
+
+MEASURE 16
+  LINE TLRH7
+  TIELINE RH8 90
+  E   0  8  3
+  C#  0  8  3
+# kr2l tmp rav-tomb-forlane.mus 17 50 4 0 88 /tmp/kr2l
+
+MEASURE 16
+  LINE TLLH2
+  TIELINE LH4 95
+  G# -1  8  3
+  E  -1  8  3
+
+MEASURE 16
+  LINE LH4
+  A  -1  8  3
+  F# -1  8  3
+
+MEASURE 16
+  LINE LH5
+  C#  0  8  3
+  A  -1  8  3
+
+MEASURE 17
+  LINE TLLH4
+  TIELINE LH5 90
+  G# -1  8  3
+  F# -1  8  3
+
+MEASURE 17
+  LINE LH5
+  C   0  8  3
+  A  -1  8  3
+
+MEASURE 17
+  LINE RH9
+  Eb  0  8  3
+  C#  0  8  3
+
+MEASURE 17
+  LINE LH4
+  G# -2  8  3
+  Eb -2  8  3
+
+MEASURE 18
+  LINE TLLH4
+  TIELINE LH5 90
+  G# -1  8  3
+  REST   8  3
+
+MEASURE 18
+  LINE LH5
+  C   0  8  3
+  REST   8  3
+
+MEASURE 18
+  LINE RH9
+  Eb  0  8  3
+  REST   8  3
+# kr2l tmp rav-tomb-forlane.mus 19 50 4 0 88 /tmp/kr2l
+
+MEASURE 18
+  LINE LH4
+  G# -3  8  3
+  G# -2  8  3
+
+# kr2l tmp rav-tomb-forlane.mus 19 50 4 0 88 /tmp/kr2l
+
+MEASURE 19
+  LINE RH8
+  Eb  1 16  3
+  G   1 16
+  G#  1  8
+  B   1  8  3
+
+MEASURE 19
+  LINE TLRH6
+  TIELINE RH8 88
+  REST   8  3
+  B   0  8  3
+
+MEASURE 19
+  LINE TLRH7
+  TIELINE RH8 90
+  B   0  8  3
+  E   1  8  3
+
+MEASURE 19
+  LINE TLLH2
+  TIELINE LH4 95
+  G# -1  8  3
+  F  -1  8  3
+
+MEASURE 19
+  LINE TLLH3
+  TIELINE LH4 93
+  B  -1  8  3
+  G  -1  8  3
+
+MEASURE 19
+  LINE LH4
+  Eb  0  8  3
+  B  -1  8  3
+
+MEASURE 19
+  LINE LH5
+  G#  0  8  3
+  E   0  8  3
+# kr2l tmp rav-tomb-forlane.mus 21 50 4 0 88 /tmp/kr2l
+
+MEASURE 20
+  LINE RH8
+  CARRY 16  3
+  G#  1 16
+  B   1  8
+  G#  1 16  3
+  G   1 16
+  B   0  8
+
+MEASURE 20
+  LINE TLRH6
+  TIELINE RH8 88
+  CARRY  8  5
+  REST   8
+
+MEASURE 20
+  LINE TLRH7
+  TIELINE RH8 90
+  CARRY  8  5
+  REST   8
+
+MEASURE 20
+  LINE LH1
+  G  -2  8  3
+  C  -2  8  3
+
+MEASURE 21
+  LINE RH8
+  G   1  4
+  B   0  8
+  D   1  8
+  C   1  8
+  G   0  8
+
+MEASURE 21
+  LINE TLRH7
+  TIELINE RH8 90
+  Eb  1  8  3
+  Bb  0  8  3
+# kr2l tmp rav-tomb-forlane.mus 22 50 4 0 88 /tmp/kr2l
+
+MEASURE 21
+  LINE TLLH2
+  TIELINE LH4 95
+  B  -1  8  3
+  G  -1  8  3
+
+MEASURE 21
+  LINE LH4
+  F   0  8  3
+  Bb -1  8  3
+
+MEASURE 21
+  LINE LH5
+  G   0  8  3
+  Eb  0  8  3
+
+# kr2l tmp rav-tomb-forlane.mus 22 50 4 0 88 /tmp/kr2l
+
+MEASURE 21
+  LINE LH1
+  REST   4  3
+
+MEASURE 22
+  LINE RH8
+  C#  1 16  3
+  F   1 16
+  F#  1  8
+  A   1  8  3
+
+MEASURE 22
+  LINE TLRH6
+  TIELINE RH8 88
+  REST   8  3
+  A   0  8  3
+
+MEASURE 22
+  LINE TLRH7
+  TIELINE RH8 90
+  A   0  8  3
+  D   1  8  3
+
+MEASURE 22
+  LINE TLLH2
+  TIELINE LH4 95
+  F# -1  8  3
+  Eb -1  8  3
+
+MEASURE 22
+  LINE TLLH3
+  TIELINE LH4 93
+  A  -1  8  3
+  F  -1  8  3
+
+MEASURE 22
+  LINE LH4
+  C#  0  8  3
+  A  -1  8  3
+
+MEASURE 22
+  LINE LH5
+  F#  0  8  3
+  D   0  8  3
+
+MEASURE 22
+  LINE LH1
+  REST   4  3
+
+MEASURE 23
+  LINE RH8
+  CARRY 16  3
+  F#  1 16
+  A   1  8
+  F#  1 16  3
+  F   1 16
+  A   0  8
+
+MEASURE 23
+  LINE TLRH6
+  TIELINE RH8 88
+  CARRY  8  5
+  REST   8
+
+MEASURE 23
+  LINE TLRH7
+  TIELINE RH8 90
+  CARRY  8  5
+  REST   8
+
+MEASURE 23
+  LINE LH5
+  REST   4  3
+
+MEASURE 23
+  LINE LH1
+  F  -2  8  3
+  Bb -3  8  3
+
+# kr2l tmp rav-tomb-forlane.mus 26 50 4 0 88 /tmp/kr2l
+
+MEASURE 24
+  LINE RH8
+  F   1  4
+  A   0  8
+  C   1  8
+  Bb  0  8
+  F   0  8
+# kr2l tmp rav-tomb-forlane.mus 19 50 4 0 88 /tmp/kr2l
+
+MEASURE 24
+  LINE TLRH7
+  TIELINE RH8 90
+  C#  1  8  3
+  G#  0  8  3
+# kr2l tmp rav-tomb-forlane.mus 24 50 4 0 88 /tmp/kr2l
+
+MEASURE 24
+  LINE TLLH2
+  TIELINE LH4 95
+  A  -1  8  3
+  F  -1  8  3
+
+MEASURE 24
+  LINE LH4
+  Eb  0  8  3
+  G# -1  8  3
+
+MEASURE 24
+  LINE LH5
+  F   0  8  3
+  C#  0  8  3
+# kr2l tmp rav-tomb-forlane.mus 25 50 4 0 88 /tmp/kr2l
+
+MEASURE 25
+  MARK Main-Theme-II
+  LINE RH8
+  E   0 16  3
+  Bb  0 16
+  B   0  8
+  Eb  1  8  3
+
+MEASURE 25
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   8  3
+  G# -1  8  3
+
+MEASURE 25
+  LINE LH4
+  G  -1  8  3
+  C   0  8  3
+
+MEASURE 25
+  LINE LH5
+  B  -1  8  3
+  E   0  8  3
+
+MEASURE 26
+  LINE RH8
+  CARRY 16  3
+  C   1 16
+  Eb  1  8
+  C   1 16  3
+  B   0 16
+  C#  0  8
+
+# kr2l tmp rav-tomb-forlane.mus 9 50 4 0 88 /tmp/kr2l
+
+MEASURE 26
+  LINE TLLH2
+  TIELINE LH4 95
+  CARRY  8  3
+  A  -1  8  3
+
+MEASURE 26
+  LINE LH4
+  CARRY  8  3
+  C#  0  8  3
+
+MEASURE 26
+  LINE LH5
+  CARRY  8  3
+  F   0  8  3
+
+# kr2l tmp rav-tomb-forlane.mus 10 50 4 0 88 /tmp/kr2l
+
+MEASURE 26
+  LINE LH1
+  A  -2  4  3
+
+MEASURE 26
+  LINE LH2
+  E  -1  4  3
+
+REPEAT 3 4 27
+
+REPEAT 9 28 29
+MEASURE 29
+  MARK B-Theme-Repeat
+
+
+MEASURE 49
+  MARK C-Theme-I
+# kr2l tmp rav-tomb-forlane.mus 49 50 4 0 88 /tmp/kr2l
+# kr2l tmp rav-tomb-forlane.mus 49 50 4 0 88 /tmp/kr2l
+
+MEASURE 49
+  LINE RH9
+  REST   8  3
+  G   2  8  3
+
+MEASURE 49
+  LINE TLRH6
+  TIELINE RH8 88
+  G  -1  4
+  REST   2
+
+MEASURE 49
+  LINE TLRH7
+  TIELINE RH8 90
+  B  -1  4
+  REST   2
+
+MEASURE 49
+  LINE RH8
+  E   0  4
+  REST   8
+  F#  2  8
+  E   2  8
+  B   1  8
+
+MEASURE 49
+  LINE LH4
+  E  -2  4
+  REST   2
+
+MEASURE 49
+  LINE LH5
+  B  -2  4
+  REST   8
+  E  -2  4
+  B  -2  8
+
+MEASURE 50
+  LINE RH9
+  B   1  8  3
+  D   1  8  3
+
+# kr2l tmp rav-tomb-forlane.mus 51 50 4 0 88 /tmp/kr2l
+
+MEASURE 50
+  LINE RH8
+  A   1 16  3
+  G   1 16
+  D   1  8
+  C#  1 16  3
+  B   0 16
+  F#  0  8
+
+# kr2l tmp rav-tomb-forlane.mus 51 50 4 0 88 /tmp/kr2l
+
+MEASURE 50
+  LINE LH5
+  G  -1  4
+  B  -2  8
+  E  -2  4
+  B  -2  8
+
+MEASURE 51
+  LINE RH9
+  G   0  8  3
+  REST   8  3
+
+MEASURE 51
+  LINE RH8
+  F#  0 16  3
+  E   0 16
+  D   0  8
+  F#  0  64 0
+  G   0  64 0
+  F#  0  8
+  E   0  8
+  B  -1  8
+
+MEASURE 51
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   8  3
+  B   0  8  3
+
+MEASURE 51
+  LINE LH4
+  REST   8  3
+  D   1  8  3
+
+MEASURE 51
+  LINE LH5
+  G  -1  4
+  REST   8
+  E   1  8  3
+
+MEASURE 52
+  LINE RH9
+  E   0  8  3
+  REST   8  3
+
+MEASURE 52
+  LINE TLRH9
+  TIELINE RH9 90
+  C#  0  8  3
+  REST   8  3
+
+MEASURE 52
+  LINE RH8
+  B  -1  4
+  A  -1  8
+  F#  0  64 0
+  G   0  64 0
+  F#  0  8
+  E   0  8
+  B  -1  8
+
+MEASURE 52
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   8  3
+  B   0  8  3
+
+MEASURE 52
+  LINE LH4
+  A  -2  8  3
+  D   1  8  3
+
+MEASURE 52
+  LINE LH5
+  G  -1  8  3
+  E   1  8  3
+
+MEASURE 53
+  LINE RH9
+  E   0  8  3
+  G   2  8  3
+
+MEASURE 53
+  LINE TLRH9
+  TIELINE RH9 90
+  C#  0  8  3
+  REST   8  3
+
+MEASURE 53
+  LINE RH8
+  B  -1  4
+  A  -1  8
+  F#  2 16  3
+  E   2 16
+  B   1  8
+
+MEASURE 53
+  LINE LH4
+  A  -2  8  3
+  REST   8  3
+
+MEASURE 53
+  LINE LH5
+  G  -1  8  3
+  E  -2  4
+  B  -2  8
+
+MEASURE 54
+  LINE RH9
+  B   1  8  3
+  D   1  8  3
+
+MEASURE 54
+  LINE RH8
+  A   1 16 3
+  G   1  16
+  D   1  8
+  C#  1 16  3
+  B   0 16
+  F#  0  8
+
+MEASURE 54
+  LINE LH5
+  G  -1  4
+  B  -2  8
+  E  -2  4
+  B  -2  8
+
+MEASURE 55
+  LINE RH9
+  G   0  8  3
+  REST   8  3
+# kr2l tmp rav-tomb-forlane.mus 56 50 4 0 88 /tmp/kr2l
+
+MEASURE 55
+  LINE TLRH9
+  TIELINE RH9 90
+  REST   4  3
+
+MEASURE 55
+  LINE RH8
+  F#  0 16  3
+  E   0 16
+  D   0  8
+  F#  0  64 0
+  G   0  64 0
+  F#  0  8
+  E   0  8
+  B  -1  8
+
+MEASURE 55
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   8  3
+  B   0  8  3
+
+MEASURE 55
+  LINE LH4
+  REST   8  3
+  D   1  8  3
+
+MEASURE 55
+  LINE LH5
+  G  -1  4
+  REST   8
+  E   1  8  3
+
+MEASURE 56
+  LINE RH9
+  E   0  8  3
+  REST   8  3
+
+MEASURE 56
+  LINE TLRH9
+  TIELINE RH9 90
+  C#  0  8  3
+  REST   8  3
+# kr2l tmp rav-tomb-forlane.mus 49 50 4 0 88 /tmp/kr2l
+
+# kr2l tmp rav-tomb-forlane.mus 49 50 4 0 88 /tmp/kr2l
+
+MEASURE 56
+  LINE TLRH6
+  TIELINE RH8 88
+  REST   8  3
+  F# -1  8  3
+
+MEASURE 56
+  LINE TLRH7
+  TIELINE RH8 90
+  REST   8  3
+  D   0  4
+  A  -1  8
+
+MEASURE 56
+  LINE RH8
+  B  -1  4
+  A  -1  8
+  F#  0  4
+  C#  0  8
+
+# kr2l tmp rav-tomb-forlane.mus 57 50 4 0 88 /tmp/kr2l
+
+MEASURE 56
+  LINE LH4
+  A  -2  8  3
+  D  -2  4
+  F# -2  8
+
+MEASURE 56
+  LINE LH5
+  G  -1  8  3
+  A  -2  4
+  C# -1  8
+
+# kr2l tmp rav-tomb-forlane.mus 57 50 4 0 88 /tmp/kr2l
+
+MEASURE 57
+  LINE RH9
+  REST   8  3
+  G  2   8  3
+
+# kr2l tmp rav-tomb-forlane.mus 52 50 4 0 88 /tmp/kr2l
+
+MEASURE 57
+  LINE TLRH6
+  TIELINE RH8 88
+  Eb -1  4
+  REST   2
+
+MEASURE 57
+  LINE TLRH7
+  TIELINE RH8 90
+  F# -1  4
+  REST   2
+
+MEASURE 57
+  LINE RH8
+  B  -1  4
+  REST   8
+  F#  2 16  3
+  E   2 16
+  B   1  8
+# kr2l tmp rav-tomb-forlane.mus 49 50 4 0 88 /tmp/kr2l
+
+MEASURE 57
+  LINE LH4
+  B  -3  4
+  REST   2
+
+MEASURE 57
+  LINE LH5
+  F# -2  4
+  REST   8
+  E  -2  4
+  B  -2  8
+
+REPEAT 50 56 58
+
+MEASURE 58
+  MARK C-Theme-Repeat
+# kr2l tmp rav-tomb-forlane.mus 65 50 4 0 88 /tmp/kr2l
+
+MEASURE 65
+  MARK D-Theme-I
+  LINE TLRH6
+  TIELINE RH8 88
+  Eb -1  4
+  REST   2
+
+MEASURE 65
+  LINE TLRH7
+  TIELINE RH8 90
+  F# -1  4
+  REST   2
+
+MEASURE 65
+  LINE RH8
+  B  -1  4
+  REST   8
+  F#  1 16  3
+  E   1 16
+  F#  1  8
+
+# kr2l tmp rav-tomb-forlane.mus 66 50 4 0 88 /tmp/kr2l
+
+MEASURE 65
+  LINE TLLH1a
+  TIELINE LH4 92
+  REST   8  3
+  Eb  0  8  3
+
+MEASURE 65
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   8  3
+  F#  0  8  3
+
+MEASURE 65
+  LINE TLLH3
+  TIELINE LH4 93
+  REST   8  3
+  Bb  0  8  3
+
+MEASURE 65
+  LINE LH4
+  REST   8  3
+  B   0  8  3
+
+MEASURE 65
+  LINE LH5
+  REST   8  3
+  Eb  1  8  3
+# kr2l tmp rav-tomb-forlane.mus 66 50 8 0 88 /tmp/kr2l
+
+MEASURE 65
+  LINE LH1
+  B  -3  4
+  PHANTOM 2
+
+MEASURE 65 
+  LINE TLLH1
+  TIELINE LH1 100
+  REST   4
+  F# -1  2
+  TIENOTE LH1 LH5
+
+MEASURE 65
+  LINE LH2
+  F# -2  4
+  REST   2
+
+MEASURE 66
+  LINE RH8
+  Bb  1 16  3
+  B   1 16
+  Bb  1  8
+  G#  1 16  3
+  F#  1 16
+  G#  1  8
+
+MEASURE 66
+  LINE TLLH1a
+  TIELINE LH4 92
+  C   0  8  3
+  C#  0  8  3
+
+MEASURE 66
+  LINE TLLH2
+  TIELINE LH4 95
+  Eb  0  8  3
+  E   0  8  3
+
+MEASURE 66
+  LINE TLLH3
+  TIELINE LH4 93
+  G   0  8  3
+  G#  0  8  3
+
+MEASURE 66
+  LINE LH4
+  Eb  1  8  3
+  C#  1  8  3
+
+MEASURE 66
+  LINE LH5
+  G   1  8  3
+  E   1  8  3
+# kr2l tmp rav-tomb-forlane.mus 67 50 8 0 88 /tmp/kr2l
+
+MEASURE 66
+  LINE TLLH1
+  CARRY  4  3
+
+MEASURE 67
+  LINE RH8
+  C#  2  8  3
+  B   1 16  3
+  C#  2 16
+  Bb  1  8
+
+MEASURE 67
+  LINE TLLH1a
+  TIELINE LH4 92
+  Bb -1  8  3
+  Eb  0  8  3
+
+MEASURE 67
+  LINE TLLH2
+  TIELINE LH4 95
+  C#  0  8  3
+  F#  0  8  3
+
+MEASURE 67
+  LINE TLLH3
+  TIELINE LH4 93
+  F   0  8  3
+  Bb  0  8  3
+
+MEASURE 67
+  LINE LH4
+  F   1  8  3
+  Eb  1  8  3
+
+MEASURE 67
+  LINE LH5
+  Bb  1  8  3
+  F#  1  8  3
+
+MEASURE 67
+  LINE LH1
+  REST   4
+  PHANTOM 2
+
+MEASURE 67
+  LINE TLLH1
+  TIELINE LH1 100
+  REST   4
+  F# -1  2
+  TIENOTE LH1 LH5
+
+# kr2l tmp rav-tomb-forlane.mus 69 50 4 0 88 /tmp/kr2l
+
+MEASURE 68
+  LINE RH8
+  G#  1  8
+  Bb  1  8
+  F#  1  8
+  D#  1  64 0
+  E#  1  64 0
+  D#  1  4
+  C#  1  8
+
+# kr2l tmp rav-tomb-forlane.mus 69 50 4 0 88 /tmp/kr2l
+
+MEASURE 68
+  LINE TLLH1a
+  TIELINE LH4 92
+  G# -1  8  3
+  REST   8  3
+
+MEASURE 68
+  LINE TLLH2
+  TIELINE LH4 95
+  Eb  0  8  3
+  A# -1  8  3
+
+MEASURE 68
+  LINE TLLH3
+  TIELINE LH4 93
+  F#  0  8  3
+  REST   8  3
+
+MEASURE 68
+  LINE LH4
+  B   0  8  3
+  F   0  8  3
+
+MEASURE 68
+  LINE LH5
+  Eb  1  8  3
+  G#  0  8  3
+# kr2l tmp rav-tomb-forlane.mus 69 50 8 0 88 /tmp/kr2l
+
+MEASURE 69
+  LINE RH8
+  Eb  1  4
+  REST   8
+  F#  0 16  3
+  E   0 16
+  F#  0  8
+
+MEASURE 69
+  LINE TLLH2
+  TIELINE LH4 95
+  Eb  0  4
+  REST   2
+
+MEASURE 69
+  LINE LH4
+  G   0  4
+  REST   8
+  Bb -1  8  3
+
+MEASURE 69
+  LINE LH5
+  Bb  0  4
+  REST   8
+  Eb  0  8  3
+
+MEASURE 69
+  LINE LH1
+  REST   4
+  PHANTOM 2
+
+MEASURE 69
+  LINE TLLH1
+  TIELINE LH1 100
+  REST   4
+  Eb -1  2
+  TIENOTE LH1 LH5
+
+MEASURE 70
+  LINE RH8
+  Bb  0  6
+  B   0 12
+  Bb  0  8
+  G#  0  8
+  F#  0  8
+  G#  0  8
+
+MEASURE 70
+  LINE LH4
+  C#  0  8  3
+  B  -1  8  3
+
+MEASURE 70
+  LINE LH5
+  F   0  8  3
+  Eb  0  8  3
+
+MEASURE 70
+  LINE TLLH1
+  CARRY  4  3
+
+MEASURE 71
+  LINE RH8
+  Eb  1  8  3
+  C#  1 16  3
+  Eb  1 16
+  B   0  8
+
+MEASURE 71
+  LINE LH1
+  REST   4
+  PHANTOM  2
+
+MEASURE 71
+  LINE TLLH1
+  TIELINE LH1 100
+  REST   4
+  Eb -1  2
+  TIENOTE LH1 LH5
+
+MEASURE 71
+  LINE TLRH6
+  TIELINE RH8 88
+  G   0  8  3
+  F#  0  8  3
+
+MEASURE 71
+  LINE TLRH7
+  TIELINE RH8 90
+  Bb  0  8  3
+  A   0  8  3
+
+MEASURE 71
+  LINE LH5
+  E   0  8  3
+  Eb  0  8  3
+
+MEASURE 72
+  LINE RH8
+  G#  0  8
+  Bb  0  8
+  F#  0  8
+  D#  0  64 0
+  C#  0  64 0
+  D#  0  4
+  F   0  8
+
+MEASURE 72
+  LINE TLRH8
+  TIELINE RH8 90
+  REST 8 3
+  B   -1 64 0
+  CARRY  64 0
+  CARRY  8  3
+ 
+# kr2l tmp rav-tomb-forlane.mus 73 50 4 0 88 /tmp/kr2l
+
+MEASURE 72
+  LINE TLLH1
+  CARRY  8  3
+  REST   8  3
+# kr2l tmp rav-tomb-forlane.mus 71 50 4 0 88 /tmp/kr2l
+
+MEASURE 72
+  LINE TLRH7
+  TIELINE RH8 90
+  Eb  0  8  3
+  REST   8  3
+# kr2l tmp rav-tomb-forlane.mus 71 50 4 0 88 /tmp/kr2l
+
+MEASURE 72
+  LINE TLLH5
+  TIELINE LH5 90
+  REST   8  3
+  C# -1  8  3
+
+MEASURE 72
+  LINE LH5
+  C   0  8  3
+  G# -1  8  3
+
+MEASURE 73
+  LINE TLRH6
+  TIELINE RH8 88
+  Bb -1  4
+  REST   2
+
+MEASURE 73
+  LINE TLRH7
+  TIELINE RH8 90
+  C#  0  4
+  REST   2
+
+MEASURE 73
+  LINE RH8
+  F#  0  4
+  REST   8
+  F#  2 16  3
+  E   2 16
+  B   1  8
+# kr2l tmp rav-tomb-forlane.mus 73 50 4 0 88 /tmp/kr2l
+
+MEASURE 73
+  LINE RH9
+  REST   8  3
+  G   2  8  3
+# kr2l tmp rav-tomb-forlane.mus 65 50 4 0 88 /tmp/kr2l
+
+# kr2l tmp rav-tomb-forlane.mus 65 50 8 0 88 /tmp/kr2l
+
+MEASURE 73
+  LINE LH5
+  F# -1  4
+  F# -2  8
+  E  -2  4
+  B  -2  8
+# kr2l tmp rav-tomb-forlane.mus 65 50 4 0 88 /tmp/kr2l
+
+REPEAT 50 56 74
+
+REPEAT 65 79 81
+
+MEASURE 96
+  LINE RH9
+  E   0  8  3
+  REST   8  3
+
+MEASURE 96
+  LINE TLRH9
+  TIELINE RH9 90
+  C#  0  8  3
+  REST   8  3
+
+MEASURE 96
+  LINE TLRH7
+  TIELINE RH8 90
+  REST   8  3
+  D   0  4
+  A  -1  8
+
+MEASURE 96
+  LINE RH8
+  B  -1  4
+  A  -1  8
+  F#  0  4
+  C#  0  8
+
+MEASURE 96
+  LINE LH4
+  A  -2  8  3
+  D  -1  4
+  B  -2  8
+
+MEASURE 96
+  LINE LH5
+  G  -1  8  3
+  A  -1  4
+  D# -1  8
+
+MEASURE 97
+  LINE RH8
+  E   0 16  3
+  Bb  0 16
+  B   0  8
+  Eb  1  8  3
+
+MEASURE 97
+  LINE TLRH6
+  TIELINE RH8 90
+  G# -1 16  3
+  REST  16  9
+
+MEASURE 97
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   8  3
+  G# -1  8  3
+
+MEASURE 97
+  LINE LH4
+  E  -1  8  3
+  C   0  8  3
+
+MEASURE 97
+  MARK Main-Theme-III
+  LINE LH5
+  B  -1  8  3
+  E   0  8  3
+
+REPEAT 2 4 98
+# kr2l tmp rav-tomb-forlane.mus 101 50 4 0 88 /tmp/kr2l
+
+MEASURE 101
+  LINE RH8
+  E   0 16  3
+  Bb  0 16
+  B   0  8
+  Eb  1  8  3
+
+MEASURE 101
+  LINE TLRH6
+  TIELINE RH8 90
+  G  -1 16  3
+  REST  16  9
+
+MEASURE 101
+  LINE TLRH7
+  TIELINE RH8 92
+  B  -1 16  3
+  REST  16  9
+# kr2l tmp rav-tomb-forlane.mus 103 50 4 0 88 /tmp/kr2l
+
+MEASURE 101
+  LINE LH4
+  E  -2  8  3
+  B  -1 16  3
+  Eb  0 16
+  E   0  8
+
+MEASURE 101
+  LINE LH5
+  B  -2  8  3
+  REST   8  3
+
+MEASURE 102
+  LINE RH8
+  CARRY 16  3
+  C   1 16
+  Eb  1  8
+  C   1 16  3
+  B   0 16
+  C#  0  8
+
+MEASURE 102
+  LINE LH4
+  G#  0 16  9
+  F   0 16
+  G#  0  8
+
+MEASURE 102
+  LINE TLLH2
+  TIELINE LH4 90
+  C   0  8  3
+  TIENOTE LH4 RH8
+  REST   8  3
+
+MEASURE 102
+  LINE TLLH3
+  TIELINE LH4 88
+  E   0  8  3
+  TIENOTE LH4 RH8
+  REST   8  3
+
+MEASURE 102
+  LINE LH2
+  REST   8  3
+  A  -1  8  3
+# kr2l tmp rav-tomb-forlane.mus 104 50 4 0 88 /tmp/kr2l
+
+MEASURE 103
+  LINE RH8
+  B   0  4
+  C#  0  8
+  G#  0 16  3
+  C   0 16
+  G#  0  8
+
+# kr2l tmp rav-tomb-forlane.mus 104 50 4 0 88 /tmp/kr2l
+
+MEASURE 103
+  LINE TLRH7
+  TIELINE RH8 92
+  REST   8  5
+  Eb  0  8
+
+MEASURE 103
+  LINE LH4
+  F   0 16  3
+  E   0 16
+  F# -1  8
+  E   0  4
+  F# -1  8
+
+# kr2l tmp rav-tomb-forlane.mus 104 50 4 0 88 /tmp/kr2l
+
+MEASURE 104
+  LINE RH8
+  F#  0  4
+  E   0  8
+  E   0 16  3
+  F#  0 16
+  D   0  8
+
+# kr2l tmp rav-tomb-forlane.mus 104 50 4 0 88 /tmp/kr2l
+
+MEASURE 104
+  LINE LH2a
+  REST  16  3
+  E  -1 16
+  REST   2
+# kr2l tmp rav-tomb-forlane.mus 101 50 4 0 88 /tmp/kr2l
+
+MEASURE 104
+  LINE TLRH7
+  TIELINE RH8 92
+  C#  0  4
+  C#  0  8
+  C   0  8  3
+# kr2l tmp rav-tomb-forlane.mus 101 50 4 0 88 /tmp/kr2l
+
+MEASURE 104
+  LINE LH4
+  G  -1  4
+  REST   8
+  F# -1  4
+  REST   8
+
+MEASURE 104
+  LINE LH5
+  Bb -1  4
+  REST   8
+  A  -1  4
+  REST   8
+# kr2l tmp rav-tomb-forlane.mus 102 50 4 0 88 /tmp/kr2l
+
+MEASURE 104
+  LINE LH2
+  REST   4
+  B  -2  8
+  REST   4
+  B  -2  8
+# kr2l tmp rav-tomb-forlane.mus 105 50 4 0 88 /tmp/kr2l
+
+MEASURE 105
+  MARK E-Theme-I
+  LINE TLRH6
+  TIELINE RH8 86
+  G  -1  8
+  REST   8  5
+
+MEASURE 105
+  LINE TLRH7
+  TIELINE RH8 89
+  B  -1  8
+  REST   8
+  D   1  8
+  D   1  64 0
+  CARRY  64 0
+  CARRY  4
+  C#  1  8
+
+MEASURE 105
+  LINE RH8
+  E   0  8
+  REST   8
+  F#  1  8
+  F#  1  64 0
+  G   1  64 0
+  F#  1  4
+  E   1  8
+
+MEASURE 105
+  LINE LH5
+  E  -2  8
+  REST   8  5
+
+MEASURE 105
+  LINE LH4
+  B  -2  8
+  REST   8
+  PHANTOM 8
+  B   0  4
+  A   0  8
+
+MEASURE 106
+  LINE TLRH6
+  TIELINE RH8 86
+  B   0  4
+  C#  1  8
+  C#  1  4
+  C#  1  8
+
+MEASURE 106
+  LINE TLRH7
+  TIELINE RH8 89
+  D   1  4
+  E   1  8
+  E   1  4
+  E   1  8
+
+MEASURE 106
+  LINE RH8
+  F#  1  4
+  B   1  8
+  B   1  4
+  A   1  8
+
+MEASURE 106
+  LINE LH4
+  G   0  4
+  F#  0  8
+  F#  0  8  3
+
+MEASURE 107
+  LINE TLRH6
+  TIELINE RH8 86
+  D   1  4
+  REST   2
+
+MEASURE 107
+  LINE TLRH7
+  TIELINE RH8 89
+  F#  1  4
+  D   1  8
+  D   1  64 0
+  CARRY  64 0
+  CARRY  4
+  C#  1  8
+
+MEASURE 107
+  LINE RH8
+  C#  2  4
+  F#  1  8
+  F#  1  64 0
+  G   1  64 0
+  F#  1  4
+  E   1  8
+
+MEASURE 107
+  LINE LH5
+  F#  2  4
+  REST   2
+
+MEASURE 107
+  LINE LH4
+  CARRY  4
+  C#  1  8
+  B   0  4
+  A   0  8
+
+MEASURE 108
+  LINE TLRH6
+  TIELINE RH8 86
+  B   0  4
+  C#  1  8
+  B   0  4
+  B   0  8
+
+MEASURE 108
+  LINE TLRH7
+  TIELINE RH8 89
+  D   1  4
+  E   1  8
+  D   1  4
+  D   1  8
+
+MEASURE 108
+  LINE RH8
+  F#  1  4
+  B   1  8
+  A   1  8
+  F#  1  8
+  G   1  8
+
+MEASURE 108
+  LINE LH4
+  G   0  4
+  F#  0  8
+  E   0  4
+  E   0  8
+
+MEASURE 109
+  LINE TLRH6
+  TIELINE RH8 86
+  C#  1  8
+  REST   8  5
+
+MEASURE 109
+  LINE TLRH7
+  TIELINE RH8 89
+  E   1  8
+  REST   8
+  C   1  8
+  C   1  64 0
+  CARRY  64 0
+  CARRY  4
+  B   0  8
+
+MEASURE 109
+  LINE RH8
+  A   1  8
+  REST   8
+  E   1  8
+  E   1  64 0
+  F#  1  64 0
+  E   1  4
+  D   1  8
+
+MEASURE 109
+  LINE LH4
+  A  -1  8
+  REST   8
+  B   0  8
+  A   0  4
+  G   0  8
+
+# kr2l tmp rav-tomb-forlane.mus 110 50 4 0 88 /tmp/kr2l
+
+MEASURE 110
+  LINE TLRH7
+  TIELINE RH8 89
+  C   1  4
+  D   1  8
+  E   1 16  3
+  REST  16  3
+
+MEASURE 110
+  LINE RH8
+  E   1  4
+  F#  1  8
+  G   1 16  3
+  F#  1 16
+  D   1  8
+
+MEASURE 110
+  LINE TLLH4
+  TIELINE LH5 90
+  F#  0  4
+  D   0  8
+  G   0  4
+  G   0  8
+
+MEASURE 110
+  LINE LH5
+  A   0  4
+  A   0  8
+  B   0  4
+  B   0  8
+
+MEASURE 111
+  LINE TLRH7
+  TIELINE RH8 89
+  C#  1 16  9
+  REST  16
+  C#  1  8
+
+MEASURE 111
+  LINE RH8
+  F#  1 16  9
+  A   1 16
+  F#  1  8
+
+# kr2l tmp rav-tomb-forlane.mus 112 50 4 0 88 /tmp/kr2l
+
+MEASURE 111
+  LINE LH4
+  B  -1  8  5
+  B  -1  8
+
+MEASURE 111
+  LINE LH5
+  A   0  8  5
+  A   0  8
+
+MEASURE 112
+  LINE TLRH7
+  TIELINE RH8 89
+  A   0  4
+  C#  1  8
+  G#  0  8  3
+
+MEASURE 112
+  LINE RH8
+  D   1  4
+  F#  1  8
+  E   1  8  3
+  TRILL F# 1
+
+# kr2l tmp rav-tomb-forlane.mus 105 50 4 0 88 /tmp/kr2l
+
+MEASURE 112
+  LINE LH4
+  B  -1  4
+  B  -1  8
+  B   0  8
+  E   0  8
+  B  -1  8
+
+MEASURE 112
+  LINE LH5
+  F#  0  4
+  A   0  8
+  REST   8  3
+
+MEASURE 113
+  LINE TLRH7
+  TIELINE RH8 89
+  CARRY  8
+  REST   8
+  D   1  8
+  D   1  64 0
+  CARRY  64 0
+  CARRY  4
+  C#  1  8
+
+MEASURE 113
+  LINE RH8
+  CARRY  8
+  REST   8
+  F#  1  8
+  F#  1  64 0
+  G   1  64 0
+  F#  1  4
+  E   1  8
+
+MEASURE 113
+  LINE LH5
+  E  -1  8
+  REST   8  5
+
+MEASURE 113
+  LINE LH4
+  REST   4
+  PHANTOM 8
+  B   0  4
+  A   0  8
+
+REPEAT 106 112 114
+
+MEASURE 121
+  LINE TLRH7
+  TIELINE RH8 89
+  CARRY  8
+  REST   8
+  G   1  8
+  G   1  64 0
+  CARRY  64 0
+  CARRY  4
+  F#  1  8
+
+MEASURE 121
+  LINE RH8
+  CARRY  8
+  REST   8
+  B   1  8
+  B   1  64 0
+  C#  2  64 0
+  B   1  4
+  A   1  8
+
+MEASURE 121
+  LINE LH5
+  E  -1  8
+  REST   8  5
+
+MEASURE 121
+  LINE LH4
+  REST   8
+  REST   4
+  E   1  8
+  REST   4
+
+
+# kr2l tmp rav-tomb-forlane.mus 122 50 4 0 88 /tmp/kr2l
+
+MEASURE 122
+  MARK F-Theme
+  LINE TLRH6
+  TIELINE RH8 90
+  REST   8  3
+  G   1 16  3
+  REST  16  3
+
+MEASURE 122
+  LINE TLRH7
+  TIELINE RH8 92
+  G   1  4
+  A   1  8
+  B   1 16  3
+  REST  16
+  F#  1  8
+
+MEASURE 122
+  LINE RH8
+  B   1  4
+  C#  2  8
+  D   2 16  3
+  C#  2 16
+  A   1  8
+
+MEASURE 122
+  LINE LH4
+  E   1  8
+  REST   4
+  E   1  8
+  REST   4
+
+MEASURE 123
+  LINE TLRH6
+  TIELINE RH8 90
+  F#  1  4
+  REST   2
+
+MEASURE 123
+  LINE TLRH7
+  TIELINE RH8 92
+  A   1  4
+  G   1  8
+  G   1  64 0
+  CARRY  64 0
+  CARRY  4
+  F#  1  8
+
+MEASURE 123
+  LINE RH8
+  C#  2  4
+  B   1  8
+  B   1  64 0
+  C#  2  64 0
+  B   1  4
+  A   1  8
+
+MEASURE 123
+  LINE LH4
+  E   1  8
+  REST   4
+  E   1  8
+  REST   4
+
+MEASURE 124
+  LINE TLRH6
+  TIELINE RH8 90
+  REST   4
+  F#  1  8
+  F   1  4
+  A   1  8
+
+MEASURE 124
+  LINE TLRH7
+  TIELINE RH8 92
+  G   1  4
+  A   1  8
+  A   1  4
+  D   2  8
+
+MEASURE 124
+  LINE RH8
+  B   1  4
+  C#  2  8
+  D   2  4
+  E   2  8
+# kr2l tmp rav-tomb-forlane.mus 125 50 4 0 88 /tmp/kr2l
+
+MEASURE 124
+  LINE LH4
+  E   1  8
+  REST   8
+  A   0  8
+  D   0  8
+  A   0  8
+  D   1  8
+
+MEASURE 125
+  LINE TLRH6
+  TIELINE RH8 90
+  REST   4
+  A   1  8
+  A   1  64 0
+  CARRY  64 0
+  CARRY  4
+  G   1  8
+
+MEASURE 125
+  LINE TLRH7
+  TIELINE RH8 92
+  D   2  8
+  REST   8
+  C   2  8
+  C   2  64 0
+  CARRY  64 0
+  CARRY  4
+  B   1  8
+
+MEASURE 125
+  LINE RH8
+  F   2  8
+  REST   8
+  F   2  8
+  F   2  64 0
+  E   2  64 0
+  F   2  4
+  E   2  8
+
+MEASURE 125
+  LINE LH4
+  A   1  8
+  REST   4
+  D   1  8  3
+
+MEASURE 126
+  LINE TLRH6
+  TIELINE RH8 90
+  A   1  4
+  B   1  8
+  G   1  4
+  G   1  8
+
+MEASURE 126
+  LINE TLRH7
+  TIELINE RH8 92
+  C   2  4
+  D   2  8
+  C   2  4
+  C   2  8
+
+MEASURE 126
+  LINE RH8
+  F   2  4
+  G   2  8
+  E   2  4
+  F   2  8
+# kr2l tmp rav-tomb-forlane.mus 127 50 4 0 88 /tmp/kr2l
+
+MEASURE 126
+  LINE LH4
+  G   0  8  3
+  C   1  4
+  D   1  8
+
+MEASURE 127
+  LINE TLRH6
+  TIELINE RH8 90
+  G   1  4
+  REST   2
+
+MEASURE 127
+  LINE TLRH7
+  TIELINE RH8 92
+  C   2  4
+  A   1  8
+  A   1  64 0
+  CARRY  64 0
+  CARRY  4
+  A   1  8
+
+MEASURE 127
+  LINE RH8
+  G   2  4
+  C   2  8
+  C   2 64 0
+  B   1 64 0
+  C   2  4
+  D   2  8
+
+MEASURE 127
+  LINE LH4
+  E   1  4
+  F   1  8
+  F   1  4
+  F   1  8
+
+MEASURE 128
+  LINE TLRH7
+  TIELINE RH8 92
+  REST   8  3
+  G   1 16  3
+  REST  16  3
+
+MEASURE 128
+  LINE RH8
+  C   2 64 0
+  B   1 64 0
+  C   2 64 0
+  B   1 16  3
+  A   1 16
+  B   1  8
+  C   2 16  3
+  D   2 16
+  E   2  8
+
+# kr2l tmp rav-tomb-forlane.mus 129 50 4 0 88 /tmp/kr2l
+
+MEASURE 128
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   8  3
+  C   1  8  3
+
+MEASURE 128
+  LINE LH4
+  G   1  4
+  G   1  8
+  E   1  8  3
+# kr2l tmp rav-tomb-forlane.mus 129 50 4 0 88 /tmp/kr2l
+
+MEASURE 129
+  LINE TLRH6
+  TIELINE RH8 90
+  Bb  1  4
+  REST   2
+
+MEASURE 129
+  LINE TLRH7
+  TIELINE RH8 92
+  C#  2  4
+  Bb  1  8
+  Bb  1  4
+  A   1  8
+
+MEASURE 129
+  LINE RH8
+  F#  2  4
+  C#  2  8
+  C#  2  4
+  C   2  8
+# kr2l tmp rav-tomb-forlane.mus 129 50 4 0 88 /tmp/kr2l
+
+MEASURE 129
+  LINE RH9
+  REST   4
+  F#  2  8
+  F#  2  4
+  E   2  8
+# kr2l tmp rav-tomb-forlane.mus 130 50 4 0 88 /tmp/kr2l
+
+MEASURE 129
+  LINE LH4
+  F#  0  8
+  REST   4
+  F#  1  64 0
+  G   1  64 0
+  F#  1  8
+  REST   4
+
+MEASURE 129
+  LINE LH5
+  C#  1  8
+  REST   8  5
+
+MEASURE 130
+  LINE TLRH7
+  TIELINE RH8 92
+  Bb  1  4
+  A   1  8
+  A   1  4
+  F#  1  8
+
+MEASURE 130
+  LINE RH8
+  C#  2  4
+  C   2  8
+  C   2  4
+  B   1  8
+
+MEASURE 130
+  LINE RH9
+  F#  2  4
+  E   2  8
+  E   2  4
+  D   2  8
+
+MEASURE 130
+  LINE LH4
+  F#  1  8
+  REST   4
+  F#  1  64 0
+  G   1  64 0
+  F#  1  8
+  REST   4
+
+MEASURE 131
+  LINE TLRH7
+  TIELINE RH8 92
+  A   1  4
+  REST   8  3
+  E   1  8
+
+MEASURE 131
+  LINE RH8
+  C   2  4
+  B   1  8
+  B   1  4
+  A   1  8
+
+MEASURE 131
+  LINE RH9
+  E   2  4
+  D   2  8
+  D   2  4
+  C   2  8
+
+MEASURE 131
+  LINE LH4
+  F#  1  8
+  REST   4
+  F#  1  64 0
+  G   1  64 0
+  F#  1  8
+  REST   4
+
+MEASURE 132
+  LINE TLRH7
+  TIELINE RH8 92
+  REST   4
+  E   1  8
+  REST   4
+  C   1  8
+
+MEASURE 132
+  LINE RH8
+  B   1  4
+  A   1  8
+  D   1  4
+  E   1  8
+
+MEASURE 132
+  LINE RH9
+  D   2  4
+  C   2  8
+  B   1  4
+  A   1  8
+
+# kr2l tmp rav-tomb-forlane.mus 133 50 4 0 88 /tmp/kr2l
+
+MEASURE 132
+  LINE LH4
+  F#  1  8
+  REST   4
+  F#  1  64 0
+  G   1  64 0
+  F#  1  8
+  REST   4
+
+MEASURE 133
+  LINE RH9
+  C# 1 8
+  REST 8 5
+
+MEASURE 133
+  LINE TLRH7
+  TIELINE RH8 92
+  REST   4
+  C#  2  8
+  C#  2  8
+  REST   8
+  C   2  8
+
+MEASURE 133
+  LINE RH8
+  Bb  0  8
+  REST   8
+  F#  2  8
+  F#  2  8
+  REST   8
+  E   2  8
+
+MEASURE 133
+  LINE RH7
+  REST   2
+  Bb  1  8
+  REST   8
+
+MEASURE 133
+  LINE LH4
+  F#  1  8
+  REST   4
+  F#  1  64 0
+  G   1  64 0
+  F#  1  8
+  F#  0  8
+  REST   8
+
+MEASURE 134
+  LINE TLRH7
+  TIELINE RH8 92
+  C#  2  8
+  REST   8
+  C   2  8
+  C   2  8
+  REST   8
+  B   1  8
+
+MEASURE 134
+  LINE RH8
+  F#  2  8
+  REST   8
+  E   2  8
+  E   2  8
+  REST   8
+  D   2  8
+
+MEASURE 134
+  LINE RH7
+  REST   8
+  Bb  1  8
+  REST   4
+  F#  1  8
+  REST   8
+
+MEASURE 134
+  LINE LH4
+  F#  1  8
+  F#  0  8
+  REST   8
+  F#  1  64 0
+  G   1  64 0
+  F#  1  8
+  F#  0  8
+  REST   8
+
+MEASURE 135
+  LINE TLRH7
+  TIELINE RH8 92
+  C   2  8
+  REST   8
+  B   1  8
+  B   1  8
+  REST   8
+  A   1  8
+
+MEASURE 135
+  LINE RH8
+  E   2  8
+  REST   8
+  D   2  8
+  D   2  8
+  REST   8
+  C   2  8
+
+MEASURE 135
+  LINE RH7
+  REST   8
+  F#  1  8
+  REST   4
+  E   1  8
+  REST   8
+
+MEASURE 135
+  LINE LH4
+  F#  1  8
+  F#  0  8
+  REST   8
+  F#  1  64 0
+  G   1  64 0
+  F#  1  8
+  F#  0  8
+  REST   8
+
+MEASURE 136
+  LINE TLRH6
+  TIELINE RH8 90
+  REST   8  5
+  C   1  8
+
+MEASURE 136
+  LINE TLRH7
+  TIELINE RH8 92
+  B   1  8
+  REST   8
+  A   1  8
+  PHANTOM 8
+  REST   8
+  E   1  8
+
+MEASURE 136
+  LINE RH8
+  D   2  8
+  REST   8
+  C   2  8
+  B   1  8
+  REST   8
+  A   1  8
+
+# kr2l tmp rav-tomb-forlane.mus 133 50 4 0 88 /tmp/kr2l
+
+MEASURE 136
+  LINE RH7
+  REST   8
+  E   1  8
+  REST   4
+  D   1  8
+  REST   8
+# kr2l tmp rav-tomb-forlane.mus 137 50 4 0 88 /tmp/kr2l
+
+MEASURE 136
+  LINE LH4
+  F#  1  8
+  F#  0  8
+  REST   8
+  F#  1  64 0
+  G   1  64 0
+  F#  1  8
+  F#  0  8
+  REST   8
+
+MEASURE 137
+  LINE TLRH7
+  TIELINE RH8 92
+  Bb  0  8
+  REST   8
+  D   1  8
+  D   1  64 0
+  CARRY  64 0
+  CARRY  4
+  C#  1  8
+
+MEASURE 137
+  LINE RH8
+  C#  1  8
+  REST   8
+  F#  1  8
+  F#  1  64 0
+  G   1  64 0
+  F#  1  4
+  E   1  8
+# kr2l tmp rav-tomb-forlane.mus 122 50 4 0 88 /tmp/kr2l
+
+MEASURE 137
+  MARK E-Theme-II
+  LINE LH4
+  F#  1  8
+  REST   8
+  C#  1  8
+  B   0  4
+  A   0  8
+
+REPEAT 106 112 138
+# kr2l tmp rav-tomb-forlane.mus 129 50 4 0 88 /tmp/kr2l
+
+MEASURE 145
+  LINE RH8
+  CARRY  8
+  REST  16
+  Bb  0 16
+  B   0  8
+  Eb  1  8  3
+
+MEASURE 145
+  LINE TLRH7
+  CARRY 8
+  REST 8 5
+
+MEASURE 145
+  LINE TLLH2
+  TIELINE LH4 100
+  REST   8  3
+  G# -1  8  3
+
+MEASURE 145
+  LINE LH4
+  E  -1  8  3
+  C   0  8  3
+
+MEASURE 145
+  MARK Main-Theme-IV
+  LINE LH5
+  REST   8  3
+  E   0  8  3
+
+REPEAT 98 104 146
+REPEAT 9   28 153
+# kr2l tmp rav-tomb-forlane.mus 173 50 4 0 88 /tmp/kr2l
+
+MEASURE 173
+  KEY 4#
+  MARK G-Theme-I
+  LINE TLRH6
+  TIELINE RH8 90
+  G  -1  8
+  REST   8  5
+
+MEASURE 173
+  LINE TLRH7
+  TIELINE RH8 92
+  B  -1  8
+  REST   8
+  E   0  8
+  E   0  64 0
+  CARRY  64 0
+  CARRY   8  3
+
+MEASURE 173
+  LINE RH8
+  E   0  8
+  REST   8
+  G#  0  8
+  G#  0  64 0
+  CARRY  64 0
+  CARRY   8  3
+
+MEASURE 173
+  LINE RH9
+  REST   4
+  B   0  8
+  B   0  64 0
+  A   0  64 0
+  B   0  8  3
+
+MEASURE 173
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   8  5
+  G# -1  8
+
+MEASURE 173
+  LINE LH4
+  E  -2  8
+  REST   2
+  B  -1  8
+
+MEASURE 173
+  LINE LH5
+  B  -2  8
+  REST   2
+  D#  0  8
+
+MEASURE 174
+  LINE TLRH7
+  TIELINE RH8 92
+  CARRY  4
+  F#  0  8
+  F#  0 16  3
+  REST  16
+  F#  0  8
+
+MEASURE 174
+  LINE TLRH8
+  TIELINE RH9 92
+  REST   8 3
+  REST  16 3
+  E   0 16
+  REST   8
+
+MEASURE 174
+  LINE RH8
+  CARRY  4
+  A   0  8
+  A   0 16  3
+  REST  16
+  A   0  8
+# kr2l tmp rav-tomb-forlane.mus 173 50 4 0 88 /tmp/kr2l
+
+MEASURE 174
+  LINE RH9
+  CARRY  4
+  C#  1  8
+  C#  1 16  3
+  B   0 16
+  C#  1  8
+
+# kr2l tmp rav-tomb-forlane.mus 175 50 8 0 88 /tmp/kr2l
+
+MEASURE 174
+  LINE TLLH2
+  TIELINE LH4 92
+  G# -1  4
+  F# -1  8
+  F# -1  4
+  B  -2  8
+
+MEASURE 174
+  LINE TLLH3
+  TIELINE LH4 90
+  REST   4
+  A  -1  8
+  A  -1  4
+  REST   8
+
+MEASURE 174
+  LINE LH4
+  B  -1  4
+  C#  0  8
+  C#  0  4
+  F# -1  8
+
+MEASURE 174
+  LINE LH5
+  D#  0  4
+  E   0  8
+  E   0  4
+  C#  0  8
+
+MEASURE 175
+  LINE TLRH7
+  TIELINE RH8 92
+  A   0  4
+  C#  1  8
+  C#  1  64 0
+  CARRY  64 0
+  CARRY   8  3
+
+MEASURE 175
+  LINE RH8
+  E   1  4
+  F#  1  8
+  F#  1  64 0
+  CARRY  64 0
+  CARRY   8  3
+
+MEASURE 175
+  LINE RH9
+  F#  1  4
+  A   1  8
+  A   1  64 0
+  G#  1  64 0
+  A   1  8  3
+
+MEASURE 175
+  LINE TLLH2
+  TIELINE LH4 92
+  B  -2  4
+  REST   8  3
+  C#  0  8
+
+MEASURE 175
+  LINE LH4
+  F# -1  4
+  A  -2  8
+  A  -2  4
+  F#  0  8
+
+MEASURE 175
+  LINE LH5
+  C#  0  4
+  E  -1  8
+  E  -1  4
+  A   0  8
+
+MEASURE 176
+  LINE TLRH7
+  TIELINE RH8 92
+  CARRY 16  3
+  REST  16
+  A   0  8
+  F#  0 16  3
+  REST  16
+  F#  0  8
+
+MEASURE 176
+  LINE RH8
+  CARRY 16  3
+  REST  16
+  C#  1  8
+  A   0 16  3
+  REST  16
+  A   0  8
+
+MEASURE 176
+  LINE RH9
+  CARRY 16  3
+  G#  1 16
+  F#  1  8
+  C#  1 16  3
+  B   0 16
+  C#  1  8
+
+MEASURE 176
+  LINE TLLH2
+  TIELINE LH4 92
+  C#  0  4
+  REST   2
+
+MEASURE 176
+  LINE LH4
+  F#  0  4
+  F# -2  8
+  F# -2  4
+  C# -1  8
+
+MEASURE 176
+  LINE LH5
+  A   0  4
+  C# -1  8
+  C# -1  4
+  A  -1  8
+
+MEASURE 176
+  LINE TLRH8
+  TIELINE RH9 88
+  REST  16  3
+  C#  1 16
+  REST   2
+
+MEASURE 176
+  LINE TLRH9
+  TIELINE RH9 90
+  REST  16  3
+  E   1 16
+  REST   2
+
+MEASURE 177
+  LINE TLRH7
+  TIELINE RH8 92
+  G#  0  4
+  E   0  8
+  E   0  64 0
+  CARRY  64 0
+  CARRY   8  3
+
+MEASURE 177
+  LINE RH8
+  C#  1  4
+  G#  0  8
+  G#  0  64 0
+  CARRY  64 0
+  CARRY   8  3
+
+MEASURE 177
+  LINE RH9
+  F#  1  8
+  E   1  8
+  B   0  8
+  B   0  64 0
+  A   0  64 0
+  B   0  8  3
+
+# kr2l tmp rav-tomb-forlane.mus 178 50 8 0 88 /tmp/kr2l
+
+MEASURE 177
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   8  5
+  G# -1  8
+
+MEASURE 177
+  LINE LH4
+  E  -2  4
+  REST   8  3
+  B  -1  8
+
+MEASURE 177
+  LINE LH5
+  B  -2  4
+  REST   8  3
+  D#  0  8
+
+MEASURE 178
+  LINE TLRH7
+  TIELINE RH8 92
+  CARRY  4
+  G#  0  8
+  G#  0 16  3
+  REST  16
+  G#  0  8
+
+MEASURE 178
+  LINE RH8
+  CARRY  4
+  B   0  8
+  B   0 16  3
+  REST  16
+  B   0  8
+
+MEASURE 178
+  LINE RH9
+  CARRY  4
+  D#  1  8
+  D#  1 16  3
+  C#  1 16
+  D#  1  8
+
+MEASURE 178
+  LINE TLLH2
+  TIELINE LH4 92
+  G# -1  4
+  F# -1  8
+  F# -1  4
+  B  -2  8
+
+MEASURE 178
+  LINE TLLH3
+  TIELINE LH4 90
+  REST   4
+  A  -1  8
+  A  -1  4
+  REST   8
+
+MEASURE 178
+  LINE LH4
+  B  -1  4
+  C#  0  8
+  C#  0  4
+  F# -1  8
+
+MEASURE 178
+  LINE LH5
+  D#  0  4
+  E   0  8
+  E   0  4
+  C#  0  8
+
+MEASURE 178
+  LINE TLRH8
+  TIELINE RH9 88
+  REST  16  9
+  F#  0 16
+  REST   8
+
+MEASURE 178
+  LINE TLRH9
+  TIELINE RH9 90
+  REST  16  9
+  A   0 16
+  REST   8
+
+MEASURE 179
+  LINE TLRH6
+  TIELINE RH8 90
+  A   0  4
+  C#  1  8
+  REST   8 3
+
+MEASURE 179
+  LINE TLRH5
+  TIELINE RH9 100
+  REST   8  3
+  REST   64 0
+  C#  1  64 0
+  CARRY   8  3
+
+MEASURE 179
+  LINE TLRH7
+  TIELINE RH8 92
+  C#  1  4
+  E   1  8
+  E   1  64 0
+  CARRY  64 0
+  CARRY   8  3
+
+MEASURE 179
+  LINE RH8
+  D#  1  4
+  F#  1  8
+  F#  1  64 0
+  CARRY  64 0
+  CARRY   8  3
+
+MEASURE 179
+  LINE RH9
+  G#  1  4
+  B   1  8
+  B   1  64 0
+  C#  1  64 0
+  B   1  8  3
+
+MEASURE 179
+  LINE TLLH2
+  TIELINE LH4 92
+  B  -2  4
+  A  -2  8
+  A  -2  4
+  C#  0  8
+
+MEASURE 179
+  LINE TLLH3
+  TIELINE LH4 90
+  REST   8  5
+  E   0  8
+
+MEASURE 179
+  LINE LH4
+  F# -1  4
+  E  -1  8
+  E  -1  4
+  F#  0  8
+
+MEASURE 179
+  LINE LH5
+  C#  0  4
+  B  -1  8
+  B  -1  4
+  B   0  8
+
+MEASURE 180
+  LINE TLRH5
+  CARRY 16  3
+  REST  16  9
+
+MEASURE 180
+  LINE TLRH7
+  TIELINE RH8 92
+  CARRY 16  3
+  REST  16
+  B   0  8
+  A   0 16  3
+  REST  16
+  REST   8
+
+MEASURE 180
+  LINE RH8
+  CARRY 16  3
+  REST  16
+  E   1  8
+  E   1 16  3
+  REST  16
+  B   0  8
+
+MEASURE 180
+  LINE RH9
+  CARRY 16  3
+  A   1 16
+  G#  1  8
+  F#  1 16  3
+  C#  1 16
+  D#  1  8
+# kr2l tmp rav-tomb-forlane.mus 173 50 8 0 88 /tmp/kr2l
+
+MEASURE 180
+  LINE TLLH2
+  TIELINE LH4 92
+  C#  0  4
+  REST   8  3
+  B  -2  8
+
+MEASURE 180
+  LINE TLLH3
+  TIELINE LH4 90
+  E   0  4
+  REST   2
+
+MEASURE 180
+  LINE LH4
+  F#  0  4
+  F# -2  8
+  F# -2  4
+  A  -1  8
+
+MEASURE 180
+  LINE LH5
+  B   0  4
+  C# -1  8
+  C# -1  4
+  B  -1  8
+# kr2l tmp rav-tomb-forlane.mus 176 50 8 0 88 /tmp/kr2l
+
+MEASURE 180
+  LINE TLRH8
+  TIELINE RH9 88
+  REST  16  9
+  F#  0 16 3
+
+MEASURE 180
+  LINE TLRH9
+  TIELINE RH9 90
+  REST  16  3
+  C#  1 16
+  REST  16  5
+  A   0 16
+  REST   8
+# kr2l tmp rav-tomb-forlane.mus 181 50 8 0 88 /tmp/kr2l
+
+MEASURE 181
+  MARK H-Theme
+  LINE TLRH7
+  TIELINE RH8 92
+  G#  0  8
+  REST   8
+  G   1  8
+  G   1  64 0
+  CARRY  64 0
+  CARRY   8  3
+
+MEASURE 181
+  LINE RH8
+  B   0  8
+  REST   8
+  B   1  8
+  B   1  64 0
+  CARRY  64 0
+  CARRY   8  3
+
+MEASURE 181
+  LINE RH9
+  E   1  8
+  REST   8
+  D   2  8
+  D   2  64 0
+  C#  2  64 0
+  D   2  8  3
+
+MEASURE 181
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   8  5
+  B   0  8
+
+MEASURE 181
+  LINE LH4
+  E  -2  8
+  REST   2
+  D   1  8
+
+MEASURE 181
+  LINE LH5
+  B  -2  8
+  REST   2
+  F#  1  8
+
+MEASURE 182
+  LINE TLRH7
+  TIELINE RH8 92
+  CARRY 16  9
+  REST  16
+  G#  1  8
+
+MEASURE 182
+  LINE RH8
+  CARRY 16  9
+  REST  16
+  A#  1  8
+
+MEASURE 182
+  LINE RH9
+  CARRY 16  9
+  E   2 16
+  C#  2  8
+# kr2l tmp rav-tomb-forlane.mus 183 50 8 0 88 /tmp/kr2l
+
+MEASURE 182
+  LINE TLLH2
+  TIELINE LH4 92
+  B   0  4
+  A  -1  8
+  A  -1  4
+  A#  0  8
+
+MEASURE 182
+  LINE LH4
+  D   1  4
+  E   0  8
+  E   0  4
+  C#  1  8
+
+MEASURE 182
+  LINE LH5
+  F#  1  4
+  B   0  8
+  B   0  4
+  F   1  8
+# kr2l tmp rav-tomb-forlane.mus 183 50 8 0 88 /tmp/kr2l
+
+MEASURE 183
+  LINE TLRH5
+  TIELINE RH8 88
+  C#  1  4
+  REST   2
+
+MEASURE 183
+  LINE TLRH6
+  TIELINE RH8 90
+  F   1  4
+  REST   2
+
+MEASURE 183
+  LINE TLRH7
+  TIELINE RH8 92
+  G#  1  4
+  F   1  8
+  F   1  64 0
+  CARRY  64 0
+  CARRY   8  3
+
+MEASURE 183
+  LINE RH8
+  A#  1  4
+  A   1  8
+  A   1  64 0
+  CARRY  64 0
+  CARRY   8  3
+
+MEASURE 183
+  LINE RH9
+  C#  2  4
+  C   2  8
+  C   2  64 0
+  B   1  64 0
+  C   2  8  3
+
+MEASURE 183
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   8  5
+  A   0  8
+
+MEASURE 183
+  LINE LH4
+  D  -1  4
+  REST   8  3
+  C   1  8
+
+MEASURE 183
+  LINE LH5
+  A  -1  4
+  REST   8  3
+  E   1  8
+
+MEASURE 184
+  LINE TLRH7
+  TIELINE RH8 92
+  CARRY 16  9
+  REST  16  3
+
+MEASURE 184
+  LINE RH8
+  CARRY 16  9
+  REST  16
+  G#  1  8
+
+MEASURE 184
+  LINE RH9
+  CARRY 16  9
+  D   2 16
+  B   1  8
+
+MEASURE 184
+  LINE TLLH2
+  TIELINE LH4 92
+  A   0  4
+  G  -1  8
+  G  -1  4
+  G#  0  8
+
+MEASURE 184
+  LINE LH4
+  C   1  4
+  D   0  8
+  D   0  4
+  B   0  8
+
+MEASURE 184
+  LINE LH5
+  E   1  4
+  A   0  8
+  A   0  4
+  E   1  8
+
+# kr2l tmp rav-tomb-forlane.mus 185 50 8 0 88 /tmp/kr2l
+
+MEASURE 185
+  LINE TLRH6
+  TIELINE RH8 90
+  B   0  4
+  REST   2
+
+MEASURE 185
+  LINE TLRH7
+  TIELINE RH8 92
+  E   1  4
+  E   0  8
+  E   0  64 0
+  CARRY  64 0
+  CARRY   8  3
+  TIENOTE RH8 LH5
+
+MEASURE 185
+  LINE RH8
+  G#  1  4
+  G#  0  8
+  G#  0  64 0
+  CARRY  64 0
+  CARRY   8  3
+
+MEASURE 185
+  LINE RH9
+  B   1  4
+  B   0  8
+  B   0  64 0
+  A   0  64 0
+  B   0  8  3
+# kr2l tmp rav-tomb-forlane.mus 186 50 8 0 88 /tmp/kr2l
+
+MEASURE 185
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   8  5
+  F  -2  8
+
+MEASURE 185
+  LINE LH4
+  C  -1  8  5
+  B  -2  8
+
+MEASURE 185
+  LINE LH5
+  G  -1  8  5
+  G# -1  8
+
+MEASURE 185
+  LINE TLLH4
+  TIELINE LH4 88
+  REST   8  5
+  B  -1  8
+
+MEASURE 185
+  LINE TLLH5
+  TIELINE LH5 88
+  REST   8  5
+  D#  0  8
+
+MEASURE 186
+  LINE TLRH7
+  TIELINE RH8 92
+  REST   4
+  D#  0  8
+  D#  0 16  3
+  REST  16
+  D#  0  8
+
+MEASURE 186
+  LINE RH8
+  CARRY  4
+  G#  0  8
+  G#  0 16  3
+  REST  16
+  G#  0  8
+
+MEASURE 186
+  LINE RH9
+  CARRY  4
+  C#  1  8
+  C#  1 16  3
+  B   0 16
+  C#  1  8
+
+# kr2l tmp rav-tomb-forlane.mus 187 50 8 0 88 /tmp/kr2l
+
+MEASURE 186
+  LINE TLLH2
+  TIELINE LH4 92
+  F  -2  4
+  REST   2
+
+MEASURE 186
+  LINE LH4
+  B  -2  4
+  C# -2  8
+  F  -1  4
+  F# -2  8
+
+MEASURE 186
+  LINE LH5
+  G# -1  4
+  G# -2  8
+  B  -1  4
+  C# -1  8
+
+# kr2l tmp rav-tomb-forlane.mus 187 50 8 0 88 /tmp/kr2l
+
+MEASURE 186
+  LINE TLLH4
+  TIELINE LH4 88
+  B  -1  4
+  REST   2
+
+MEASURE 186
+  LINE TLLH5
+  TIELINE LH5 88
+  D#  0  4
+  REST   2
+
+MEASURE 187
+  LINE TLRH6
+  TIELINE RH8 90
+  A   0  4
+  C   1  8
+  REST   8  3
+  LINE TLRH9
+  TIELINE RH9 100
+  REST   8  3
+  REST   64 0
+  C   1  64 0
+  CARRY  8  3
+
+MEASURE 187
+  LINE TLRH7
+  TIELINE RH8 92
+  C#  1  4
+  E   1  8
+  E   1  64 0
+  CARRY  64 0
+  CARRY  8  3
+
+MEASURE 187
+  LINE RH8
+  F   1  4
+  G#  1  8
+  G#  1  64 0
+  CARRY  64 0
+  CARRY  8  3
+
+MEASURE 187
+  LINE RH9
+  G#  1  4
+  B   1  8
+  B   1  64 0
+  C   1  64 0
+  B   1  8  3
+
+MEASURE 187
+  LINE TLLH2
+  TIELINE LH4 92
+  A  -1  4
+  C   0  8
+  C   0  4
+  REST   8
+
+MEASURE 187
+  LINE TLLH3
+  TIELINE LH4 90
+  REST   4
+  E   0  8
+  E   0  4
+  REST   8
+
+MEASURE 187
+  LINE LH4
+  C#  0  4
+  G#  0  8
+  G#  0  4
+  B  -3  8
+
+MEASURE 187
+  LINE LH5
+  F   0  4
+  B   0  8
+  B   0  4
+  B  -2  8
+
+MEASURE 188
+  LINE TLRH9
+  TIELINE RH8 90
+  CARRY 16  3
+  REST  16  9
+
+MEASURE 188
+  LINE TLRH7
+  TIELINE RH8 92
+  CARRY 16  3
+  REST  16  3
+  A   0 16  3
+  REST  16  3
+
+MEASURE 188
+  LINE RH8
+  CARRY 16  3
+  REST  16
+  C#  1  8
+  C#  1 16  3
+  REST  16
+  B   0  8
+
+MEASURE 188
+  LINE RH9
+  CARRY 16  3
+  A   1 16
+  G#  1  8
+  F#  1 16  3
+  C#  1 16
+  D#  1  8
+# kr2l tmp rav-tomb-forlane.mus 188 50 8 0 88 /tmp/kr2l
+
+MEASURE 188
+  LINE TLRH8
+  TIELINE RH9 90
+  REST  16  3
+  F   1 16
+  REST  16  5
+  A   0 16
+  REST   8
+# kr2l tmp rav-tomb-forlane.mus 181 50 8 0 88 /tmp/kr2l
+
+MEASURE 188
+  LINE TLLH2
+  TIELINE LH4 92
+  REST  16  3
+  A  -1 16
+  REST   8
+  A  -1  4
+  REST   8
+
+MEASURE 188
+  LINE LH4
+  B  -3 16  3
+  C#  0 16
+  F   0  8
+  C#  0  4
+  B  -3  8
+
+MEASURE 188
+  LINE LH5
+  B  -2 16  3
+  REST  16
+  REST   8
+  F#  0  4
+  B  -2  8
+# kr2l tmp rav-tomb-forlane.mus 185 50 8 0 88 /tmp/kr2l
+
+REPEAT 181 188 189
+
+MEASURE 197
+  MARK Coda-I
+  KEY 1#
+# kr2l tmp rav-tomb-forlane.mus 197 50 4 0 88 /tmp/kr2l
+
+MEASURE 197
+  LINE TLRH7
+  TIELINE RH8 92
+  G#  0  4
+  REST   2
+
+MEASURE 197
+  LINE RH8
+  B   0  4
+  REST   8
+  E   2  64 0
+  C   2  8
+  G#  1  8
+  F   1  8
+
+MEASURE 197
+  LINE RH9
+  E   1  4
+  REST   2
+
+MEASURE 197
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   8  3
+  Eb  0  4
+  REST   8
+
+MEASURE 197
+  LINE LH4
+  E  -2  4
+  REST   8
+  F   0  4
+  REST   8
+
+MEASURE 197
+  LINE LH5
+  B  -2  4
+  REST   8
+  C   1  4
+  REST   8
+
+MEASURE 197
+  LINE LH2
+  REST   8  5
+  A  -1  8
+
+MEASURE 198
+  LINE RH8
+  F#  2  64 0
+  Eb  2  8
+  Bb  1  8
+  G   1  8
+  E   2  64 0
+  C   2  8
+  G#  1  8
+  F   1  8
+
+MEASURE 198
+  LINE TLLH2
+  TIELINE LH4 92
+  C#  0  4
+  REST   8
+  Eb  0  4
+  REST   8
+
+MEASURE 198
+  LINE LH4
+  E   0  4
+  REST   8
+  F   0  4
+  REST   8
+
+MEASURE 198
+  LINE LH5
+  Bb  0  4
+  REST   8
+  C   1  4
+  REST   8
+
+MEASURE 198
+  LINE LH2
+  REST   4
+  E  -1  8
+  REST   4
+  A  -1  8
+
+MEASURE 199
+  LINE RH8
+  F#  2  64 0
+  Eb  2  8
+  Bb  1  8
+  G   1  8
+  E   2  64 0
+  C   2  8
+  D   2  8
+  C   2  8
+
+MEASURE 199
+  LINE TLRH7
+  TIELINE RH8 92
+  REST   2
+  G#  1  8
+  F   1  8
+
+MEASURE 199
+  LINE TLLH2
+  TIELINE LH4 92
+  C#  0  4
+  REST   8
+  Eb  0  4
+  REST   8
+
+MEASURE 199
+  LINE LH4
+  E   0  4
+  REST   8
+  F   0  4
+  REST   8
+
+MEASURE 199
+  LINE LH5
+  Bb  0  4
+  REST   8
+  C   1  4
+  REST   8
+
+MEASURE 199
+  LINE LH2
+  REST   4
+  E  -1  8
+  REST   4
+  A  -1  8
+
+MEASURE 200
+  LINE TLRH7
+  TIELINE RH8 92
+  E   1  8
+  F#  1  8
+  E   1  8
+  C#  1  8  3
+  TIENOTE LH4 LH2
+
+MEASURE 200
+  LINE RH8
+  B   1  8
+  A   1  8
+  B   1  8
+  F#  1  8  3
+  TRILL G 1
+  E   1  64 0
+  F#  1  64 0
+
+# kr2l tmp rav-tomb-forlane.mus 201 50 4 0 88 /tmp/kr2l
+
+MEASURE 200
+  LINE TLLH2
+  TIELINE LH4 92
+  E   0  4
+  REST   8
+  E   0  4
+  REST   8
+
+MEASURE 200
+  LINE LH4
+  F#  0  4
+  REST   8
+  F#  0  4
+  REST   8
+
+MEASURE 200
+  LINE LH5
+  B   0  4
+  REST   8
+  A   0  4
+  REST   8
+
+MEASURE 200
+  LINE LH2
+  REST   4
+  B  -1  8
+  REST   4
+  B  -1  8
+
+MEASURE 201
+  LINE TLRH7
+  TIELINE RH8 92
+  D   1  8
+  REST   8  5
+
+MEASURE 201
+  LINE RH8
+  G   1  8
+  B   1  8
+  D   2  8
+  E   2  64 0 
+  C   2  8
+  G#  1  8
+  F   1  8
+
+MEASURE 201
+  LINE TLLH2
+  TIELINE LH4 92
+  E   0  4
+  REST   8
+  Eb  0  4
+  REST   8
+
+MEASURE 201
+  LINE LH4
+  G   0  4
+  REST   8
+  F   0  4
+  REST   8
+
+MEASURE 201
+  LINE LH5
+  B   0  4
+  REST   8
+  C   1  4
+  REST   8
+
+MEASURE 201
+  LINE LH2
+  REST   4
+  F#  1  8
+  REST   4
+  A  -1  8
+
+MEASURE 202
+  LINE RH8
+  F#  2  64 0 
+  D#  2  8
+  Bb  1  8
+  G   1  8
+  E   2  64 0 
+  C   2  8
+  G#  1  8
+  F   1  8
+
+# kr2l tmp rav-tomb-forlane.mus 203 50 4 0 88 /tmp/kr2l
+
+MEASURE 202
+  LINE TLLH2
+  TIELINE LH4 92
+  C#  0  4
+  REST   8
+  Eb  0  4
+  REST   8
+
+MEASURE 202
+  LINE LH4
+  E   0  4
+  REST   8
+  F   0  4
+  REST   8
+
+MEASURE 202
+  LINE LH5
+  Bb  0  4
+  REST   8
+  C   1  4
+  REST   8
+
+MEASURE 202
+  LINE LH2
+  REST   4
+  E  -1  8
+  REST   4
+  A  -1  8
+
+MEASURE 203
+  LINE TLRH7
+  TIELINE RH8 92
+  REST   2
+  G#  1  8
+  F   1  8
+
+MEASURE 203
+  LINE RH8
+  F#  2  64 0 
+  Eb  2  8
+  Bb  1  8
+  G   1  8
+  C   2  8
+  E   2  64 0 
+  D   2  8
+  C   2  8
+# kr2l tmp rav-tomb-forlane.mus 204 50 4 0 88 /tmp/kr2l
+
+MEASURE 203
+  LINE TLLH2
+  TIELINE LH4 92
+  C#  0  4
+  REST   8
+  Eb  0  4
+  REST   8
+
+MEASURE 203
+  LINE LH4
+  E   0  4
+  REST   8
+  F   0  4
+  REST   8
+
+MEASURE 203
+  LINE LH5
+  Bb  0  4
+  REST   8
+  C   1  4
+  REST   8
+
+MEASURE 203
+  LINE LH2
+  REST   4
+  E  -1  8
+  REST   4
+  A  -1  8
+
+MEASURE 204
+  LINE TLRH7
+  TIELINE RH8 92
+  E   1  8
+  F#  1  8
+  E   1  8
+  C#  1  8  3
+  TIENOTE LH4 LH2
+
+MEASURE 204
+  LINE RH8
+  B   1  8
+  A   1  8
+  B   1  8
+  F#  1  8  3
+  TRILL  G  1
+  G   1 64 0
+  F#  1 64 0
+
+# kr2l tmp rav-tomb-forlane.mus 202 50 4 0 88 /tmp/kr2l
+
+MEASURE 204
+  LINE TLLH2
+  TIELINE LH4 92
+  E   0  4
+  REST   8
+  E   0  4
+  REST   8
+
+MEASURE 204
+  LINE LH4
+  F#  0  4
+  REST   8
+  F#  0  4
+  REST   8
+
+MEASURE 204
+  LINE LH5
+  B   0  4
+  REST   8
+  A   0  4
+  REST   8
+
+MEASURE 204
+  LINE LH2
+  REST   4
+  B  -1  8
+  REST   4
+  B  -1  8
+
+MEASURE 205
+  MARK Coda-II
+  LINE TLRH7
+  TIELINE RH8 90
+  B   0  4
+  REST   8  3
+  F#  0  8
+
+MEASURE 205
+  LINE RH8
+  E   1  4
+  REST   8
+  Eb  1  8
+  F   0  8
+  C#  1  8
+
+MEASURE 205
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   8  3
+  A  -2  4
+  REST   8
+
+MEASURE 205
+  LINE LH4
+  E   0  4
+  REST   8
+  E  -1  4
+  REST   8
+
+MEASURE 205
+  LINE LH5
+  G   0  4
+  REST   8
+  C   0  4
+  REST   8
+# kr2l tmp rav-tomb-forlane.mus 206 50 4 0 88 /tmp/kr2l
+
+MEASURE 205
+  LINE LH1
+  REST   8  5
+  Bb -1  8
+
+MEASURE 205
+  LINE LH2
+  REST   8  5
+  C#  0  8
+
+MEASURE 206
+  LINE TLRH7
+  TIELINE RH8 90
+  REST   4
+  G#  0  8
+  REST   4
+  F#  0  8
+
+MEASURE 206
+  LINE RH8
+  F#  1  8
+  G   0  8
+  E   1  8
+  Eb  1  8
+  F   0  8
+  C#  1  8
+
+MEASURE 206
+  LINE TLLH2
+  TIELINE LH4 92
+  E  -1  4
+  REST   8
+  A  -2  4
+  REST   8
+
+MEASURE 206
+  LINE LH4
+  B  -1  4
+  REST   8
+  E  -1  4
+  REST   8
+
+MEASURE 206
+  LINE LH5
+  D   0  4
+  REST   8
+  C   0  4
+  REST   8
+
+MEASURE 206
+  LINE LH1
+  REST   4
+  C   0  8
+  REST   4
+  Bb -1  8
+
+MEASURE 206
+  LINE LH2
+  REST   4
+  Eb  0  8
+  REST   4
+  C#  0  8
+
+MEASURE 207
+  LINE TLRH7
+  TIELINE RH8 90
+  REST   4
+  G#  0  8
+  REST   4
+  F#  0  8
+
+MEASURE 207
+  LINE RH8
+  F#  1  8
+  G   0  8
+  E   1  8
+  Eb  1  8
+  F   0  8
+  C#  1  8
+
+MEASURE 207
+  LINE TLLH2
+  TIELINE LH4 92
+  E  -1  4
+  REST   8
+  A  -2  4
+  REST   8
+
+MEASURE 207
+  LINE LH4
+  B  -1  4
+  REST   8
+  E  -1  4
+  REST   8
+
+MEASURE 207
+  LINE LH5
+  D   0  4
+  REST   8
+  C   0  4
+  REST   8
+
+MEASURE 207
+  LINE LH1
+  REST   4
+  C   0  8
+  REST   4
+  Bb -1  8
+
+MEASURE 207
+  LINE LH2
+  REST   4
+  Eb  0  8
+  REST   4
+  C#  0  8
+
+MEASURE 208
+  LINE TLRH7
+  TIELINE RH8 90
+  REST   4
+  C#  0  8
+  REST   4
+  A# -1  8
+
+MEASURE 208
+  LINE RH8
+  B   0  8
+  C   0  8
+  A   0  8
+  G#  0  8
+  A  -1  8
+  F#  0  8
+# kr2l tmp rav-tomb-forlane.mus 209 50 4 0 88 /tmp/kr2l
+
+MEASURE 208
+  LINE TLLH2
+  TIELINE LH4 92
+  F# -2  4
+  REST   2
+
+MEASURE 208
+  LINE LH4
+  C# -1  4
+  REST   8
+  Eb -2  4
+  REST   8
+
+MEASURE 208
+  LINE LH5
+  G# -1  4
+  REST   8
+  PHANTOM 4
+  REST   8
+
+
+# kr2l tmp rav-tomb-forlane.mus 209 50 4 0 88 /tmp/kr2l
+
+MEASURE 208
+  LINE LH1
+  REST   4
+  PHANTOM 8
+  REST   4
+  C# -1  8
+
+MEASURE 208
+  LINE LH2
+  REST   4
+  A  -1  8
+  REST   4
+  F# -1  8
+
+# kr2l tmp rav-tomb-forlane.mus 209 50 4 0 88 /tmp/kr2l
+
+MEASURE 209
+  LINE TLRH6
+  TIELINE RH8 90
+  G# -1  4
+  REST   2
+
+MEASURE 209
+  LINE TLRH7
+  TIELINE RH8 90
+  B  -1  4
+  REST   8  3
+  G   0  8
+
+MEASURE 209
+  LINE RH8
+  Eb  0  4
+  REST   8
+  Eb  1  8
+  F   0  8
+  C#  1  8
+
+MEASURE 209
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   8  5
+  F  -1  8
+
+MEASURE 209
+  LINE LH4
+  G# -2  4
+  REST   8  3
+  B  -1  8
+
+MEASURE 209
+  LINE LH5
+  REST   8  5
+  E   0  8
+
+MEASURE 209
+  LINE LH2
+  REST   8  3
+  C# -2  4
+  REST   8
+
+MEASURE 210
+  LINE TLRH7
+  TIELINE RH8 90
+  REST   4
+  Bb  0  8
+  REST   4
+  G   0  8
+
+MEASURE 210
+  LINE RH8
+  F#  1  8
+  A   0  8
+  E   1  8
+  Eb  1  8
+  F   0  8
+  C#  1  8
+
+MEASURE 210
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   4
+  G  -1  8
+  REST   4
+  F  -1  8
+
+MEASURE 210
+  LINE LH4
+  REST   4
+  C#  0  8
+  REST   4
+  B  -1  8
+
+MEASURE 210
+  LINE LH5
+  REST   4
+  F#  0  8
+  REST   4
+  E   0  8
+
+MEASURE 210
+  LINE LH2
+  Eb -2  4
+  REST   8
+  C# -2  4
+  REST   8
+
+MEASURE 211
+  LINE TLRH7
+  TIELINE RH8 90
+  REST   4
+  Bb  0  8
+  REST   4
+  G   0  8
+
+MEASURE 211
+  LINE RH8
+  F#  1  8
+  A   0  8
+  E   1  8
+  Eb  1  8
+  F   0  8
+  C#  1  8
+# kr2l tmp rav-tomb-forlane.mus 212 50 4 0 88 /tmp/kr2l
+
+MEASURE 211
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   4
+  G  -1  8
+  REST   4
+  F  -1  8
+
+MEASURE 211
+  LINE LH4
+  REST   4
+  C#  0  8
+  REST   4
+  B  -1  8
+
+MEASURE 211
+  LINE LH5
+  REST   4
+  F#  0  8
+  REST   4
+  E   0  8
+
+# kr2l tmp rav-tomb-forlane.mus 209 50 4 0 88 /tmp/kr2l
+
+MEASURE 211
+  LINE LH2
+  Eb -2  4
+  REST   8
+  C# -2  4
+  REST   8
+
+MEASURE 212
+  LINE TLRH7
+  TIELINE RH8 90
+  G#  0  8
+  REST   8
+  F   0  8
+  D   0  8
+  C#  0  8
+  C   0  8
+
+MEASURE 212
+  LINE RH8
+  B   0  8
+  C   0  8
+  A   0  8
+  F#  0  8
+  G#  0  8
+  Eb  0  8
+# kr2l tmp rav-tomb-forlane.mus 213 50 4 0 88 /tmp/kr2l
+
+MEASURE 212
+  LINE LH4
+  REST   4
+  C#  0  8
+  B  -2  4
+  REST   8
+
+MEASURE 212
+  LINE LH5
+  REST   8  3
+  A  -1  4
+  REST   8
+
+MEASURE 212
+  LINE LH2
+  F# -2  4
+  REST   8  3
+  G# -2  8
+
+MEASURE 213
+  MARK Coda-III
+  LINE TLRH7
+  TIELINE RH8 90
+  B  -1  4
+  REST   2
+  LINE TLRH6
+  TIELINE RH8 88
+  G  -1  4
+  REST   2
+
+MEASURE 213
+  LINE RH8
+  E   0  4
+  REST   8
+  E   0 16  3
+  Bb  0 16
+  B   0  8
+
+MEASURE 213
+  LINE LH4
+  E  -2  4
+  REST   2
+
+MEASURE 213
+  LINE LH5
+  B  -2  4
+  REST   2
+# kr2l tmp rav-tomb-forlane.mus 214 50 4 0 88 /tmp/kr2l
+
+MEASURE 213
+  LINE LH2
+  REST   4  3
+
+MEASURE 214
+  LINE TLLH3
+  TIELINE LH4 85
+  Eb  0  4  3
+
+MEASURE 214
+  LINE TLLH4
+  TIELINE LH4 88
+  G   0  4  3
+
+MEASURE 214
+  LINE RH9
+  Eb  1  4  3
+
+# kr2l tmp rav-tomb-forlane.mus 215 50 4 0 88 /tmp/kr2l
+
+MEASURE 214
+  LINE TLLH2
+  TIELINE LH4 92
+  A  -1  4  3
+
+MEASURE 214
+  LINE LH4
+  C#  0  4  3
+
+MEASURE 214
+  LINE LH5
+  F   0  4  3
+
+MEASURE 214
+  LINE LH2
+  REST   8  3
+  B  -2  4
+  REST   8
+
+MEASURE 215
+  LINE TLRH7
+  TIELINE RH9 87
+  G  -1 16  3
+  REST  16  3
+  Eb  0  8  3
+
+MEASURE 215
+  LINE TLRH8
+  TIELINE RH9 88
+  B  -1 16  3
+  REST  16  3
+  G#  0  8  3
+
+MEASURE 215
+  LINE RH9
+  E   0 16  3
+  Bb  0 16
+  B   0  8
+  Eb  1  8  3
+
+MEASURE 215
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   8  3
+  A  -1  8  3
+
+MEASURE 215
+  LINE LH4
+  REST   8  3
+  C   0  8  3
+
+MEASURE 215
+  LINE LH5
+  REST   8  3
+  F   0  8  3
+
+MEASURE 215
+  LINE LH2
+  E  -2  4
+  REST   2
+
+MEASURE 216
+  LINE TLRH7
+  TIELINE RH9 87
+  CARRY  8  3
+  G  -1 16  3
+  REST  16  3
+
+MEASURE 216
+  LINE TLRH8
+  TIELINE RH9 88
+  CARRY  8  3
+  B  -1 16  3
+  REST  16  3
+
+MEASURE 216
+  LINE RH9
+  CARRY  8  3
+  E   0 16  3
+  Bb  0 16
+  B   0  8
+
+MEASURE 216
+  LINE TLLH2
+  TIELINE LH4 92
+  CARRY  8  3
+  REST   8  3
+
+MEASURE 216
+  LINE LH4
+  CARRY  8  3
+  REST   8  3
+
+MEASURE 216
+  LINE LH5
+  CARRY  8  3
+  REST   8  3
+# kr2l tmp rav-tomb-forlane.mus 217 50 4 0 88 /tmp/kr2l
+
+MEASURE 216
+  LINE LH2
+  B  -2  4
+  REST   8
+  E  -2  4
+  REST   8
+MEASURE 217
+  LINE RH8
+  Eb  1 16  3
+  Bb  1 16
+  B   1  8
+  Eb  2 16  3
+  Bb  2 16
+  B   2  8
+
+# kr2l tmp rav-tomb-forlane.mus 218 50 4 0 88 /tmp/kr2l
+
+MEASURE 217
+  LINE TLLH2
+  TIELINE LH4 92
+  G   0 16  3
+  REST  16  3
+  G   1 16  3
+  REST  16  3
+
+MEASURE 217
+  LINE LH4
+  B   0 16  3
+  REST  16  3
+  B   1 16  3
+  REST  16  3
+
+MEASURE 217
+  LINE LH5
+  E   1 16  3
+  REST  16  3
+  E   2 16  3
+  REST  16  3
+
+# kr2l tmp rav-tomb-forlane.mus 218 50 4 0 88 /tmp/kr2l
+
+MEASURE 218
+  APART
+  LINE TLRH8
+  TIELINE RH9 85
+  REST   8  3
+  E   1  64 0
+  CARRY  64 0
+  CARRY   8  3
+
+MEASURE 218
+  LINE RH9
+  Eb  3  8
+  REST   4
+  B   1  64 0
+  A   1  64 0
+  B   1  8  3
+# kr2l tmp rav-tomb-forlane.mus 197 50 4 0 88 /tmp/kr2l
+
+# kr2l tmp rav-tomb-forlane.mus 197 50 4 0 88 /tmp/kr2l
+
+MEASURE 218
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   8  3
+  B  -1  8  3
+
+MEASURE 218
+  LINE LH4
+  G   2  8
+  REST   4
+  E   0  8  3
+
+MEASURE 218
+  LINE LH5
+  B   2  8
+  REST   4
+  B   0  8  3
+
+MEASURE 219
+  LINE LH4
+  E  -2  4
+  REST   2
+
+MEASURE 219
+  LINE LH5
+  B  -2  4
+  REST   2
+# kr2l tmp rav-tomb-forlane.mus 197 50 4 0 88 /tmp/kr2l
+

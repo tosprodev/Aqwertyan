@@ -1,0 +1,790 @@
+NAME Auto-gen
+
+MEASURE 1
+  KEY 0
+  TEMPO 1 1666.000000
+  METER 128 1
+  LH SKIP
+  LH IGNORE
+  LH CHORDIG
+  RH SKIP
+  RH IGNORE
+  RH CHORDIG
+  LINE LH0001
+    CHANNEL 10
+    REST 1 9
+    D -2 1 1
+    VOLPERC 78.378400
+    # From first keys list.
+    CARRY 1 19
+    D -2 1 1
+    VOLPERC 83.783800
+    # Previously mapped.
+    CARRY 1 19
+    D -2 1 1
+    VOLPERC 78.378400
+    # Previously mapped.
+    CARRY 1 19
+    D -2 1 1
+    VOLPERC 81.982000
+    # Previously mapped.
+    CARRY 1 14
+    B -3 1 1
+    VOLPERC 76.576600
+    # From first keys list.
+    CARRY 1 9
+    B -3 1 1
+    VOLPERC 74.774800
+    # From first keys list.
+    CARRY 1 4
+    A# -2 1 1
+    VOLPERC 66.666700
+    # Previously mapped.
+    CARRY 1 4
+    B -3 1 1
+    VOLPERC 76.576600
+    # Previously mapped.
+    CARRY 1 9
+    B -3 1 1
+    VOLPERC 31.531500
+    # Previously mapped.
+    CARRY 1 4
+    B -3 1 1
+    VOLPERC 83.783800
+    # Previously mapped.
+    CARRY 1 8
+    # Previously mapped.
+  LINE LH0002
+    CHANNEL 10
+    REST 1 89
+    A# -2 1 1
+    VOLPERC 68.468500
+    # From first keys list.
+    CARRY 1 8
+    REST 1 11
+    A# -2 1 1
+    # Previously mapped.
+    CARRY 1 9
+    A# -2 1 1
+    VOLPERC 72.072100
+    # Previously mapped.
+    CARRY 1 8
+    # Previously mapped.
+  LINE RH0001
+    CHANNEL 10
+    B -3 1 1
+    VOLPERC 90.991000
+    # From first keys list.
+    CARRY 1 13
+    B -3 1 1
+    VOLPERC 74.774800
+    # Previously mapped.
+    CARRY 1 4
+    A# -2 1 1
+    VOLPERC 75.675700
+    # Previously mapped.
+    CARRY 1 4
+    B -3 1 1
+    VOLPERC 66.666700
+    # Previously mapped.
+    CARRY 1 14
+    B -3 1 1
+    VOLPERC 80.180200
+    # Previously mapped.
+    CARRY 1 14
+    B -3 1 1
+    VOLPERC 76.576600
+    # Previously mapped.
+    CARRY 1 4
+    A# -2 1 1
+    VOLPERC 68.468500
+    # Previously mapped.
+    CARRY 1 4
+    B -3 1 1
+    VOLPERC 71.171200
+    # Previously mapped.
+    CARRY 1 9
+    B -3 1 1
+    VOLPERC 42.342300
+    # Previously mapped.
+    CARRY 1 4
+    B -3 1 1
+    VOLPERC 83.783800
+    # Previously mapped.
+    CARRY 1 9
+    D -2 1 1
+    VOLPERC 74.774800
+    # From first keys list.
+    CARRY 1 19
+    D -2 1 1
+    VOLPERC 81.982000
+    # Previously mapped.
+    CARRY 1 14
+    B -3 1 1
+    VOLPERC 72.973000
+    # From first keys list.
+    CARRY 1 3
+    # From first keys list.
+  LINE RH0002
+    CHANNEL 10
+    A# -2 1 1
+    VOLPERC 68.468500
+    # From first keys list.
+    CARRY 1 8
+    A# -2 1 1
+    VOLPERC 77.477500
+    # Previously mapped.
+    CARRY 1 8
+    REST 1 11
+    A# -2 1 1
+    VOLPERC 68.468500
+    # Previously mapped.
+    CARRY 1 9
+    A# -2 1 1
+    VOLPERC 66.666700
+    # Previously mapped.
+    CARRY 1 9
+    A# -2 1 1
+    # Previously mapped.
+    CARRY 1 8
+    REST 1 11
+    A# -2 1 1
+    VOLPERC 68.468500
+    # Previously mapped.
+    CARRY 1 9
+    A# -2 1 1
+    VOLPERC 70.270300
+    # Previously mapped.
+    CARRY 1 8
+    REST 1 40
+    # Previously mapped.
+
+MEASURE 2
+  LINE LH0001
+    CHANNEL 10
+    REST 1 1
+    D -2 1 1
+    VOLPERC 80.180200
+    # From first keys list.
+    REST 1 14
+    G -2 1 1
+    VOLPERC 97.297300
+    # Lowest frequency (9) plus use count (16).
+    REST 1 14
+    B -3 1 1
+    VOLPERC 90.991000
+    # Chord - Base note.
+    REST 1 19
+    A# -2 1 1
+    VOLPERC 75.675700
+    # Previously mapped.
+    REST 1 9
+    D -2 1 1
+    VOLPERC 83.783800
+    # Lowest frequency (10) plus use count (30).
+    REST 1 19
+    D -2 1 1
+    VOLPERC 78.378400
+    # Previously mapped.
+    REST 1 9
+    A# -2 1 1
+    VOLPERC 68.468500
+    # Previously mapped.
+    REST 1 9
+    D -2 1 1
+    VOLPERC 81.982000
+    # Previously mapped.
+    REST 1 19
+    D -2 1 1
+    VOLPERC 74.774800
+    # Lowest frequency (8) plus use count (33).
+    REST 1 6
+    # Lowest frequency (8) plus use count (33).
+  LINE LH0002
+    CHANNEL 10
+    REST 1 31
+    A# -2 1 1
+    VOLPERC 68.468500
+    # Chord - continuation.
+    REST 1 9
+    A# -2 1 1
+    VOLPERC 77.477500
+    # Lowest frequency (15) plus use count (21).
+    REST 1 19
+    A# -2 1 1
+    VOLPERC 68.468500
+    # Previously mapped.
+    REST 1 9
+    A# -2 1 1
+    VOLPERC 66.666700
+    # Previously mapped.
+    REST 1 9
+    A# -2 1 1
+    # Previously mapped.
+    REST 1 19
+    A# -2 1 1
+    VOLPERC 68.468500
+    # Previously mapped.
+    REST 1 9
+    A# -2 1 1
+    VOLPERC 70.270300
+    # Previously mapped.
+    REST 1 16
+    # Previously mapped.
+  LINE LH0003
+    CHANNEL 10
+    REST 1 31
+    C# -1 1 1
+    VOLPERC 86.486500
+    # Chord - continuation.
+    REST 1 96
+    # Chord - continuation.
+  LINE RH0001
+    CHANNEL 10
+    REST 1 6
+    B -3 1 1
+    VOLPERC 86.486500
+    # Previously mapped.
+    REST 1 4
+    B -3 1 1
+    VOLPERC 63.964000
+    # Previously mapped.
+    REST 1 9
+    B -3 1 1
+    VOLPERC 36.936900
+    # Previously mapped.
+    REST 1 4
+    F -2 1 1
+    VOLPERC 100.000000
+    # Lowest frequency (10) plus use count (19).
+    REST 1 14
+    D -2 1 1
+    VOLPERC 78.378400
+    # Lowest frequency (8) plus use count (20).
+    REST 1 4
+    B -3 1 1
+    VOLPERC 74.774800
+    # Previously mapped.
+    REST 1 9
+    B -3 1 1
+    VOLPERC 66.666700
+    # Previously mapped.
+    REST 1 14
+    B -3 1 1
+    VOLPERC 80.180200
+    # Previously mapped.
+    REST 1 14
+    B -3 1 1
+    VOLPERC 76.576600
+    # Previously mapped.
+    REST 1 9
+    B -3 1 1
+    VOLPERC 71.171200
+    # Previously mapped.
+    REST 1 9
+    B -3 1 1
+    VOLPERC 42.342300
+    # Previously mapped.
+    REST 1 4
+    B -3 1 1
+    VOLPERC 83.783800
+    # Previously mapped.
+    REST 1 4
+    B -3 1 1
+    VOLPERC 76.576600
+    # Lowest frequency (15) plus use count (27).
+    REST 1 9
+    B -3 1 1
+    VOLPERC 74.774800
+    # Previously mapped.
+    REST 1 1
+    # Previously mapped.
+  LINE RH0002
+    CHANNEL 10
+    REST 1 1
+    A# -2 1 1
+    VOLPERC 68.468500
+    # From first keys list.
+    REST 1 9
+    A# -2 1 1
+    VOLPERC 72.072100
+    # Previously mapped.
+    REST 1 9
+    A# -2 1 1
+    VOLPERC 75.675700
+    # Previously mapped.
+    REST 1 99
+    A# -2 1 1
+    VOLPERC 68.468500
+    # Lowest frequency (10) plus use count (41).
+    REST 1 6
+    # Lowest frequency (10) plus use count (41).
+
+MEASURE 3
+  LINE LH0001
+    CHANNEL 10
+    REST 1 13
+    D -2 1 1
+    VOLPERC 81.982000
+    # Previously mapped.
+    REST 1 14
+    B -3 1 1
+    VOLPERC 62.162200
+    # Lowest frequency (9) plus use count (38).
+    REST 1 29
+    F -2 1 1
+    VOLPERC 100.000000
+    # Lowest frequency (8) plus use count (70).
+    REST 1 4
+    B -3 1 1
+    VOLPERC 90.991000
+    # Chord - Base note.
+    REST 1 19
+    F -1 1 1
+    VOLPERC 81.982000
+    # Previously mapped.
+    REST 1 39
+    F -1 1 1
+    VOLPERC 80.180200
+    # Previously mapped.
+    REST 1 4
+    # Previously mapped.
+  LINE LH0002
+    CHANNEL 10
+    REST 1 23
+    E -1 1 1
+    VOLPERC 76.576600
+    # Lowest frequency (15) plus use count (31).
+    REST 1 9
+    A# -2 1 1
+    VOLPERC 75.675700
+    # Lowest frequency (10) plus use count (59).
+    REST 1 9
+    A# -2 1 1
+    VOLPERC 72.072100
+    # Previously mapped.
+    REST 1 9
+    A# -2 1 1
+    VOLPERC 75.675700
+    # Previously mapped.
+    REST 1 9
+    C# -1 1 1
+    VOLPERC 86.486500
+    # Chord - continuation.
+    REST 1 9
+    F -1 1 1
+    VOLPERC 83.783800
+    # Lowest frequency (15) plus use count (63).
+    REST 1 19
+    F -1 1 1
+    VOLPERC 80.180200
+    # Previously mapped.
+    REST 1 9
+    F -1 1 1
+    VOLPERC 83.783800
+    # Previously mapped.
+    REST 1 9
+    F -1 1 1
+    VOLPERC 72.973000
+    # Previously mapped.
+    REST 1 14
+    # Previously mapped.
+  LINE LH0003
+    CHANNEL 10
+    REST 1 63
+    F -1 1 1
+    VOLPERC 90.991000
+    # Chord - continuation.
+    REST 1 64
+    # Chord - continuation.
+  LINE RH0001
+    CHANNEL 10
+    REST 1 3
+    A# -2 1 1
+    VOLPERC 66.666700
+    # Previously mapped.
+    REST 1 4
+    B -3 1 1
+    VOLPERC 76.576600
+    # Previously mapped.
+    REST 1 9
+    B -3 1 1
+    VOLPERC 31.531500
+    # Previously mapped.
+    REST 1 4
+    B -3 1 1
+    VOLPERC 78.378400
+    # Previously mapped.
+    REST 1 9
+    D -2 1 1
+    VOLPERC 86.486500
+    # Lowest frequency (8) plus use count (45).
+    REST 1 4
+    B -3 1 1
+    # Lowest frequency (15) plus use count (40).
+    REST 1 4
+    B -3 1 1
+    VOLPERC 63.964000
+    # Previously mapped.
+    REST 1 4
+    G -2 1 1
+    VOLPERC 97.297300
+    # Lowest frequency (9) plus use count (62).
+    REST 1 4
+    B -3 1 1
+    VOLPERC 36.936900
+    # Previously mapped.
+    REST 1 19
+    D -2 1 1
+    VOLPERC 78.378400
+    # Lowest frequency (10) plus use count (71).
+    REST 1 4
+    B -3 1 1
+    VOLPERC 74.774800
+    # Previously mapped.
+    REST 1 9
+    B -3 1 1
+    VOLPERC 66.666700
+    # Previously mapped.
+    REST 1 4
+    D -2 1 1
+    VOLPERC 83.783800
+    # Previously mapped.
+    REST 1 9
+    B -3 1 1
+    VOLPERC 80.180200
+    # Previously mapped.
+    REST 1 9
+    D -2 1 1
+    VOLPERC 78.378400
+    # Previously mapped.
+    REST 1 4
+    B -3 1 1
+    VOLPERC 76.576600
+    # Previously mapped.
+    REST 1 9
+    # Previously mapped.
+  LINE RH0002
+    CHANNEL 10
+    REST 1 13
+    A# -2 1 1
+    VOLPERC 68.468500
+    # Previously mapped.
+    REST 1 114
+    # Previously mapped.
+
+MEASURE 4
+  LINE LH0001
+    CHANNEL 10
+    REST 1 25
+    D -2 1 1
+    VOLPERC 74.774800
+    # Lowest frequency (9) plus use count (75).
+    REST 1 9
+    F -1 1 1
+    VOLPERC 81.982000
+    # Previously mapped.
+    REST 1 9
+    D -2 1 1
+    # Previously mapped.
+    REST 1 24
+    D -2 1 1
+    VOLPERC 62.162200
+    # Lowest frequency (10) plus use count (83).
+    REST 1 2
+    D -2 1 1
+    VOLPERC 65.765800
+    # Previously mapped.
+    REST 1 1
+    D -2 1 1
+    VOLPERC 86.486500
+    # Previously mapped.
+    REST 1 14
+    F -2 1 1
+    VOLPERC 100.000000
+    # Lowest frequency (9) plus use count (113).
+    REST 1 4
+    B -3 1 1
+    VOLPERC 90.991000
+    # Chord - Base note.
+    REST 1 19
+    F -1 1 1
+    VOLPERC 81.982000
+    # Previously mapped.
+    REST 1 12
+    # Previously mapped.
+  LINE LH0002
+    CHANNEL 10
+    REST 1 5
+    F -1 1 1
+    VOLPERC 81.982000
+    # Previously mapped.
+    REST 1 9
+    F -1 1 1
+    VOLPERC 86.486500
+    # Previously mapped.
+    REST 1 9
+    F -1 1 1
+    VOLPERC 83.783800
+    # Previously mapped.
+    REST 1 19
+    F -1 1 1
+    VOLPERC 89.189200
+    # Previously mapped.
+    REST 1 9
+    E -1 1 1
+    VOLPERC 81.982000
+    # Lowest frequency (15) plus use count (74).
+    REST 1 9
+    F -1 1 1
+    VOLPERC 86.486500
+    # Lowest frequency (8) plus use count (84).
+    REST 1 29
+    C# -1 1 1
+    VOLPERC 68.468500
+    # Chord - continuation.
+    REST 1 9
+    F -1 1 1
+    VOLPERC 83.783800
+    # Lowest frequency (8) plus use count (120).
+    REST 1 19
+    F -1 1 1
+    VOLPERC 80.180200
+    # Previously mapped.
+    REST 1 2
+    # Previously mapped.
+  LINE LH0003
+    CHANNEL 10
+    REST 1 95
+    F -1 1 1
+    VOLPERC 90.991000
+    # Chord - continuation.
+    REST 1 32
+    # Chord - continuation.
+  LINE RH0001
+    CHANNEL 10
+    B -3 1 1
+    VOLPERC 71.171200
+    # Previously mapped.
+    REST 1 4
+    D -2 1 1
+    VOLPERC 81.982000
+    # Previously mapped.
+    REST 1 4
+    B -3 1 1
+    VOLPERC 42.342300
+    # Previously mapped.
+    REST 1 4
+    B -3 1 1
+    VOLPERC 83.783800
+    # Previously mapped.
+    REST 1 4
+    B -3 1 1
+    VOLPERC 76.576600
+    # Lowest frequency (8) plus use count (76).
+    REST 1 9
+    B -3 1 1
+    VOLPERC 74.774800
+    # Previously mapped.
+    REST 1 9
+    B -3 1 1
+    VOLPERC 76.576600
+    # Previously mapped.
+    REST 1 9
+    B -3 1 1
+    VOLPERC 31.531500
+    # Previously mapped.
+    REST 1 4
+    B -3 1 1
+    VOLPERC 72.973000
+    # Previously mapped.
+    REST 1 4
+    B -3 1 1
+    VOLPERC 63.063100
+    # Lowest frequency (15) plus use count (73).
+    REST 1 4
+    D -2 1 1
+    VOLPERC 86.486500
+    # Lowest frequency (9) plus use count (81).
+    REST 1 14
+    G -2 1 1
+    VOLPERC 97.297300
+    # Lowest frequency (10) plus use count (102).
+    REST 1 4
+    B -3 1 1
+    VOLPERC 57.657700
+    # Lowest frequency (15) plus use count (105).
+    REST 1 19
+    D -2 1 1
+    VOLPERC 78.378400
+    # Lowest frequency (8) plus use count (116).
+    REST 1 4
+    B -3 1 1
+    VOLPERC 74.774800
+    # Previously mapped.
+    REST 1 9
+    B -3 1 1
+    VOLPERC 66.666700
+    # Previously mapped.
+    REST 1 4
+    D -2 1 1
+    VOLPERC 83.783800
+    # Lowest frequency (9) plus use count (119).
+    REST 1 2
+    # Lowest frequency (9) plus use count (119).
+
+MEASURE 5
+  LINE LH0001
+    CHANNEL 10
+    REST 1 27
+    F -1 1 1
+    VOLPERC 80.180200
+    # Previously mapped.
+    REST 1 24
+    B -3 1 1
+    VOLPERC 76.576600
+    # Lowest frequency (10) plus use count (123).
+    REST 1 4
+    D -2 1 1
+    VOLPERC 74.774800
+    # Lowest frequency (15) plus use count (114).
+    REST 1 4
+    B -3 1 1
+    # Previously mapped.
+    REST 1 9
+    B -3 1 1
+    VOLPERC 76.576600
+    # Previously mapped.
+    REST 1 4
+    D -2 1 1
+    VOLPERC 81.982000
+    # Previously mapped.
+    REST 1 4
+    B -3 1 1
+    VOLPERC 31.531500
+    # Previously mapped.
+    REST 1 4
+    B -3 1 1
+    VOLPERC 72.973000
+    # Previously mapped.
+    REST 1 9
+    D -2 1 1
+    VOLPERC 86.486500
+    # Lowest frequency (9) plus use count (126).
+    REST 1 4
+    D -2 1 1
+    VOLPERC 62.162200
+    # Lowest frequency (8) plus use count (148).
+    REST 1 2
+    D -2 1 1
+    VOLPERC 65.765800
+    # Previously mapped.
+    REST 1 1
+    D -2 1 1
+    VOLPERC 86.486500
+    # Previously mapped.
+    REST 1 14
+    F -2 1 1
+    VOLPERC 100.000000
+    # Lowest frequency (10) plus use count (158).
+    REST 1 4
+    B -3 1 1
+    VOLPERC 90.991000
+    # Chord - Base note.
+  LINE LH0002
+    CHANNEL 10
+    REST 1 7
+    F -1 1 1
+    VOLPERC 83.783800
+    # Previously mapped.
+    REST 1 9
+    F -1 1 1
+    VOLPERC 72.973000
+    # Previously mapped.
+    REST 1 19
+    F -1 1 1
+    VOLPERC 81.982000
+    # Previously mapped.
+    REST 1 9
+    F -1 1 1
+    VOLPERC 86.486500
+    # Previously mapped.
+    REST 1 39
+    E -1 1 1
+    VOLPERC 81.982000
+    # Lowest frequency (15) plus use count (117).
+    REST 1 39
+    A# -2 1 1
+    VOLPERC 68.468500
+    # Chord - continuation.
+  LINE LH0003
+    CHANNEL 10
+    REST 1 127
+    C# -1 1 1
+    VOLPERC 68.468500
+    # Chord - continuation.
+  LINE RH0001
+    CHANNEL 10
+    REST 1 7
+    B -3 1 1
+    VOLPERC 80.180200
+    # Previously mapped.
+    REST 1 9
+    D -2 1 1
+    VOLPERC 78.378400
+    # Previously mapped.
+    REST 1 4
+    B -3 1 1
+    VOLPERC 76.576600
+    # Previously mapped.
+    REST 1 9
+    B -3 1 1
+    VOLPERC 71.171200
+    # Previously mapped.
+    REST 1 4
+    D -2 1 1
+    VOLPERC 81.982000
+    # Previously mapped.
+    REST 1 4
+    B -3 1 1
+    VOLPERC 42.342300
+    # Previously mapped.
+    REST 1 4
+    B -3 1 1
+    VOLPERC 83.783800
+    # Previously mapped.
+    REST 1 19
+    F -1 1 1
+    VOLPERC 81.982000
+    # Previously mapped.
+    REST 1 24
+    B -3 1 1
+    VOLPERC 63.063100
+    # Lowest frequency (10) plus use count (124).
+    REST 1 19
+    G -2 1 1
+    VOLPERC 97.297300
+    # Lowest frequency (9) plus use count (144).
+    REST 1 4
+    B -3 1 1
+    VOLPERC 57.657700
+    # Lowest frequency (15) plus use count (147).
+    REST 1 10
+    # Lowest frequency (15) plus use count (147).
+  LINE RH0002
+    CHANNEL 10
+    REST 1 57
+    F -1 1 1
+    VOLPERC 83.783800
+    # Lowest frequency (15) plus use count (118).
+    REST 1 19
+    F -1 1 1
+    VOLPERC 89.189200
+    # Previously mapped.
+    REST 1 19
+    F -1 1 1
+    VOLPERC 86.486500
+    # Lowest frequency (8) plus use count (130).
+    REST 1 30
+    # Lowest frequency (8) plus use count (130).
+

@@ -1,0 +1,11 @@
+JMID FILE
+Format: 1  ntracks: 1  Division: 240
+TRACK 0
+    0 NOTE-ON 90 60 64
+    0 NOTE-ON 90 64 64
+    0 NOTE-ON 90 67 64
+    480 NOTE-OFF 80 60 64
+    0 NOTE-OFF 80 64 64
+    0 NOTE-OFF 80 67 64
+   1000 META       FF 2F 0
+ 

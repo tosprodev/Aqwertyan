@@ -1,0 +1,549 @@
+NAME Scriabin Prelude 22/1
+
+MEASURE 1
+METER 3 4
+TEMPO 8 72
+KEY 5#
+
+
+MEASURE 1
+  LINE RH1
+  D#  1  4
+  D#  1 16  7
+  D#  1 16
+
+MEASURE 2
+  LINE RH1
+  D#  1  4
+  C#  1 16  7
+  B   0 16
+
+MEASURE 3
+  LINE RH1
+  D#  1  2
+  G#  0 16  3
+  G   0 16
+
+MEASURE 4
+  LINE RH1
+  A#  0  4  3
+
+MEASURE 5
+  LINE RH1
+  G#  0  8
+  REST   8
+  G#  1 16  7
+  G#  1 16
+
+MEASURE 6
+  LINE RH1
+  G#  1  4
+  F#  1 16  7
+  E   1 16
+
+MEASURE 7
+  LINE RH1
+  G#  1  2
+  C#  1 16  3
+  C   1 16
+
+MEASURE 8
+  LINE RH1
+  D#  1  4  3
+
+MEASURE 9
+  LINE RH1
+  C#  1  8
+  REST   8
+  G#  0 16  7
+  G#  0 16
+
+MEASURE 10
+  LINE RH1
+  G#  0  4
+  F#  0 16  7
+  E   0 16
+
+MEASURE 11
+  LINE RH1
+  F#  0  4
+  F#  0 16  7
+  F#  0 16
+
+MEASURE 12
+  LINE RH1
+  F#  0  4
+  E   0 16  7
+  F#  0 16
+
+MEASURE 13
+  LINE RH1
+  G#  0  2
+  D#  0  4
+
+MEASURE 14
+  LINE RH1
+  D   0  4
+  A#  0  4
+  G#  0  4
+
+MEASURE 15
+  LINE RH1
+  G#  0  4  3
+
+MEASURE 16
+  LINE RH1
+  G   0  4  3
+
+MEASURE 17
+  LINE RH1
+  G#  0  4
+  G#  0 16  7
+  G#  0 16
+
+MEASURE 18
+  LINE RH1
+  G#  0  4
+  F#  0 16  7
+  E   0 16
+
+MEASURE 19
+  LINE RH1
+  G#  0  4
+  F#  0 16  7
+  E   0 16
+
+MEASURE 20
+  LINE RH1
+  F#  0  4  3
+
+MEASURE 21
+  LINE RH1
+  E   0  4
+  E   0 16  7
+  E   0 16
+
+MEASURE 22
+  LINE RH1
+  E   0  4
+  D   0 16  7
+  C   0 16
+
+MEASURE 23
+  LINE RH1
+  E   0  4
+  D   0 16  7
+  C   0 16
+
+MEASURE 24
+  LINE RH1
+  D   0  4  3
+
+MEASURE 25
+  LINE RH1
+  C   0  4
+  C   0 16  7
+  C   0 16
+
+MEASURE 26
+  LINE RH1
+  C   0  4
+  B  -1  4
+  B   0  4
+
+
+MEASURE 27
+  LINE RH1
+  A#  0  4
+  A# -1 16  7
+  A# -1 16
+
+MEASURE 28
+  LINE RH1
+  A# -1  4
+  G# -1  4
+  D   1  4
+
+MEASURE 29
+  LINE RH1
+  D#  1  4
+  D#  1 16  7
+  D#  1 16
+
+MEASURE 30
+  LINE RH1
+  D#  1  4
+  C#  1 16  7
+  B   0 16
+
+MEASURE 31
+  LINE RH1
+  D#  1  2
+  G#  0 16  3
+  G   0 16
+
+MEASURE 32
+  LINE RH1
+  A#  0  8  6
+
+MEASURE 1
+  LINE LH1
+  REST   8
+  D# -2  8
+  G# -2  8
+  D# -1  8
+  B  -1  8
+  G#  0  8
+
+MEASURE 2
+  LINE LH1
+  REST   8
+  D# -2  8
+  A# -2  8
+  F# -1  8
+  A# -1  8
+  F#  0  8
+
+
+MEASURE 3
+  LINE LH1
+  REST   8
+  D# -2  8
+  B  -2  8
+  G# -1  8
+  G# -1  8
+  E   0  8
+
+MEASURE 4
+  LINE LH1
+  REST   8
+  D# -2  8
+  A# -2  8
+  G  -1  8
+  A# -1  8
+  D#  0  8
+
+MEASURE 5
+  LINE LH1
+  REST   8
+  D# -2  8
+  C# -1  8
+  G# -1  8
+  E   0  8
+  C#  1  8
+
+MEASURE 6
+  LINE LH1
+  REST   8
+  D# -2  8
+  D# -1  8
+  B  -1  8
+  D#  0  8
+  B   0  8
+
+MEASURE 7
+  LINE LH1
+  REST   8
+  D# -2  8
+  E  -1  8
+  C#  0  8
+  C#  0  8
+  A   0  8
+
+MEASURE 8
+  LINE LH1
+  REST   8
+  D# -2  8
+  D# -1  8
+  C   0  8
+  G#  0  8
+  G# -2  8
+
+MEASURE 9
+  LINE LH1
+  REST   8
+  E  -2  8
+  A  -2  8
+  E  -1  8
+  C#  0  8
+  C#  1  8
+
+MEASURE 10
+  LINE LH1
+  REST   8
+  D# -2  8
+  A  -2  8
+  F# -1  8
+  C#  0  8
+  C#  1  8
+
+MEASURE 11
+  LINE LH1
+  REST   8
+  C# -2  8
+  F# -2  8
+  E  -1  8
+  A  -1  8
+  A   0  8
+
+
+
+MEASURE 12
+  LINE LH1
+  REST   8
+  C  -2  8
+  F# -2  8
+  E  -1  8
+  A  -1  8
+  A   0  8
+
+MEASURE 13
+  LINE LH1
+  REST   8
+  B  -3  8
+  E  -2  8
+  E  -1  8
+  G# -1  8
+  G#  0  8
+
+MEASURE 14
+  LINE LH1
+  REST   8
+  A# -3  8
+  A# -2  8
+  E  -1  8
+  D   0  8
+  A#  0  8
+
+MEASURE 15
+  LINE LH1
+  REST   8
+  D# -2  8
+  A# -2  8
+  E  -1  8
+  A# -1  8
+  D   0  8
+
+MEASURE 16
+  LINE LH1
+  REST   8
+  D# -2  8
+  A# -2  8
+  D# -1  8
+  A# -1  8
+  D#  0  8
+
+MEASURE 17
+  LINE LH1
+  REST   8
+  E  -2  8
+  A  -2  8
+  E  -1  8
+  C#  0  8
+  C#  1  8
+
+MEASURE 18
+  LINE LH1
+  REST   8
+  D# -2  8
+  A  -2  8
+  F# -1  8
+  C#  0  8
+  C#  1  8
+
+MEASURE 19
+  LINE LH1
+  REST   8
+  C# -2  8
+  F# -2  8
+  E  -1  8
+  A  -1  8
+  A   0  8
+
+MEASURE 20
+  LINE LH1
+  REST   8
+  C  -2  8
+  F# -2  8
+  E  -1  8
+  A  -1  8
+  A   0  8
+
+MEASURE 21
+  LINE LH1
+  REST   8
+  C  -2  8
+  F  -2  8
+  E  -1  8
+  A  -1  8
+  A   0  8
+
+MEASURE 22
+  LINE LH1
+  REST   8
+  B  -3  8
+  F  -2  8
+  D  -1  8
+  A  -1  8
+  A   0  8
+
+MEASURE 23
+  LINE LH1
+  REST   8
+  A  -3  8
+  D  -2  8
+  C  -1  8
+  F  -1  8
+  F   0  8
+
+MEASURE 24
+  LINE LH1
+  REST   8
+  G# -3  8
+  D  -2  8
+  C  -1  8
+  F  -1  8
+  F   0  8
+
+MEASURE 25
+  LINE LH1
+  REST   8
+  G# -3  8
+  D# -2  8
+  D# -1  8
+  D# -1  8
+  D#  0  8
+
+MEASURE 26
+  LINE LH1
+  REST   8
+  G  -3  8
+  G  -2  8
+  D# -1  8
+  D# -1  8
+  D#  0  8
+
+MEASURE 27
+  LINE LH1
+  REST   8
+  F# -3  8
+  F# -2  8
+  D# -1  8
+  D# -1  8
+  D#  0  8
+
+MEASURE 28
+  LINE LH1
+  REST   8
+  E  -3  8
+  E  -2  8
+  A# -2  8
+  G# -1  8
+  D   0  8
+
+MEASURE 29
+  LINE LH1
+  REST   8
+  D# -2  8
+  G# -2  8
+  D# -1  8
+  B  -1  8
+  G#  0  8
+
+MEASURE 30
+  LINE LH1
+  REST   8
+  D# -2  8
+  A# -2  8
+  F# -1  8
+  A# -1  8
+  F#  0  8
+
+MEASURE 31
+  LINE LH1
+  REST   8
+  D# -2  8
+  B  -2  8
+  G# -1  8
+  G# -1  8
+  E   0  8
+
+MEASURE 32
+  LINE LH1
+  REST   8
+  D# -2  8
+  A# -2  8
+  G  -1  8
+  D#  0  4
+
+MEASURE 28
+  LINE RH2
+  REST   2
+  G#  0  4
+
+MEASURE 29
+  LINE RH2
+  G#  0  4  3
+
+MEASURE 30
+  LINE RH2
+  F#  0  4  3
+
+MEASURE 31
+  LINE RH2
+  G#  0  2
+  E   0  4
+
+MEASURE 32
+  LINE RH2
+  G   0  4  3
+
+MEASURE 28
+  LINE RH3
+  REST   2
+  D   0  4
+
+MEASURE 29
+  LINE RH3
+  D#  0  4  3
+
+MEASURE 30
+  LINE RH3
+  D#  0  4  3
+
+MEASURE 31
+  LINE RH3
+  E   0  2
+  B  -1  4
+
+MEASURE 32
+  LINE RH3
+  A# -1  4  3
+
+MEASURE 32
+  LINE RH4
+  D#  0  4  3
+
+MEASURE 29
+  LINE LH2
+  REST   8
+  D# -3  8
+  REST   2
+
+MEASURE 30
+  LINE LH2
+  REST   8
+  D# -3  8
+  REST   2
+
+MEASURE 31
+  LINE LH2
+  REST   8
+  D# -3  8
+  REST   2
+
+MEASURE 32
+  LINE LH2
+  REST   8
+  D# -3  8
+  REST   2

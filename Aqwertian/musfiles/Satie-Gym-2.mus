@@ -1,0 +1,1784 @@
+NAME Satie: Gymnopedie Number 2
+
+MEASURE 1
+  METER 3 4
+  TEMPO 4 60.000000
+  KEY 0
+
+# kr2l Satie-Gym-2.mus 1 120 4
+
+MEASURE 1
+  LINE LH1
+  G  -2  4  3
+
+MEASURE 2
+  LINE LH1
+  D  -2  4  3
+
+MEASURE 3
+  LINE LH1
+  G  -2  4  3
+
+MEASURE 4
+  LINE LH1
+  D  -2  4  3
+
+MEASURE 5
+  LINE LH1
+  G  -2  4  3
+
+MEASURE 6
+  LINE LH1
+  D  -2  4  3
+
+MEASURE 7
+  LINE LH1
+  G  -2  4  3
+
+MEASURE 8
+  LINE LH1
+  D  -2  4  3
+
+MEASURE 9
+  LINE LH1
+  G  -2  4  3
+
+MEASURE 10
+  LINE LH1
+  D  -2  4  3
+
+MEASURE 11
+  LINE LH1
+  G  -2  4  3
+
+MEASURE 12
+  LINE LH1
+  D  -2  4  3
+
+MEASURE 13
+  LINE LH1
+  G  -2  4  3
+
+MEASURE 14
+  LINE LH1
+  D  -2  4  3
+
+MEASURE 15
+  LINE LH1
+  C  -2  4  3
+
+MEASURE 16
+  LINE LH1
+  C  -2  4  3
+
+MEASURE 17
+  LINE LH1
+  C  -2  4  3
+
+MEASURE 18
+  LINE LH1
+  F  -2  4  3
+
+MEASURE 19
+  LINE LH1
+  F  -2  4  3
+
+MEASURE 20
+  LINE LH1
+  F  -2  4  3
+
+MEASURE 21
+  LINE LH1
+  F  -2  4  3
+
+MEASURE 22
+  LINE LH1
+  F  -2  4  3
+
+MEASURE 23
+  LINE LH1
+  F  -2  4  3
+
+MEASURE 24
+  LINE LH1
+  Bb -3  4  3
+
+MEASURE 25
+  LINE LH1
+  D  -2  4  3
+
+MEASURE 26
+  LINE LH1
+  G  -2  4  3
+
+MEASURE 27
+  LINE LH1
+  D  -2  4  3
+
+MEASURE 28
+  LINE LH1
+  C  -2  4  3
+
+MEASURE 29
+  LINE LH1
+  C  -2  4  3
+
+MEASURE 30
+  LINE LH1
+  C  -2  4  3
+
+MEASURE 31
+  LINE LH1
+  F  -2  4  3
+
+MEASURE 32
+  LINE LH1
+  F  -2  4  3
+
+MEASURE 33
+  LINE LH1
+  F  -2  4  3
+
+MEASURE 34
+  LINE LH1
+  F  -2  4  3
+
+MEASURE 35
+  LINE LH1
+  F  -2  4  3
+
+MEASURE 36
+  LINE LH1
+  Bb -3  4  3
+
+MEASURE 37
+  LINE LH1
+  D  -2  4  3
+
+MEASURE 38
+  LINE LH1
+  G  -2  4  3
+
+MEASURE 39
+  LINE LH1
+  D  -2  4  3
+
+MEASURE 40
+  LINE LH1
+  G  -2  4  3
+
+MEASURE 41
+  LINE LH1
+  D  -2  4  3
+
+MEASURE 42
+  LINE LH1
+  G  -2  4  3
+
+MEASURE 43
+  LINE LH1
+  D  -2  4  3
+
+MEASURE 44
+  LINE LH1
+  G  -2  4  3
+
+MEASURE 45
+  LINE LH1
+  D  -2  4  3
+
+MEASURE 46
+  LINE LH1
+  G  -2  4  3
+
+MEASURE 47
+  LINE LH1
+  D  -2  4  3
+
+MEASURE 48
+  LINE LH1
+  G  -2  4  3
+
+MEASURE 49
+  LINE LH1
+  D  -2  4  3
+
+MEASURE 50
+  LINE LH1
+  C  -2  4  3
+
+MEASURE 51
+  LINE LH1
+  C  -2  4  3
+
+MEASURE 52
+  LINE LH1
+  C  -2  4  3
+
+MEASURE 53
+  LINE LH1
+  F  -2  4  3
+
+MEASURE 54
+  LINE LH1
+  F  -2  4  3
+
+MEASURE 55
+  LINE LH1
+  F  -2  4  3
+
+MEASURE 56
+  LINE LH1
+  F  -2  4  3
+
+MEASURE 57
+  LINE LH1
+  F  -2  4  3
+
+MEASURE 58
+  LINE LH1
+  F  -2  4  3
+
+MEASURE 59
+  LINE LH1
+  F  -2  4  3
+
+MEASURE 60
+  LINE LH1
+  Bb -3  4  3
+
+MEASURE 61
+  LINE LH1
+  D  -2  4  3
+
+MEASURE 62
+  LINE LH1
+  G  -2  4  3
+
+MEASURE 63
+  LINE LH1
+  D  -2  4  3
+
+MEASURE 64
+  LINE LH1
+  G  -2  4  3
+
+MEASURE 65
+  LINE LH1
+  C  -2  4  3
+# kr2l Satie-Gym-2.mus 1 120 4
+
+MEASURE 1
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  B  -1  2
+
+MEASURE 1
+  LINE LH4
+  REST   4
+  E   0  2
+
+MEASURE 1
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 2
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -1  2
+
+MEASURE 2
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 2
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 2
+  LINE LH5
+  REST   4
+  A   0  2
+
+MEASURE 3
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  B  -1  2
+
+MEASURE 3
+  LINE LH4
+  REST   4
+  E   0  2
+
+MEASURE 3
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 4
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -1  2
+
+MEASURE 4
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 4
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 4
+  LINE LH5
+  REST   4
+  A   0  2
+
+MEASURE 5
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  B  -1  2
+
+MEASURE 5
+  LINE LH4
+  REST   4
+  E   0  2
+
+MEASURE 5
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 6
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -1  2
+
+MEASURE 6
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 6
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 6
+  LINE LH5
+  REST   4
+  A   0  2
+
+MEASURE 7
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  B  -1  2
+
+MEASURE 7
+  LINE LH4
+  REST   4
+  E   0  2
+
+MEASURE 7
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 8
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -1  2
+
+MEASURE 8
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 8
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 8
+  LINE LH5
+  REST   4
+  A   0  2
+
+MEASURE 9
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  B  -1  2
+
+MEASURE 9
+  LINE LH4
+  REST   4
+  E   0  2
+
+MEASURE 9
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 10
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -1  2
+
+MEASURE 10
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 10
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 10
+  LINE LH5
+  REST   4
+  A   0  2
+
+MEASURE 11
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  B  -1  2
+
+MEASURE 11
+  LINE LH4
+  REST   4
+  E   0  2
+
+MEASURE 11
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 12
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -1  2
+
+MEASURE 12
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 12
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 12
+  LINE LH5
+  REST   4
+  A   0  2
+
+MEASURE 13
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  B  -1  2
+
+MEASURE 13
+  LINE LH4
+  REST   4
+  E   0  2
+
+MEASURE 13
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 14
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -1  2
+
+MEASURE 14
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 14
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 14
+  LINE LH5
+  REST   4
+  A   0  2
+
+MEASURE 15
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  C   0  2
+
+MEASURE 15
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  E   0  2
+
+MEASURE 15
+  LINE LH4
+  REST   4
+  A   0  2
+
+MEASURE 15
+  LINE LH5
+  REST   4
+  C   1  2
+
+MEASURE 16
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -1  2
+
+MEASURE 16
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 16
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 16
+  LINE LH5
+  REST   4
+  A   0  2
+
+MEASURE 17
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  Bb -1  2
+
+MEASURE 17
+  LINE LH4
+  REST   4
+  Eb  0  2
+
+MEASURE 17
+  LINE LH5
+  REST   4
+  G   0  2
+# kr2l Satie-Gym-2.mus 18 120 4
+
+MEASURE 18
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  G  -1  2
+
+MEASURE 18
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  Bb -1  2
+
+MEASURE 18
+  LINE LH4
+  REST   4
+  Eb  0  2
+
+MEASURE 18
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 19
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  A  -1  2
+
+MEASURE 19
+  LINE LH4
+  REST   4
+  D   0  2
+
+MEASURE 19
+  LINE LH5
+  REST   4
+  F   0  2
+
+MEASURE 20
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  G  -1  2
+
+MEASURE 20
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  Bb -1  2
+
+MEASURE 20
+  LINE LH4
+  REST   4
+  Eb  0  2
+
+MEASURE 20
+  LINE LH5
+  REST   4
+  F   0  2
+
+MEASURE 21
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  A  -1  2
+
+MEASURE 21
+  LINE LH4
+  REST   4
+  D   0  2
+
+MEASURE 21
+  LINE LH5
+  REST   4
+  F   0  2
+# kr2l Satie-Gym-2.mus 22 120 4
+
+MEASURE 22
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  Bb -1  2
+
+MEASURE 22
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  D   0  2
+
+MEASURE 22
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 22
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 23
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 23
+  LINE LH4
+  REST   4
+  Eb  0  2
+
+MEASURE 23
+  LINE LH5
+  REST   4
+  A   0  2
+
+MEASURE 24
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  Bb -1  2
+
+MEASURE 24
+  LINE LH4
+  REST   4
+  D   0  2
+
+MEASURE 24
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 25
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -1  2
+
+MEASURE 25
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 25
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 25
+  LINE LH5
+  REST   4
+  A   0  2
+
+MEASURE 26
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  Bb -1  2
+
+MEASURE 26
+  LINE LH4
+  REST   4
+  D   0  2
+
+MEASURE 26
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 27
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -1  2
+
+MEASURE 27
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 27
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 27
+  LINE LH5
+  REST   4
+  A   0  2
+
+MEASURE 28
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  Bb -1  2
+
+MEASURE 28
+  LINE LH4
+  REST   4
+  D   0  2
+
+MEASURE 28
+  LINE LH5
+  REST   4
+  G   0  2
+# kr2l Satie-Gym-2.mus 29 120 4
+
+MEASURE 29
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  C   0  2
+
+MEASURE 29
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  F   0  2
+
+MEASURE 29
+  LINE LH4
+  REST   4
+  G#  0  2
+
+MEASURE 29
+  LINE LH5
+  REST   4
+  C   1  2
+
+MEASURE 30
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  Bb -1  2
+
+MEASURE 30
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  D   0  2
+
+MEASURE 30
+  LINE LH4
+  REST   4
+  G   0  2
+
+MEASURE 30
+  LINE LH5
+  REST   4
+  Bb  0  2
+
+MEASURE 31
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  A  -1  2
+
+MEASURE 31
+  LINE LH4
+  REST   4
+  D   0  2
+
+MEASURE 31
+  LINE LH5
+  REST   4
+  F   0  2
+
+MEASURE 32
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  G  -1  2
+
+MEASURE 32
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  Bb -1  2
+
+MEASURE 32
+  LINE LH4
+  REST   4
+  Eb  0  2
+
+MEASURE 32
+  LINE LH5
+  REST   4
+  F   0  2
+
+MEASURE 33
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  A  -1  2
+
+MEASURE 33
+  LINE LH4
+  REST   4
+  D   0  2
+
+MEASURE 33
+  LINE LH5
+  REST   4
+  F   0  2
+
+MEASURE 34
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  Bb -1  2
+
+MEASURE 34
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  D   0  2
+
+MEASURE 34
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 34
+  LINE LH5
+  REST   4
+  G   0  2
+# kr2l Satie-Gym-2.mus 35 120 4
+
+MEASURE 35
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 35
+  LINE LH4
+  REST   4
+  Eb  0  2
+
+MEASURE 35
+  LINE LH5
+  REST   4
+  G#  0  2
+
+MEASURE 36
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  Bb -1  2
+
+MEASURE 36
+  LINE LH4
+  REST   4
+  D   0  2
+
+MEASURE 36
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 37
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -1  2
+
+MEASURE 37
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 37
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 37
+  LINE LH5
+  REST   4
+  A   0  2
+
+MEASURE 38
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  B  -1  2
+
+MEASURE 38
+  LINE LH4
+  REST   4
+  E   0  2
+
+MEASURE 38
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 39
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -1  2
+
+MEASURE 39
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 39
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 39
+  LINE LH5
+  REST   4
+  A   0  2
+
+MEASURE 40
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  B  -1  2
+
+MEASURE 40
+  LINE LH4
+  REST   4
+  E   0  2
+
+MEASURE 40
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 41
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -1  2
+
+MEASURE 41
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 41
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 41
+  LINE LH5
+  REST   4
+  A   0  2
+
+MEASURE 42
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  B  -1  2
+
+MEASURE 42
+  LINE LH4
+  REST   4
+  E   0  2
+
+MEASURE 42
+  LINE LH5
+  REST   4
+  G   0  2
+# kr2l Satie-Gym-2.mus 43 120 4
+
+MEASURE 43
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -1  2
+
+MEASURE 43
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 43
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 43
+  LINE LH5
+  REST   4
+  A   0  2
+
+MEASURE 44
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  B  -1  2
+
+MEASURE 44
+  LINE LH4
+  REST   4
+  E   0  2
+
+MEASURE 44
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 45
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -1  2
+
+MEASURE 45
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 45
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 45
+  LINE LH5
+  REST   4
+  A   0  2
+
+MEASURE 46
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  B  -1  2
+
+MEASURE 46
+  LINE LH4
+  REST   4
+  E   0  2
+
+MEASURE 46
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 47
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -1  2
+
+MEASURE 47
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 47
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 47
+  LINE LH5
+  REST   4
+  A   0  2
+
+MEASURE 48
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  B  -1  2
+
+MEASURE 48
+  LINE LH4
+  REST   4
+  E   0  2
+
+MEASURE 48
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 49
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -1  2
+
+MEASURE 49
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 49
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 49
+  LINE LH5
+  REST   4
+  A   0  2
+
+MEASURE 50
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  C   0  2
+
+MEASURE 50
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  E   0  2
+
+MEASURE 50
+  LINE LH4
+  REST   4
+  A   0  2
+
+MEASURE 50
+  LINE LH5
+  REST   4
+  C   1  2
+
+MEASURE 51
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -1  2
+
+MEASURE 51
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 51
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 51
+  LINE LH5
+  REST   4
+  A   0  2
+
+MEASURE 52
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  Bb -1  2
+
+MEASURE 52
+  LINE LH4
+  REST   4
+  Eb  0  2
+
+MEASURE 52
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 53
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  G  -1  2
+
+MEASURE 53
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  Bb -1  2
+
+MEASURE 53
+  LINE LH4
+  REST   4
+  Eb  0  2
+
+MEASURE 53
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 54
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  A  -1  2
+
+MEASURE 54
+  LINE LH4
+  REST   4
+  D   0  2
+
+MEASURE 54
+  LINE LH5
+  REST   4
+  F   0  2
+
+MEASURE 55
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  G  -1  2
+
+MEASURE 55
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  Bb -1  2
+
+MEASURE 55
+  LINE LH4
+  REST   4
+  Eb  0  2
+
+MEASURE 55
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 56
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  A  -1  2
+
+MEASURE 56
+  LINE LH4
+  REST   4
+  D   0  2
+
+MEASURE 56
+  LINE LH5
+  REST   4
+  F   0  2
+
+MEASURE 57
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  G  -1  2
+
+MEASURE 57
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  Bb -1  2
+
+MEASURE 57
+  LINE LH4
+  REST   4
+  D   0  2
+
+MEASURE 57
+  LINE LH5
+  REST   4
+  F   0  2
+
+MEASURE 58
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  G  -1  2
+
+MEASURE 58
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  Bb -1  2
+
+MEASURE 58
+  LINE LH4
+  REST   4
+  Eb  0  2
+
+MEASURE 58
+  LINE LH5
+  REST   4
+  F   0  2
+# kr2l Satie-Gym-2.mus 59 120 4
+
+MEASURE 59
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  A  -1  2
+
+MEASURE 59
+  LINE LH4
+  REST   4
+  D   0  2
+
+MEASURE 59
+  LINE LH5
+  REST   4
+  F   0  2
+
+MEASURE 60
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  Bb -1  2
+
+MEASURE 60
+  LINE LH4
+  REST   4
+  D   0  2
+
+MEASURE 60
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 61
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -1  2
+
+MEASURE 61
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 61
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 61
+  LINE LH5
+  REST   4
+  A   0  2
+
+MEASURE 62
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  Bb -1  2
+
+MEASURE 62
+  LINE LH4
+  REST   4
+  D   0  2
+
+MEASURE 62
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 63
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -1  2
+
+MEASURE 63
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 63
+  LINE LH4
+  REST   4
+  F   0  2
+
+MEASURE 63
+  LINE LH5
+  REST   4
+  A   0  2
+
+MEASURE 64
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  Bb -1  2
+
+MEASURE 64
+  LINE LH4
+  REST   4
+  D   0  2
+
+MEASURE 64
+  LINE LH5
+  REST   4
+  G   0  2
+
+MEASURE 65
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+
+MEASURE 65
+  LINE LH4
+  REST   4
+  E   0  2
+
+MEASURE 65
+  LINE LH5
+  REST   4
+  G   0  2
+# kr2l Satie-Gym-2.mus 5 120 4
+
+MEASURE 5
+  LINE RH5
+  G   1  4  3
+
+MEASURE 6
+  LINE RH5
+  A   1  4
+  G   1  4
+  F   1  4
+
+MEASURE 7
+  LINE RH5
+  E   1  4
+  F   1  4
+  G   1  4
+
+MEASURE 8
+  LINE RH5
+  D   1  4  3
+
+MEASURE 9
+  LINE RH5
+  G   1  4  3
+
+MEASURE 10
+  LINE RH5
+  A   1  4
+  G   1  4
+  F   1  4
+
+MEASURE 11
+  LINE RH5
+  E   1  4
+  F   1  4
+  G   1  4
+
+MEASURE 12
+  LINE RH5
+  F   1  4
+  C   1  2
+
+MEASURE 13
+  LINE RH5
+  REST   4  3
+
+MEASURE 14
+  LINE RH5
+  REST   4  3
+
+MEASURE 15
+  LINE RH5
+  C   2  4  3
+
+MEASURE 16
+  LINE RH5
+  F   1  4
+  G   1  4
+  A   1  4
+
+MEASURE 17
+  LINE RH5
+  G   1  4  3
+# kr2l Satie-Gym-2.mus 18 120 4
+
+MEASURE 18
+  LINE RH5
+  C   1  4  3
+
+MEASURE 19
+  LINE RH5
+  F   1  4  3
+
+MEASURE 20
+  LINE RH5
+  CARRY  4
+  Eb  1  4
+  D   1  4
+
+MEASURE 21
+  LINE RH5
+  F   1  4  3
+
+MEASURE 22
+  LINE RH5
+  CARRY  4
+  G   1  4
+  Bb  1  4
+
+MEASURE 23
+  LINE RH5
+  A   1  4
+  G   1  4
+  F   1  4
+# kr2l Satie-Gym-2.mus 24 120 4
+
+MEASURE 24
+  LINE RH5
+  G   1  4  3
+
+MEASURE 25
+  LINE RH5
+  F   1  4  3
+
+MEASURE 26
+  LINE RH5
+  REST   4  3
+
+MEASURE 27
+  LINE RH5
+  REST   4  3
+
+MEASURE 28
+  LINE RH5
+  C   2  4  3
+
+MEASURE 29
+  LINE RH5
+  G#  1  4
+  G   1  4
+  F   1  4
+
+MEASURE 30
+  LINE RH5
+  G   1  4  3
+
+MEASURE 31
+  LINE RH5
+  F   1  4  3
+
+MEASURE 32
+  LINE RH5
+  CARRY  4
+  Eb  1  4
+  D   1  4
+
+MEASURE 33
+  LINE RH5
+  F   1  4  3
+
+MEASURE 34
+  LINE RH5
+  D   1  4  3
+
+MEASURE 35
+  LINE RH5
+  CARRY  4
+  Eb  1  4
+  G#  1  4
+
+MEASURE 36
+  LINE RH5
+  Bb  1  4  3
+
+MEASURE 37
+  LINE RH5
+  F   1  4  3
+
+MEASURE 38
+  LINE RH5
+  REST   4  3
+
+MEASURE 39
+  LINE RH5
+  REST   4  3
+
+MEASURE 40
+  LINE RH5
+  G   1  4  3
+
+MEASURE 41
+  LINE RH5
+  F   1  4
+  G   1  4
+  A   1  4
+
+MEASURE 42
+  LINE RH5
+  E   1  4
+  F   1  4
+  G   1  4
+
+MEASURE 43
+  LINE RH5
+  D   1  4  3
+
+MEASURE 44
+  LINE RH5
+  G   1  4  3
+
+MEASURE 45
+  LINE RH5
+  F   1  4
+  G   1  4
+  A   1  4
+
+MEASURE 46
+  LINE RH5
+  E   1  4
+  F   1  4
+  G   1  4
+
+MEASURE 47
+  LINE RH5
+  F   1  4
+  C   1  2
+
+MEASURE 48
+  LINE RH5
+  REST   4  3
+
+MEASURE 49
+  LINE RH5
+  REST   4  3
+
+MEASURE 50
+  LINE RH5
+  C   2  4  3
+
+MEASURE 51
+  LINE RH5
+  F   1  4
+  G   1  4
+  A   1  4
+
+MEASURE 52
+  LINE RH5
+  G   1  4  3
+
+MEASURE 53
+  LINE RH5
+  C   1  4  3
+
+MEASURE 54
+  LINE RH5
+  F   1  4  3
+
+MEASURE 55
+  LINE RH5
+  G   1  4  3
+
+MEASURE 56
+  LINE RH5
+  D   1  4  3
+
+MEASURE 57
+  LINE RH5
+  CARRY  4  3
+
+MEASURE 58
+  LINE RH5
+  CARRY  4  3
+
+MEASURE 59
+  LINE RH5
+  CARRY  2
+  F   1  4
+
+MEASURE 60
+  LINE RH5
+  Bb  1  4  3
+
+MEASURE 61
+  LINE RH5
+  A   1  4
+  F   1  2
+
+MEASURE 62
+  LINE RH5
+  REST   4  3

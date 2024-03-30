@@ -1,0 +1,3615 @@
+NAME Turina: Danzas Fantasticas: #3: Orgia
+
+MEASURE 1
+  METER 2 4
+  TEMPO 4 60.000000
+  KEY 0
+
+# kr2l tur-df-orgia.mus 1 60 8
+
+
+# kr2l tur-df-orgia.mus 1 60 8
+
+MEASURE 1
+  LINE RH5
+  REST   8
+  E   0  8  3
+# kr2l tur-df-orgia.mus 2 60 8
+
+MEASURE 2
+  LINE RH5
+  CARRY  8
+  REST   8
+  E   3  4
+# kr2l tur-df-orgia.mus 3 60 8
+
+# kr2l tur-df-orgia.mus 3 60 8
+
+MEASURE 3
+  LINE RH5
+  REST   8
+  E   0  8  3
+
+MEASURE 4
+  LINE RH5
+  CARRY  8  3
+  REST   8
+
+MEASURE 5
+  LINE RH5
+  E   0 16  3
+  D   0 16
+  E   0  4
+
+MEASURE 6
+  LINE RH5
+  CARRY  8
+  F   0 16
+  E   0 16
+  D   0 16
+  E   0 16
+  F   0 16
+  G   0 16
+
+MEASURE 7
+  LINE RH5
+  E   0 16  3
+  D   0 16
+  E   0  4
+
+MEASURE 8
+  LINE RH5
+  CARRY  8
+  F   0 16
+  E   0 16
+  D   0 16
+  E   0 16
+  F   0 16
+  G   0 16
+
+MEASURE 9
+  LINE RH5
+  E   0  8
+  E   0 16
+  D   0 16
+  E   0 16
+  D   0 16
+  E   0 16
+  F   0 16
+
+MEASURE 10
+  LINE RH5
+  D   0  8
+  D   0 16
+  C   0 16
+  D   0 16
+  C   0 16
+  D   0 16
+  E   0 16
+
+MEASURE 11
+  LINE RH5
+  C   0 16  3
+  Bb -1 16
+  A  -1  4
+# kr2l tur-df-orgia.mus 1 60 4
+
+MEASURE 1
+  LINE RH4
+  REST   8
+  D   0  8
+  C   0  8
+  Bb -1  8
+# kr2l tur-df-orgia.mus 2 60 4
+
+MEASURE 2
+  LINE RH2
+  REST   4
+  E   2  4
+
+MEASURE 2
+  LINE RH3
+  REST   4
+  A   2  4
+
+MEASURE 2
+  LINE RH4
+  A  -1  8
+  REST   8
+  D   3  4
+# kr2l tur-df-orgia.mus 3 60 4
+
+MEASURE 3
+  LINE RH4
+  REST   8
+  D   0  8
+  C   0  8
+  Bb -1  8
+
+MEASURE 4
+  LINE RH4
+  A  -1  8  3
+  REST   8
+# kr2l tur-df-orgia.mus 5 60 4
+
+MEASURE 5
+  LINE TLRH4
+  TIELINE RH5 80
+  A  -1  4
+  A  -1  4
+
+MEASURE 6
+  LINE TLRH4
+  TIELINE RH5 80
+  CARRY  2
+
+MEASURE 7
+  LINE TLRH4
+  TIELINE RH5 80
+  A  -1  4
+  A  -1  4
+
+MEASURE 8
+  LINE TLRH4
+  TIELINE RH5 80
+  CARRY  2
+# kr2l tur-df-orgia.mus 1 60 4
+
+MEASURE 1
+  LINE LH5
+  REST   8
+  D  -1  8
+  C  -1  8
+  Bb -2  8
+
+MEASURE 2
+  LINE LH2
+  REST   4
+  A  -1  4
+
+MEASURE 2
+  LINE LH3
+  REST   4
+  B  -1  4
+
+MEASURE 2
+  LINE LH4
+  REST   4
+  E   0  4
+
+MEASURE 2
+  LINE LH5
+  A  -2  8
+  REST   8
+  G   0  4
+# kr2l tur-df-orgia.mus 3 60 4
+
+MEASURE 3
+  LINE TLLH4
+  TIELINE LH5 80
+  REST   8
+  D  -2  8
+  C  -2  8
+  Bb -3  8
+
+MEASURE 3
+  LINE LH5
+  REST   8
+  D  -1  8
+  C  -1  8
+  Bb -2  8
+
+MEASURE 4
+  LINE TLLH4
+  TIELINE LH5 80
+  A  -3  8  3
+  REST   8
+
+MEASURE 4
+  LINE LH5
+  A  -2  8  3
+  REST   8
+# kr2l tur-df-orgia.mus 1 60 4
+
+MEASURE 1
+  LINE TLLH4
+  TIELINE LH5 80
+  REST   8
+  D  -2  8
+  C  -2  8
+  Bb -3  8
+# kr2l tur-df-orgia.mus 2 60 4
+
+MEASURE 2
+  LINE TLLH4
+  TIELINE LH5 80
+  A  -3  8
+  REST   8  3
+# kr2l tur-df-orgia.mus 5 60 4
+
+MEASURE 5
+  LINE LH4
+  D  -2  8  3
+  A  -2  8
+
+MEASURE 5
+  LINE LH5
+  A  -2  8  3
+  D  -1  8
+
+MEASURE 6
+  LINE LH4
+  D  -2  8  3
+  A  -2  8
+
+MEASURE 6
+  LINE LH5
+  A  -2  8  3
+  D  -1  8
+
+MEASURE 7
+  LINE LH4
+  D  -2  8  3
+  A  -2  8
+
+MEASURE 7
+  LINE LH5
+  A  -2  8  3
+  D  -1  8
+
+MEASURE 8
+  LINE LH4
+  D  -2  8  3
+  A  -2  8
+
+MEASURE 8
+  LINE LH5
+  A  -2  8  3
+  D  -1  8
+# kr2l tur-df-orgia.mus 9 60 4
+
+MEASURE 9
+  LINE TLLH2
+  TIELINE LH4 90
+  D  -2  8  3
+  REST   8
+
+MEASURE 9
+  LINE TLLH3
+  TIELINE LH4 92
+  A  -2  8  3
+  REST   8
+
+MEASURE 9
+  LINE LH4
+  G  -1  8  3
+  A  -2  8
+  LINE TLLH4
+  TIELINE LH4 100
+  G  -1  2
+  LINE TLLH5
+  TIELINE LH5 100
+  C 0 2
+
+MEASURE 9
+  LINE LH5
+  C   0  8  3
+  D  -1  8
+# kr2l tur-df-orgia.mus 10 60 4
+
+MEASURE 10
+  LINE TLLH2
+  TIELINE LH4 90
+  C  -2  8  3
+  Bb -3  8
+
+MEASURE 10
+  LINE TLLH3
+  TIELINE LH4 92
+  G  -2  8  3
+  Bb -2  8
+
+MEASURE 10
+  LINE LH4
+  F  -1  8  3
+  F  -1  8
+
+MEASURE 10
+  LINE LH5
+  Bb -1  8  3
+  G# -1  8
+# kr2l tur-df-orgia.mus 11 60 4
+
+MEASURE 11
+  LINE TLLH2
+  TIELINE LH4 90
+  A  -3 16  3
+  E  -3 16
+  A  -3  4
+
+MEASURE 11
+  LINE TLLH3
+  TIELINE LH4 92
+  A  -2 16  3
+  E  -2 16
+  A  -2  4
+
+MEASURE 11
+  LINE LH4
+  E  -1 16  3
+  D  -1 16
+  C# -1  4
+
+MEASURE 11
+  LINE LH5
+  G  -1 16  3
+  F  -1 16
+  E  -1  4
+# kr2l tur-df-orgia.mus 12 60 8
+
+MEASURE 12
+  LINE RH5
+  E   0 16  3
+  D   0 16
+  E   0 16  3
+  Bb  0 16
+
+MEASURE 13
+  LINE RH5
+  A   0  8
+  F   0 16
+  E   0 16
+  D   0 16
+  E   0 16
+  F   0 16
+  G   0 16
+
+MEASURE 14
+  LINE RH5
+  E   0 16  3
+  D   0 16
+  E   0  8
+  C   1 16
+  Bb  0 16
+
+MEASURE 15
+  LINE RH5
+  A   0  8
+  F   0 16
+  E   0 16
+  D   0 16
+  E   0 16
+  F   0 16
+  G   0 16
+# kr2l tur-df-orgia.mus 16 60 8
+
+MEASURE 16
+  LINE RH5
+  E   0  8
+  F   0 32 0
+  E   0 16
+  D   0 16
+  E   0 16
+  F   0 16
+  E   0 16
+  F   0 16
+# kr2l tur-df-orgia.mus 17 60 8
+
+MEASURE 17
+  LINE RH5
+  D   0 16
+  E   0 16
+  F   0 16
+  G   0 16
+  A   0 16
+  Bb  0 16
+  C   1 16
+  D   1 16
+# kr2l tur-df-orgia.mus 17 60 8
+
+MEASURE 17
+  LINE TLRH4
+  TIELINE RH5 80
+  C   0  4
+  G   0  4
+# kr2l tur-df-orgia.mus 12 60 8
+
+MEASURE 12
+  LINE TLRH3
+  TIELINE TLRH4 92
+  A  -1 16  7
+  REST  16
+
+MEASURE 12
+  LINE TLRH4
+  TIELINE RH5 80
+  A   0 16  7
+  VOLPERC 95
+  Bb -1 16
+  VOLPERC 80
+
+MEASURE 13
+  LINE TLRH3
+  TIELINE TLRH4 80
+  A  -1  2
+
+MEASURE 13
+  LINE TLRH4
+  TIELINE RH5 100
+  A   0  2
+
+MEASURE 14
+  LINE TLRH3
+  TIELINE TLRH4 92
+  A  -1  8  3
+  REST   8
+
+MEASURE 14
+  LINE TLRH4
+  TIELINE RH5 95
+  A   0  8  3
+  C   0 16
+  VOLPERC 80
+  Bb -1 16
+
+MEASURE 15
+  LINE TLRH3
+  TIELINE TLRH4 80
+  A  -1  2
+
+MEASURE 15
+  LINE TLRH4
+  TIELINE RH5 100
+  A   0  2
+MEASURE 1
+  MARK Introduction
+
+MEASURE 5
+  MARK Con-fiereza--Main-Theme
+
+MEASURE 12
+  MARK con-fiereza-main-theme-repeat
+
+# kr2l tur-df-orgia.mus 18 60 8
+
+MEASURE 18
+  LINE TLRH2
+  TIELINE RH4 88
+  E   0 16  3
+  F   0 16
+  G   0  4
+
+MEASURE 18
+  LINE TLRH3
+  TIELINE RH4 92
+  G   0 16  3
+  A   0 16
+  Bb  0  4
+
+MEASURE 18
+  LINE RH4
+  Bb  0 16  3
+  C   1 16
+  D   1  4
+
+MEASURE 18
+  LINE RH5
+  E   1 16  3
+  F   1 16
+  G   1  4
+
+MEASURE 19
+  LINE TLRH2
+  TIELINE RH4 88
+  CARRY  8
+  A   0  8
+  G   0  8
+  F   0  8
+
+MEASURE 19
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  8
+  C#  1  8
+  Bb  0  8
+  A   0  8
+
+MEASURE 19
+  LINE RH4
+  CARRY  8
+  E   1  8
+  D   1  8
+  C   1  8
+
+MEASURE 19
+  LINE RH5
+  CARRY  8
+  A   1  8
+  G   1  8
+  F   1  8
+
+MEASURE 20
+  LINE TLRH2
+  TIELINE RH4 88
+  E   0 16  3
+  F   0 16
+  G   0  4
+
+MEASURE 20
+  LINE TLRH3
+  TIELINE RH4 92
+  G   0 16  3
+  A   0 16
+  Bb  0  4
+
+MEASURE 20
+  LINE RH4
+  Bb  0 16  3
+  C   1 16
+  D   1  4
+
+MEASURE 20
+  LINE RH5
+  E   1 16  3
+  F   1 16
+  G   1  4
+
+MEASURE 21
+  LINE TLRH2
+  TIELINE RH4 88
+  CARRY  8
+  A   0  8
+  Bb  0  8
+  C   1  8
+
+MEASURE 21
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  8
+  C#  1  8
+  D   1  8
+  E   1  8
+
+MEASURE 21
+  LINE RH4
+  CARRY  8
+  E   1  8
+  F   1  8
+  G   1  8
+
+MEASURE 21
+  LINE RH5
+  CARRY  8
+  A   1  8
+  Bb  1  8
+  C   2  8
+# kr2l tur-df-orgia.mus 22 60 8
+
+MEASURE 22
+  LINE TLRH2
+  TIELINE RH4 88
+  D   1 16  3
+  E   1 16
+  E   1  8
+  F   1  8
+
+MEASURE 22
+  LINE TLRH3
+  TIELINE RH4 92
+  F   1 16  3
+  G   1 16
+  G   1  8
+  A   1  8
+
+MEASURE 22
+  LINE RH4
+  A   1 16  3
+  C#  2 16
+  C#  2  8
+  D   2  8
+
+MEASURE 22
+  LINE RH5
+  D   2 16  3
+  E   2 16
+  E   2  8
+  F   2  8
+
+MEASURE 23
+  LINE TLRH2
+  TIELINE RH4 88
+  G   1  8
+  A   1  8
+  G   1  8
+  F   1  8
+
+MEASURE 23
+  LINE TLRH3
+  TIELINE RH4 92
+  C   2  8
+  D   2  8
+  C   2  8
+  A   1  8
+
+MEASURE 23
+  LINE RH4
+  E   2  8
+  F   2  8
+  E   2  8
+  D   2  8
+
+MEASURE 23
+  LINE RH5
+  G   2  8
+  A   2  8
+  G   2  8
+  F   2  8
+# kr2l tur-df-orgia.mus 24 60 8
+
+MEASURE 24
+  LINE TLRH2
+  TIELINE RH4 88
+  D   1 16  3
+  E   1 16
+  E   1  8
+  F   1  8
+
+MEASURE 24
+  LINE TLRH3
+  TIELINE RH4 92
+  F   1 16  3
+  G   1 16
+  G   1  8
+  A   1  8
+
+MEASURE 24
+  LINE RH4
+  A   1 16  3
+  C#  2 16
+  C#  2  8
+  D   2  8
+
+MEASURE 24
+  LINE RH5
+  D   2 16  3
+  E   2 16
+  E   2  8
+  F   2  8
+# kr2l tur-df-orgia.mus 25 60 8
+
+MEASURE 25
+  LINE TLRH2
+  TIELINE RH4 88
+  G   1  8
+  A   1  8
+  Bb  1  8
+  D   2  8
+
+MEASURE 25
+  LINE TLRH3
+  TIELINE RH4 92
+  Bb  1  8
+  C#  2  8
+  D   2  8
+  F   2  8
+
+MEASURE 25
+  LINE RH4
+  D   2  8
+  E   2  8
+  F   2  8
+  Bb  2  8
+
+MEASURE 25
+  LINE RH5
+  G   2  8
+  A   2  8
+  Bb  2  8
+  D   3  8
+# kr2l tur-df-orgia.mus 26 60 8
+
+MEASURE 26
+  LINE TLRH2
+  TIELINE RH4 88
+  A   1  8
+  REST   8  3
+
+MEASURE 26
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  2  8
+  REST   8  3
+
+MEASURE 26
+  LINE RH4
+  E   2  8
+  REST   8  3
+
+MEASURE 26
+  LINE RH5
+  A   2  8
+  E   0 16
+  F   0 16
+  G   0  4
+
+MEASURE 27
+  LINE RH5
+  CARRY  8
+  E   0 16
+  F   0 16
+  G   0  4
+
+MEASURE 28
+  LINE RH5
+  CARRY  8
+  E   0 16
+  F   0 16
+  G   0 16
+  A   0 16
+  C   1 16
+  Bb  0 16
+
+MEASURE 29
+  LINE RH5
+  A   0 64 0
+  Bb  0 64 0
+  A   0 16
+  G   0 16
+  E   0 16
+  F   0 16
+  G   0 16
+  A   0 16
+  C   1 16
+  Bb  0 16
+
+MEASURE 30
+  LINE RH5
+  A   0  8
+  D   1 16
+  C   1 16
+  Bb  0 16
+  C   1 16
+  A   0 16
+  Bb  0 16
+# kr2l tur-df-orgia.mus 31 60 8
+
+MEASURE 31
+  LINE RH5
+  A   0 64 0
+  Bb  0 64 0
+  A   0 16
+  G   0 16
+  C   1 16
+  Bb  0 16
+  A   0 16
+  Bb  0 16
+  G   0 16
+  A   0 16
+
+MEASURE 32
+  LINE RH5
+  G  0 64 0
+  A  0 64 0
+  G   0 16
+  F   0 16
+  D   0 16
+  E   0 16
+  F   0 16
+  G   0 16
+  A   0 16
+  Bb  0 16
+
+MEASURE 33
+  LINE RH5
+  C   1 16
+  D   1 16
+  C   1 16
+  Bb  0 16
+  A   0 16
+  Bb  0 16
+  G   0 16
+  A   0 16
+# kr2l tur-df-orgia.mus 34 60 8
+
+MEASURE 34
+  LINE TLRH3
+  TIELINE RH4 92
+  REST  16  7
+  Bb -1 16
+
+MEASURE 34
+  LINE RH4
+  REST   8  3
+  C   0 16
+  D   0 16
+
+MEASURE 34
+  LINE RH5
+  F   0 16
+  G   0 16
+  E   0 16
+  F   0 16
+  D   0 16
+  E   0 16
+  E   0 16
+  E   0 16
+# kr2l tur-df-orgia.mus 35 60 8
+
+MEASURE 35
+  LINE TLRH2
+  TIELINE RH4 88
+  REST   4
+  A   1  4
+
+MEASURE 35
+  LINE TLRH3
+  TIELINE RH4 92
+  A  -1 16  3
+  REST  16
+  C#  2  4
+
+MEASURE 35
+  LINE RH4
+  C#  0 16  3
+  REST  16
+  E   2  4
+
+MEASURE 35
+  LINE RH5
+  E   0 16  3
+  REST  16
+  A   2  4
+
+MEASURE 36
+  LINE RH5
+  REST   2
+# kr2l tur-df-orgia.mus 12 60 8
+
+MEASURE 12
+  LINE LH4
+  D  -2  8  3
+  A  -2  8
+
+MEASURE 12
+  LINE LH5
+  A  -2  8  3
+  D  -1  8
+
+MEASURE 13
+  LINE LH4
+  D  -2  8  3
+  A  -2  8
+
+MEASURE 13
+  LINE LH5
+  A  -2  8  3
+  D  -1  8
+
+MEASURE 14
+  LINE LH4
+  D  -2  8  3
+  A  -2  8
+
+MEASURE 14
+  LINE LH5
+  A  -2  8  3
+  D  -1  8
+
+MEASURE 15
+  LINE LH4
+  D  -2  8  3
+  A  -2  8
+
+MEASURE 15
+  LINE LH5
+  A  -2  8  3
+  D  -1  8
+
+MEASURE 16
+  LINE LH4
+  D  -2  8  3
+  A  -2  8
+
+MEASURE 16
+  LINE LH5
+  A  -2  8  3
+  D  -1  8
+
+MEASURE 17
+  LINE TLLH3
+  TIELINE LH4 92
+  C  -2  8  3
+  Bb -3  8
+
+MEASURE 17
+  LINE LH4
+  G  -2  8  3
+  F  -2  8
+
+MEASURE 17
+  LINE LH5
+  C  -1  8  3
+  Bb -2  8
+
+MEASURE 18
+  LINE TLLH3
+  TIELINE LH4 92
+  A  -3  8  3
+  G  -3  8
+
+MEASURE 18
+  LINE LH4
+  E  -2  8  3
+  D  -2  8
+
+MEASURE 18
+  LINE LH5
+  A  -2  8  3
+  G  -2  8
+
+MEASURE 19
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   8  3
+  G  -3  8
+
+MEASURE 19
+  LINE TLLH3
+  TIELINE LH4 92
+  F  -3  8
+  E  -3  8
+  F  -3  8
+  C  -2  8
+
+MEASURE 19
+  LINE LH4
+  C  -2  8
+  B  -3  8
+  C  -2  8
+  D  -2  8
+
+MEASURE 19
+  LINE LH5
+  F  -2  8
+  E  -2  8
+  F  -2  8
+  G  -2  8
+
+MEASURE 20
+  LINE TLLH3
+  TIELINE LH4 92
+  A  -3  8  3
+  G  -3  8
+
+MEASURE 20
+  LINE LH4
+  E  -2  8  3
+  D  -2  8
+
+MEASURE 20
+  LINE LH5
+  A  -2  8  3
+  G  -2  8
+# kr2l tur-df-orgia.mus 21 60 8
+
+MEASURE 21
+  LINE TLLH3
+  TIELINE LH4 92
+  F  -3  8
+  E  -3  8
+  D  -3  8
+  C  -3  8
+
+MEASURE 21
+  LINE LH4
+  C  -2  8
+  B  -3  8
+  A  -3  8
+  G  -3  8
+
+MEASURE 21
+  LINE LH5
+  F  -2  8
+  E  -2  8
+  D  -2  8
+  C  -2  8
+# kr2l tur-df-orgia.mus 22 60 8
+
+MEASURE 22
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   8
+  Bb -1  4
+  Bb -1  8
+
+MEASURE 22
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  D   0  4
+  D   0  8
+
+MEASURE 22
+  LINE LH4
+  Bb -4  8
+  E   0  4
+  E   0  8
+
+MEASURE 22
+  LINE LH5
+  Bb -3  8
+  G   0  4
+  G   0  8
+
+MEASURE 23
+  LINE TLLH2
+  TIELINE LH4 90
+  CARRY  8
+  Bb -1  4
+  Bb -1  8
+
+MEASURE 23
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  8
+  D   0  4
+  D   0  8
+
+MEASURE 23
+  LINE LH4
+  CARRY  8
+  E   0  4
+  E   0  8
+
+MEASURE 23
+  LINE LH5
+  CARRY  8
+  G   0  4
+  G   0  8
+
+MEASURE 24
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   8
+  Bb -1  4
+  Bb -1  8
+
+MEASURE 24
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  D   0  4
+  D   0  8
+
+MEASURE 24
+  LINE LH4
+  Bb -4  8
+  E   0  4
+  E   0  8
+
+MEASURE 24
+  LINE LH5
+  Bb -3  8
+  G   0  4
+  G   0  8
+
+MEASURE 25
+  LINE TLLH2
+  TIELINE LH4 90
+  CARRY  8
+  Bb -1  4
+  F  -1  8
+
+MEASURE 25
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  8
+  D   0  4
+  Bb -1  8
+
+MEASURE 25
+  LINE LH4
+  CARRY  8
+  E   0  4
+  D   0  8
+
+MEASURE 25
+  LINE LH5
+  CARRY  8
+  G   0  4
+  F   0  8
+# kr2l tur-df-orgia.mus 26 60 8
+
+MEASURE 26
+  LINE TLLH2
+  TIELINE LH4 90
+  A  -1  8
+  REST   8  3
+
+MEASURE 26
+  LINE TLLH3
+  TIELINE LH4 92
+  C#  0  8
+  REST   8  3
+
+MEASURE 26
+  LINE LH4
+  E   0  8
+  REST   8  3
+
+MEASURE 26
+  LINE LH5
+  G   0  8
+  A  -4  8  3
+# kr2l tur-df-orgia.mus 34 60 8
+
+MEASURE 34
+  LINE LH4
+  REST   8  3
+  E  -3  8
+
+MEASURE 34
+  LINE LH5
+  REST  8  3
+  E  -2  8
+
+MEASURE 35
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -1  4
+
+MEASURE 35
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  C#  0  4
+
+MEASURE 35
+  LINE LH4
+  A  -3 16  3
+  REST  16
+  E   0  4
+
+MEASURE 35
+  LINE LH5
+  A  -2 16  3
+  REST  16
+  A   0  4
+
+MEASURE 12
+  LINE TLRH5
+  TIELINE RH5 100
+  REST 4
+  E 0 4
+MEASURE 13
+  LINE TLRH5
+  TIELINE RH5 100
+  CARRY 8
+  REST 8 3
+MEASURE 14
+  LINE TLRH5
+  TIELINE RH5 100
+  REST 4
+  E 0 4
+MEASURE 15
+  LINE TLRH5
+  TIELINE RH5 100
+  CARRY 8
+  REST 8 3
+
+# kr2l tur-df-orgia.mus 36 60 8
+
+MEASURE 37
+  LINE RH5
+  REST   8
+  E   1 16
+  F   1 16
+  G   1  4
+
+MEASURE 38
+  LINE RH5
+  CARRY  8
+  E   1 16
+  F   1 16
+  G   1  4
+
+MEASURE 39
+  LINE RH5
+  CARRY  8
+  E   1 16
+  F   1 16
+  G   1 16
+  A   1 16
+  C   2 16
+  Bb  1 16
+
+MEASURE 40
+  LINE RH5
+  A   1 64 0
+  Bb  1 64 0
+  A   1 16
+  G   1 16
+  E   1 16
+  F   1 16
+  G   1 16
+  A   1 16
+  C   2 16
+  Bb  1 16
+
+MEASURE 41
+  LINE RH5
+  A   1  8
+  D   2 16
+  C   2 16
+  Bb  1 16
+  C   2 16
+  A   1 16
+  Bb  1 16
+
+MEASURE 42
+  LINE RH5
+  A   1 64 0
+  Bb  1 64 0
+  A   1 16
+  G   1 16
+  C   2 16
+  Bb  1 16
+  A   1 16
+  Bb  1 16
+  G   1 16
+  A   1 16
+
+MEASURE 43
+  LINE RH5
+  G   1 64 0
+  A   1 64 0
+  G   1 16
+  F   1 16
+  D   1 16
+  E   1 16
+  F   1 16
+  G   1 16
+  A   1 16
+  Bb  1 16
+
+MEASURE 44
+  LINE RH5
+  C   2 16
+  D   2 16
+  C   2 16
+  Bb  1 16
+  A   1 16
+  Bb  1 16
+  G   1 16
+  A   1 16
+
+MEASURE 45
+  LINE TLRH3
+  TIELINE TLRH4 92
+  REST   8  3
+  C   1 16
+  REST  16
+
+MEASURE 45
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8  3
+  D   1 16
+  REST  16
+
+MEASURE 45
+  LINE RH5
+  F   1 16
+  G   1 16
+  E   1 16
+  F   1 16
+  D   1 16
+  E   1 16
+  E   1 16
+  Bb  0 16
+# kr2l D:\musfiles\tur-df-orgia.mus 37 60 4
+
+MEASURE 37
+  LINE RH4
+  REST   8  3
+  B   0  8
+
+MEASURE 38
+  LINE RH4
+  C#  1  8  3
+  B   0  8
+
+MEASURE 39
+  LINE RH4
+  C#  1  4
+  REST   4
+MEASURE 27
+  MARK con-sentimieto-salraje
+
+MEASURE 37
+  MARK con-sent....-repeat
+
+# kr2l D:\musfiles\tur-df-orgia.mus 37 60 4
+
+MEASURE 37
+  LINE LH4
+  REST   8  3
+  D   0  8
+
+MEASURE 37
+  LINE LH5
+  REST   8  3
+  G   0  8
+
+MEASURE 38
+  LINE LH4
+  A  -1  8  3
+  D   0  8
+
+MEASURE 38
+  LINE LH5
+  E   0  8  3
+  G   0  8
+
+MEASURE 39
+  LINE LH4
+  A  -1  8  3
+  D   0  8
+
+MEASURE 39
+  LINE LH5
+  E   0  8  3
+  G   0  8
+
+MEASURE 40
+  LINE LH4
+  A  -1  8  3
+  D   0  8
+
+MEASURE 40
+  LINE LH5
+  E   0  8  3
+  G   0  8
+# kr2l D:\musfiles\tur-df-orgia.mus 41 60 4
+
+MEASURE 41
+  LINE LH4
+  A  -1  8
+  D  -2  8
+  G  -2  8
+  C  -1  8
+
+MEASURE 41
+  LINE LH5
+  E   0  8
+  D  -1  8
+  G  -1  8
+  C   0  8
+# kr2l D:\musfiles\tur-df-orgia.mus 42 60 8
+
+MEASURE 42
+  LINE LH4
+  REST   8
+  C  -2  8
+  F  -2  8
+  Bb -2  8
+
+MEASURE 42
+  LINE LH5
+  REST   8
+  C  -1  8
+  F  -1  8
+  Bb -1  8
+
+MEASURE 43
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  A  -1  8
+  G  -1  8
+  F  -1  8
+
+MEASURE 43
+  LINE LH4
+  REST   8
+  C   0  8
+  Bb -1  8
+  A  -1  8
+
+MEASURE 43
+  LINE LH5
+  REST   8
+  D   0  8
+  D   0  8
+  D   0  8
+
+MEASURE 44
+  LINE TLLH3
+  TIELINE LH4 92
+  Eb -1  8
+  E  -1  8
+  F  -1  8
+  G  -1  8
+
+MEASURE 44
+  LINE LH4
+  F# -1  8
+  G  -1  8
+  A  -1  8
+  Bb -1  8
+
+MEASURE 44
+  LINE LH5
+  D   0  8
+  D   0  8
+  D   0  8
+  D   0  8
+
+MEASURE 45
+  LINE TLLH3
+  TIELINE LH4 92
+  A  -1  8
+  REST   8  3
+
+MEASURE 45
+  LINE LH4
+  C   0  8
+  Bb -1  8
+  C   0  8
+  D   0  8
+
+MEASURE 45
+  LINE LH5
+  D   0  8
+  D   0  8
+  E   0  8
+  F   0  8
+
+MEASURE 46
+  LINE LH4
+  A  -1 16  3
+  REST  16  5
+
+MEASURE 46
+  LINE LH5
+  E   0 16  3
+  REST  16
+  A  -3 16  3
+  REST  16
+
+MEASURE 47
+  LINE LH5
+  D  -2  8
+  A  -2  8
+  D  -1  8
+  A  -1  8
+
+MEASURE 48
+  LINE LH4
+  E   0  8  3
+  REST   8
+
+MEASURE 48
+  LINE LH5
+  G   0  8  3
+  A  -3  8
+
+MEASURE 49
+  LINE LH5
+  D  -2  8
+  A  -2  8
+  D  -1  8
+  A  -1  8
+
+MEASURE 50
+  LINE LH4
+  D   0  8  3
+  REST   8
+
+MEASURE 50
+  LINE LH5
+  G   0  8  3
+  A  -3  8
+MEASURE 47
+  MARK Next-Theme
+
+# kr2l D:\musfiles\tur-df-orgia.mus 51 60 8
+
+MEASURE 51
+  LINE LH4
+  D  -2  8
+  E   0  4
+  D   0  8
+
+MEASURE 51
+  LINE LH5
+  A  -2  8
+  A   0  4
+  PHANTOM  8
+  LINE TLLH5
+  TIELINE LH5 100
+  REST 8
+  A 0 8 3
+
+
+MEASURE 52
+  LINE LH4
+  C  -2  8
+  D   0  4
+  C   0  8
+
+MEASURE 52
+  LINE LH5
+  G  -2  8
+  G   0  4
+  PHANTOM  8
+  LINE TLLH5
+  REST 8
+  G 0 8 3
+
+# kr2l D:\musfiles\tur-df-orgia.mus 53 60 8
+
+MEASURE 53
+  LINE LH4
+  Bb -3  8
+  C   0  4
+  Bb -1  8
+
+MEASURE 53
+  LINE LH5
+  F  -2  8
+  F   0  4
+  PHANTOM  8
+  LINE TLLH5
+  REST 8
+  F 0 8 3
+
+MEASURE 54
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8  3
+  A  -2  8
+
+MEASURE 54
+  LINE LH4
+  A -3   8
+  Bb -1  8
+  C   0  8
+  E  -1  8
+
+MEASURE 54
+  LINE LH5
+  PHANTOM   8
+  D   0  8
+  E   0  8
+  A  -1  8
+# kr2l D:\musfiles\tur-df-orgia.mus 55 60 8
+
+MEASURE 55
+  LINE LH4
+  D  -3   8
+  A  -1  4
+  A  -1  8
+
+MEASURE 55
+  LINE LH5
+  REST  8
+  D   0  4
+  D   0  8
+
+MEASURE 56
+  LINE LH4
+  CARRY  8  3
+  REST  16
+  A  -3 16
+
+MEASURE 56
+  LINE LH5
+  CARRY  8  3
+  REST 8
+
+MEASURE 57
+  LINE LH4
+  D -3   8
+  A  -1  4
+  A  -1  8
+
+MEASURE 57
+  LINE LH5
+  REST   8
+  D   0  4
+  D   0  8
+
+MEASURE 58
+  LINE LH4
+  CARRY  8  3
+  REST   16
+  A -3 16
+
+MEASURE 58
+  LINE LH5
+  CARRY  8  3
+  REST   8
+# kr2l D:\musfiles\tur-df-orgia.mus 59 60 8
+
+MEASURE 59
+  LINE LH4
+  D  -2  8
+  PHANTOM  4
+  PHANTOM  8
+
+MEASURE 59
+  LINE LH5
+  A  -2  8
+  E   0  4
+  D   0  8
+
+MEASURE 60
+  LINE LH4
+  C  -2  8
+  PHANTOM  4
+  PHANTOM  8
+
+MEASURE 60
+  LINE LH5
+  G  -2  8
+  D   0  4
+  C   0  8
+
+MEASURE 61
+  LINE LH4
+  Bb -3  8
+  PHANTOM  4
+  PHANTOM  8
+
+MEASURE 61
+  LINE LH5
+  F  -2  8
+  C   0  4
+  Bb -1  8
+
+MEASURE 62
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  A  -1  4
+
+MEASURE 62
+  LINE LH4
+  A  -3  8
+  Bb -1  8
+  C#  0  4
+
+MEASURE 62
+  LINE LH5
+  PHANTOM  8
+  D   0  8
+  E   0  4
+# kr2l D:\musfiles\tur-df-orgia.mus 63 60 8
+
+MEASURE 63
+  LINE LH4
+  Bb -3  8
+  C   0  4
+  Bb -1  8
+
+MEASURE 63
+  LINE LH5
+  F  -2  8
+  D   0  4
+  PHANTOM  8
+  LINE TLLH5
+  REST 8
+  D 0 8 3
+# kr2l D:\musfiles\tur-df-orgia.mus 64 60 8
+
+MEASURE 64
+  LINE LH4
+  A  -3  8
+  A  -1  4
+  E  -3  8
+
+MEASURE 64
+  LINE LH5
+  REST  8
+  D   0  4
+  REST  8
+
+MEASURE 65
+  LINE LH4
+  A  -3  8
+  A  -1  4
+  E  -3  8
+
+MEASURE 65
+  LINE LH5
+  REST  8
+  D   0  4
+  REST  8
+
+MEASURE 66
+  LINE LH4
+  A  -3  8
+  A  -1  4
+  A  -3  8
+
+MEASURE 66
+  LINE LH5
+  REST  8
+  D   0  4
+  REST  8
+# kr2l D:\musfiles\tur-df-orgia.mus 47 60 8
+
+MEASURE 47
+  LINE RH5
+  REST   8
+  F   1 16
+  E   1 16
+  F   1 16
+  E   1 16
+  F   1 16
+  E   1 16
+
+MEASURE 48
+  LINE RH5
+  G   1 16  3
+  F   1 16
+  E   1  4
+
+MEASURE 49
+  LINE RH5
+  REST   8
+  F   1 16
+  E   1 16
+  F   1 16
+  E   1 16
+  F   1 16
+  E   1 16
+
+MEASURE 50
+  LINE RH5
+  G   1 16  3
+  F   1 16
+  E   1  4
+# kr2l D:\musfiles\tur-df-orgia.mus 51 60 8
+
+MEASURE 51
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8
+  D   2 16
+  D   2 16
+  D   2 16
+  D   2 16
+  D   2 16
+  D   2 16
+
+MEASURE 51
+  LINE RH5
+  REST   8
+  F   2 16
+  F   2 16
+  F   2 16
+  F   2 16
+  F   2 16
+  F   2 16
+
+MEASURE 52
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8
+  C   2 16
+  C   2 16
+  C   2 16
+  C   2 16
+  C   2 16
+  C   2 16
+
+MEASURE 52
+  LINE RH5
+  REST   8
+  E   2 16
+  E   2 16
+  E   2 16
+  E   2 16
+  E   2 16
+  E   2 16
+
+MEASURE 53
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8
+  Bb  1 16
+  Bb  1 16
+  Bb  1 16
+  Bb  1 16
+  Bb  1 16
+  Bb  1 16
+
+MEASURE 53
+  LINE RH5
+  REST   8
+  D   2 16
+  D   2 16
+  D   2 16
+  D   2 16
+  D   2 16
+  D   2 16
+# kr2l D:\musfiles\tur-df-orgia.mus 54 60 8
+
+MEASURE 54
+  LINE RH5
+  REST   8
+  F   1  8
+  E   1  8
+  A   1  8
+
+MEASURE 55
+  LINE RH5
+  REST   8
+  F   0 16
+  E   0 16
+  F   0 16
+  E   0 16
+  F   0 16
+  E   0 16
+
+MEASURE 56
+  LINE RH5
+  G   0 16  3
+  F   0 16
+  E   0  4
+
+MEASURE 57
+  LINE RH5
+  REST   8
+  F   0 16
+  E   0 16
+  F   0 16
+  E   0 16
+  F   0 16
+  E   0 16
+
+MEASURE 58
+  LINE RH5
+  G   0 16  3
+  F   0 16
+  E   0  4
+
+MEASURE 59
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8
+  D   1 16
+  D   1 16
+  D   1 16
+  D   1 16
+  D   1 16
+  D   1 16
+
+MEASURE 59
+  LINE RH5
+  REST   8
+  F   1 16
+  F   1 16
+  F   1 16
+  F   1 16
+  F   1 16
+  F   1 16
+
+MEASURE 60
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8
+  C   1 16
+  C   1 16
+  C   1 16
+  C   1 16
+  C   1 16
+  C   1 16
+
+MEASURE 60
+  LINE RH5
+  REST   8
+  E   1 16
+  E   1 16
+  E   1 16
+  E   1 16
+  E   1 16
+  E   1 16
+
+MEASURE 61
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8
+  Bb  0 16
+  Bb  0 16
+  Bb  0 16
+  Bb  0 16
+  Bb  0 16
+  Bb  0 16
+
+MEASURE 61
+  LINE RH5
+  REST   8
+  D   1 16
+  D   1 16
+  D   1 16
+  D   1 16
+  D   1 16
+  D   1 16
+
+MEASURE 62
+  LINE RH5
+  REST   8
+  F   1  8
+  E   1  8
+  A   1  8
+
+MEASURE 63
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8
+  Bb  0  8  3
+
+MEASURE 63
+  LINE RH5
+  REST   8
+  D   1  8  3
+
+MEASURE 64
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8
+  G   0  8  3
+
+MEASURE 64
+  LINE RH5
+  REST   8
+  E   1  8  3
+
+MEASURE 65
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8
+  G   0  8  3
+
+MEASURE 65
+  LINE RH5
+  REST   8
+  E   1  8  3
+
+MEASURE 66
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8
+  G   0  8  3
+
+MEASURE 66
+  LINE RH5
+  REST   8
+  E   1  8  3
+# kr2l D:\musfiles\tur-df-orgia.mus 47 60 8
+
+MEASURE 47
+  LINE RH4
+  REST   8
+  D   1 16
+  A   0 16
+  D   1 16
+  A   0 16
+  D   1 16
+  PHANTOM 16
+
+MEASURE 48
+  LINE RH4
+  B   0  2
+  LINE TLRH4
+  TIELINE RH4 100
+  B   0 2
+  TIENOTE RH4 RH5
+# kr2l D:\musfiles\tur-df-orgia.mus 49 60 8
+
+MEASURE 49
+  LINE RH4
+  REST   8
+  D   1 16
+  A   0 16
+  D   1 16
+  A   0 16
+  D   1 16
+  PHANTOM 16
+
+MEASURE 50
+  LINE RH4
+  B   0  2
+  LINE TLRH4
+  TIELINE RH4 100
+  B   0 2
+  TIENOTE RH4 RH5
+
+# kr2l D:\musfiles\tur-df-orgia.mus 51 60 8
+
+MEASURE 51
+  LINE RH4
+  REST   8
+  F   1 16
+  G   1 16
+  G#  1 16
+  A   1 16
+  Bb  1 16
+  B   1 16
+
+MEASURE 52
+  LINE RH4
+  REST   8
+  E   1 16
+  F   1 16
+  F#  1 16
+  G   1 16
+  G#  1 16
+  A   1 16
+
+MEASURE 53
+  LINE RH4
+  REST   8
+  D   1 16
+  E   1 16
+  F   1 16
+  F#  1 16
+  G   1 16
+  G#  1 16
+
+MEASURE 54
+  LINE TLRH2
+  TIELINE RH4 88
+  REST   8  3
+  A   0  8
+
+MEASURE 54
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  G#  0  8
+  G   0  8
+  C#  1  8
+
+MEASURE 54
+  LINE RH4
+  REST   8
+  C   1  8
+  Bb  0  8
+  E   1  8
+# kr2l D:\musfiles\tur-df-orgia.mus 59 60 8
+
+MEASURE 59
+  LINE RH4
+  REST   8
+  F   0 16
+  G   0 16
+  G#  0 16
+  A   0 16
+  Bb  0 16
+  B   0 16
+
+MEASURE 60
+  LINE RH4
+  REST   8
+  E   0 16
+  F   0 16
+  F#  0 16
+  G   0 16
+  G#  0 16
+  A   0 16
+
+MEASURE 61
+  LINE RH4
+  REST   8
+  D   0 16
+  E   0 16
+  F   0 16
+  F#  0 16
+  G   0 16
+  G#  0 16
+
+MEASURE 62
+  LINE TLRH2
+  TIELINE RH4 88
+  REST   8  3
+  A   0  8
+
+MEASURE 62
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  G#  0  8
+  G   0  8
+  C#  1  8
+
+MEASURE 62
+  LINE RH4
+  REST   8
+  C   1  8
+  Bb  0  8
+  E   1  8
+
+MEASURE 63
+  LINE RH4
+  REST   8
+  E   0  8
+  F   0  8
+  G   0  8
+
+MEASURE 64
+  LINE RH4
+  REST   8
+  A   0 16
+  Bb  0 16
+  A   0 16
+  Bb  0 16
+  C   1  8
+
+MEASURE 65
+  LINE RH4
+  REST   8
+  A   0 16
+  Bb  0 16
+  A   0 16
+  Bb  0 16
+  C   1  8
+
+MEASURE 66
+  LINE RH4
+  REST   8
+  A   0 16
+  Bb  0 16
+  A   0 16
+  Bb  0 16
+  C   1  8
+MEASURE 67
+  MARK Con-gracia
+
+# kr2l D:\musfiles\tur-df-orgia.mus 67 60 8
+
+MEASURE 67
+  LINE TLRH3
+  TIELINE TLRH4 92
+  REST   8
+  D   0  8  3
+
+MEASURE 67
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8
+  F#  0  8  3
+
+MEASURE 67
+  LINE RH5
+  REST   8
+  A   0  8  3
+
+MEASURE 68
+  LINE TLRH3
+  TIELINE TLRH4 92
+  REST   8
+  E   0  8  3
+
+MEASURE 68
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8
+  G   0  8  3
+
+MEASURE 68
+  LINE RH5
+  REST   8
+  A   0  8  3
+
+MEASURE 69
+  LINE TLRH3
+  TIELINE TLRH4 92
+  REST   8
+  D   0  8  3
+
+MEASURE 69
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8
+  F#  0  8  3
+
+MEASURE 69
+  LINE RH5
+  REST   8
+  A   0  8  3
+
+MEASURE 70
+  LINE TLRH3
+  TIELINE TLRH4 92
+  REST   8
+  E   0  8  3
+
+MEASURE 70
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8
+  G   0  8  3
+
+MEASURE 70
+  LINE RH5
+  REST   8
+  A   0  8  3
+# kr2l D:\musfiles\tur-df-orgia.mus 71 60 8
+
+MEASURE 71
+  LINE RH5
+  REST   8
+  D   1  4
+  B   0 16
+  D   1 16
+
+MEASURE 72
+  LINE RH5
+  REST   8
+  C#  1  4
+  A   0 16
+  C#  1 16
+
+MEASURE 73
+  LINE RH5
+  REST   8
+  B   0  4
+  F#  0 16
+  B   0 16
+# kr2l D:\musfiles\tur-df-orgia.mus 74 60 8
+
+MEASURE 74
+  LINE TLRH1
+  TIELINE RH4 80
+  REST   8
+  B  -1  8
+  REST   4
+
+MEASURE 74
+  LINE TLRH2
+  TIELINE RH4 82
+  REST   8
+  D   0  8
+  REST   4
+
+MEASURE 74
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  G   0  8
+  A  -1  8
+  G  -1  8
+
+MEASURE 74
+  LINE RH4
+  REST   8
+  A   0  8
+  C#  0  8
+  B  -1  8
+
+MEASURE 74
+  LINE RH5
+  REST   8
+  B   0  8
+  F#  0  8
+  E   0  8
+  LINE TLRH5
+  TIELINE RH5 100
+  REST 8
+  B  0 8 3
+
+# kr2l D:\musfiles\tur-df-orgia.mus 75 60 8
+
+MEASURE 75
+  LINE RH5
+  REST   8
+  D   1  4
+  B   0 16
+  D   1 16
+
+MEASURE 76
+  LINE RH5
+  REST   8
+  C#  1  4
+  A   0 16
+  C#  1 16
+# kr2l D:\musfiles\tur-df-orgia.mus 67 60 8
+
+MEASURE 67
+  LINE RH4
+  REST   8
+  A  -1  4
+  Bb -1 16
+  B  -1 16
+
+MEASURE 68
+  LINE RH4
+  REST   8
+  B  -1  4
+  C   0 16
+  C#  0 16
+
+MEASURE 69
+  LINE RH4
+  REST   8
+  A  -1  4
+  Bb -1 16
+  B  -1 16
+
+MEASURE 70
+  LINE RH4
+  REST   8
+  B  -1  4
+  C   0 16
+  C#  0 16
+# kr2l D:\musfiles\tur-df-orgia.mus 71 60 8
+
+MEASURE 71
+  LINE TLRH2
+  TIELINE RH4 88
+  REST   8
+  D   0  8  3
+
+MEASURE 71
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  F#  0  8  3
+
+MEASURE 71
+  LINE RH4
+  REST   8
+  A   0  8  3
+
+MEASURE 72
+  LINE TLRH2
+  TIELINE RH4 88
+  REST   8
+  E   0  8  3
+
+MEASURE 72
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  G   0  8  3
+
+MEASURE 72
+  LINE RH4
+  REST   8
+  A   0  8  3
+
+MEASURE 73
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  D   0  4
+  C   0  8
+
+MEASURE 73
+  LINE RH4
+  REST   8
+  F#  0  4
+  Eb  0  8
+# kr2l D:\musfiles\tur-df-orgia.mus 75 60 8
+
+MEASURE 75
+  LINE TLRH2
+  TIELINE RH4 88
+  REST   8
+  D   0  8  3
+
+MEASURE 75
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  F#  0  8  3
+
+MEASURE 75
+  LINE RH4
+  REST   8
+  A   0  8  3
+
+MEASURE 76
+  LINE TLRH2
+  TIELINE RH4 88
+  REST   8
+  E   0  8  3
+
+MEASURE 76
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  G   0  8  3
+
+MEASURE 76
+  LINE RH4
+  REST   8
+  A   0  8  3
+# kr2l D:\musfiles\tur-df-orgia.mus 67 60 8
+
+MEASURE 67
+  LINE LH5
+  D  -2  4
+  REST   8
+  F# -2  8
+
+MEASURE 68
+  LINE LH5
+  E  -2 16  3
+  REST  16
+  A  -3 16  3
+  REST  16
+
+MEASURE 69
+  LINE LH5
+  D  -2  4
+  REST   8
+  F# -2  8
+
+MEASURE 70
+  LINE LH5
+  E  -2 16  3
+  REST  16
+  A  -3 16  3
+  REST  16
+
+MEASURE 71
+  LINE LH5
+  D  -2  4
+  REST   8
+  A  -3  8
+
+MEASURE 72
+  LINE LH5
+  E  -2  4
+  REST   8
+  A  -3  8
+
+MEASURE 73
+  LINE LH5
+  F# -2  4
+  REST   8
+  A  -3  8
+
+MEASURE 74
+  LINE TLLH4
+  TIELINE LH5 80
+  REST   4
+  A  -3  4
+
+MEASURE 74
+  LINE LH5
+  E  -2  4
+  A  -2  4
+# kr2l D:\musfiles\tur-df-orgia.mus 75 60 8
+
+MEASURE 75
+  LINE LH5
+  D  -2  4
+  REST   8
+  A  -3  8
+
+MEASURE 76
+  LINE LH5
+  E  -2  4
+  REST   8
+  A  -3  8
+# kr2l D:\musfiles\tur-df-orgia.mus 77 60 8
+
+MEASURE 77
+  LINE LH5
+  F# -2  4
+  REST   8
+  A  -3  8
+
+MEASURE 78
+  LINE LH5
+  C# -2  4
+  C# -3  4
+# kr2l D:\musfiles\tur-df-orgia.mus 79 60 8
+
+MEASURE 79
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  F# -1  4
+  CARRY   8
+
+MEASURE 79
+  LINE LH4
+  Bb -3  8
+  Bb -1  4
+  CARRY   8
+
+MEASURE 79
+  LINE LH5
+  Bb -2  8
+  F   0  4
+  E   0  8
+
+MEASURE 80
+  LINE LH4
+  A  -3 16  3
+  REST  16
+  C# -3 16  3
+  REST  16
+
+MEASURE 80
+  LINE LH5
+  A  -2 16  3
+  REST  16
+  C# -2 16  3
+  REST  16
+
+MEASURE 81
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  F# -1  4
+  CARRY   8
+
+MEASURE 81
+  LINE LH4
+  Bb -3  8
+  Bb -1  4
+  CARRY   8
+
+MEASURE 81
+  LINE LH5
+  Bb -2  8
+  F   0  4
+  E   0  8
+
+MEASURE 82
+  LINE LH4
+  A  -3 16  3
+  REST  16
+  C# -3 16  3
+  REST  16
+
+MEASURE 82
+  LINE LH5
+  A  -2 16  3
+  REST  16
+  C# -2 16  3
+  REST  16
+# kr2l D:\musfiles\tur-df-orgia.mus 83 60 8
+
+MEASURE 83
+  LINE LH5
+  D  -2  4
+  REST   8
+  F# -2  8
+
+MEASURE 84
+  LINE LH5
+  E  -2 16  3
+  REST  16
+  A  -3 16  3
+  REST  16
+# kr2l D:\musfiles\tur-df-orgia.mus 85 60 8
+
+MEASURE 85
+  LINE TLLH1
+  TIELINE LH4 88
+  REST   8
+  A  -1  4
+  A  -1  8
+
+MEASURE 85
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   8
+  B  -1  4
+  B  -1  8
+
+MEASURE 85
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  D   0  4
+  D   0  8
+
+MEASURE 85
+  LINE LH4
+  REST   8
+  E   0  4
+  E   0  8
+
+MEASURE 85
+  LINE LH5
+  REST   8
+  G   0  4
+  G   0  8
+
+MEASURE 86
+  LINE TLLH1
+  TIELINE LH4 88
+  CARRY  8
+  A  -1  8  3
+
+MEASURE 86
+  LINE TLLH2
+  TIELINE LH4 90
+  CARRY  8
+  B  -1  8  3
+
+MEASURE 86
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  8
+  D   0  8  3
+
+MEASURE 86
+  LINE LH4
+  CARRY  8
+  E   0  8  3
+
+MEASURE 86
+  LINE LH5
+  CARRY  8
+  G   0  8  3
+# kr2l D:\musfiles\tur-df-orgia.mus 87 60 8
+
+MEASURE 87
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   8
+  A  -1  4
+  REST   8
+
+MEASURE 87
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  D   0  4
+  REST   8
+
+MEASURE 87
+  LINE LH4
+  REST   8
+  F#  0  4
+  REST   8
+
+MEASURE 87
+  LINE LH5
+  REST   8
+  B   0  4
+  REST   8
+# kr2l D:\musfiles\tur-df-orgia.mus 88 60 8
+
+MEASURE 88
+  LINE LH5
+  REST   2
+# kr2l D:\musfiles\tur-df-orgia.mus 89 60 8
+
+MEASURE 89
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   8
+  D   0  4
+  REST   8
+
+MEASURE 89
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  F#  0  4
+  REST   8
+
+MEASURE 89
+  LINE LH4
+  REST   8
+  A   0  4
+  REST   8
+
+MEASURE 89
+  LINE LH5
+  REST   8
+  B   0  4
+  REST   8
+
+MEASURE 90
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   8
+  E   0  4
+  REST   8
+
+MEASURE 90
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  G   0  4
+  REST   8
+
+MEASURE 90
+  LINE LH4
+  REST   8
+  B   0  4
+  REST   8
+
+MEASURE 90
+  LINE LH5
+  REST   8
+  C#  1  4
+  REST   8
+
+MEASURE 91
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  C# -1  8  3
+
+MEASURE 91
+  LINE LH4
+  REST   8
+  F# -1  8  3
+
+MEASURE 91
+  LINE LH5
+  REST   8
+  A -1  8  3
+# kr2l D:\musfiles\tur-df-orgia.mus 92 60 8
+
+MEASURE 92
+  LINE LH5
+  REST   2
+# kr2l D:\musfiles\tur-df-orgia.mus 93 60 8
+
+MEASURE 93
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  C#  0  8  3
+
+MEASURE 93
+  LINE LH4
+  REST   8
+  F#  0  8  3
+
+MEASURE 93
+  LINE LH5
+  REST   8
+  A   0  8  3
+# kr2l D:\musfiles\tur-df-orgia.mus 94 60 8
+
+MEASURE 94
+  LINE LH5
+  REST   2
+# kr2l D:\musfiles\tur-df-orgia.mus 95 60 8
+
+MEASURE 95
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  F# -1  8  3
+
+MEASURE 95
+  LINE LH4
+  REST   8
+  A  -1  8  3
+
+MEASURE 95
+  LINE LH5
+  REST   8
+  D 0 32 0
+  C#  0  8  3
+
+MEASURE 96
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  G# -1  8  3
+
+MEASURE 96
+  LINE LH4
+  REST   8
+  B  -1  8  3
+
+MEASURE 96
+  LINE LH5
+  REST   8
+  C# 0 32 0
+  D   0  8  3
+# kr2l D:\musfiles\tur-df-orgia.mus 97 60 8
+
+MEASURE 97
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  F# -1  8  3
+
+MEASURE 97
+  LINE LH4
+  REST   8
+  A  -1  8  3
+
+MEASURE 97
+  LINE LH5
+  REST   8
+  D 0 32 0
+  C#  0  8  3
+# kr2l D:\musfiles\tur-df-orgia.mus 98 60 8
+
+MEASURE 98
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  G# -1  8  3
+
+MEASURE 98
+  LINE LH4
+  REST   8
+  B  -1  8  3
+
+MEASURE 98
+  LINE LH5
+  REST   8
+  C# 0 32 0
+  D   0  8  3
+
+MEASURE 99
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  A  -1  4
+  REST   8
+
+MEASURE 99
+  LINE LH4
+  REST   8
+  C#  0  4
+  REST   8
+
+MEASURE 99
+  LINE LH5
+  REST   8
+  E# 0 32 0
+  F#  0  4
+  REST   8
+
+MEASURE 100
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  A  -1  4
+  REST   8
+
+MEASURE 100
+  LINE LH4
+  REST   8
+  C#  0  4
+  REST   8
+
+MEASURE 100
+  LINE LH5
+  REST   8
+  E# 0 32 0
+  F#  0  4
+  REST   8
+
+MEASURE 101
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  A  -1  4
+  REST   8
+
+MEASURE 101
+  LINE LH4
+  REST   8
+  C#  0  4
+  REST   8
+
+MEASURE 101
+  LINE LH5
+  REST   8
+  F   0  4
+  REST   8
+MEASURE 85
+  MARK pero-algo-desgarrado
+
+# kr2l D:\musfiles\tur-df-orgia.mus 85 60 8
+
+MEASURE 85
+  LINE LH2
+  D  -2  8
+  REST   8  3
+
+MEASURE 86
+  LINE LH2
+  REST   8  3
+  A  -3  8
+
+MEASURE 87
+  LINE LH2
+  D  -2  8
+  REST   4
+  F# -2  8
+
+MEASURE 88
+  LINE TLLH1
+  TIELINE LH2 90
+  REST   4
+  A  -3 16  3
+  REST  16
+
+MEASURE 88
+  LINE LH2
+  E  -2 16  3
+  REST  16
+  A  -2 16  3
+  REST  16
+# kr2l D:\musfiles\tur-df-orgia.mus 89 60 8
+
+MEASURE 89
+  LINE LH2
+  D  -2  8
+  REST   4
+  F# -2  8
+# kr2l D:\musfiles\tur-df-orgia.mus 90 60 8
+
+MEASURE 90
+  LINE LH2
+  E  -2  8
+  REST   4
+  G  -2  8
+
+MEASURE 91
+  LINE LH2
+  F# -2  8
+  REST   8  3
+
+MEASURE 92
+  LINE TLLH1
+  TIELINE LH2 90
+  REST   4
+  A  -3 16  3
+  REST  16
+
+MEASURE 92
+  LINE LH2
+  E  -2 16  3
+  REST  16
+  A  -2 16  3
+  REST  16
+
+MEASURE 93
+  LINE LH2
+  F# -2  8
+  REST   8  3
+
+MEASURE 94
+  LINE LH2
+  G  -2 16  3
+  REST  16
+  C# -2 16  3
+  REST  16
+
+MEASURE 95
+  LINE LH2
+  F# -2  8
+  REST   8  3
+
+MEASURE 96
+  LINE LH2
+  C# -2  8
+  REST   8  3
+
+MEASURE 97
+  LINE LH2
+  F# -2  8
+  REST   8  3
+
+MEASURE 98
+  LINE LH2
+  C# -2  8
+  REST   8  3
+
+MEASURE 99
+  LINE LH2
+  F# -2  8
+  REST   4
+  C# -2  8
+
+MEASURE 100
+  LINE LH2
+  F# -2  8
+  REST   4
+  C# -2  8
+
+MEASURE 101
+  LINE LH2
+  F  -2  8
+  REST   4
+  C# -2  8
+
+MEASURE 102
+  LINE TLLH1
+  TIELINE LH2 90
+  REST   4
+  A  -3 16  3
+  REST  16
+
+MEASURE 102
+  LINE LH2
+  E  -2 16  3
+  REST  16
+  A  -2 16  3
+  REST  16
+
+MEASURE 103
+  LINE LH2
+  D  -2  4
+  REST   8
+  F# -2  8
+
+MEASURE 104
+  LINE LH2
+  E  -2 16  3
+  REST  16
+  A  -3 16  3
+  REST  16
+
+MEASURE 105
+  LINE LH2
+  D  -2  4
+  REST   8
+  F# -2  8
+
+MEASURE 106
+  LINE LH2
+  E  -2 16  3
+  REST  16
+  A  -3 16  3
+  REST  16
+# kr2l D:\musfiles\tur-df-orgia.mus 77 60 8
+
+MEASURE 77
+  LINE RH5
+  REST   8
+  B   0  4
+  F#  0 16
+  B   0 16
+
+MEASURE 78
+  LINE TLRH2
+  TIELINE RH4 88
+  REST   8
+  Eb  0  8
+  REST   4
+
+MEASURE 78
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  F#  0  8
+  C#  0  8
+  B   -1  8
+
+MEASURE 78
+  LINE RH4
+  REST   8
+  B   0  8
+  F   0  8
+  Eb  0  8
+
+MEASURE 78
+  LINE RH5
+  REST   8
+  C#  1  8
+  Bb  0  8
+  G#  0  8
+  LINE TLRH5
+  TIELINE RH5 100
+  REST 8
+  C# 1 8 3
+
+# kr2l D:\musfiles\tur-df-orgia.mus 79 60 8
+
+MEASURE 79
+  LINE TLRH2
+  TIELINE RH4 88
+  REST   8
+  C#  1  4
+  D   1 16
+  REST  16
+
+MEASURE 79
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  F#  1  4
+  F#  1 16
+  REST  16
+
+MEASURE 79
+  LINE RH4
+  REST   8
+  Bb  1  4
+  Bb  1 16
+  Eb  1 16
+
+MEASURE 79
+  LINE RH5
+  REST   8
+  C#  2  4
+  D   2 16
+  Eb  2 16
+# kr2l D:\musfiles\tur-df-orgia.mus 80 60 8
+
+MEASURE 80
+  LINE TLRH2
+  TIELINE RH4 88
+  REST   8
+  E   1  8
+  REST   8
+  F   1  8
+
+MEASURE 80
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  G   1  8
+  REST   8
+  A   1  8
+
+MEASURE 80
+  LINE RH4
+  REST   8
+  C#  2  8
+  REST   8
+  C#  2  8
+
+MEASURE 80
+  LINE RH5
+  REST   8
+  E   2  8
+  REST   8
+  F   2  8
+
+MEASURE 81
+  LINE TLRH2
+  TIELINE RH4 88
+  REST   8
+  C#  0  4
+  D   0 16
+  REST  16
+
+MEASURE 81
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  F#  0  4
+  F#  0 16
+  REST  16
+
+MEASURE 81
+  LINE RH4
+  REST   8
+  Bb  0  4
+  Bb  0 16
+  Eb  0 16
+
+MEASURE 81
+  LINE RH5
+  REST   8
+  C#  1  4
+  D   1 16
+  Eb  1 16
+
+MEASURE 82
+  LINE TLRH2
+  TIELINE RH4 88
+  REST   8
+  E   0  8
+  REST   8
+  F   0  8
+
+MEASURE 82
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  G   0  8
+  REST   8
+  A   0  8
+
+MEASURE 82
+  LINE RH4
+  REST   8
+  C#  1  8
+  REST   8
+  C#  1  8
+
+MEASURE 82
+  LINE RH5
+  REST   8
+  E   1  8
+  REST   8
+  F   1  8
+# kr2l D:\musfiles\tur-df-orgia.mus 77 60 8
+
+MEASURE 77
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  D   0  4
+  C   0  8
+
+MEASURE 77
+  LINE RH4
+  REST   8
+  F#  0  4
+  Eb  0  8
+# kr2l D:\musfiles\tur-df-orgia.mus 83 60 8
+
+MEASURE 83
+  LINE RH4
+  REST   8
+  A  -1  4
+  Bb -1 16
+  B  -1 16
+
+MEASURE 84
+  LINE RH4
+  REST   8
+  B  -1  4
+  C   0 16
+  C#  0 16
+# kr2l D:\musfiles\tur-df-orgia.mus 83 60 8
+
+MEASURE 83
+  LINE TLRH3
+  TIELINE TLRH4 92
+  REST   8
+  D   0  8  3
+
+MEASURE 83
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8
+  F#  0  8  3
+
+MEASURE 83
+  LINE RH5
+  REST   8
+  A   0  8  3
+
+MEASURE 84
+  LINE TLRH3
+  TIELINE TLRH4 92
+  REST   8
+  E   0  8  3
+
+MEASURE 84
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8
+  G   0  8  3
+
+MEASURE 84
+  LINE RH5
+  REST   8
+  A   0  8  3
+
+MEASURE 85
+  LINE RH5
+  REST   8
+  E   1  8
+  F#  1  8
+  G   1  8
+
+MEASURE 86
+  LINE RH5
+  A   1  8
+  A   1  8
+  A   1  8
+  A   1  8
+
+MEASURE 87
+  LINE RH5
+  F#  1 24
+  G   1 24
+  F#  1 24
+  D   1  8
+  E   1  8
+  F#  1  8
+
+MEASURE 88
+  LINE RH5
+  G   1  4
+  A   1  4
+
+MEASURE 89
+  LINE RH5
+  B   1 16  5
+  D   2 16
+  B   1 16
+  D   2 16
+
+MEASURE 90
+  LINE RH5
+  C#  2 16  5
+  E   2 16
+  C#  2 16
+  E   2 16
+
+MEASURE 91
+  LINE RH5
+  F#  2 16
+  A   2 16
+  F#  2 16
+  C#  2 16
+  A   1 16
+  F#  1 16
+  C#  1 16
+  A   0 16
+
+MEASURE 92
+  LINE RH5
+  REST   8
+  G   0 24
+  A   0 24
+  G   0 24
+  F#  0  8
+  E   0  8
+# kr2l D:\musfiles\tur-df-orgia.mus 93 60 8
+
+MEASURE 93
+  LINE RH5
+  REST  16
+  A   2 16
+  F#  2 16
+  C#  2 16
+  A   1 16
+  F#  1 16
+  C#  1 16
+  A   0 16
+
+MEASURE 94
+  LINE RH5
+  REST   8
+  B   0 24
+  C#  1 24
+  B   0 24
+  A   0  8
+  G#  0  8
+
+MEASURE 95
+  LINE RH5
+  REST   8
+  F#  1  8
+  G#  1  8
+  A   1  8
+
+MEASURE 96
+  LINE RH5
+  B   1  8
+  B   1  8
+  B   1  8
+  C#  2  8
+
+MEASURE 97
+  LINE RH5
+  A   1 24
+  B   1 24
+  A   1 24
+  F#  1  8
+  A   1  8
+  C#  2  8
+
+MEASURE 98
+  LINE RH5
+  E   2  8
+  E   2  8
+  E   2  8
+  F#  2  8
+# kr2l D:\musfiles\tur-df-orgia.mus 99 60 8
+
+MEASURE 99
+  LINE RH5
+  D   2 24
+  E   2 24
+  D   2 24
+  C#  2 16  3
+  A   1 16
+  F#  1 16
+  E   1 16
+# kr2l D:\musfiles\tur-df-orgia.mus 100 60 8
+
+MEASURE 100
+  LINE RH5
+  D   1 24
+  E   1 24
+  D   1 24
+  C#  1  8  3
+
+MEASURE 101
+  LINE RH5
+  D   1 24
+  E   1 24
+  D   1 24
+  C#  1  8  3
+# kr2l D:\musfiles\tur-df-orgia.mus 102 60 8
+
+MEASURE 102
+  LINE RH5
+  REST   8
+  G   0 24
+  A   0 24
+  G   0 24
+  F#  0  8
+  E   0  8
+# kr2l D:\musfiles\tur-df-orgia.mus 103 60 8
+
+MEASURE 103
+  LINE RH5
+  REST   8
+  A   0  4
+  C#  1 16
+  D   1 16
+
+MEASURE 104
+  LINE RH5
+  REST   8
+  E   1  8
+  REST   8
+  A   1  8
+
+MEASURE 105
+  LINE RH5
+  REST   8
+  C   1  4
+  C#  1 16
+  C   1 16
+
+MEASURE 106
+  LINE RH5
+  REST   8
+  E   1  8
+  REST   8
+  A   1  8
+# kr2l D:\musfiles\tur-df-orgia.mus 103 60 8
+
+MEASURE 103
+  LINE TLRH2
+  TIELINE RH4 88
+  REST   8
+  A  -1  4
+  D   0  8
+
+MEASURE 103
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  D   0  4
+  F#  0  8
+
+MEASURE 103
+  LINE RH4
+  REST   8
+  F#  0  4
+  A   0  8
+
+MEASURE 104
+  LINE TLRH2
+  TIELINE RH4 88
+  REST   8
+  G   0  8
+  REST   8
+  A   0  8
+
+MEASURE 104
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  Bb  0  8
+  REST   8
+  C#  1  8
+
+MEASURE 104
+  LINE RH4
+  REST   8
+  C   1  8
+  REST   8
+  F   1  8
+# kr2l D:\musfiles\tur-df-orgia.mus 105 60 8
+
+MEASURE 105
+  LINE TLRH2
+  TIELINE RH4 88
+  REST   8
+  A  -1  4
+  Eb  0  8
+
+MEASURE 105
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  F#  0  4
+  F#  0  8
+
+MEASURE 105
+  LINE RH4
+  REST   8
+  A   0  4
+  Bb  0  8
+# kr2l D:\musfiles\tur-df-orgia.mus 106 60 8
+
+MEASURE 106
+  LINE TLRH2
+  TIELINE RH4 88
+  REST   8
+  G   0  8
+  REST   8
+  A   0  8
+
+MEASURE 106
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  B   0  8
+  REST   8
+  C#  1  8
+
+MEASURE 106
+  LINE RH4
+  REST   8
+  D   1  8
+  REST   8
+  F   1  8
+# kr2l D:\musfiles\tur-df-orgia.mus 88 60 8
+
+MEASURE 88
+  LINE TLLH3a
+  TIELINE LH4a 92
+  REST   8
+  B   0  8
+  REST   8
+  G#  0  8
+
+MEASURE 88
+  LINE LH4a
+  REST   8
+  D   1  8
+  REST   8
+  C#  1  8
+
+MEASURE 88
+  LINE LH5a
+  REST   8
+  F   1  8
+  REST   8
+  E   1  8
+# kr2l D:\musfiles\tur-df-orgia.mus 92 60 8
+
+MEASURE 92
+  LINE LH4a
+  REST   8
+  B  -1  4
+  G  -1  8
+
+MEASURE 92
+  LINE LH5a
+  REST   8
+  D   0  4
+  C#  0  8
+# kr2l D:\musfiles\tur-df-orgia.mus 94 60 8
+
+MEASURE 94
+  LINE LH4a
+  REST   8
+  D   0  4
+  B  -1  8
+
+MEASURE 94
+  LINE LH5a
+  REST   8
+  F   0  4
+  F   0  8

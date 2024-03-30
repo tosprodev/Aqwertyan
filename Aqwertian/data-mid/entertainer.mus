@@ -1,0 +1,6088 @@
+NAME Auto-gen
+MEASURE 1
+METER 500 1
+TEMPO 1 2500
+KEY   0
+
+MEASURE 1
+  LINE RH0001
+  D   2 1   12
+  E   2 1   12
+  C   2 1   12
+  A   1 1   24
+  B   1 1   12
+  G   1 1   24
+  D   1 1   12
+  E   1 1   12
+  C   1 1   12
+  A   0 1   24
+  B   0 1   12
+  G   0 1   24
+  D   0 1   12
+  E   0 1   12
+  C   0 1   12
+  A  -1 1   24
+  B  -1 1   12
+  A  -1 1   12
+  G# -1 1   12
+  G  -1 1   24
+  REST  1   24
+  G   1 1   24
+  D   0 1   12
+  D#  0 1   12
+  E   0 1   12
+  C   1 1   24
+  E   0 1   12
+  C   1 1   24
+  E   0 1   12
+  C   1 1   32
+
+MEASURE 2
+  LINE RH0001
+  CARRY 1   40
+  C   2 1   12
+  D   2 1   12
+  D#  2 1   12
+  E   2 1   12
+  C   2 1   12
+  D   2 1   12
+  E   2 1   24
+  B   1 1   12
+  D   2 1   24
+  C  -1 1   24
+  C   0 1   24
+  C   0 1   24
+  D   0 1   12
+  D#  0 1   12
+  E   0 1   12
+  C   1 1   24
+  E   0 1   12
+  C   1 1   24
+  E   0 1   12
+  C   1 1   84
+  A   1 1   12
+  G   1 1   12
+  F#  1 1   12
+  A   1 1   12
+  C   2 1   12
+  E   2 1    4
+
+MEASURE 3
+  LINE RH0001
+  CARRY 1   20
+  D   2 1   12
+  C   2 1   12
+  A   1 1   12
+  B  -1 1   24
+  G  -1 1   24
+  A  -1 1   24
+  D   0 1   12
+  D#  0 1   12
+  E   0 1   12
+  C   1 1   24
+  E   0 1   12
+  C   1 1   24
+  E   0 1   12
+  C   1 1   72
+  C   2 1   12
+  D   2 1   12
+  D#  2 1   12
+  E   2 1   12
+  C   2 1   12
+  D   2 1   12
+  E   2 1   24
+  B   1 1   12
+  D   2 1   24
+  C  -1 1   24
+  C   0 1   24
+  E   0 1   12
+
+MEASURE 4
+  LINE RH0001
+  CARRY 1   12
+  C   2 1   12
+  D   2 1   12
+  E   2 1   12
+  C   2 1   12
+  D   2 1   12
+  E   2 1   24
+  C   2 1   12
+  D   2 1   12
+  C   2 1   12
+  E   2 1   12
+  C   2 1   12
+  D   2 1   12
+  E   2 1   24
+  C   2 1   12
+  D   2 1   12
+  C   2 1   12
+  E   2 1   12
+  C   2 1   12
+  D   2 1   12
+  E   2 1   24
+  B   1 1   12
+  D   2 1   24
+  C   0 1   24
+  G  -1 1   24
+  A  -1 1   24
+  D   0 1   12
+  D#  0 1   12
+  E   0 1   12
+  C   1 1   24
+  E   0 1   12
+  C   1 1   24
+  E   0 1    8
+
+MEASURE 5
+  LINE RH0001
+  CARRY 1    4
+  C   1 1   72
+  C   2 1   12
+  D   2 1   12
+  D#  2 1   12
+  E   2 1   12
+  C   2 1   12
+  D   2 1   12
+  E   2 1   24
+  B   1 1   12
+  D   2 1   24
+  C  -1 1   24
+  C   0 1   24
+  C   0 1   24
+  D   0 1   12
+  D#  0 1   12
+  E   0 1   12
+  C   1 1   24
+  E   0 1   12
+  C   1 1   24
+  E   0 1   12
+  C   1 1   84
+  A   1 1   12
+  G   1 1   12
+  F#  1 1    4
+
+MEASURE 6
+  LINE RH0001
+  CARRY 1    8
+  A   1 1   12
+  C   2 1   12
+  E   2 1   24
+  D   2 1   12
+  C   2 1   12
+  A   1 1   12
+  B  -1 1   24
+  G  -1 1   24
+  A  -1 1   24
+  D   0 1   12
+  D#  0 1   12
+  E   0 1   12
+  C   1 1   24
+  E   0 1   12
+  C   1 1   24
+  E   0 1   12
+  C   1 1   72
+  C   2 1   12
+  D   2 1   12
+  D#  2 1   12
+  E   2 1   12
+  C   2 1   12
+  D   2 1   12
+  E   2 1   24
+  B   1 1   12
+  D   2 1   24
+  C  -1 1   24
+
+MEASURE 7
+  LINE RH0001
+  C   0 1   24
+  E   0 1   24
+  C   2 1   12
+  D   2 1   12
+  E   2 1   12
+  C   2 1   12
+  D   2 1   12
+  E   2 1   24
+  C   2 1   12
+  D   2 1   12
+  C   2 1   12
+  E   2 1   12
+  C   2 1   12
+  D   2 1   12
+  E   2 1   24
+  C   2 1   12
+  D   2 1   12
+  C   2 1   12
+  E   2 1   12
+  C   2 1   12
+  D   2 1   12
+  E   2 1   24
+  B   1 1   12
+  D   2 1   24
+  C   0 1   24
+  G  -1 1   24
+  C  -1 1   24
+  F   1 1   12
+  F#  1 1   12
+  G   1 1   24
+  A   1 1   12
+  G   1 1    8
+
+MEASURE 8
+  LINE RH0001
+  CARRY 1   16
+  E   1 1   12
+  F   1 1   12
+  F#  1 1   12
+  G   1 1   24
+  A   1 1   12
+  G   1 1   24
+  E   1 1   12
+  C   1 1   12
+  G   0 1   12
+  A   0 1   12
+  B   0 1   12
+  C   1 1   12
+  D   1 1   12
+  E   1 1   12
+  D   1 1   12
+  C   1 1   12
+  D   1 1   12
+  G   0 1   12
+  E   1 1   12
+  F   1 1   12
+  G   1 1   12
+  A   1 1   12
+  G   1 1   12
+  E   1 1   12
+  F   1 1   12
+  G   1 1   24
+  A   1 1   12
+  G   1 1   24
+  E   1 1   12
+  F   1 1   12
+  F#  1 1   12
+  G   1 1   24
+  A   1 1   12
+  G   1 1   24
+  G   1 1    4
+
+MEASURE 9
+  LINE RH0001
+  CARRY 1    8
+  A   1 1   12
+  A#  1 1   12
+  B   1 1   12
+  B   1 1   24
+  B   1 1   24
+  A   1 1   12
+  F#  1 1   12
+  D   1 1   12
+  D   0 1   24
+  F  -1 1   24
+  E  -1 1   24
+  F   1 1   12
+  F#  1 1   12
+  G   1 1   24
+  A   1 1   12
+  G   1 1   24
+  E   1 1   12
+  F   1 1   12
+  F#  1 1   12
+  G   1 1   24
+  A   1 1   12
+  G   1 1   24
+  E   1 1   12
+  C   1 1   12
+  G   0 1   12
+  A   0 1   12
+  B   0 1   12
+  C   1 1   12
+  D   1 1   12
+  E   1 1   12
+  D   1 1   12
+  C   1 1   12
+
+MEASURE 10
+  LINE RH0001
+  D   1 1   12
+  E  -1 1   24
+  E   0 1   24
+  C  -1 1   24
+  F#  0 1   12
+  G   0 1   12
+  C   1 1   24
+  A   0 1   12
+  C   1 1   24
+  A   0 1   12
+  C   1 1   12
+  A   0 1   12
+  G   0 1   12
+  C   1 1   12
+  E   1 1   12
+  G   1 1   24
+  E   1 1   12
+  C   1 1   12
+  G   0 1   12
+  A   0 1   24
+  C   1 1   24
+  E   1 1   12
+  D   1 1   24
+  C   1 1   72
+  E   2 1   12
+  F   2 1   12
+  F#  2 1   12
+  G   1 1    8
+
+MEASURE 11
+  LINE RH0001
+  CARRY 1   16
+  A   1 1   12
+  G   1 1   24
+  E   1 1   12
+  F   1 1   12
+  F#  1 1   12
+  G   1 1   24
+  A   1 1   12
+  G   1 1   24
+  E   1 1   12
+  C   1 1   12
+  G   0 1   12
+  A   0 1   12
+  B   0 1   12
+  C   1 1   12
+  D   1 1   12
+  E   1 1   12
+  D   1 1   12
+  C   1 1   12
+  D   1 1   12
+  G   0 1   12
+  E   1 1   12
+  F   1 1   12
+  G   1 1   12
+  A   1 1   12
+  G   1 1   12
+  E   1 1   12
+  F   1 1   12
+  G   1 1   24
+  A   1 1   12
+  G   1 1   24
+  E   1 1   12
+  F   1 1   12
+  F#  1 1   12
+  G   1 1   24
+  A   1 1    4
+
+MEASURE 12
+  LINE RH0001
+  CARRY 1    8
+  G   1 1   24
+  G   1 1   12
+  A   1 1   12
+  A#  1 1   12
+  B   1 1   12
+  B   1 1   24
+  B   1 1   24
+  A   1 1   12
+  F#  1 1   12
+  D   1 1   12
+  D   0 1   24
+  F  -1 1   24
+  E  -1 1   24
+  F   1 1   12
+  F#  1 1   12
+  G   1 1   24
+  A   1 1   12
+  G   1 1   24
+  E   1 1   12
+  F   1 1   12
+  F#  1 1   12
+  G   1 1   24
+  A   1 1   12
+  G   1 1   24
+  E   1 1   12
+  C   1 1   12
+  G   0 1   12
+  A   0 1   12
+  B   0 1   12
+  C   1 1   12
+  D   1 1   12
+
+MEASURE 13
+  LINE RH0001
+  E   1 1   12
+  D   1 1   12
+  C   1 1   12
+  D   1 1   12
+  E  -1 1   24
+  E   0 1   24
+  C  -1 1   24
+  F#  0 1   12
+  G   0 1   12
+  C   1 1   24
+  A   0 1   12
+  C   1 1   24
+  A   0 1   12
+  C   1 1   12
+  A   0 1   12
+  G   0 1   12
+  C   1 1   12
+  E   1 1   12
+  G   1 1   24
+  E   1 1   12
+  C   1 1   12
+  G   0 1   12
+  A   0 1   24
+  C   1 1   24
+  E   1 1   12
+  D   1 1   24
+  C   1 1   80
+
+MEASURE 14
+  LINE RH0001
+  CARRY 1    4
+  D   0 1   12
+  D#  0 1   12
+  E   0 1   12
+  C   1 1   24
+  E   0 1   12
+  C   1 1   24
+  E   0 1   12
+  C   1 1   72
+  C   2 1   12
+  D   2 1   12
+  D#  2 1   12
+  E   2 1   12
+  C   2 1   12
+  D   2 1   12
+  E   2 1   24
+  B   1 1   12
+  D   2 1   24
+  C  -1 1   24
+  C   0 1   24
+  C   0 1   24
+  D   0 1   12
+  D#  0 1   12
+  E   0 1   12
+  C   1 1   24
+  E   0 1   12
+  C   1 1   24
+  E   0 1   12
+  C   1 1    4
+
+MEASURE 15
+  LINE RH0001
+  CARRY 1   80
+  A   1 1   12
+  G   1 1   12
+  F#  1 1   12
+  A   1 1   12
+  C   2 1   12
+  E   2 1   24
+  D   2 1   12
+  C   2 1   12
+  A   1 1   12
+  B  -1 1   24
+  G  -1 1   24
+  A  -1 1   24
+  D   0 1   12
+  D#  0 1   12
+  E   0 1   12
+  C   1 1   24
+  E   0 1   12
+  C   1 1   24
+  E   0 1   12
+  C   1 1   72
+  C   2 1   12
+  D   2 1   12
+  D#  2 1   12
+  E   2 1   12
+
+MEASURE 16
+  LINE RH0001
+  C   2 1   12
+  D   2 1   12
+  E   2 1   24
+  B   1 1   12
+  D   2 1   24
+  C  -1 1   24
+  C   0 1   24
+  E   0 1   24
+  C   2 1   12
+  D   2 1   12
+  E   2 1   12
+  C   2 1   12
+  D   2 1   12
+  E   2 1   24
+  C   2 1   12
+  D   2 1   12
+  C   2 1   12
+  E   2 1   12
+  C   2 1   12
+  D   2 1   12
+  E   2 1   24
+  C   2 1   12
+  D   2 1   12
+  C   2 1   12
+  E   2 1   12
+  C   2 1   12
+  D   2 1   12
+  E   2 1   24
+  B   1 1   12
+  D   2 1   24
+  C   0 1   24
+  G  -1 1    8
+
+MEASURE 17
+  LINE RH0001
+  CARRY 1   16
+  C   2 1   24
+  REST  1   24
+  A   1 1   12
+  G#  1 1   12
+  F   0 1   24
+  C  -1 1   24
+  C   2 1   24
+  A# -2 1   24
+  A#  0 1   12
+  A   0 1   12
+  A#  0 1   12
+  C   1 1   12
+  D   1 1   24
+  F   1 1   12
+  E   1 1   12
+  F   0 1   24
+  A  -2 1   24
+  A   1 1   24
+  G  -2 1   24
+  G   0 1   12
+  F#  0 1   12
+  G   0 1   12
+  A   0 1   12
+  A#  0 1   24
+  D   1 1   24
+  G   1 1   12
+  D   1 1   16
+
+MEASURE 18
+  LINE RH0001
+  CARRY 1    8
+  G   1 1   12
+  D   1 1   24
+  A  -1 1   24
+  F   0 1   24
+  D  -1 1   24
+  F   0 1   24
+  E   1 1   12
+  G#  1 1   12
+  B   1 1   12
+  E   2 1   24
+  D   2 1   12
+  B   1 1   12
+  C   2 1   12
+  A   1 1   48
+  A#  1 1   48
+  A   1 1   12
+  G#  1 1   12
+  F   0 1   24
+  C  -1 1   24
+  C   2 1   24
+  A# -2 1   24
+  A#  0 1   12
+  A   0 1   12
+  A#  0 1   12
+  C   1 1   12
+
+MEASURE 19
+  LINE RH0001
+  D   1 1   24
+  F   1 1   12
+  E   1 1   12
+  F   0 1   24
+  A  -2 1   24
+  A   1 1   24
+  G  -2 1   24
+  G   0 1   12
+  F#  0 1   12
+  G   0 1   12
+  A   0 1   12
+  A#  0 1   24
+  D   1 1   24
+  G   1 1   12
+  D   1 1   24
+  G   1 1   12
+  D   1 1   24
+  A  -1 1   12
+  F  -1 1   12
+  E  -1 1   12
+  D  -1 1   12
+  F   1 1   36
+  F   1 1   12
+  A   1 1   12
+  C   2 1   24
+  G   1 1   24
+  C   1 1   12
+  D   1 1   12
+  E   1 1    8
+
+MEASURE 20
+  LINE RH0001
+  CARRY 1    4
+  F   1 1   24
+  B   0 1   12
+  C   1 1   12
+  D   1 1   12
+  E   1 1   12
+  F   1 1   12
+  G   1 1   12
+  A   1 1   12
+  G#  1 1   12
+  F   0 1   24
+  C  -1 1   24
+  C   2 1   24
+  A# -2 1   24
+  A#  0 1   12
+  A   0 1   12
+  A#  0 1   12
+  C   1 1   12
+  D   1 1   24
+  F   1 1   12
+  E   1 1   12
+  F   0 1   24
+  A  -2 1   24
+  A   1 1   24
+  G  -2 1   24
+  G   0 1   12
+  F#  0 1   12
+  G   0 1   12
+  A   0 1   12
+  A#  0 1   24
+  D   1 1   16
+
+MEASURE 21
+  LINE RH0001
+  CARRY 1    8
+  G   1 1   12
+  D   1 1   24
+  G   1 1   12
+  D   1 1   24
+  A  -1 1   24
+  F   0 1   24
+  D  -1 1   24
+  F   0 1   24
+  E   1 1   12
+  G#  1 1   12
+  B   1 1   12
+  E   2 1   24
+  D   2 1   12
+  B   1 1   12
+  C   2 1   12
+  A   1 1   48
+  A#  1 1   48
+  A   1 1   12
+  G#  1 1   12
+  F   0 1   24
+  C  -1 1   24
+  C   2 1   24
+  A# -2 1   24
+  A#  0 1   12
+
+MEASURE 22
+  LINE RH0001
+  A   0 1   12
+  A#  0 1   12
+  C   1 1   12
+  D   1 1   24
+  F   1 1   12
+  E   1 1   12
+  F   0 1   24
+  A  -2 1   24
+  A   1 1   24
+  G  -2 1   24
+  G   0 1   12
+  F#  0 1   12
+  G   0 1   12
+  A   0 1   12
+  A#  0 1   24
+  D   1 1   24
+  G   1 1   12
+  D   1 1   24
+  G   1 1   12
+  D   1 1   24
+  A  -1 1   12
+  F  -1 1   12
+  E  -1 1   12
+  D  -1 1   12
+  F   1 1   36
+  F   1 1   12
+  A   1 1   12
+  C   2 1   24
+  G   1 1   20
+
+MEASURE 23
+  LINE RH0001
+  CARRY 1    4
+  C   1 1   12
+  D   1 1   12
+  E   1 1   12
+  F   1 1   24
+  REST  1   24
+  F   2 1   24
+  REST  1   24
+  C   1 1   24
+  A   0 1   12
+  C   1 1   24
+  A   0 1   12
+  C   1 1   12
+  A   0 1   12
+  G   0 1   12
+  C   1 1   12
+  E   1 1   12
+  G   1 1   24
+  E   1 1   12
+  C   1 1   12
+  G   0 1   12
+  A   0 1   24
+  F#  1 1   24
+  E   1 1   12
+  D   1 1   24
+  C   1 1   60
+  C   2 1   24
+  REST  1    4
+
+MEASURE 24
+  LINE RH0001
+  REST  1   20
+  F   0 1   24
+  E   0 1   12
+  F   0 1   24
+  E   0 1   12
+  F   0 1   24
+  F  -2 1   24
+  D   1 1   12
+  A   0 1   12
+  C   1 1   12
+  D   1 1   12
+  C   1 1   12
+  A   0 1   12
+  G   0 1   24
+  F#  0 1   12
+  G   0 1   24
+  F#  0 1   12
+  G   0 1   24
+  C  -1 1   24
+  E   1 1   12
+  C   1 1   12
+  D   1 1   12
+  E   1 1   12
+  D   1 1   12
+  C   1 1   12
+  D   1 1   24
+  C#  1 1   12
+  D   1 1   24
+  C#  1 1   12
+  D   1 1   24
+
+MEASURE 25
+  LINE RH0001
+  G  -2 1   24
+  A   1 1   12
+  F   1 1   12
+  G   1 1   12
+  A   1 1   12
+  G   1 1   12
+  F   1 1   12
+  C   2 1   12
+  C   2 1   12
+  C   2 1   48
+  A   1 1   24
+  G   1 1   24
+  G   0 1   12
+  G   0 1   12
+  G   0 1   24
+  G   0 1   24
+  F   0 1   24
+  E   0 1   12
+  F   0 1   24
+  E   0 1   12
+  F   0 1   24
+  F  -2 1   24
+  D   1 1   12
+  A   0 1   12
+  C   1 1   12
+  D   1 1   12
+  C   1 1   12
+  A   0 1   12
+  G   0 1   20
+
+MEASURE 26
+  LINE RH0001
+  CARRY 1    4
+  F#  0 1   12
+  G   0 1   24
+  F#  0 1   12
+  G   0 1   24
+  C  -1 1   24
+  E   1 1   12
+  C   1 1   12
+  D   1 1   12
+  E   1 1   12
+  D   1 1   12
+  C   1 1   12
+  A   0 1   12
+  G#  0 1   12
+  A   0 1   12
+  G   1 1   24
+  F   1 1   24
+  C   1 1   12
+  E   1 1   12
+  D#  1 1   12
+  E   1 1   12
+  A   1 1   24
+  C   2 1   12
+  G   1 1   12
+  E   1 1   12
+  C   1 1   24
+  C   1 1   24
+  E   1 1   12
+  D   1 1   24
+  C   1 1   36
+  G   0 1   12
+  G   0 1    4
+
+MEASURE 27
+  LINE RH0001
+  CARRY 1    8
+  G   0 1   24
+  G   0 1   24
+  F   0 1   24
+  E   0 1   12
+  F   0 1   24
+  E   0 1   12
+  F   0 1   24
+  F  -2 1   24
+  D   1 1   12
+  A   0 1   12
+  C   1 1   12
+  D   1 1   12
+  C   1 1   12
+  A   0 1   12
+  G   0 1   24
+  F#  0 1   12
+  G   0 1   24
+  F#  0 1   12
+  G   0 1   24
+  C  -1 1   24
+  E   1 1   12
+  C   1 1   12
+  D   1 1   12
+  E   1 1   12
+  D   1 1   12
+  C   1 1   12
+  D   1 1   24
+  C#  1 1   12
+  D   1 1   24
+
+MEASURE 28
+  LINE RH0001
+  C#  1 1   12
+  D   1 1   24
+  G  -2 1   24
+  A   1 1   12
+  F   1 1   12
+  G   1 1   12
+  A   1 1   12
+  G   1 1   12
+  F   1 1   12
+  C   2 1   12
+  C   2 1   12
+  C   2 1   48
+  A   1 1   24
+  G   1 1   24
+  G   0 1   12
+  G   0 1   12
+  G   0 1   24
+  G   0 1   24
+  F   0 1   24
+  E   0 1   12
+  F   0 1   24
+  E   0 1   12
+  F   0 1   24
+  F  -2 1   24
+  D   1 1   12
+  A   0 1   12
+  C   1 1   12
+  D   1 1   12
+  C   1 1    8
+
+MEASURE 29
+  LINE RH0001
+  CARRY 1    4
+  A   0 1   12
+  G   0 1   24
+  F#  0 1   12
+  G   0 1   24
+  F#  0 1   12
+  G   0 1   24
+  C  -1 1   24
+  E   1 1   12
+  C   1 1   12
+  D   1 1   12
+  E   1 1   12
+  D   1 1   12
+  C   1 1   12
+  A   0 1   12
+  G#  0 1   12
+  A   0 1   12
+  G   1 1   24
+  F   1 1   24
+  C   1 1   12
+  E   1 1   12
+  D#  1 1   12
+  E   1 1   12
+  A   1 1   24
+  C   2 1   12
+  G   1 1   12
+  E   1 1   12
+  C   1 1   24
+  C   1 1   24
+  E   1 1   12
+  D   1 1   24
+  C   1 1   16
+
+MEASURE 30
+  LINE RH0001
+  CARRY 1   44
+  C   2 1   24
+  REST  1  432
+
+MEASURE 1
+  LINE RH0002
+  REST  1  408
+  C   0 1   24
+  REST  1   48
+  F  -1 1   20
+
+MEASURE 2
+  LINE RH0002
+  CARRY 1    4
+  C   0 1   24
+  E  -1 1   24
+  REST  1   72
+  G  -2 1   24
+  REST  1  144
+  C   0 1   24
+  REST  1   48
+  F  -1 1   24
+  C   0 1   24
+  E  -1 1   24
+  REST  1   64
+
+MEASURE 3
+  LINE RH0002
+  REST  1    8
+  D  -1 1   24
+  REST  1  144
+  C   0 1   24
+  REST  1   48
+  F  -1 1   24
+  C   0 1   24
+  E  -1 1   24
+  REST  1   72
+  G  -2 1   24
+  REST  1   84
+
+MEASURE 4
+  LINE RH0002
+  REST  1   84
+  A# -1 1   24
+  REST  1   72
+  G# -1 1   24
+  REST  1   72
+  G  -2 1   24
+  REST  1  144
+  C   0 1   24
+  REST  1   32
+
+MEASURE 5
+  LINE RH0002
+  REST  1   16
+  F  -1 1   24
+  C   0 1   24
+  E  -1 1   24
+  REST  1   72
+  G  -2 1   24
+  REST  1  144
+  C   0 1   24
+  REST  1   48
+  F  -1 1   24
+  C   0 1   24
+  E  -1 1   24
+  REST  1   28
+
+MEASURE 6
+  LINE RH0002
+  REST  1   44
+  D  -1 1   24
+  REST  1  144
+  C   0 1   24
+  REST  1   48
+  F  -1 1   24
+  C   0 1   24
+  E  -1 1   24
+  REST  1   72
+  G  -2 1   24
+  REST  1   48
+
+MEASURE 7
+  LINE RH0002
+  REST  1  120
+  A# -1 1   24
+  REST  1   72
+  G# -1 1   24
+  REST  1   72
+  G  -2 1   24
+  REST  1   84
+  E   1 1   12
+  REST  1   68
+
+MEASURE 8
+  LINE RH0002
+  REST  1    4
+  G  -2 1   24
+  REST  1   72
+  G  -2 1   24
+  REST  1  264
+  G  -2 1   24
+  REST  1   72
+  E  -1 1   16
+
+MEASURE 9
+  LINE RH0002
+  CARRY 1    8
+  REST  1   48
+  D   0 1   24
+  D  -1 1   24
+  REST  1   84
+  E   1 1   12
+  REST  1   72
+  G  -2 1   24
+  REST  1   72
+  G  -2 1   24
+  REST  1  108
+
+MEASURE 10
+  LINE RH0002
+  REST  1   72
+  G   0 1   12
+  REST  1   72
+  D#  0 1   24
+  REST  1   72
+  E   0 1   24
+  REST  1   96
+  B  -1 1   24
+  C   0 1   24
+  G  -1 1   24
+  E  -1 1   24
+  REST  1   32
+
+MEASURE 11
+  LINE RH0002
+  REST  1   40
+  G  -2 1   24
+  REST  1   72
+  G  -2 1   24
+  REST  1  264
+  G  -2 1   24
+  REST  1   52
+
+MEASURE 12
+  LINE RH0002
+  REST  1   20
+  E  -1 1   24
+  REST  1   48
+  D   0 1   24
+  D  -1 1   24
+  REST  1   84
+  E   1 1   12
+  REST  1   72
+  G  -2 1   24
+  REST  1   72
+  G  -2 1   24
+  REST  1   72
+
+MEASURE 13
+  LINE RH0002
+  REST  1  108
+  G   0 1   12
+  REST  1   72
+  D#  0 1   24
+  REST  1   72
+  E   0 1   24
+  REST  1   96
+  B  -1 1   24
+  C   0 1   24
+  G  -1 1   24
+  C  -1 1   20
+
+MEASURE 14
+  LINE RH0002
+  CARRY 1    4
+  REST  1   48
+  C   0 1   24
+  REST  1   48
+  F  -1 1   24
+  C   0 1   24
+  E  -1 1   24
+  REST  1   72
+  G  -2 1   24
+  REST  1  144
+  C   0 1   24
+  REST  1   40
+
+MEASURE 15
+  LINE RH0002
+  REST  1    8
+  F  -1 1   24
+  C   0 1   24
+  E  -1 1   24
+  REST  1   72
+  D  -1 1   24
+  REST  1  144
+  C   0 1   24
+  REST  1   48
+  F  -1 1   24
+  C   0 1   24
+  E  -1 1   24
+  REST  1   36
+
+MEASURE 16
+  LINE RH0002
+  REST  1   36
+  G  -2 1   24
+  REST  1  168
+  A# -1 1   24
+  REST  1   72
+  G# -1 1   24
+  REST  1   72
+  G  -2 1   24
+  REST  1   56
+
+MEASURE 17
+  LINE RH0002
+  REST  1  436
+  G   1 1   12
+  REST  1   48
+  G  -1 1    4
+
+MEASURE 18
+  LINE RH0002
+  CARRY 1   20
+  REST  1  168
+  G# -1 1   24
+  REST  1   96
+  C  -1 1   24
+  REST  1  168
+
+MEASURE 19
+  LINE RH0002
+  REST  1  204
+  G   1 1   12
+  REST  1   48
+  G  -1 1   24
+  REST  1  144
+  F   0 1   24
+  C   0 1   24
+  REST  1   20
+
+MEASURE 20
+  LINE RH0002
+  REST  1  472
+  G   1 1   12
+  REST  1   16
+
+MEASURE 21
+  LINE RH0002
+  REST  1   32
+  G  -1 1   24
+  REST  1  168
+  G# -1 1   24
+  REST  1   96
+  C  -1 1   24
+  REST  1  132
+
+MEASURE 22
+  LINE RH0002
+  REST  1  240
+  G   1 1   12
+  REST  1   48
+  G  -1 1   24
+  REST  1  144
+  F   0 1   24
+  C   0 1    8
+
+MEASURE 23
+  LINE RH0002
+  CARRY 1   16
+  REST  1  168
+  D#  0 1   24
+  REST  1   72
+  E   0 1   24
+  REST  1   96
+  B  -1 1   24
+  C   0 1   48
+  REST  1   28
+
+MEASURE 24
+  LINE RH0002
+  REST  1   68
+  A  -2 1   24
+  REST  1   36
+  A   0 1   12
+  REST  1  120
+  G  -2 1   24
+  REST  1   36
+  C   1 1   12
+  REST  1  120
+  B  -2 1   24
+  REST  1   24
+
+MEASURE 25
+  LINE RH0002
+  REST  1   12
+  F   1 1   12
+  REST  1  312
+  A  -2 1   24
+  REST  1   36
+  A   0 1   12
+  REST  1   92
+
+MEASURE 26
+  LINE RH0002
+  REST  1   28
+  G  -2 1   24
+  REST  1   36
+  C   1 1   12
+  REST  1  120
+  E  -1 1   24
+  F  -1 1   24
+  REST  1   48
+  D#  0 1   24
+  REST  1   96
+  B  -1 1   24
+  C   0 1   24
+  REST  1   16
+
+MEASURE 27
+  LINE RH0002
+  REST  1  104
+  A  -2 1   24
+  REST  1   36
+  A   0 1   12
+  REST  1  120
+  G  -2 1   24
+  REST  1   36
+  C   1 1   12
+  REST  1  120
+  B  -2 1   12
+
+MEASURE 28
+  LINE RH0002
+  CARRY 1   12
+  REST  1   36
+  F   1 1   12
+  REST  1  312
+  A  -2 1   24
+  REST  1   36
+  A   0 1   12
+  REST  1   56
+
+MEASURE 29
+  LINE RH0002
+  REST  1   64
+  G  -2 1   24
+  REST  1   36
+  C   1 1   12
+  REST  1  120
+  E  -1 1   24
+  F  -1 1   24
+  REST  1   48
+  D#  0 1   24
+  REST  1   96
+  B  -1 1   24
+  C   0 1    4
+
+MEASURE 30
+  LINE RH0002
+  CARRY 1   20
+  G  -1 1   24
+  REST  1  456
+
+MEASURE 1
+  LINE TLRH0003
+  TIELINE RH0001 100
+  D   1 1   12
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  A   0 1   24
+    TIENOTE RH0001
+  B   0 1   12
+    TIENOTE RH0001
+  G   0 1   24
+    TIENOTE RH0001
+  D   0 1   12
+    TIENOTE RH0001
+  E   0 1   12
+    TIENOTE RH0001
+  C   0 1   12
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+  B  -1 1   12
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  D  -1 1   12
+    TIENOTE RH0001
+  E  -1 1   12
+    TIENOTE RH0001
+  C  -1 1   12
+    TIENOTE RH0001
+  A  -2 1   24
+    TIENOTE RH0001
+  B  -2 1   12
+    TIENOTE RH0001
+  A  -2 1   12
+    TIENOTE RH0001
+  G# -2 1   12
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G  -3 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   12
+    TIENOTE RH0001
+  REST  1   12
+  F  -2 1   20
+    TIENOTE RH0002
+
+MEASURE 2
+  LINE TLRH0003
+  CARRY 1    4
+  A  -1 1   24
+    TIENOTE RH0002
+  E  -2 1   24
+    TIENOTE RH0002 RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E  -1 1   36
+    TIENOTE RH0001
+  B   0 1   12
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  C   1 1   72
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   12
+    TIENOTE RH0001
+  REST  1   12
+  F  -2 1   24
+    TIENOTE RH0002
+  A  -1 1   24
+    TIENOTE RH0002
+  E  -2 1   24
+    TIENOTE RH0002 RH0001
+  D# -2 1   24
+    TIENOTE RH0001
+  D  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  D  -1 1   16
+    TIENOTE RH0001
+
+MEASURE 3
+  LINE TLRH0003
+  CARRY 1   20
+  D   1 1   12
+    TIENOTE RH0001
+  F# -1 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+  A  -2 1   24
+    TIENOTE RH0001
+  B  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   12
+    TIENOTE RH0001
+  REST  1   12
+  F  -2 1   24
+    TIENOTE RH0002
+  A  -1 1   24
+    TIENOTE RH0002
+  E  -2 1   24
+    TIENOTE RH0002 RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E  -1 1   36
+    TIENOTE RH0001
+  B   0 1   12
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  C   1 1   60
+    TIENOTE RH0001
+
+MEASURE 4
+  LINE TLRH0003
+  CARRY 1   12
+  C   1 1   12
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  C  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  A  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A  -1 1   36
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  G# -1 1   24
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  B   0 1   12
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  C  -1 1   24
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+  A  -2 1   24
+    TIENOTE RH0001
+  B  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1    8
+    TIENOTE RH0001
+
+MEASURE 5
+  LINE TLRH0003
+  CARRY 1    4
+  REST  1   12
+  F  -2 1   24
+    TIENOTE RH0002
+  A  -1 1   24
+    TIENOTE RH0002
+  E  -2 1   24
+    TIENOTE RH0002 RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E  -1 1   36
+    TIENOTE RH0001
+  B   0 1   12
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  C   1 1   72
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   12
+    TIENOTE RH0001
+  REST  1   12
+  F  -2 1   24
+    TIENOTE RH0002
+  A  -1 1   24
+    TIENOTE RH0002
+  E  -2 1   24
+    TIENOTE RH0002 RH0001
+  D# -2 1   24
+    TIENOTE RH0001
+  D  -2 1    4
+    TIENOTE RH0001
+
+MEASURE 6
+  LINE TLRH0003
+  CARRY 1   20
+# MISMATCH
+  D  -1 1   36
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  F# -1 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+  A  -2 1   24
+    TIENOTE RH0001
+  B  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   12
+    TIENOTE RH0001
+  REST  1   12
+  F  -2 1   24
+    TIENOTE RH0002
+  A  -1 1   24
+    TIENOTE RH0002
+  E  -2 1   24
+    TIENOTE RH0002 RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E  -1 1   36
+    TIENOTE RH0001
+  B   0 1   12
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  C   1 1   24
+    TIENOTE RH0001
+
+MEASURE 7
+  LINE TLRH0003
+  CARRY 1   48
+  C   1 1   12
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  C  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  A  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A  -1 1   36
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  G# -1 1   24
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  B   0 1   12
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  C  -1 1   24
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+  C  -2 1   24
+    TIENOTE RH0001
+  F   0 1   12
+    TIENOTE RH0001
+  F#  0 1   12
+    TIENOTE RH0001
+  C  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   20
+    TIENOTE RH0001
+
+MEASURE 8
+  LINE TLRH0003
+  CARRY 1   16
+  E   0 1   12
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  C  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -1 1   24
+    TIENOTE RH0001
+  F  -2 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  G# -1 1   24
+    TIENOTE RH0001
+  E  -1 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  C  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  E   0 1   12
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  C  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  REST  1    4
+
+MEASURE 9
+  LINE TLRH0003
+  REST  1    8
+  D# -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  D  -1 1   36
+    TIENOTE RH0001
+  C   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  A  -1 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  F  -2 1   24
+    TIENOTE RH0001
+  E  -2 1   24
+    TIENOTE RH0001
+  D  -2 1   24
+    TIENOTE RH0001
+  C  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  E   0 1   12
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  C  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -1 1   24
+    TIENOTE RH0001
+  F  -2 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  G# -1 1   12
+    TIENOTE RH0001
+
+MEASURE 10
+  LINE TLRH0003
+  CARRY 1   12
+# MISMATCH
+  C   1 1   72
+    TIENOTE RH0001
+  A# -1 1   24
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  F  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  F# -1 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -1 1   24
+    TIENOTE RH0001
+  D  -1 1   24
+    TIENOTE RH0001
+  D  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  E   0 1   72
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+  D  -2 1   24
+    TIENOTE RH0001
+  C  -2 1    8
+    TIENOTE RH0001
+
+MEASURE 11
+  LINE TLRH0003
+  CARRY 1   16
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  E   0 1   12
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  C  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -1 1   24
+    TIENOTE RH0001
+  F  -2 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  G# -1 1   24
+    TIENOTE RH0001
+  E  -1 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  C  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  E   0 1   12
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  C  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1    4
+    TIENOTE RH0001
+
+MEASURE 12
+  LINE TLRH0003
+  CARRY 1   32
+  REST  1   12
+  D# -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  D  -1 1   36
+    TIENOTE RH0001
+  C   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  A  -1 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  F  -2 1   24
+    TIENOTE RH0001
+  E  -2 1   24
+    TIENOTE RH0001
+  D  -2 1   24
+    TIENOTE RH0001
+  C  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  E   0 1   12
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  C  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -1 1   24
+    TIENOTE RH0001
+  F  -2 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+
+MEASURE 13
+  LINE TLRH0003
+  F  -1 1   24
+    TIENOTE RH0001
+  G# -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   1 1   72
+    TIENOTE RH0001
+  A# -1 1   24
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  F  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  F# -1 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -1 1   24
+    TIENOTE RH0001
+  D  -1 1   24
+    TIENOTE RH0001
+  D  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  E   0 1   80
+    TIENOTE RH0001
+
+MEASURE 14
+  LINE TLRH0003
+  CARRY 1    4
+# MISMATCH
+  REST  1   24
+  C  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   12
+    TIENOTE RH0001
+  REST  1   12
+  F  -2 1   24
+    TIENOTE RH0002
+  A  -1 1   24
+    TIENOTE RH0002
+  E  -2 1   24
+    TIENOTE RH0002 RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E  -1 1   36
+    TIENOTE RH0001
+  B   0 1   12
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  C   1 1   72
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   12
+    TIENOTE RH0001
+  REST  1    4
+
+MEASURE 15
+  LINE TLRH0003
+  REST  1    8
+  F  -2 1   24
+    TIENOTE RH0002
+  A  -1 1   24
+    TIENOTE RH0002
+  E  -2 1   24
+    TIENOTE RH0002 RH0001
+  D# -2 1   24
+    TIENOTE RH0001
+  D  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  D  -1 1   36
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  F# -1 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+  A  -2 1   24
+    TIENOTE RH0001
+  B  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   12
+    TIENOTE RH0001
+  REST  1   12
+  F  -2 1   24
+    TIENOTE RH0002
+  A  -1 1   24
+    TIENOTE RH0002
+  E  -2 1   24
+    TIENOTE RH0002 RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  G  -2 1   12
+    TIENOTE RH0001
+
+MEASURE 16
+  LINE TLRH0003
+  CARRY 1   12
+# MISMATCH
+  E  -1 1   36
+    TIENOTE RH0001
+  B   0 1   12
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  C   1 1   72
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  C  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  A  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A  -1 1   36
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  G# -1 1   24
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  B   0 1   12
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  C  -1 1   24
+    TIENOTE RH0001
+  G  -2 1    8
+    TIENOTE RH0001
+
+MEASURE 17
+  LINE TLRH0003
+  CARRY 1   16
+  C  -2 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F  -2 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A  -1 1   24
+    TIENOTE RH0001
+  F   1 1   96
+    TIENOTE RH0001
+  D  -2 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  D   1 1   96
+    TIENOTE RH0001
+  A# -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A# -1 1   28
+    TIENOTE RH0001
+
+MEASURE 18
+  LINE TLRH0003
+  CARRY 1    8
+  REST  1   12
+  G# -2 1   24
+    TIENOTE RH0001
+  A  -2 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+  F   1 1   48
+    TIENOTE RH0001
+  E  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  B  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  B  -1 1   24
+    TIENOTE RH0001
+  A  -1 1   48
+    TIENOTE RH0001
+  G  -1 1   48
+    TIENOTE RH0001
+  F  -2 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A  -1 1   24
+    TIENOTE RH0001
+  F   1 1   72
+    TIENOTE RH0001
+
+MEASURE 19
+  LINE TLRH0003
+  CARRY 1   24
+  D  -2 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  D   1 1   96
+    TIENOTE RH0001
+  A# -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A# -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G# -2 1   24
+    TIENOTE RH0001
+  A  -2 1   12
+    TIENOTE RH0001
+  F  -2 1   12
+    TIENOTE RH0001
+  E  -2 1   12
+    TIENOTE RH0001
+  D  -2 1   12
+    TIENOTE RH0001
+  C# -2 1   48
+    TIENOTE RH0001
+# MISMATCH
+  C  -2 1   36
+    TIENOTE RH0001
+  A#  0 1   36
+    TIENOTE RH0001
+  C  -2 1   20
+    TIENOTE RH0001
+
+MEASURE 20
+  LINE TLRH0003
+  CARRY 1    4
+  F  -2 1   24
+    TIENOTE RH0001
+  REST  1   72
+  F  -2 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A  -1 1   24
+    TIENOTE RH0001
+  F   1 1   96
+    TIENOTE RH0001
+  D  -2 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  D   1 1   96
+    TIENOTE RH0001
+  A# -2 1   16
+    TIENOTE RH0001
+
+MEASURE 21
+  LINE TLRH0003
+  CARRY 1    8
+# MISMATCH
+  A# -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G# -2 1   24
+    TIENOTE RH0001
+  A  -2 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+  F   1 1   48
+    TIENOTE RH0001
+  E  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  B  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  B  -1 1   24
+    TIENOTE RH0001
+  A  -1 1   48
+    TIENOTE RH0001
+  G  -1 1   48
+    TIENOTE RH0001
+  F  -2 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A  -1 1   24
+    TIENOTE RH0001
+  F   1 1   36
+    TIENOTE RH0001
+
+MEASURE 22
+  LINE TLRH0003
+  CARRY 1   60
+  D  -2 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  D   1 1   96
+    TIENOTE RH0001
+  A# -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A# -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G# -2 1   24
+    TIENOTE RH0001
+  A  -2 1   12
+    TIENOTE RH0001
+  F  -2 1   12
+    TIENOTE RH0001
+  E  -2 1   12
+    TIENOTE RH0001
+  D  -2 1   12
+    TIENOTE RH0001
+  C# -2 1   48
+    TIENOTE RH0001
+# MISMATCH
+  C  -2 1   36
+    TIENOTE RH0001
+  A#  0 1   20
+    TIENOTE RH0001
+
+MEASURE 23
+  LINE TLRH0003
+  CARRY 1   16
+  C  -2 1   24
+    TIENOTE RH0001
+  F  -2 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F  -3 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  F  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  F# -1 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -1 1   24
+    TIENOTE RH0001
+  D  -1 1   24
+    TIENOTE RH0001
+  D  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  E   0 1   60
+    TIENOTE RH0001
+  C  -2 1   24
+    TIENOTE RH0001
+  REST  1    4
+
+MEASURE 24
+  LINE TLRH0003
+  REST  1   20
+  F  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  F  -1 1   36
+    TIENOTE RH0001
+  C#  0 1   12
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F  -1 1   24
+    TIENOTE RH0001
+  A  -2 1   24
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  C  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E  -1 1   36
+    TIENOTE RH0001
+  D#  0 1   12
+    TIENOTE RH0001
+  E  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E  -1 1   24
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+  E  -1 1   24
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  F  -1 1   36
+    TIENOTE RH0001
+  A#  0 1   12
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+
+MEASURE 25
+  LINE TLRH0003
+  REST  1   24
+  F  -1 1   24
+    TIENOTE RH0001
+  D  -1 1   24
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  D# -1 1   24
+    TIENOTE RH0001
+  D# -1 1   48
+    TIENOTE RH0001
+  D# -1 1   24
+    TIENOTE RH0001
+  E  -1 1   24
+    TIENOTE RH0001
+  E   0 1   12
+    TIENOTE RH0001
+  E   0 1   12
+    TIENOTE RH0001
+  E   0 1   24
+    TIENOTE RH0001
+  E   0 1   24
+    TIENOTE RH0001
+  F  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  F  -1 1   36
+    TIENOTE RH0001
+  C#  0 1   12
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F  -1 1   24
+    TIENOTE RH0001
+  A  -2 1   24
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  C  -1 1   20
+    TIENOTE RH0001
+
+MEASURE 26
+  LINE TLRH0003
+  CARRY 1    4
+# MISMATCH
+  E  -1 1   36
+    TIENOTE RH0001
+  D#  0 1   12
+    TIENOTE RH0001
+  E  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E  -1 1   24
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+  E  -1 1   24
+    TIENOTE RH0001
+  F  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  D  -2 1   36
+    TIENOTE RH0001
+  A   0 1   24
+    TIENOTE RH0001
+  A   0 1   12
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -1 1   24
+    TIENOTE RH0001
+  A  -2 1   24
+    TIENOTE RH0001
+  D  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -2 1   36
+    TIENOTE RH0001
+  E   0 1   36
+    TIENOTE RH0001
+  E   0 1   12
+    TIENOTE RH0001
+  E   0 1    4
+    TIENOTE RH0001
+
+MEASURE 27
+  LINE TLRH0003
+  CARRY 1    8
+  E   0 1   24
+    TIENOTE RH0001
+  E   0 1   24
+    TIENOTE RH0001
+  F  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  F  -1 1   36
+    TIENOTE RH0001
+  C#  0 1   12
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F  -1 1   24
+    TIENOTE RH0001
+  A  -2 1   24
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  C  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E  -1 1   36
+    TIENOTE RH0001
+  D#  0 1   12
+    TIENOTE RH0001
+  E  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E  -1 1   24
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+  E  -1 1   24
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  F  -1 1   36
+    TIENOTE RH0001
+
+MEASURE 28
+  LINE TLRH0003
+  A#  0 1   12
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F  -1 1   24
+    TIENOTE RH0001
+  D  -1 1   24
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  D# -1 1   24
+    TIENOTE RH0001
+  D# -1 1   48
+    TIENOTE RH0001
+  D# -1 1   24
+    TIENOTE RH0001
+  E  -1 1   24
+    TIENOTE RH0001
+  E   0 1   12
+    TIENOTE RH0001
+  E   0 1   12
+    TIENOTE RH0001
+  E   0 1   24
+    TIENOTE RH0001
+  E   0 1   24
+    TIENOTE RH0001
+  F  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  F  -1 1   36
+    TIENOTE RH0001
+  C#  0 1   12
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F  -1 1   24
+    TIENOTE RH0001
+  A  -2 1   24
+    TIENOTE RH0001
+  F  -1 1    8
+    TIENOTE RH0001
+
+MEASURE 29
+  LINE TLRH0003
+  CARRY 1   16
+  C  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E  -1 1   36
+    TIENOTE RH0001
+  D#  0 1   12
+    TIENOTE RH0001
+  E  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E  -1 1   24
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+  E  -1 1   24
+    TIENOTE RH0001
+  F  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  D  -2 1   36
+    TIENOTE RH0001
+  A   0 1   24
+    TIENOTE RH0001
+  A   0 1   12
+    TIENOTE RH0001
+  G  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -1 1   24
+    TIENOTE RH0001
+  A  -2 1   24
+    TIENOTE RH0001
+  D  -2 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -2 1   36
+    TIENOTE RH0001
+  E   0 1   16
+    TIENOTE RH0001
+
+MEASURE 30
+  LINE TLRH0003
+  CARRY 1   44
+  C  -2 1   24
+    TIENOTE RH0001
+  REST  1  432
+
+MEASURE 1
+  LINE TLRH0004
+  TIELINE RH0001 100
+  REST  1  336
+  G  -2 1   24
+    TIENOTE RH0001
+  B  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E  -1 1   24
+    TIENOTE RH0002 RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A# -1 1   12
+    TIENOTE RH0001
+  REST  1   32
+
+MEASURE 2
+  LINE TLRH0004
+  REST  1   40
+  C   1 1   12
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  E   1 1   72
+    TIENOTE RH0001
+  B  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E  -1 1   24
+    TIENOTE RH0002 RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A# -1 1   12
+    TIENOTE RH0001
+  REST  1   84
+  D# -1 1   24
+    TIENOTE RH0001
+  D  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  F# -1 1   16
+    TIENOTE RH0001
+
+MEASURE 3
+  LINE TLRH0004
+  CARRY 1   20
+  REST  1   12
+  A  -1 1   24
+    TIENOTE RH0001
+  D   1 1   72
+    TIENOTE RH0001
+  B  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E  -1 1   24
+    TIENOTE RH0002 RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A# -1 1   12
+    TIENOTE RH0001
+  REST  1   72
+  C   1 1   12
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  E   1 1   60
+    TIENOTE RH0001
+
+MEASURE 4
+  LINE TLRH0004
+  CARRY 1   12
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  B  -1 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1   48
+  B  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E  -1 1   24
+    TIENOTE RH0002 RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A# -1 1    8
+    TIENOTE RH0001
+
+MEASURE 5
+  LINE TLRH0004
+  CARRY 1    4
+  REST  1   72
+  C   1 1   12
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  E   1 1   72
+    TIENOTE RH0001
+  B  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E  -1 1   24
+    TIENOTE RH0002 RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A# -1 1   12
+    TIENOTE RH0001
+  REST  1   84
+  D# -1 1   24
+    TIENOTE RH0001
+  D  -1 1    4
+    TIENOTE RH0001
+
+MEASURE 6
+  LINE TLRH0004
+  CARRY 1   20
+# MISMATCH
+  F# -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  A  -1 1   24
+    TIENOTE RH0001
+  D   1 1   72
+    TIENOTE RH0001
+  B  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E  -1 1   24
+    TIENOTE RH0002 RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A# -1 1   12
+    TIENOTE RH0001
+  REST  1   72
+  C   1 1   12
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+
+MEASURE 7
+  LINE TLRH0004
+  CARRY 1   48
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  B  -1 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1   36
+  E   0 1   12
+    TIENOTE RH0002 RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  D#  1 1   12
+    TIENOTE RH0001
+  C  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   20
+    TIENOTE RH0001
+
+MEASURE 8
+  LINE TLRH0004
+  CARRY 1   16
+  C   1 1   12
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  G   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  G   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  G   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1    4
+
+MEASURE 9
+  LINE TLRH0004
+  REST  1   32
+  D   1 1   12
+    TIENOTE RH0001
+  D   1 1   24
+    TIENOTE RH0001
+  F#  1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  B  -1 1   24
+    TIENOTE RH0001
+  REST  1   36
+  E   0 1   12
+    TIENOTE RH0002 RH0001
+  D  -1 1   24
+    TIENOTE RH0001
+  C  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  G   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   12
+    TIENOTE RH0001
+
+MEASURE 10
+  LINE TLRH0004
+  CARRY 1   12
+  REST  1   24
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  A  -1 1   24
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  B  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C  -1 1   24
+    TIENOTE RH0002
+  G  -2 1   24
+    TIENOTE RH0002
+  E  -2 1   24
+    TIENOTE RH0002 RH0001
+  D  -1 1   24
+    TIENOTE RH0001
+  C  -1 1    8
+    TIENOTE RH0001
+
+MEASURE 11
+  LINE TLRH0004
+  CARRY 1   16
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  G   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  G   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  G   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1    4
+    TIENOTE RH0001
+
+MEASURE 12
+  LINE TLRH0004
+  CARRY 1   32
+  REST  1   36
+  D   1 1   12
+    TIENOTE RH0001
+  D   1 1   24
+    TIENOTE RH0001
+  F#  1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  B  -1 1   24
+    TIENOTE RH0001
+  REST  1   36
+  E   0 1   12
+    TIENOTE RH0002 RH0001
+  D  -1 1   24
+    TIENOTE RH0001
+  C  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  G   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+
+MEASURE 13
+  LINE TLRH0004
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  A  -1 1   24
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  B  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C  -1 1   24
+    TIENOTE RH0002
+  G  -2 1   24
+    TIENOTE RH0002
+  C  -2 1   20
+    TIENOTE RH0002 RH0001
+
+MEASURE 14
+  LINE TLRH0004
+  CARRY 1    4
+  REST  1   48
+  E  -1 1   24
+    TIENOTE RH0002 RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A# -1 1   12
+    TIENOTE RH0001
+  REST  1   72
+  C   1 1   12
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  E   1 1   72
+    TIENOTE RH0001
+  B  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E  -1 1   24
+    TIENOTE RH0002 RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A# -1 1   12
+    TIENOTE RH0001
+  REST  1    4
+
+MEASURE 15
+  LINE TLRH0004
+  REST  1   80
+  D# -1 1   24
+    TIENOTE RH0001
+  D  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  F# -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  A  -1 1   24
+    TIENOTE RH0001
+  D   1 1   72
+    TIENOTE RH0001
+  B  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E  -1 1   24
+    TIENOTE RH0002 RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A# -1 1   12
+    TIENOTE RH0001
+  REST  1   72
+  C   1 1   12
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+
+MEASURE 16
+  LINE TLRH0004
+  C   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  E   1 1   72
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  B  -1 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1    8
+
+MEASURE 17
+  LINE TLRH0004
+  REST  1   16
+  C  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F   1 1   12
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  A#  1 1   96
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  REST  1   12
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  D   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G   1 1   96
+    TIENOTE RH0001
+  A# -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  D   0 1   28
+    TIENOTE RH0001
+
+MEASURE 18
+  LINE TLRH0004
+  CARRY 1    8
+  REST  1   12
+  G# -1 1   24
+    TIENOTE RH0001
+  C   1 1   48
+    TIENOTE RH0001
+  REST  1   24
+  A  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  REST  1   24
+  D   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  D   0 1   24
+    TIENOTE RH0001
+  C   0 1   48
+    TIENOTE RH0001
+  C   0 1   48
+    TIENOTE RH0001
+  F   1 1   12
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  A#  1 1   72
+    TIENOTE RH0001
+
+MEASURE 19
+  LINE TLRH0004
+  CARRY 1   24
+  D   1 1   12
+    TIENOTE RH0001
+  REST  1   12
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  D   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G   1 1   96
+    TIENOTE RH0001
+  A# -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  D   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G# -1 1   24
+    TIENOTE RH0001
+  C   1 1   48
+    TIENOTE RH0001
+  C# -1 1   48
+    TIENOTE RH0001
+# MISMATCH
+  C  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C  -1 1   24
+    TIENOTE RH0002 RH0001
+  C  -1 1   20
+    TIENOTE RH0001
+
+MEASURE 20
+  LINE TLRH0004
+  CARRY 1    4
+  F  -1 1   24
+    TIENOTE RH0001
+  REST  1   72
+  F   1 1   12
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  A#  1 1   96
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  REST  1   12
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  D   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G   1 1   96
+    TIENOTE RH0001
+  A# -1 1   16
+    TIENOTE RH0001
+
+MEASURE 21
+  LINE TLRH0004
+  CARRY 1    8
+# MISMATCH
+  D   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G# -1 1   24
+    TIENOTE RH0001
+  C   1 1   48
+    TIENOTE RH0001
+  REST  1   24
+  A  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  REST  1   24
+  D   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  D   0 1   24
+    TIENOTE RH0001
+  C   0 1   48
+    TIENOTE RH0001
+  C   0 1   48
+    TIENOTE RH0001
+  F   1 1   12
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  A#  1 1   36
+    TIENOTE RH0001
+
+MEASURE 22
+  LINE TLRH0004
+  CARRY 1   60
+  D   1 1   12
+    TIENOTE RH0001
+  REST  1   12
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  D   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G   1 1   96
+    TIENOTE RH0001
+  A# -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  D   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G# -1 1   24
+    TIENOTE RH0001
+  C   1 1   48
+    TIENOTE RH0001
+  C# -1 1   48
+    TIENOTE RH0001
+# MISMATCH
+  C  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C  -1 1    8
+    TIENOTE RH0002 RH0001
+
+MEASURE 23
+  LINE TLRH0004
+  CARRY 1   16
+  C  -1 1   24
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F  -2 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  A  -1 1   24
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  B  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C  -1 1   48
+    TIENOTE RH0002 RH0001
+  C  -1 1   24
+    TIENOTE RH0001
+  REST  1    4
+
+MEASURE 24
+  LINE TLRH0004
+  REST  1   20
+  D   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  A  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A  -1 1   24
+    TIENOTE RH0001
+  E   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G  -1 1   24
+    TIENOTE RH0001
+  B   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -1 1   24
+    TIENOTE RH0001
+
+MEASURE 25
+  LINE TLRH0004
+  REST  1   24
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G  -1 1   24
+    TIENOTE RH0001
+  F# -1 1   24
+    TIENOTE RH0001
+  F# -1 1   48
+    TIENOTE RH0001
+  F# -1 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1   72
+  D   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  A  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A  -1 1   24
+    TIENOTE RH0001
+  E   0 1   20
+    TIENOTE RH0001
+
+MEASURE 26
+  LINE TLRH0004
+  CARRY 1    4
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G  -1 1   24
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  D  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  F  -2 1   24
+    TIENOTE RH0002 RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+  D  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  G   0 1   36
+    TIENOTE RH0001
+  REST  1   16
+
+MEASURE 27
+  LINE TLRH0004
+  REST  1   56
+  D   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  A  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A  -1 1   24
+    TIENOTE RH0001
+  E   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G  -1 1   24
+    TIENOTE RH0001
+  B   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+
+MEASURE 28
+  LINE TLRH0004
+  REST  1   12
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G  -1 1   24
+    TIENOTE RH0001
+  F# -1 1   24
+    TIENOTE RH0001
+  F# -1 1   48
+    TIENOTE RH0001
+  F# -1 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1   72
+  D   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  A  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A  -1 1    8
+    TIENOTE RH0001
+
+MEASURE 29
+  LINE TLRH0004
+  CARRY 1   16
+  E   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G  -1 1   24
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  D  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  F  -2 1   24
+    TIENOTE RH0002 RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  A  -1 1   24
+    TIENOTE RH0001
+  D  -1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  G  -1 1   36
+    TIENOTE RH0001
+  G   0 1   16
+    TIENOTE RH0001
+
+MEASURE 30
+  LINE TLRH0004
+  CARRY 1   44
+  C  -1 1   24
+    TIENOTE RH0001
+  REST  1  432
+
+MEASURE 1
+  LINE TLRH0005
+  TIELINE RH0001 100
+  REST  1  336
+  G   0 1   24
+    TIENOTE RH0001
+  REST  1   48
+  G  -1 1   24
+    TIENOTE RH0002 RH0001
+# MISMATCH
+  REST  1   24
+  C   0 1   12
+    TIENOTE RH0001
+  REST  1   32
+
+MEASURE 2
+  LINE TLRH0005
+  REST  1   40
+  E   1 1   12
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  D#  1 1   12
+    TIENOTE RH0001
+  G   1 1   12
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  B  -1 1   24
+    TIENOTE RH0001
+  C   2 1   72
+    TIENOTE RH0001
+  REST  1   48
+  G  -1 1   24
+    TIENOTE RH0002 RH0001
+# MISMATCH
+  REST  1   24
+  C   0 1   12
+    TIENOTE RH0001
+  REST  1   84
+  A   0 1   12
+    TIENOTE RH0001
+  G   0 1   12
+    TIENOTE RH0001
+  F#  0 1   12
+    TIENOTE RH0001
+  A   0 1   12
+    TIENOTE RH0001
+# MISMATCH
+  A  -1 1   16
+    TIENOTE RH0001
+
+MEASURE 3
+  LINE TLRH0005
+  CARRY 1   20
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  F   1 1   72
+    TIENOTE RH0001
+  REST  1   48
+  G  -1 1   24
+    TIENOTE RH0002 RH0001
+# MISMATCH
+  REST  1   24
+  C   0 1   12
+    TIENOTE RH0001
+  REST  1   72
+  E   1 1   12
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  D#  1 1   12
+    TIENOTE RH0001
+  G   1 1   12
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  B  -1 1   24
+    TIENOTE RH0001
+  C   2 1   60
+    TIENOTE RH0001
+
+MEASURE 4
+  LINE TLRH0005
+  CARRY 1   12
+  REST  1   24
+  E   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  F   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  F   0 1   24
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  D   1 1   24
+    TIENOTE RH0001
+  C   1 1   72
+    TIENOTE RH0001
+  REST  1   48
+  G  -1 1   24
+    TIENOTE RH0002 RH0001
+# MISMATCH
+  REST  1   24
+  C   0 1    8
+    TIENOTE RH0001
+
+MEASURE 5
+  LINE TLRH0005
+  CARRY 1    4
+  REST  1   72
+  E   1 1   12
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  D#  1 1   12
+    TIENOTE RH0001
+  G   1 1   12
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  B  -1 1   24
+    TIENOTE RH0001
+  C   2 1   72
+    TIENOTE RH0001
+  REST  1   48
+  G  -1 1   24
+    TIENOTE RH0002 RH0001
+# MISMATCH
+  REST  1   24
+  C   0 1   12
+    TIENOTE RH0001
+  REST  1   84
+  A   0 1   12
+    TIENOTE RH0001
+  G   0 1   12
+    TIENOTE RH0001
+  F#  0 1    4
+    TIENOTE RH0001
+
+MEASURE 6
+  LINE TLRH0005
+  CARRY 1    8
+  A   0 1   12
+    TIENOTE RH0001
+# MISMATCH
+  A  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  F   1 1   72
+    TIENOTE RH0001
+  REST  1   48
+  G  -1 1   24
+    TIENOTE RH0002 RH0001
+# MISMATCH
+  REST  1   24
+  C   0 1   12
+    TIENOTE RH0001
+  REST  1   72
+  E   1 1   12
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  D#  1 1   12
+    TIENOTE RH0001
+  G   1 1   12
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  B  -1 1   24
+    TIENOTE RH0001
+  C   2 1   24
+    TIENOTE RH0001
+
+MEASURE 7
+  LINE TLRH0005
+  CARRY 1   48
+  REST  1   24
+  E   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  F   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  F   0 1   24
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  D   1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   1 1   72
+    TIENOTE RH0001
+  REST  1   24
+  G   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E   0 1   20
+    TIENOTE RH0001
+
+MEASURE 8
+  LINE TLRH0005
+  CARRY 1   16
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E   0 1   24
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1    4
+
+MEASURE 9
+  LINE TLRH0005
+  REST  1   32
+  G   1 1   12
+    TIENOTE RH0001
+  G   1 1   24
+    TIENOTE RH0001
+  REST  1   36
+  D   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  B   0 1   72
+    TIENOTE RH0001
+  F   0 1   12
+    TIENOTE RH0001
+  F#  0 1   12
+    TIENOTE RH0001
+  G   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F   0 1   12
+    TIENOTE RH0001
+
+MEASURE 10
+  LINE TLRH0005
+  CARRY 1   12
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E   0 1   24
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  E   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  F#  0 1   24
+    TIENOTE RH0001
+  F#  0 1   24
+    TIENOTE RH0001
+  F   0 1   12
+    TIENOTE RH0001
+  F   0 1   24
+    TIENOTE RH0001
+  REST  1   72
+  C   2 1   12
+    TIENOTE RH0001
+  F   1 1   12
+    TIENOTE RH0001
+  F#  1 1   12
+    TIENOTE RH0001
+  G   0 1    8
+    TIENOTE RH0001
+
+MEASURE 11
+  LINE TLRH0005
+  CARRY 1   16
+# MISMATCH
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E   0 1   24
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E   0 1    4
+    TIENOTE RH0001
+
+MEASURE 12
+  LINE TLRH0005
+  CARRY 1   32
+  REST  1   36
+  G   1 1   12
+    TIENOTE RH0001
+  G   1 1   24
+    TIENOTE RH0001
+  REST  1   36
+  D   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  B   0 1   72
+    TIENOTE RH0001
+  F   0 1   12
+    TIENOTE RH0001
+  F#  0 1   12
+    TIENOTE RH0001
+  G   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F   0 1   24
+    TIENOTE RH0001
+
+MEASURE 13
+  LINE TLRH0005
+  REST  1   24
+  F   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E   0 1   24
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  E   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  F#  0 1   24
+    TIENOTE RH0001
+  F#  0 1   24
+    TIENOTE RH0001
+  F   0 1   12
+    TIENOTE RH0001
+  F   0 1   24
+    TIENOTE RH0001
+  REST  1   80
+
+MEASURE 14
+  LINE TLRH0005
+  REST  1   52
+  G  -1 1   24
+    TIENOTE RH0002 RH0001
+# MISMATCH
+  REST  1   24
+  C   0 1   12
+    TIENOTE RH0001
+  REST  1   72
+  E   1 1   12
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  D#  1 1   12
+    TIENOTE RH0001
+  G   1 1   12
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  B  -1 1   24
+    TIENOTE RH0001
+  C   2 1   72
+    TIENOTE RH0001
+  REST  1   48
+  G  -1 1   24
+    TIENOTE RH0002 RH0001
+# MISMATCH
+  REST  1   24
+  C   0 1   12
+    TIENOTE RH0001
+  REST  1    4
+
+MEASURE 15
+  LINE TLRH0005
+  REST  1   80
+  A   0 1   12
+    TIENOTE RH0001
+  G   0 1   12
+    TIENOTE RH0001
+  F#  0 1   12
+    TIENOTE RH0001
+  A   0 1   12
+    TIENOTE RH0001
+# MISMATCH
+  A  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  F   1 1   72
+    TIENOTE RH0001
+  REST  1   48
+  G  -1 1   24
+    TIENOTE RH0002 RH0001
+# MISMATCH
+  REST  1   24
+  C   0 1   12
+    TIENOTE RH0001
+  REST  1   72
+  E   1 1   12
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  D#  1 1   12
+    TIENOTE RH0001
+  G   1 1   12
+    TIENOTE RH0001
+
+MEASURE 16
+  LINE TLRH0005
+  E   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  B  -1 1   24
+    TIENOTE RH0001
+  C   2 1   72
+    TIENOTE RH0001
+  REST  1   24
+  E   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  F   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  F   0 1   24
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  D   1 1   24
+    TIENOTE RH0001
+  C   1 1   32
+    TIENOTE RH0001
+
+MEASURE 17
+  LINE TLRH0005
+  CARRY 1   16
+  C   1 1   24
+    TIENOTE RH0001
+  REST  1   48
+  F   1 1   48
+    TIENOTE RH0001
+  F   0 1   24
+    TIENOTE RH0001
+  D   2 1   96
+    TIENOTE RH0001
+  REST  1   24
+  D   1 1   48
+    TIENOTE RH0001
+  F   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A#  1 1   96
+    TIENOTE RH0001
+  REST  1   48
+  G  -2 1    4
+    TIENOTE RH0002 RH0001
+
+MEASURE 18
+  LINE TLRH0005
+  CARRY 1   20
+  REST  1   48
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  D   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  REST  1   24
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  E   0 1   48
+    TIENOTE RH0001
+  E   0 1   48
+    TIENOTE RH0001
+  REST  1   24
+  F   1 1   48
+    TIENOTE RH0001
+  F   0 1   24
+    TIENOTE RH0001
+  D   2 1   72
+    TIENOTE RH0001
+
+MEASURE 19
+  LINE TLRH0005
+  CARRY 1   24
+  REST  1   24
+  D   1 1   48
+    TIENOTE RH0001
+  F   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A#  1 1   96
+    TIENOTE RH0001
+  REST  1   48
+  G  -2 1   24
+    TIENOTE RH0002 RH0001
+  REST  1   72
+  G#  0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  A   0 1   12
+    TIENOTE RH0001
+  C   1 1   24
+    TIENOTE RH0001
+  REST  1   36
+  A#  0 1   20
+    TIENOTE RH0001
+
+MEASURE 20
+  LINE TLRH0005
+  CARRY 1    4
+  A   0 1   24
+    TIENOTE RH0001
+  REST  1   96
+  F   1 1   48
+    TIENOTE RH0001
+  F   0 1   24
+    TIENOTE RH0001
+  D   2 1   96
+    TIENOTE RH0001
+  REST  1   24
+  D   1 1   48
+    TIENOTE RH0001
+  F   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A#  1 1   96
+    TIENOTE RH0001
+  REST  1   16
+
+MEASURE 21
+  LINE TLRH0005
+  REST  1   32
+  G  -2 1   24
+    TIENOTE RH0002 RH0001
+  REST  1   48
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  D   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  REST  1   24
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  E   0 1   48
+    TIENOTE RH0001
+  E   0 1   48
+    TIENOTE RH0001
+  REST  1   24
+  F   1 1   48
+    TIENOTE RH0001
+  F   0 1   24
+    TIENOTE RH0001
+  D   2 1   36
+    TIENOTE RH0001
+
+MEASURE 22
+  LINE TLRH0005
+  CARRY 1   60
+  REST  1   24
+  D   1 1   48
+    TIENOTE RH0001
+  F   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  A#  1 1   96
+    TIENOTE RH0001
+  REST  1   48
+  G  -2 1   24
+    TIENOTE RH0002 RH0001
+  REST  1   72
+  G#  0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  A   0 1   12
+    TIENOTE RH0001
+  C   1 1   24
+    TIENOTE RH0001
+  REST  1   20
+
+MEASURE 23
+  LINE TLRH0005
+  REST  1   16
+  A#  0 1   24
+    TIENOTE RH0001
+  A   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  E   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  F#  0 1   24
+    TIENOTE RH0001
+  C   1 1   24
+    TIENOTE RH0001
+  F   0 1   12
+    TIENOTE RH0001
+  F   0 1   24
+    TIENOTE RH0001
+  REST  1   60
+  C   1 1   24
+    TIENOTE RH0001
+  REST  1    4
+
+MEASURE 24
+  LINE TLRH0005
+  REST  1   44
+  C#  0 1   12
+    TIENOTE RH0001
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   12
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F   0 1   12
+    TIENOTE RH0001
+# MISMATCH
+  REST  1   84
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  REST  1   24
+  B  -1 1   36
+    TIENOTE RH0001
+  REST  1   12
+  B  -1 1   24
+    TIENOTE RH0001
+
+MEASURE 25
+  LINE TLRH0005
+  REST  1   24
+  B  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  B  -1 1   24
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  C   0 1   48
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   96
+  C#  0 1   12
+    TIENOTE RH0001
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   12
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F   0 1   12
+    TIENOTE RH0001
+# MISMATCH
+  REST  1   80
+
+MEASURE 26
+  LINE TLRH0005
+  REST  1    4
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   36
+  A   0 1   24
+    TIENOTE RH0001
+  REST  1   36
+  G   0 1   12
+    TIENOTE RH0001
+# MISMATCH
+  REST  1   12
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  F#  0 1   24
+    TIENOTE RH0001
+  F#  0 1   24
+    TIENOTE RH0001
+  F   0 1   12
+    TIENOTE RH0001
+  F   0 1   24
+    TIENOTE RH0001
+  REST  1   12
+  C  -1 1   24
+    TIENOTE RH0002 RH0001
+  REST  1   16
+
+MEASURE 27
+  LINE TLRH0005
+  REST  1   80
+  C#  0 1   12
+    TIENOTE RH0001
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   12
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F   0 1   12
+    TIENOTE RH0001
+# MISMATCH
+  REST  1   84
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  REST  1   24
+  B  -1 1   36
+    TIENOTE RH0001
+
+MEASURE 28
+  LINE TLRH0005
+  REST  1   12
+  B  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  B  -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  B  -1 1   24
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  C   0 1   48
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   96
+  C#  0 1   12
+    TIENOTE RH0001
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   12
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F   0 1   12
+    TIENOTE RH0001
+# MISMATCH
+  REST  1   44
+
+MEASURE 29
+  LINE TLRH0005
+  REST  1   40
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   36
+  A   0 1   24
+    TIENOTE RH0001
+  REST  1   36
+  G   0 1   12
+    TIENOTE RH0001
+# MISMATCH
+  REST  1   12
+  E   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  F#  0 1   24
+    TIENOTE RH0001
+  F#  0 1   24
+    TIENOTE RH0001
+  F   0 1   12
+    TIENOTE RH0001
+  F   0 1   24
+    TIENOTE RH0001
+  REST  1   12
+  C  -1 1    4
+    TIENOTE RH0002
+
+MEASURE 30
+  LINE TLRH0005
+  CARRY 1   20
+  G  -2 1   24
+    TIENOTE RH0002 RH0001
+  C   1 1   24
+    TIENOTE RH0001
+  REST  1  432
+
+MEASURE 1
+  LINE TLRH0006
+  TIELINE RH0001 100
+  REST  1  336
+  B   0 1   24
+    TIENOTE RH0001
+  REST  1  140
+
+MEASURE 2
+  LINE TLRH0006
+  REST  1   52
+  F   1 1   12
+    TIENOTE RH0001
+  F#  1 1   12
+    TIENOTE RH0001
+  REST  1   24
+  D   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  D   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E  -1 1   24
+    TIENOTE RH0001
+  E  -1 1   24
+    TIENOTE RH0001
+  REST  1  192
+  C   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  REST  1   12
+  C   0 1   16
+    TIENOTE RH0001
+
+MEASURE 3
+  LINE TLRH0006
+  CARRY 1   20
+  REST  1   12
+  C   1 1   12
+    TIENOTE RH0001
+  A   0 1   12
+    TIENOTE RH0001
+  D   2 1   72
+    TIENOTE RH0001
+  REST  1  192
+  F   1 1   12
+    TIENOTE RH0001
+  F#  1 1   12
+    TIENOTE RH0001
+  REST  1   24
+  D   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  D   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E  -1 1   24
+    TIENOTE RH0001
+  G  -1 1   12
+    TIENOTE RH0001
+
+MEASURE 4
+  LINE TLRH0006
+  CARRY 1   12
+  REST  1   48
+  D   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  D   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  REST  1   24
+  D   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  D   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  G   1 1   12
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  F   1 1   24
+    TIENOTE RH0001
+  E   1 1   72
+    TIENOTE RH0001
+  REST  1  104
+
+MEASURE 5
+  LINE TLRH0006
+  REST  1   88
+  F   1 1   12
+    TIENOTE RH0001
+  F#  1 1   12
+    TIENOTE RH0001
+  REST  1   24
+  D   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  D   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E  -1 1   24
+    TIENOTE RH0001
+  E  -1 1   24
+    TIENOTE RH0001
+  REST  1  192
+  C   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  C   1 1    4
+    TIENOTE RH0001
+
+MEASURE 6
+  LINE TLRH0006
+  CARRY 1    8
+# MISMATCH
+  REST  1   12
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   1 1   12
+    TIENOTE RH0001
+  A   0 1   12
+    TIENOTE RH0001
+  D   2 1   72
+    TIENOTE RH0001
+  REST  1  192
+  F   1 1   12
+    TIENOTE RH0001
+  F#  1 1   12
+    TIENOTE RH0001
+  REST  1   24
+  D   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  D   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+
+MEASURE 7
+  LINE TLRH0006
+  E  -1 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1   48
+  D   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  D   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  REST  1   24
+  D   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  D   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  G   1 1   12
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  F   1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  E   1 1   72
+    TIENOTE RH0001
+  REST  1   24
+  E   1 1   24
+    TIENOTE RH0001
+  A   0 1   12
+    TIENOTE RH0001
+  G   0 1    8
+    TIENOTE RH0001
+
+MEASURE 8
+  LINE TLRH0006
+  CARRY 1   16
+  REST  1   12
+  F   0 1   12
+    TIENOTE RH0001
+  F#  0 1   12
+    TIENOTE RH0001
+  REST  1   24
+  A   0 1   12
+    TIENOTE RH0001
+  G   0 1   24
+    TIENOTE RH0001
+  REST  1  252
+  A   0 1   12
+    TIENOTE RH0001
+  G   0 1   24
+    TIENOTE RH0001
+  REST  1   12
+  F   0 1   12
+    TIENOTE RH0001
+  F#  0 1   12
+    TIENOTE RH0001
+  REST  1   24
+  A   0 1   12
+    TIENOTE RH0001
+  G   0 1   24
+    TIENOTE RH0001
+  REST  1    4
+
+MEASURE 9
+  LINE TLRH0006
+  REST  1   56
+  G  -1 1   24
+    TIENOTE RH0002
+  REST  1   24
+  C   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  REST  1   12
+  G   1 1   72
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  D#  1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  A   0 1   12
+    TIENOTE RH0001
+  G   0 1   24
+    TIENOTE RH0001
+  REST  1   12
+  F   0 1   12
+    TIENOTE RH0001
+  F#  0 1   12
+    TIENOTE RH0001
+  REST  1   24
+  A   0 1   12
+    TIENOTE RH0001
+  G   0 1   24
+    TIENOTE RH0001
+  REST  1  120
+
+MEASURE 10
+  LINE TLRH0006
+  REST  1  108
+  F   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  F   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  D#  0 1   24
+    TIENOTE RH0001
+  REST  1   48
+  G  -1 1   24
+    TIENOTE RH0002 RH0001
+  REST  1   96
+  G  -1 1   24
+    TIENOTE RH0002
+  REST  1   72
+  D   2 1   12
+    TIENOTE RH0001
+  D#  2 1   12
+    TIENOTE RH0001
+  E   1 1    8
+    TIENOTE RH0001
+
+MEASURE 11
+  LINE TLRH0006
+  CARRY 1   16
+  A   0 1   12
+    TIENOTE RH0001
+  G   0 1   24
+    TIENOTE RH0001
+  REST  1   12
+  F   0 1   12
+    TIENOTE RH0001
+  F#  0 1   12
+    TIENOTE RH0001
+  REST  1   24
+  A   0 1   12
+    TIENOTE RH0001
+  G   0 1   24
+    TIENOTE RH0001
+  REST  1  252
+  A   0 1   12
+    TIENOTE RH0001
+  G   0 1   24
+    TIENOTE RH0001
+  REST  1   12
+  F   0 1   12
+    TIENOTE RH0001
+  F#  0 1   12
+    TIENOTE RH0001
+  REST  1   24
+  A   0 1    4
+    TIENOTE RH0001
+
+MEASURE 12
+  LINE TLRH0006
+  CARRY 1    8
+  G   0 1   24
+    TIENOTE RH0001
+  REST  1   60
+  G  -1 1   24
+    TIENOTE RH0002
+  REST  1   24
+  C   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  REST  1   12
+  G   1 1   72
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  D#  1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  A   0 1   12
+    TIENOTE RH0001
+  G   0 1   24
+    TIENOTE RH0001
+  REST  1   12
+  F   0 1   12
+    TIENOTE RH0001
+  F#  0 1   12
+    TIENOTE RH0001
+  REST  1   24
+  A   0 1   12
+    TIENOTE RH0001
+  G   0 1   24
+    TIENOTE RH0001
+  REST  1   84
+
+MEASURE 13
+  LINE TLRH0006
+  REST  1  144
+  F   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  F   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  D#  0 1   24
+    TIENOTE RH0001
+  REST  1   48
+  G  -1 1   24
+    TIENOTE RH0002 RH0001
+  REST  1   96
+  G  -1 1   24
+    TIENOTE RH0002
+  REST  1   68
+
+MEASURE 14
+  LINE TLRH0006
+  REST  1  196
+  F   1 1   12
+    TIENOTE RH0001
+  F#  1 1   12
+    TIENOTE RH0001
+  REST  1   24
+  D   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  D   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E  -1 1   24
+    TIENOTE RH0001
+  E  -1 1   24
+    TIENOTE RH0001
+  REST  1  112
+
+MEASURE 15
+  LINE TLRH0006
+  REST  1   80
+  C   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+# MISMATCH
+  REST  1   12
+  C   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   1 1   12
+    TIENOTE RH0001
+  A   0 1   12
+    TIENOTE RH0001
+  D   2 1   72
+    TIENOTE RH0001
+  REST  1  192
+  F   1 1   12
+    TIENOTE RH0001
+  F#  1 1   12
+    TIENOTE RH0001
+  REST  1   12
+
+MEASURE 16
+  LINE TLRH0006
+  REST  1   12
+  D   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  D   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  E  -1 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1   48
+  D   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  D   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  REST  1   24
+  D   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  D   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  G   1 1   12
+    TIENOTE RH0001
+  E   1 1   12
+    TIENOTE RH0001
+  D   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  F   1 1   24
+    TIENOTE RH0001
+  E   1 1   32
+    TIENOTE RH0001
+
+MEASURE 17
+  LINE TLRH0006
+  CARRY 1   16
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   48
+  A   1 1   48
+    TIENOTE RH0001
+  F   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A# -1 1   24
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  A# -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F   1 1   48
+    TIENOTE RH0001
+  D   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A# -1 1   24
+    TIENOTE RH0001
+  D  -1 1   24
+    TIENOTE RH0001
+  A# -1 1   24
+    TIENOTE RH0001
+  REST  1   52
+
+MEASURE 18
+  LINE TLRH0006
+  REST  1  356
+  A   1 1   48
+    TIENOTE RH0001
+  F   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A# -1 1   24
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+
+MEASURE 19
+  LINE TLRH0006
+  A# -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F   1 1   48
+    TIENOTE RH0001
+  D   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A# -1 1   24
+    TIENOTE RH0001
+  D  -1 1   24
+    TIENOTE RH0001
+  A# -1 1   24
+    TIENOTE RH0001
+  REST  1  144
+  B   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   1 1   12
+    TIENOTE RH0001
+  REST  1   12
+  A  -1 1   24
+    TIENOTE RH0002
+  REST  1   44
+
+MEASURE 20
+  LINE TLRH0006
+  REST  1  124
+  A   1 1   48
+    TIENOTE RH0001
+  F   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A# -1 1   24
+    TIENOTE RH0001
+  F  -1 1   24
+    TIENOTE RH0001
+  A# -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F   1 1   48
+    TIENOTE RH0001
+  D   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A# -1 1   24
+    TIENOTE RH0001
+  D  -1 1   24
+    TIENOTE RH0001
+  A# -1 1   24
+    TIENOTE RH0001
+  REST  1   16
+
+MEASURE 21
+  LINE TLRH0006
+  REST  1  392
+  A   1 1   48
+    TIENOTE RH0001
+  F   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A# -1 1   12
+    TIENOTE RH0001
+
+MEASURE 22
+  LINE TLRH0006
+  CARRY 1   12
+  F  -1 1   24
+    TIENOTE RH0001
+  A# -1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F   1 1   48
+    TIENOTE RH0001
+  D   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  A# -1 1   24
+    TIENOTE RH0001
+  D  -1 1   24
+    TIENOTE RH0001
+  A# -1 1   24
+    TIENOTE RH0001
+  REST  1  144
+  B   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  C   1 1   12
+    TIENOTE RH0001
+  REST  1   12
+  A  -1 1   24
+    TIENOTE RH0002
+  REST  1    8
+
+MEASURE 23
+  LINE TLRH0006
+  REST  1   88
+  A   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F   0 1   24
+    TIENOTE RH0001
+# MISMATCH
+  F   0 1   36
+    TIENOTE RH0001
+  REST  1   12
+  D#  0 1   24
+    TIENOTE RH0001
+  REST  1   48
+  G  -1 1   24
+    TIENOTE RH0002 RH0001
+  REST  1   96
+  G  -1 1   24
+    TIENOTE RH0002
+  REST  1   48
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1    4
+
+MEASURE 24
+  LINE TLRH0006
+  REST  1  236
+  D#  0 1   12
+    TIENOTE RH0001
+  E   0 1   24
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G   0 1   12
+    TIENOTE RH0001
+  REST  1   84
+  A#  0 1   12
+    TIENOTE RH0001
+  B   0 1   24
+    TIENOTE RH0001
+  REST  1   12
+  B   0 1   24
+    TIENOTE RH0001
+
+MEASURE 25
+  LINE TLRH0006
+  REST  1   24
+  B   0 1   12
+    TIENOTE RH0001
+  REST  1   60
+  C   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  C   1 1   48
+    TIENOTE RH0001
+  C   1 1   24
+    TIENOTE RH0001
+  C   1 1   24
+    TIENOTE RH0001
+  REST  1  284
+
+MEASURE 26
+  LINE TLRH0006
+  REST  1    4
+  D#  0 1   12
+    TIENOTE RH0001
+  E   0 1   24
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G   0 1   12
+    TIENOTE RH0001
+  REST  1  108
+  E  -2 1   24
+    TIENOTE RH0002
+  REST  1   72
+  F# -1 1   24
+    TIENOTE RH0002 RH0001
+  REST  1   72
+  B   0 1   12
+    TIENOTE RH0001
+  B   0 1   24
+    TIENOTE RH0001
+  REST  1   52
+
+MEASURE 27
+  LINE TLRH0006
+  REST  1  272
+  D#  0 1   12
+    TIENOTE RH0001
+  E   0 1   24
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G   0 1   12
+    TIENOTE RH0001
+  REST  1   84
+  A#  0 1   12
+    TIENOTE RH0001
+  B   0 1   24
+    TIENOTE RH0001
+
+MEASURE 28
+  LINE TLRH0006
+  REST  1   12
+  B   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  B   0 1   12
+    TIENOTE RH0001
+  REST  1   60
+  C   1 1   12
+    TIENOTE RH0001
+  C   1 1   12
+    TIENOTE RH0001
+  C   1 1   48
+    TIENOTE RH0001
+  C   1 1   24
+    TIENOTE RH0001
+  C   1 1   24
+    TIENOTE RH0001
+  REST  1  248
+
+MEASURE 29
+  LINE TLRH0006
+  REST  1   40
+  D#  0 1   12
+    TIENOTE RH0001
+  E   0 1   24
+    TIENOTE RH0001
+  REST  1   12
+  E   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G   0 1   12
+    TIENOTE RH0001
+  REST  1  108
+  E  -2 1   24
+    TIENOTE RH0002
+  REST  1   72
+  F# -1 1   24
+    TIENOTE RH0002 RH0001
+  REST  1   72
+  B   0 1   12
+    TIENOTE RH0001
+  B   0 1   24
+    TIENOTE RH0001
+  REST  1   16
+
+MEASURE 30
+  LINE TLRH0006
+  REST  1   44
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1  432
+
+MEASURE 1
+  LINE TLRH0007
+  TIELINE RH0001 100
+  REST  1  336
+  D   1 1   24
+    TIENOTE RH0001
+  REST  1  140
+
+MEASURE 2
+  LINE TLRH0007
+  REST  1  100
+  F   1 1   12
+    TIENOTE RH0001
+  G   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  F   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G  -1 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1  240
+  C   1 1   12
+    TIENOTE RH0001
+  E   1 1    4
+    TIENOTE RH0001
+
+MEASURE 3
+  LINE TLRH0007
+  CARRY 1   20
+  REST  1  348
+  F   1 1   12
+    TIENOTE RH0001
+  G   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  F   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G  -1 1   24
+    TIENOTE RH0001
+  C   0 1   12
+    TIENOTE RH0001
+
+MEASURE 4
+  LINE TLRH0007
+  CARRY 1   12
+  REST  1   72
+  A# -2 1   24
+    TIENOTE RH0002 RH0001
+  REST  1   72
+  G# -2 1   24
+    TIENOTE RH0002 RH0001
+  REST  1   48
+  F   1 1   12
+    TIENOTE RH0001
+  G   1 1   24
+    TIENOTE RH0001
+  REST  1   36
+  C   2 1   72
+    TIENOTE RH0001
+  REST  1  104
+
+MEASURE 5
+  LINE TLRH0007
+  REST  1  136
+  F   1 1   12
+    TIENOTE RH0001
+  G   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  F   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G  -1 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1  220
+
+MEASURE 6
+  LINE TLRH0007
+  REST  1   20
+  C   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1  348
+  F   1 1   12
+    TIENOTE RH0001
+  G   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  F   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+
+MEASURE 7
+  LINE TLRH0007
+  G  -1 1   24
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   72
+  A# -2 1   24
+    TIENOTE RH0002 RH0001
+  REST  1   72
+  G# -2 1   24
+    TIENOTE RH0002 RH0001
+  REST  1   48
+  F   1 1   12
+    TIENOTE RH0001
+  G   1 1   24
+    TIENOTE RH0001
+# MISMATCH
+  REST  1   36
+  C   2 1   72
+    TIENOTE RH0001
+  REST  1   48
+  E   1 1   12
+    TIENOTE RH0001
+  E   1 1    8
+    TIENOTE RH0001
+
+MEASURE 8
+  LINE TLRH0007
+  CARRY 1   16
+  REST  1   12
+  D   1 1   12
+    TIENOTE RH0001
+  D#  1 1   12
+    TIENOTE RH0001
+  REST  1   24
+  E   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1  252
+  E   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  D   1 1   12
+    TIENOTE RH0001
+  D#  1 1   12
+    TIENOTE RH0001
+  REST  1   24
+  E   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1    4
+
+MEASURE 9
+  LINE TLRH0007
+  REST  1   56
+  B  -1 1   24
+    TIENOTE RH0002
+  REST  1  108
+  C   1 1   12
+    TIENOTE RH0002 RH0001
+  REST  1   48
+  E   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  D   1 1   12
+    TIENOTE RH0001
+  D#  1 1   12
+    TIENOTE RH0001
+  REST  1   24
+  E   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1  120
+
+MEASURE 10
+  LINE TLRH0007
+  REST  1  156
+  F# -1 1   24
+    TIENOTE RH0002 RH0001
+  REST  1   72
+  C   0 1   24
+    TIENOTE RH0002 RH0001
+  REST  1  224
+
+MEASURE 11
+  LINE TLRH0007
+  REST  1   16
+  E   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  D   1 1   12
+    TIENOTE RH0001
+  D#  1 1   12
+    TIENOTE RH0001
+  REST  1   24
+  E   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1  252
+  E   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  D   1 1   12
+    TIENOTE RH0001
+  D#  1 1   12
+    TIENOTE RH0001
+  REST  1   24
+  E   1 1    4
+    TIENOTE RH0001
+
+MEASURE 12
+  LINE TLRH0007
+  CARRY 1    8
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   60
+  B  -1 1   24
+    TIENOTE RH0002
+  REST  1  108
+  C   1 1   12
+    TIENOTE RH0002 RH0001
+  REST  1   48
+  E   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  D   1 1   12
+    TIENOTE RH0001
+  D#  1 1   12
+    TIENOTE RH0001
+  REST  1   24
+  E   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1   84
+
+MEASURE 13
+  LINE TLRH0007
+  REST  1  192
+  F# -1 1   24
+    TIENOTE RH0002 RH0001
+  REST  1   72
+  C   0 1   24
+    TIENOTE RH0002 RH0001
+  REST  1  188
+
+MEASURE 14
+  LINE TLRH0007
+  REST  1  244
+  F   1 1   12
+    TIENOTE RH0001
+  G   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  F   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G  -1 1   24
+    TIENOTE RH0001
+  G  -1 1   24
+    TIENOTE RH0001
+  REST  1  112
+
+MEASURE 15
+  LINE TLRH0007
+  REST  1  128
+  C   1 1   12
+    TIENOTE RH0001
+  E   1 1   24
+    TIENOTE RH0001
+  REST  1  336
+
+MEASURE 16
+  LINE TLRH0007
+  REST  1   12
+  F   1 1   12
+    TIENOTE RH0001
+  G   1 1   24
+    TIENOTE RH0001
+  REST  1   12
+  F   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  G  -1 1   24
+    TIENOTE RH0001
+  C   0 1   24
+    TIENOTE RH0001
+  REST  1   72
+  A# -2 1   24
+    TIENOTE RH0002 RH0001
+  REST  1   72
+  G# -2 1   24
+    TIENOTE RH0002 RH0001
+  REST  1   48
+  F   1 1   12
+    TIENOTE RH0001
+  G   1 1   24
+    TIENOTE RH0001
+  REST  1   36
+  C   2 1   32
+    TIENOTE RH0001
+
+MEASURE 17
+  LINE TLRH0007
+  CARRY 1   16
+  REST  1  120
+  A   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   72
+  F   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   52
+
+MEASURE 18
+  LINE TLRH0007
+  REST  1  404
+  A   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+
+MEASURE 19
+  LINE TLRH0007
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   72
+  F   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1  216
+  C   0 1   24
+    TIENOTE RH0002
+  REST  1   44
+
+MEASURE 20
+  LINE TLRH0007
+  REST  1  172
+  A   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   72
+  F   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   16
+
+MEASURE 21
+  LINE TLRH0007
+  REST  1  440
+  A   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  D   0 1   12
+    TIENOTE RH0001
+
+MEASURE 22
+  LINE TLRH0007
+  CARRY 1   12
+  REST  1   24
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   72
+  F   1 1   24
+    TIENOTE RH0001
+  REST  1   24
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  D   0 1   24
+    TIENOTE RH0001
+  REST  1  216
+  C   0 1   24
+    TIENOTE RH0002
+  REST  1    8
+
+MEASURE 23
+  LINE TLRH0007
+  REST  1   88
+  C   2 1   24
+    TIENOTE RH0001
+  REST  1   72
+  F# -1 1   24
+    TIENOTE RH0002 RH0001
+  REST  1   72
+  C   0 1   24
+    TIENOTE RH0002 RH0001
+  REST  1  168
+  G   1 1   24
+    TIENOTE RH0001
+  REST  1    4
+
+MEASURE 26
+  LINE TLRH0007
+  REST  1  316
+  C   0 1   24
+    TIENOTE RH0002 RH0001
+  REST  1   96
+  B  -2 1   24
+    TIENOTE RH0002
+  REST  1   40
+
+MEASURE 29
+  LINE TLRH0007
+  REST  1  352
+  C   0 1   24
+    TIENOTE RH0002 RH0001
+  REST  1   96
+  B  -2 1   24
+    TIENOTE RH0002
+  REST  1    4
+
+MEASURE 30
+  LINE TLRH0007
+  REST  1   44
+  G   1 1   24
+    TIENOTE RH0001
+  REST  1  432
+
+MEASURE 7
+  LINE TLRH0008
+  TIELINE RH0001 100
+  REST  1  420
+  C   1 1   12
+    TIENOTE RH0002 RH0001
+  REST  1   68
+
+MEASURE 10
+  LINE TLRH0008
+  REST  1  156
+  A  -1 1   24
+    TIENOTE RH0002 RH0001
+  REST  1  320
+
+MEASURE 13
+  LINE TLRH0008
+  REST  1  192
+  A  -1 1   24
+    TIENOTE RH0002 RH0001
+  REST  1  284
+
+MEASURE 17
+  LINE TLRH0008
+  REST  1  184
+  F   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F   0 1   24
+    TIENOTE RH0001
+  REST  1  244
+
+MEASURE 18
+  LINE TLRH0008
+  REST  1  452
+  F   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+
+MEASURE 19
+  LINE TLRH0008
+  F   0 1   24
+    TIENOTE RH0001
+  REST  1  476
+
+MEASURE 20
+  LINE TLRH0008
+  REST  1  220
+  F   0 1   24
+    TIENOTE RH0001
+  REST  1   24
+  F   0 1   24
+    TIENOTE RH0001
+  REST  1  208
+
+MEASURE 21
+  LINE TLRH0008
+  REST  1  488
+  F   0 1   12
+    TIENOTE RH0001
+
+MEASURE 22
+  LINE TLRH0008
+  CARRY 1   12
+  REST  1   24
+  F   0 1   24
+    TIENOTE RH0001
+  REST  1  440
+
+MEASURE 23
+  LINE TLRH0008
+  REST  1  184
+  A  -1 1   24
+    TIENOTE RH0002 RH0001
+  REST  1  292
+
+MEASURE 10
+  LINE TLRH0009
+  TIELINE RH0001 100
+  REST  1  156
+  C   0 1   24
+    TIENOTE RH0002 RH0001
+  REST  1  320
+
+MEASURE 13
+  LINE TLRH0009
+  REST  1  192
+  C   0 1   24
+    TIENOTE RH0002 RH0001
+  REST  1  284
+
+MEASURE 23
+  LINE TLRH0009
+  REST  1  184
+  C   0 1   24
+    TIENOTE RH0002 RH0001
+  REST  1  292

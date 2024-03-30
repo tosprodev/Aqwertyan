@@ -1,0 +1,1379 @@
+NAME Beethoven, Sonata, Opus 57, 3rd Movement
+
+MEASURE 1
+  METER 2 4
+  TEMPO 4 60.000000
+  KEY 4b
+
+# kr2l beeth57-1.mus 1 60 8
+
+MEASURE 1
+  LINE LH4
+  Bb -2  8  3
+  Bb -2  8
+
+MEASURE 1
+  LINE LH5
+  G  -1  8  3
+  G  -1  8
+
+MEASURE 1
+  LINE RH4
+  E   0  8  3
+  E   0  8
+
+MEASURE 1
+  LINE RH5
+  Db  1  8  3
+  Db  1  8
+
+MEASURE 2
+  LINE LH4
+  Bb -2  8  3
+  Bb -2  8
+
+MEASURE 2
+  LINE LH5
+  G  -1  8  3
+  G  -1  8
+
+MEASURE 2
+  LINE RH4
+  E   0  8  3
+  E   0  8
+
+MEASURE 2
+  LINE RH5
+  Db  1  8  3
+  Db  1  8
+
+MEASURE 3
+  LINE LH4
+  Bb -2 16  3
+  Bb -2 16
+  Bb -2 16  3
+  Bb -2 16
+
+MEASURE 3
+  LINE LH5
+  G  -1 16  3
+  G  -1 16
+  G  -1 16  3
+  G  -1 16
+
+MEASURE 3
+  LINE RH4
+  E   0 16  3
+  E   0 16
+  E   0 16  3
+  E   0 16
+
+MEASURE 3
+  LINE RH5
+  Db  1 16  3
+  Db  1 16
+  Db  1 16  3
+  Db  1 16
+
+MEASURE 4
+  LINE LH4
+  Bb -2 16  3
+  Bb -2 16
+  Bb -2 16  3
+  Bb -2 16
+
+MEASURE 4
+  LINE LH5
+  G  -1 16  3
+  G  -1 16
+  G  -1 16  3
+  G  -1 16
+
+MEASURE 4
+  LINE RH4
+  E   0 16  3
+  E   0 16
+  E   0 16  3
+  E   0 16
+
+MEASURE 4
+  LINE RH5
+  Db  1 16  3
+  Db  1 16
+  Db  1 16  3
+  Db  1 16
+
+MEASURE 5
+  LINE LH4
+  Bb -2  4
+  REST   4
+
+MEASURE 5
+  LINE LH5
+  G  -1  4
+  REST   4
+
+MEASURE 5
+  LINE RH4
+  E   0  4
+  REST   4
+
+MEASURE 5
+  LINE RH5
+  Db  1  4
+  REST   8
+  Db  2 16
+  C   2 16
+# kr2l beeth57-1.mus 6 60 8
+
+MEASURE 6
+  LINE RH5
+  Bb  1 16
+  C   2 16
+  Bb  1 16
+  Ab  1 16
+  G   1 16
+  Ab  1 16
+  G   1 16
+  F   1 16
+
+MEASURE 7
+  LINE RH5
+  E   1  4
+  REST   8
+  Db  1 16
+  C   1 16
+
+MEASURE 8
+  LINE RH5
+  Bb  0 16
+  C   1 16
+  Bb  0 16
+  Ab  0 16
+  G   0 16
+  Ab  0 16
+  G   0 16
+  F   0 16
+# kr2l beeth57-1.mus 9 60 8
+
+MEASURE 9
+  LINE RH5
+  E   0  4
+  REST   8
+  Db  1 16
+  C   1 16
+
+MEASURE 10
+  LINE RH5
+  Bb  0 16
+  C   1 16
+  Bb  0 16
+  Ab  0 16
+  G   0 16
+  Ab  0 16
+  G   0 16
+  F   0 16
+
+MEASURE 11
+  LINE RH5
+  E   0 16
+  F   0 16
+  E   0 16
+  Db  0 16
+  C   0 16
+  Db  0 16
+  C   0 16
+  B  -1 16
+
+MEASURE 12
+  LINE RH5
+  Bb -1 16
+  C   0 16
+  Bb -1 16
+  Ab -1 16
+  G  -1 16
+  Ab -1 16
+  G  -1 16
+  F  -1 16
+# kr2l beeth57-1.mus 13 60 8
+
+MEASURE 13
+  LINE LH5
+  REST   4
+  C  -2 16
+  Db -2 16
+  C  -2 16
+  B  -3 16
+
+MEASURE 13
+  LINE RH5
+  E  -1 16
+  F  -1 16
+  E  -1 16
+  Db -1 16
+  C  -1 16
+  Db -1 16
+  C  -1 16
+  B  -2 16
+# kr2l beeth57-1.mus 14 60 8
+
+MEASURE 14
+  LINE LH5
+  C  -2 16
+  Db -2 16
+  C  -2 16
+  B  -3 16
+  C  -2 16
+  Db -2 16
+  C  -2 16
+  B  -3 16
+
+MEASURE 14
+  LINE RH5
+  C  -1 16
+  Db -1 16
+  C  -1 16
+  B  -2 16
+  C  -1 16
+  Db -1 16
+  C  -1 16
+  B  -2 16
+
+MEASURE 15
+  LINE LH5
+  C  -2 16
+  Db -2 16
+  C  -2 16
+  B  -3 16
+  C  -2 16
+  Db -2 16
+  C  -2 16
+  B  -3 16
+
+MEASURE 15
+  LINE RH5
+  C  -1 16
+  Db -1 16
+  C  -1 16
+  B  -2 16
+  C  -1 16
+  Db -1 16
+  C  -1 16
+  B  -2 16
+# kr2l beeth57-1.mus 16 60 8
+
+MEASURE 16
+  LINE LH5
+  Bb -3 16
+  C  -2 16
+  Bb -3 16
+  A  -3 16
+  Bb -3 16
+  C  -2 16
+  Bb -3 16
+  A  -3 16
+
+MEASURE 16
+  LINE RH5
+  Bb -2 16
+  C  -1 16
+  Bb -2 16
+  A  -2 16
+  Bb -2 16
+  C  -1 16
+  Bb -2 16
+  A  -2 16
+
+MEASURE 17
+  LINE LH5
+  Bb -3 16
+  C  -2 16
+  Bb -3 16
+  A  -3 16
+  Bb -3 16
+  C  -2 16
+  Bb -3 16
+  A  -3 16
+
+MEASURE 17
+  LINE RH5
+  Bb -2 16
+  C  -1 16
+  Bb -2 16
+  A  -2 16
+  Bb -2 16
+  C  -1 16
+  Bb -2 16
+  A  -2 16
+
+MEASURE 18
+  LINE LH5
+  Bb -3 16
+  C  -2 16
+  Bb -3 16
+  A  -3 16
+  Bb -3 16
+  C  -2 16
+  Bb -3 16
+  A  -3 16
+
+MEASURE 18
+  LINE RH5
+  Bb -2 16
+  C  -1 16
+  Bb -2 16
+  A  -2 16
+  Bb -2 16
+  C  -1 16
+  Bb -2 16
+  A  -2 16
+# kr2l beeth57-1.mus 19 60 8
+
+MEASURE 19
+  LINE LH5
+  Bb -3 16
+  G  -3 16
+  Ab -3 16
+  Bb -3 16
+  C  -2 16
+  Bb -3 16
+  Ab -3 16
+  G  -3 16
+
+MEASURE 19
+  LINE RH5
+  Bb -2 16
+  G  -2 16
+  Ab -2 16
+  Bb -2 16
+  C  -1 16
+  Bb -2 16
+  Ab -2 16
+  G  -2 16
+MEASURE 20
+  MARK Theme-I
+  APART
+
+# kr2l beeth57-1.mus 20 60 8
+
+MEASURE 20
+  LINE RH5
+  PHANTOM  16
+  C  -1 16
+  F  -1 16
+  Ab -1 16
+  C   0 16
+  Db  0 16
+  C   0 16
+  Bb -1 16
+
+MEASURE 21
+  LINE RH5
+  Ab -1 16
+  Bb -1 16
+  Ab -1 16
+  G  -1 16
+  F  -1 16
+  G  -1 16
+  Ab -1 16
+  F  -1 16
+
+MEASURE 22
+  LINE RH5
+  PHANTOM  16
+  C  -1 16
+  F  -1 16
+  Ab -1 16
+  C   0 16
+  Db  0 16
+  C   0 16
+  Bb -1 16
+
+MEASURE 23
+  LINE RH5
+  Ab -1 16
+  Bb -1 16
+  Ab -1 16
+  G  -1 16
+  F  -1 16
+  G  -1 16
+  Ab -1 16
+  F  -1 16
+
+MEASURE 24
+  LINE RH5
+  PHANTOM  16
+  Db -1 16
+  Gb -1 16
+  Bb -1 16
+  Db  0 16
+  Eb  0 16
+  Db  0 16
+  C   0 16
+
+MEASURE 25
+  LINE RH5
+  Bb -1 16
+  C   0 16
+  Bb -1 16
+  Ab -1 16
+  Gb -1 16
+  Ab -1 16
+  Gb -1 16
+  F  -1 16
+
+MEASURE 26
+  LINE RH5
+  E  -1 16
+  F  -1 16
+  G  -1 16
+  E  -1 16
+  F  -1 16
+  G  -1 16
+  Ab -1 16
+  F  -1 16
+
+MEASURE 27
+  LINE RH5
+  G  -1 16
+  Ab -1 16
+  Bb -1 16
+  G  -1 16
+  E  -1 16
+  F  -1 16
+  G  -1 16
+  E  -1 16
+
+# kr2l beeth57-1.mus 28 60 8
+
+MEASURE 28
+  LINE RH5
+  F  -1 16
+  C  -1 16
+  F  -1 16
+  Ab -1 16
+  C   0 16
+  Db  0 16
+  C   0 16
+  Bb -1 16
+
+MEASURE 29
+  LINE RH5
+  Ab -1 16
+  Bb -1 16
+  Ab -1 16
+  G  -1 16
+  F  -1 16
+  G  -1 16
+  Ab -1 16
+  F  -1 16
+
+MEASURE 30
+  LINE RH5
+  PHANTOM  16
+  C  -1 16
+  F  -1 16
+  Ab -1 16
+  C   0 16
+  Db  0 16
+  C   0 16
+  Bb -1 16
+
+MEASURE 31
+  LINE RH5
+  Ab -1 16
+  Bb -1 16
+  Ab -1 16
+  G  -1 16
+  F  -1 16
+  G  -1 16
+  Ab -1 16
+  F  -1 16
+
+MEASURE 32
+  LINE RH5
+  PHANTOM  16
+  Db -1 16
+  Gb -1 16
+  Bb -1 16
+  Db  0 16
+  Eb  0 16
+  Db  0 16
+  C   0 16
+
+MEASURE 33
+  LINE RH5
+  Bb -1 16
+  C   0 16
+  Bb -1 16
+  Ab -1 16
+  Gb -1 16
+  Ab -1 16
+  Gb -1 16
+  F  -1 16
+
+MEASURE 34
+  LINE RH5
+  E  -1 16
+  F  -1 16
+  G  -1 16
+  E  -1 16
+  F  -1 16
+  G  -1 16
+  Ab -1 16
+  F  -1 16
+
+MEASURE 35
+  LINE RH5
+  G  -1 16
+  Ab -1 16
+  Bb -1 16
+  G  -1 16
+  E  -1 16
+  F  -1 16
+  G  -1 16
+  E  -1 16
+
+MEASURE 36
+  LINE RH5
+  F  -1 16
+  C   0 16
+  F   0 16
+  Ab  0 16
+  C   1 16
+  C   0 16
+  F   0 16
+  Ab  0 16
+
+MEASURE 37
+  LINE RH5
+  PHANTOM  16
+  C   0 16
+  F   0 16
+  Ab  0 16
+  C   1 16
+  C   0 16
+  F   0 16
+  Ab  0 16
+
+MEASURE 38
+  LINE RH5
+  PHANTOM  16
+  B  -1 16
+  D   0 16
+  Ab  0 16
+  B   0 16
+  B  -1 16
+  D   0 16
+  Ab  0 16
+# kr2l beeth57-1.mus 39 60 8
+
+MEASURE 39
+  LINE RH5
+  B   0 16
+  B  -1 16
+  E   0 16
+  G   0 16
+  C   1 16
+  C   0 16
+  E   0 16
+  G   0 16
+# kr2l beeth57-1.mus 20 60 8
+
+MEASURE 20
+  LINE LH5
+  F  -3  4
+  REST   4
+
+MEASURE 21
+  LINE LH5
+  REST  16  7
+  F  -2 16
+
+MEASURE 22
+  LINE LH5
+  F  -3  4
+  REST   4
+
+MEASURE 23
+  LINE LH5
+  REST  16  7
+  F  -2 16
+
+MEASURE 24
+  LINE LH5
+  Bb -3  4
+  REST   4
+
+MEASURE 25
+  LINE LH5
+  REST  16  7
+  Db -2 16
+
+MEASURE 26
+  LINE LH5
+  C  -2  8
+  REST   8
+  Db -2  8
+  REST   8
+
+MEASURE 27
+  LINE LH5
+  Bb -3  8
+  REST   8
+  C  -2  8
+  REST   8
+
+MEASURE 28
+  LINE LH4
+  F  -3  4
+  REST  16  3
+  Ab  0 16
+
+MEASURE 28
+  LINE LH5
+  F  -2  4
+  REST  16  3
+  C   1 16
+
+MEASURE 29
+  LINE LH4
+  Ab  0  4
+  F   0  8
+  REST   8
+
+MEASURE 29
+  LINE LH5
+  C   1  4
+  Ab  0  8
+  REST   8
+
+MEASURE 30
+  LINE LH4
+  F  -3  4
+  REST  16  3
+  Ab  0 16
+
+MEASURE 30
+  LINE LH5
+  F  -2  4
+  REST  16  3
+  C   1 16
+
+MEASURE 31
+  LINE LH4
+  Ab  0  4
+  F   0  8
+  REST   8
+
+MEASURE 31
+  LINE LH5
+  C   1  4
+  Ab  0  8
+  REST   8
+
+MEASURE 32
+  LINE LH4
+  Bb -3  4
+  REST  16  3
+  Bb  0 16
+
+MEASURE 32
+  LINE LH5
+  Bb -2  4
+  REST  16  3
+  Db  1 16
+
+MEASURE 33
+  LINE LH4
+  Bb  0  2
+
+MEASURE 33
+  LINE LH5
+  Db  1  2
+
+MEASURE 34
+  LINE LH4
+  Bb  0  8
+  C  -2  8
+  REST   8
+  Db -2  8
+
+MEASURE 34
+  LINE LH5
+  C   1  8
+  C  -1  8
+  REST   8
+  Db -1  8
+
+MEASURE 35
+  LINE LH4
+  REST   8
+  Bb -3  8
+  REST   8
+  C  -2  8
+
+MEASURE 35
+  LINE LH5
+  REST   8
+  Bb -2  8
+  REST   8
+  C  -1  8
+
+
+# kr2l beeth57-1.mus 36 60 8
+
+MEASURE 36
+  LINE LH4
+  F  -3  4
+  REST  16  3
+  F  -1 16
+
+MEASURE 36
+  LINE LH5
+  F  -2  4
+  REST  16  3
+  Ab -1 16
+
+MEASURE 37
+  LINE LH4
+  F  -1  4
+  REST  16  3
+  F  -1 16
+
+MEASURE 37
+  LINE LH5
+  Ab -1  4
+  REST  16  3
+  Ab -1 16
+
+MEASURE 38
+  LINE TLLH3
+  TIELINE LH4 92
+  C  -1  2
+
+MEASURE 38
+  LINE LH4
+  F  -1  2
+
+MEASURE 38
+  LINE LH5
+  Ab -1  2
+
+MEASURE 39
+  LINE TLLH3
+  TIELINE LH4 92
+  C  -1  8
+  REST   8  3
+
+MEASURE 39
+  LINE LH4
+  E  -1  8
+  REST   8  3
+
+MEASURE 39
+  LINE LH5
+  G  -1  8
+  REST   8  3
+# kr2l D:\musfiles\beeth57-1.mus 40 60 8
+
+MEASURE 40
+  LINE RH4
+  PHANTOM  16
+  C   0 16
+  E   0 16
+  G   0 16
+  C   1 16
+  C   0 16
+  E   0 16
+  G   0 16
+
+MEASURE 41
+  LINE RH4
+  PHANTOM  16
+  C   0 16
+  E   0 16
+  G   0 16
+  C   1 16
+  C   0 16
+  E   0 16
+  G   0 16
+
+MEASURE 42
+  LINE RH4
+  PHANTOM  16
+  C   0 16
+  E   0 16
+  G   0 16
+  C   1 16
+  C   0 16
+  E   0 16
+  G   0 16
+
+MEASURE 43
+  LINE RH4
+  C   1 16
+  C   0 16
+  E   0 16
+  G   0 16
+  C   1 16
+  C   0 16
+  F   0 16
+  Ab  0 16
+
+MEASURE 44
+  LINE RH4
+  PHANTOM  16
+  F   0 16
+  A   0 16
+  C   1 16
+  F   1 16
+  F   0 16
+  A   0 16
+  C   1 16
+
+MEASURE 45
+  LINE RH4
+  PHANTOM  16
+  F   0 16
+  A   0 16
+  C   1 16
+  F   1 16
+  F   0 16
+  A   0 16
+  C   1 16
+# kr2l D:\musfiles\beeth57-1.mus 46 60 8
+
+MEASURE 46
+  LINE RH4
+  PHANTOM  16
+  F   0 16
+  A   0 16
+  C   1 16
+  F   1 16
+  F   0 16
+  A   0 16
+  C   1 16
+# kr2l D:\musfiles\beeth57-1.mus 47 60 8
+
+MEASURE 47
+  LINE TLRH1
+  TIELINE RH4 80
+  F   0 16
+  REST  16
+  F   0 16
+  REST  16
+  F   0 16
+  REST  16
+  F   0 16
+  REST  16
+
+MEASURE 47
+  LINE RH4
+  A   0 16
+  F   1 16
+  Bb  0 16
+  F   1 16
+  C   1 16
+  F   1 16
+  Db  1 16
+  F   1 16
+
+MEASURE 48
+  LINE RH4
+  PHANTOM  16
+  C   0 16
+  F   0 16
+  Ab  0 16
+  C   1 16
+  C   0 16
+  F   0 16
+  Ab  0 16
+# kr2l D:\musfiles\beeth57-1.mus 49 60 8
+
+MEASURE 49
+  LINE RH4
+  C   1 16
+  C   0 16
+  G   0 16
+  Bb  0 16
+  C   1 16
+  C   0 16
+  E   0 16
+  G   0 16
+# kr2l D:\musfiles\beeth57-1.mus 50 60 8
+
+MEASURE 50
+  LINE RH4
+  F  -1 16
+  C   0 16
+  Ab -1 16
+  F  -1 16
+  C  -1 16
+  Ab -1 16
+  F  -1 16
+  C  -1 16
+
+MEASURE 51
+  LINE RH4
+  Ab -2 16
+  F  -1 16
+  C  -1 16
+  Ab -2 16
+  F  -2 16
+  C  -1 16
+  Ab -2 16
+  F  -2 16
+
+MEASURE 52
+  LINE RH4
+  C  -2 16
+  F  -2 16
+  Ab -2 16
+  C  -1 16
+  B  -2 16
+  C  -1 16
+  B  -2 16
+  C  -1 16
+# kr2l D:\musfiles\beeth57-1.mus 53 60 8
+
+MEASURE 53
+  LINE RH4
+  B  -2 16
+  C  -1 16
+  G  -2 16
+  C  -1 16
+  E  -2 16
+  C  -1 16
+  G  -2 16
+  C  -1 16
+
+MEASURE 54
+  LINE RH4
+  C  -2 16
+  E  -2 16
+  G  -2 16
+  C  -1 16
+  E  -2 16
+  G  -2 16
+  C  -1 16
+  E  -1 16
+
+MEASURE 55
+  LINE RH4
+  G  -2 16
+  C  -1 16
+  E  -1 16
+  G  -1 16
+  C  -1 16
+  E  -1 16
+  G  -1 16
+  C   0 16
+
+MEASURE 56
+  LINE RH4
+  F  -1 16
+  Ab -1 16
+  C   0 16
+  F   0 16
+  E   0 16
+  F   0 16
+  E   0 16
+  F   0 16
+
+MEASURE 57
+  LINE RH4
+  E   0 16
+  F   0 16
+  C   0 16
+  F   0 16
+  Ab -1 16
+  F   0 16
+  C   0 16
+  F   0 16
+# kr2l D:\musfiles\beeth57-1.mus 58 60 8
+
+MEASURE 58
+  LINE RH4
+  F  -1 16
+  A  -1 16
+  C   0 16
+  F   0 16
+  A  -1 16
+  C   0 16
+  F   0 16
+  A   0 16
+
+MEASURE 59
+  LINE RH4
+  C   0 16
+  F   0 16
+  A   0 16
+  C   1 16
+  F   0 16
+  A   0 16
+  C   1 16
+  F   1 16
+
+MEASURE 60
+  LINE RH4
+  A   0 16
+  F   1 16
+  E   1 16
+  F   1 16
+  A   0 16
+  F   1 16
+  A   0 16
+  F   1 16
+
+MEASURE 61
+  LINE RH4
+  A   0 16
+  F   1 16
+  Bb  0 16
+  F   1 16
+  C   1 16
+  F   1 16
+  Db  1 16
+  F   1 16
+
+MEASURE 62
+  LINE RH4
+  C   0 16
+  F   0 16
+  Ab  0 16
+  C   1 16
+  B   0 16
+  C   1 16
+  B   0 16
+  C   1 16
+
+MEASURE 63
+  LINE RH4
+  C   0 16
+  E   0 16
+  G   0 16
+  C   1 16
+  C   0 16
+  G   0 16
+  Bb  0 16
+  C   1 16
+# kr2l D:\musfiles\beeth57-1.mus 40 60 8
+
+MEASURE 40
+  LINE LH4
+  C  -2  4
+  REST  16  3
+  G  -1 16
+
+MEASURE 40
+  LINE LH5
+  C  -1  4
+  REST  16  3
+  Bb -1 16
+
+MEASURE 41
+  LINE LH4
+  G  -1  4
+  REST  16  3
+  G  -1 16
+
+MEASURE 41
+  LINE LH5
+  Bb -1  4
+  REST  16  3
+  Bb -1 16
+
+MEASURE 42
+  LINE TLLH3
+  TIELINE LH4 92
+  F  -1  2
+
+MEASURE 42
+  LINE LH4
+  G  -1  2
+
+MEASURE 42
+  LINE LH5
+  Bb -1  2
+
+MEASURE 43
+  LINE LH4
+  F  -1  8
+  REST   8  3
+
+MEASURE 43
+  LINE LH5
+  Ab -1  8
+  REST   8  3
+# kr2l D:\musfiles\beeth57-1.mus 44 60 8
+
+MEASURE 44
+  LINE LH4
+  F  -2  4
+  REST  16  3
+  C   0 16
+
+MEASURE 44
+  LINE LH5
+  F  -1  4
+  REST  16  3
+  Eb  0 16
+
+MEASURE 45
+  LINE LH4
+  C   0  4
+  REST  16  3
+  C   0 16
+
+MEASURE 45
+  LINE LH5
+  Eb  0  4
+  REST  16  3
+  Eb  0 16
+
+MEASURE 46
+  LINE TLLH3
+  TIELINE LH4 92
+  Bb -1  2
+
+MEASURE 46
+  LINE LH4
+  C   0  2
+
+MEASURE 46
+  LINE LH5
+  Eb  0  2
+
+MEASURE 47
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  8
+  REST   8  3
+
+MEASURE 47
+  LINE LH4
+  CARRY  8
+  Bb -1  8
+  Ab -1  8
+  G  -1  8
+
+MEASURE 47
+  LINE LH5
+  CARRY  8
+  Db  0  8
+  C   0  8
+  Bb -1  8
+
+MEASURE 48
+  LINE TLLH3
+  TIELINE LH4 92
+  C  -1  4
+  REST   4
+
+MEASURE 48
+  LINE LH4
+  F  -1  4
+  REST  16  3
+  F  -1 16
+
+MEASURE 48
+  LINE LH5
+  Ab -1  4
+  REST  16  3
+  Ab -1 16
+# kr2l D:\musfiles\beeth57-1.mus 49 60 8
+
+MEASURE 49
+  LINE TLLH3
+  TIELINE LH4 92
+  C  -1  4
+  REST   4
+
+MEASURE 49
+  LINE LH4
+  G  -1  4
+  REST  16  3
+  E  -1 16
+
+MEASURE 49
+  LINE LH5
+  Bb -1  4
+  REST  16  3
+  G  -1 16
+# kr2l D:\musfiles\beeth57-1.mus 50 60 8
+
+MEASURE 50
+  LINE TLLH2
+  TIELINE LH4 90
+  C   0  4
+  REST   4
+
+MEASURE 50
+  LINE TLLH3
+  TIELINE LH4 92
+  F   0  4
+  REST   4
+
+MEASURE 50
+  LINE LH4
+  Ab  0  4
+  REST  16  3
+  F   1 16
+
+MEASURE 50
+  LINE LH5
+  C   1  4
+  REST  16  3
+  Ab  1 16
+
+MEASURE 51
+  LINE LH4
+  F   1  4
+  REST  16  3
+  F   1 16
+
+MEASURE 51
+  LINE LH5
+  Ab  1  4
+  REST  16  3
+  Ab  1 16
+
+MEASURE 52
+  LINE LH4
+  F   1  2
+
+MEASURE 52
+  LINE LH5
+  Ab  1  2
+
+MEASURE 53
+  LINE LH4
+  E   1  8
+  REST   8  3
+
+MEASURE 53
+  LINE LH5
+  G   1  8
+  REST   8  3
+
+MEASURE 54
+  LINE LH4
+  REST  16  7
+  G   1 16
+
+MEASURE 54
+  LINE LH5
+  REST  16  7
+  Bb  1 16
+
+MEASURE 55
+  LINE LH4
+  G   1  4
+  REST  16  3
+  G   1 16
+
+MEASURE 55
+  LINE LH5
+  Bb  1  4
+  REST  16  3
+  Bb  1 16
+
+MEASURE 56
+  LINE LH4
+  G   1  2
+
+MEASURE 56
+  LINE LH5
+  Bb  1  2
+
+MEASURE 57
+  LINE LH4
+  F   1  8
+  REST   8  3
+
+MEASURE 57
+  LINE LH5
+  Ab  1  8
+  REST   8  3
+
+MEASURE 58
+  LINE LH4
+  REST  16  7
+  C   2 16
+
+MEASURE 58
+  LINE LH5
+  REST  16  7
+  Eb  2 16
+
+MEASURE 59
+  LINE LH4
+  C   2  4
+  REST  16  3
+  C   2 16
+
+MEASURE 59
+  LINE LH5
+  Eb  2  4
+  REST  16  3
+  Eb  2 16
+
+MEASURE 60
+  LINE LH4
+  C   2  2
+
+MEASURE 60
+  LINE LH5
+  Eb  2  2
+
+MEASURE 61
+  LINE LH4
+  CARRY  8
+  Bb  1  8
+  Ab  1  8
+  G   1  8
+
+MEASURE 61
+  LINE LH5
+  CARRY  8
+  Db  2  8
+  C   2  8
+  Bb  1  8
+
+MEASURE 62
+  LINE TLLH3
+  TIELINE LH4 92
+  REST  16  7
+  F   1 16
+
+MEASURE 62
+  LINE LH4
+  F   1  4
+  REST  16  3
+  Ab  1 16
+
+MEASURE 62
+  LINE LH5
+  Ab  1  4
+  REST  16  3
+  F   2 16
+
+MEASURE 63
+  LINE TLLH3
+  TIELINE LH4 92
+  G   1  4
+  REST  16  3
+  E   1 16
+
+MEASURE 63
+  LINE LH4
+  Bb  1  4
+  REST  16  3
+  G   1 16
+
+MEASURE 63
+  LINE LH5
+  G   2  4
+  REST  16  3
+  E   2 16

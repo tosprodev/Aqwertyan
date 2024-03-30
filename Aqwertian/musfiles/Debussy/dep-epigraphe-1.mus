@@ -1,0 +1,1791 @@
+NAME Debussy: Epigraphes Antiques: #1 -- Pour invoquer Pan, dieu du vent d'ete
+
+MEASURE 1
+  METER 4 4
+  TEMPO 4 80.000000
+  KEY 1b
+
+# kr2l dep-epigraphe-1.mus 1 200 24
+
+MEASURE 1
+  LINE RH5
+  G   0  3
+  A   0 12
+  C   1 12
+  D   1 16 3
+  F   1 16
+  G   1  4
+
+MEASURE 2
+  LINE RH5
+  CARRY  8
+  F   1  8
+  D   1  8
+  F   1  8
+  D   1  4
+  C   1 12
+  A   0 12
+  C   1 12
+
+MEASURE 3
+  METER 2 4
+MEASURE 4
+  METER 4 4
+MEASURE 6
+  METER 2 4
+MEASURE 7
+  METER 4 4
+MEASURE 9
+  METER 2 4
+MEASURE 10
+  METER 6 4
+MEASURE 11
+  METER 3 4
+MEASURE 12
+  METER 4 4
+MEASURE 14
+  METER 2 4
+MEASURE 15
+  METER 6 4
+MEASURE 19
+  METER 9 8
+
+# kr2l dep-epigraphe-1.mus 3 200 24
+
+MEASURE 3
+  LINE RH5
+  A   0  3
+  G   0 12
+  F   0 12
+
+
+
+# kr2l dep-epigraphe-1.mus 4 160 24
+
+MEASURE 4
+  LINE RH5
+  G   0  3
+  A   0 12
+  C   1 12
+  D   1 16 3
+  F   1 16
+  G   1  4
+
+MEASURE 5
+  LINE RH5
+  CARRY  8
+  F   1  8
+  D   1  8
+  F   1  8
+  D   1  4
+  C   1 12
+  A   0 12
+  C   1 12
+
+MEASURE 6
+  LINE RH5
+  A   0  3
+  G   0 12
+  A   0 12
+# kr2l dep-epigraphe-1.mus 7 160 24
+
+MEASURE 7
+  LINE RH5
+  C   1  3
+  D   1 12
+  F   1 12
+  G   1 16 3
+  A   1 16
+  C   2  4
+
+MEASURE 8
+  LINE RH5
+  CARRY  3
+  A   1 12
+  C   2 12
+  A   1  3
+  F   1 12
+  A   1 12
+
+MEASURE 9
+  LINE RH5
+  C   2 12 4
+  A   1 12
+  C   2 12
+
+
+# kr2l dep-epigraphe-1.mus 10 160 16
+
+MEASURE 10
+  LINE RH5
+  A   1 16  3
+  F   1 16
+  D   1 16
+  Bb  0 16
+  G   0 16  3
+  Bb  0 16
+  D   1 16
+  F   1 16
+  A   1 16  3
+  F   1 16
+  D   1 16
+  Bb  0 16
+  G   0 16  3
+  Bb  0 16
+  D   1 16
+  F   1 16
+
+MEASURE 11
+  LINE RH5
+  A   1 16  3
+  F   1 16
+  D   1 16
+  Bb  0 16
+  G   0  8  3
+# kr2l dep-epigraphe-1.mus 12 160 24
+
+MEASURE 12
+  LINE RH5
+  REST   4
+  G   1 12
+  A   1 12
+  C   2 12
+  D   2 16 3
+  F   2 16
+  G   2  4
+
+MEASURE 13
+  LINE RH5
+  CARRY  8
+  F   2  8
+  D   2  8
+  F   2  8
+  D   2  4
+  C   2 12
+  A   1 12
+  C   2 12
+
+MEASURE 14
+  LINE RH5
+  A   1  4
+  REST   4
+  LINE RH4
+  A  0   12 4
+  G  0 12
+  F  0 12
+
+# kr2l dep-epigraphe-1.mus 15 160 16
+
+MEASURE 15
+  LINE RH5
+  REST   8
+  A   1 16
+  F   1 16
+  D   1 16
+  Bb  0 16
+  G   0 16  3
+  Bb  0 16
+  D   1 16
+  F   1 16
+  REST   8
+  A   1 16
+  F   1 16
+  D   1 16
+  Bb  0 16
+  G   0 16  3
+  Bb  0 16
+  D   1 16
+  F   1 16
+
+MEASURE 16
+  LINE RH5
+  Bb  0 16
+  G   0 16
+  Bb  0 16
+  G   0 16
+  Bb  0 16
+  G   0 16
+  Bb  0  8
+  G   0  8
+  Bb  0  8
+  REST   8
+  Bb  0 16
+  G   0 16
+  F   0  8 3
+  REST  8
+# kr2l dep-epigraphe-1.mus 4 160 8
+
+MEASURE 4
+  LINE LH4
+  REST   4
+  C   0  4
+  Bb -1  4
+  A  -1  4
+
+MEASURE 4
+  LINE LH5
+  REST   4
+  E   0  4
+  D   0  4
+  C   0  4
+
+MEASURE 5
+  LINE LH4
+  G  -1  4
+  A  -1  4
+  Bb -1  4
+  C   0  4
+
+MEASURE 5
+  LINE LH5
+  Bb -1  4
+  C   0  4
+  D   0  4
+  E   0  4
+# kr2l dep-epigraphe-1.mus 7 160 8
+
+MEASURE 7
+  LINE LH1
+  C  -2  2
+  REST   2
+
+MEASURE 7
+  LINE LH2
+  G  -2  2
+  REST   2
+
+MEASURE 7
+  LINE LH3
+  E  -1  2
+  REST   2
+
+MEASURE 7
+  LINE TLLH2
+  TIELINE LH4 90
+  G  -1  2
+  REST   2
+
+MEASURE 7
+  LINE LH4
+  C   0  2
+  REST   2
+
+MEASURE 7
+  LINE TLLH3
+  TIELINE LH4 92
+  E   0  2
+  REST   2
+
+MEASURE 7
+  LINE LH5
+  G   0  2
+  RIPPLE
+  REST   2
+# kr2l dep-epigraphe-1.mus 6 160 8
+
+MEASURE 6
+  LINE TLLH1
+  TIELINE LH4 88
+  REST   4
+  D  -2  4
+
+MEASURE 6
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  A  -2  4
+
+MEASURE 6
+  LINE TLLH01a
+  TIELINE LH4 82
+  REST   4
+  D  -1  4
+
+MEASURE 6
+  LINE TLLH01
+  TIELINE LH4 84
+  REST   4
+  F  -1  4
+
+MEASURE 6
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  A  -1  4
+
+MEASURE 6
+  LINE LH4
+  D   0  4
+  D   0  4
+
+MEASURE 6
+  LINE LH5
+  F   0  4
+  F   0  4
+# kr2l dep-epigraphe-1.mus 8 160 8
+
+MEASURE 8
+  LINE TLLH3
+  TIELINE LH4 92
+  F  -1  4
+  G  -1  4
+  A  -1  4
+  Bb -1  4
+
+MEASURE 8
+  LINE LH4
+  A  -1  4
+  Bb -1  4
+  C   0  4
+  D   0  4
+
+MEASURE 8
+  LINE LH5
+  C   0  4
+  D   0  4
+  E   0  4
+  F   0  4
+
+MEASURE 9
+  LINE TLLH3
+  TIELINE LH4 92
+  C   0  4
+  D   0  4
+
+MEASURE 9
+  LINE LH4
+  E   0  4
+  F   0  4
+
+MEASURE 9
+  LINE LH5
+  G   0  4
+  A   0  4
+# kr2l dep-epigraphe-1.mus 10 160 16
+
+MEASURE 10
+  LINE TLLH2
+  TIELINE TLLH4 90
+  G  -3  4  3
+  C  -2  4  3
+
+MEASURE 10
+  LINE TLLH3
+  TIELINE TLLH4 92
+  G  -2  4  3
+  G  -2  4  3
+
+MEASURE 10
+  LINE LH4
+  D  -1  8  3
+  REST   8  3
+  D  -1  8  3
+  REST   8  3
+  LINE TLLH4
+  TIELINE LH4 100
+  D  -1 4 3
+  TIENOTE LH4 LH5
+  D  -1 4 3
+  TIENOTE LH4 LH5
+
+MEASURE 10
+  LINE LH5
+  Bb -1  8  3
+  F   0 16
+  E   0 16
+  D   0  4
+  Bb -1  8  3
+  F   0 16
+  E   0 16
+  D   0  4
+  LINE TLLH5
+  TIELINE LH5 100 
+  Bb  -1 4 3
+  Bb  -1 4 3
+
+# kr2l dep-epigraphe-1.mus 11 160 16
+
+MEASURE 11
+  LINE TLLH2
+  TIELINE TLLH4 90
+  G  -3  8  3
+  REST   8  3
+
+MEASURE 11
+  LINE TLLH3
+  TIELINE TLLH4 92
+  G  -2  8  3
+  REST   8  3
+
+MEASURE 11
+  LINE LH4
+  D  -1  8  3
+  REST   8  3
+  LINE TLLH4
+  TIELINE LH4 100
+  D -1 8 3
+  REST 8 3
+  TIENOTE LH4 RH5
+
+MEASURE 11
+  LINE LH5
+  Bb -1  8  3
+  F   0 16
+  E   0 16
+  D   0  8
+  E   0 16
+  F   0 16
+  LINE TLLH5
+  TIELINE LH5 100
+  Bb -1 8 3
+  TIENOTE LH5 RH5
+  REST 8 3 
+
+MEASURE 12
+  LINE LH5
+  G   0  1
+# kr2l dep-epigraphe-1.mus 8 160 8
+
+MEASURE 8
+  LINE RH4
+  REST   4
+  C   1  4
+  REST   4
+  A   0  4
+
+MEASURE 9
+  LINE RH4
+  REST   4
+  C   1  4
+# kr2l dep-epigraphe-1.mus 12 160 8
+
+MEASURE 12
+  LINE LH4
+  REST   2
+  Bb -1  4
+  A  -1  4
+
+MEASURE 12
+  LINE LH4a
+  REST   2
+  D   0  4
+  C   0  4
+# kr2l dep-epigraphe-1.mus 13 160 8
+
+MEASURE 13
+  LINE TLLH0a
+  TIELINE LH4 82
+  REST   4  3
+  F  -2  4
+
+MEASURE 13
+  LINE TLLH0b
+  TIELINE LH4 84
+  REST   4  3
+  C  -1  4
+
+MEASURE 13
+  LINE TLLH1
+  TIELINE LH4 88
+  REST   4  3
+  F  -1  4
+
+MEASURE 13
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4  3
+  A  -1  4
+
+MEASURE 13
+  LINE LH4
+  G  -1  4
+  A  -1  4
+  Bb -1  4
+  C   0  4
+
+MEASURE 13
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4  3
+  F   0  4
+
+MEASURE 13
+  LINE LH4a
+  Bb -1  4
+  C   0  4
+  D   0  4
+  A   0  4
+
+MEASURE 12
+  LINE TLLH5
+  TIELINE LH5 100
+  G  0 1
+  TIENOTE LH5 LH4a
+MEASURE 13
+  LINE TLLH5
+  G  0 4 3
+  REST 4
+MEASURE 12
+  LINE TLLH4a
+  TIELINE LH5 84
+  E 0 2
+  TIENOTE LH5 RH5
+  REST 2
+  LINE TLLH4
+  TIELINE LH5 80
+  C 0 2
+  TIENOTE LH5 RH5
+  REST 2
+
+  
+# kr2l dep-epigraphe-1.mus 14 144 16
+
+MEASURE 14
+  LINE TLLH0a
+  TIELINE LH4 82
+  REST   4
+  D  -2  4
+
+MEASURE 14
+  LINE TLLH0b
+  TIELINE LH4 84
+  REST   4
+  A  -2  4
+
+MEASURE 14
+  LINE TLLH1
+  TIELINE LH4 88
+  A  -2  4
+  D  -1  4
+
+MEASURE 14
+  LINE TLLH2
+  TIELINE LH4 90
+  E  -1  4
+  F  -1  4
+
+MEASURE 14
+  LINE LH4
+  A  -1  4
+  A  -1  4
+
+MEASURE 14
+  LINE TLLH3
+  TIELINE LH4 92
+  C   0  4
+  D   0  4
+
+MEASURE 14
+  LINE LH4a
+  E   0  4
+  F   0  4
+# kr2l dep-epigraphe-1.mus 15 144 16
+
+MEASURE 15
+  LINE TLLH1
+  TIELINE TLLH4 88
+  G  -3  4  3
+  G  -3  4  3
+
+MEASURE 15
+  LINE TLLH2
+  TIELINE TLLH4 90
+  G  -2  4  3
+  G  -2  4  3
+
+MEASURE 15
+  LINE LH4
+  D  -1  4  3
+  D  -1  4  3
+  LINE TLLH4
+  TIELINE LH4 100
+  D  -1  4  3
+  TIENOTE LH4 LH5 
+  D  -1  4  3
+  TIENOTE LH4 LH5
+
+MEASURE 15
+  LINE TLLH3
+  TIELINE LH4 92
+  Bb -1  4  3
+  Bb -1  4  3
+
+MEASURE 16
+  LINE TLLH1
+  TIELINE LH4 88
+  REST   4  3
+  Bb  -3  4  3
+
+MEASURE 16
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4  3
+  F  -2  4  3
+
+MEASURE 16
+  LINE LH4
+  G  -3  4  3
+  D  -1  4  3
+
+MEASURE 16
+  LINE TLLH3
+  TIELINE LH4 92
+  G  -2  4  3
+  Bb -1  4  3
+# kr2l dep-epigraphe-1.mus 15 144 16
+
+MEASURE 15
+  LINE LH5
+  D   0  8  3
+  F   0  8
+  E   0  8
+  D   0  8
+  G   0  8  3
+  F   0  8
+  E   0  8
+  D   0  8
+  LINE RH4
+  G   0 8 3
+  REST 8 3
+  REST 4 3
+  LINE TLLH5a
+  TIELINE LH5 82
+  REST 4 3
+  D 0 8 3
+  REST 8 3
+
+
+
+MEASURE 16
+  LINE LH5
+  D  -1  4  3
+  D   0  8
+  REST   8  5
+  LINE TLRH4
+  TIELINE RH5 80
+  F 0 16
+  E 0 16
+  D 0 16
+  F 0 16
+  E 0 16
+  D 0 16
+  F 0 8
+  E 0 8
+  D 0 8
+  REST 8
+  F 0 16
+  E 0 16
+  D 0 8 3
+  REST 8
+
+# kr2l D:\musfiles\dep-epigraphe-1.mus 17 60 8
+
+MEASURE 17
+  LINE TLRH4
+  TIELINE RH5 82
+  REST   8
+  F   1 16
+  E   1 16
+  D   1  8
+  C   1  8
+  Bb  0  8
+  A   0  8
+  F   0 16
+  E   0 16
+  D   0  8  5
+
+MEASURE 17
+  LINE RH5
+  REST   8
+  Bb  1 16
+  G   1 16
+  F   1  8
+  E   1  8
+  D   1  8
+  C   1  8
+  Bb  0 16
+  G   0 16
+  F   0  8  5
+# kr2l D:\musfiles\dep-epigraphe-1.mus 18 60 8
+
+MEASURE 18
+  LINE TLRH4
+  E   0 16
+  D   0 16
+  C   0  8  5
+  F   0 16
+  E   0 16
+  D   0  4
+  E   0 16
+  D   0 16
+  C   0  4
+
+MEASURE 18
+  LINE RH5
+  A   0 16
+  F   0 16
+  E   0  8  5
+  Bb  0 16
+  G   0 16
+  F   0  4
+  A   0 16
+  F   0 16
+  E   0  4
+
+MEASURE 19
+  LINE TLRH4
+  D   0 16
+  C   0 16
+  Bb -1  4
+  C   0 16
+  Bb -1 16
+  A  -1  4
+  REST   8  3
+
+MEASURE 19
+  LINE RH5
+  G   0 16
+  E   0 16
+  D   0  4
+  F   0 16
+  D   0 16
+  C   0  4
+  REST   8  3
+# kr2l D:\musfiles\dep-epigraphe-1.mus 17 60 8
+
+MEASURE 17
+  LINE LH5
+  REST   4  3
+  C   0  4
+  Bb -1 16
+  A  -1 16
+  G  -1  8
+  A  -1  8
+  Bb -1  8
+
+MEASURE 18
+  LINE LH5
+  CARRY  4
+  A  -1  8
+  G  -1  8
+  A  -1  8
+  Bb -1  8
+  C   0  4
+  Bb -1 16
+  A  -1 16
+  Bb -1  4
+  A  -1 16
+  G  -1 16
+
+MEASURE 19
+  LINE LH5
+  A  -1  4
+  G  -1 16
+  F  -1 16
+  G  -1  4
+  F  -1  8
+  E  -1  8
+  F  -1  8
+  D  -1  8
+# kr2l D:\musfiles\dep-epigraphe-1.mus 20 60 8
+
+MEASURE 20
+  LINE TLLH3
+  TIELINE LH4 92
+  C  -2  4
+  G  -1  4
+  G  -1  4
+  G  -1  4
+  REST   2
+
+MEASURE 20
+  LINE LH4
+  G  -2  4
+  E   0  4
+  E   0  4
+  E   0  4
+  C  -2  4
+  C  -2  4
+
+MEASURE 20
+  METER 6 4
+  LINE LH5
+  C  -1  4
+  G   0  4
+  G   0  4
+  G   0  4
+  C  -1  4
+  C  -1  4
+  LINE TLLH5a
+  TIELINE LH5 100
+  C -1 4 3
+  CARRY 4
+  REST 2
+  LINE TLLH4a
+  TIELINE LH4 100
+  G  -2 4 3
+  CARRY 4
+  REST 2
+  LINE TLLH3a
+  TIELINE TLLH3 100
+  C -2 4 3
+  CARRY 4
+  REST 2
+  LINE TLLH5b
+  TIELINE LH5 100
+  REST 4 3
+  G 0 4 3
+  LINE TLLH4b
+  TIELINE LH4 100
+  REST 4 3
+  E 0 4 3
+  LINE TLLH3b
+  TIELINE LH4 92
+  REST 4 3
+  G  -1 4 3
+
+# kr2l D:\musfiles\dep-epigraphe-1.mus 20 60 8
+
+MEASURE 20
+  LINE TLRH2
+  TIELINE RH4 88
+  REST   4
+  C   1  4
+  C   1  4
+  C   1  4  3
+
+MEASURE 20
+  LINE TLRH3
+  TIELINE RH4 92
+  E  -1  4
+  E   1  4
+  E   1  4
+  E   1  4  3
+
+MEASURE 20
+  LINE RH4
+  G  -1  4
+  G   1  4
+  G   1  4
+  G   1  4  3
+
+MEASURE 20
+  LINE RH5
+  C   0  4
+  C   2  4
+  C   2  4
+  C   2  4  3
+  LINE TLRH5
+  TIELINE RH5 100
+  C 0 4 3
+  REST 4 3
+
+# kr2l D:\musfiles\dep-epigraphe-1.mus 21 60 8
+
+MEASURE 21
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8
+  C   2 16
+  Bb  1 16
+  A   1  8
+  F   1 16
+  E   1 16
+  D   1 16
+  C   1 16
+  Bb  0 16
+  A   0 16
+  F   0 16
+  E   0 16
+  D   0  8
+  C   0 16
+  Bb -1 16
+  G  -1 16  3
+  A  -1 16  3
+
+MEASURE 21
+  LINE RH5
+  REST   8
+  F   2 16
+  D   2 16
+  C   2  8
+  Bb  1 16
+  G   1 16
+  F   1 16
+  E   1 16
+  D   1 16
+  C   1 16
+  Bb  0 16
+  G   0 16
+  F   0  8
+  E   0 16
+  D   0 16
+  C   0 16  3
+  C   0 16  3
+  LINE TLRH3
+  TIELINE TLRH4 92
+  REST 16 18
+  E -1 16 3
+  E -1 16 3
+
+# kr2l D:\musfiles\dep-epigraphe-1.mus 22 60 8
+
+MEASURE 22
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   8
+  C   2 16
+  Bb  1 16
+  A   1  8
+  F   1 16
+  E   1 16
+  D   1 16
+  C   1 16
+  Bb  0 16
+  A   0 16
+  F   0 16
+  E   0 16
+  D   0  8
+  C   0 16
+  Bb -1 16
+  REST   8  3
+
+MEASURE 22
+  LINE RH5
+  REST   8
+  F   2 16
+  D   2 16
+  C   2  8
+  Bb  1 16
+  G   1 16
+  F   1 16
+  E   1 16
+  D   1 16
+  C   1 16
+  Bb  0 16
+  G   0 16
+  F   0  8
+  E   0 16
+  D   0 16
+  C   0  8
+  C   0 16
+  E   0 16
+  C   0  8
+
+MEASURE 23
+  METER 3 4
+  LINE RH5
+  C   0  8
+  C   0 16
+  E   0 16
+  C   0  4
+  C   0 16
+  E   0 16
+  C   0  8
+# kr2l D:\musfiles\dep-epigraphe-1.mus 21 60 8
+
+MEASURE 21
+  LINE TLLH0
+  TIELINE LH4 85
+  REST   4
+  C  -2  4
+  REST   1
+
+MEASURE 21
+  LINE TLLH1
+  TIELINE LH4 88
+  REST   4
+  C  -1  4
+  REST   1
+
+MEASURE 21
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  F  -1  2
+  REST   4 3
+
+MEASURE 21
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  Bb -1  2
+  REST   4 3
+
+MEASURE 21
+  LINE LH4
+  G  -3  4
+  D   0  4
+  Bb -3  8
+  A  -3  8
+  G  -3  4
+  C  -2 16  5
+  A  -3 16  3
+  LINE TLLH4
+  TIELINE LH4 100
+  REST 4
+  D 0 2
+  REST 4 3
+  LINE TLLH5
+  TIELINE LH5 100
+  REST 4
+  F 0 2
+  REST  4 3
+
+
+MEASURE 21
+  LINE LH5
+  G  -2  4
+  F   0  4
+  Bb -2  8
+  A  -2  8
+  G  -2  4
+  C  -1 16  5
+  A  -2 16  3
+# kr2l D:\musfiles\dep-epigraphe-1.mus 22 60 8
+
+MEASURE 22
+  LINE TLLH0
+  TIELINE LH4 85
+  REST   4
+  C  -2  4
+  REST   1
+
+MEASURE 22
+  LINE TLLH1
+  TIELINE LH4 88
+  REST   4
+  C  -1  2
+  REST   4 3
+
+MEASURE 22
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  F  -1  2
+  REST   4 3
+
+MEASURE 22
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  Bb -1  2
+  REST   2
+  A  -2  8
+  F  -2  8
+
+MEASURE 22
+  LINE LH4
+  G  -3  4
+  D   0  4
+  Bb -3  8
+  A  -3  8
+  G  -3  4
+  C  -2  8
+  E  -1  8
+  E  -1  8
+  F  -1  8
+
+MEASURE 22
+  LINE LH5
+  G  -2  4
+  F   0  4
+  Bb -2  8
+  A  -2  8
+  G  -2  4
+  C  -1  8
+  G  -1  8
+  A  -1  8
+  A  -1  8 
+  LINE TLLH5
+  TIELINE LH5 100
+  REST 4
+  F 0 2
+  REST 4
+  C -1 4
+  REST 4
+  LINE TLLH4
+  TIELINE LH4 100
+  REST 4
+  D 0 2
+  REST 4 3
+
+# kr2l D:\musfiles\dep-epigraphe-1.mus 23 60 8
+
+MEASURE 23
+  LINE LH3
+  C  -2  8
+  A  -3  8
+  F  -3  8
+  C  -1  8
+  A  -2  8
+  F  -2  8
+
+MEASURE 23
+  LINE TLLH2
+  TIELINE LH4 82
+  C  -1  8
+  A  -2  8
+  F  -2  8
+  REST   8  3
+
+MEASURE 23
+  LINE TLLH3
+  TIELINE LH4 85
+  E  -1  8
+  E  -1  8
+  F  -1  8
+  E  -1  8
+  E  -1  8
+  F  -1  8
+
+MEASURE 23
+  LINE LH4
+  G  -1  8
+  A  -1  8
+  A  -1  8
+  G  -1  8
+  A  -1  8
+  A  -1  8
+MEASURE 24
+  METER 6 4
+MEASURE 27
+  METER 6 4
+
+MEASURE 28
+  METER 3 4
+
+MEASURE 31
+  METER 4 4
+
+MEASURE 1
+  MARK Beginning
+
+MEASURE 31
+  MARK Tempo-I
+
+MEASURE 17
+  MARK Un-peu-plus-mouvemente
+
+# kr2l D:\musfiles\dep-epigraphe-1.mus 24 60 8
+
+MEASURE 24
+  LINE RH5
+  A   1  8
+  C   2 16
+  A   1 16
+  C   2  8
+  A   1 16
+  C   2 16
+  A   1  8
+  C   2 16
+  A   1 16
+  C   2  8
+  A   1 16
+  C   2 16
+  A   1  8
+  C   2 16
+  A   1 16
+  C   2  8
+  A   1 16
+  C   2 16
+
+MEASURE 25
+  LINE RH5
+  A   1  8
+  C   2 16
+  A   1 16
+  C   2  8
+  A   1 16
+  C   2 16
+  A   1  8
+  C   2 16
+  A   1 16
+  C   2  8
+  A   1 16
+  C   2 16
+  A   1  8
+  C   2 16
+  A   1 16
+  C   2  8
+  A   1 16
+  C   2 16
+# kr2l D:\musfiles\dep-epigraphe-1.mus 24 60 8
+
+MEASURE 24
+  LINE TLLH4
+  TIELINE LH5 80
+  REST   8
+  F  -1  8
+  E  -1  8
+  D  -1  8
+  G  -1  8
+  F  -1  8
+  A  -1  8
+  F  -1  8
+  E  -1  8
+  D  -1  8
+  E  -1  8
+  D  -1  8
+
+MEASURE 24
+  LINE LH5
+  D  -3  8
+  F   0  8
+  E   0  8
+  D   0  8
+  G   0  8
+  F   0  8
+  A   0  8
+  F   0  8
+  E   0  8
+  D   0  8
+  E   0  8
+  D   0  8
+
+MEASURE 25
+  LINE TLLH4
+  TIELINE LH5 80
+  REST   8
+  F  -1  8
+  E  -1  8
+  D  -1  8
+  G  -1  8
+  F  -1  8
+  A  -1  8
+  F  -1  8
+  E  -1  8
+  D  -1  8
+  D  -1 16
+  E  -1 16
+  D  -1  8
+
+MEASURE 25
+  LINE LH5
+  D  -2  8
+  F   0  8
+  E   0  8
+  D   0  8
+  G   0  8
+  F   0  8
+  A   0  8
+  F   0  8
+  E   0  8
+  D   0  8
+  D   0 16
+  E   0 16
+  D   0  8
+# kr2l D:\musfiles\dep-epigraphe-1.mus 24 60 4
+
+MEASURE 24
+  LINE TLLH1
+  TIELINE LH5 88
+  D  -2  4
+  REST   8
+  G  -2  4
+  REST   8
+  D  -1  4
+  REST   8
+  G  -2  4
+  REST   8
+
+MEASURE 25
+  LINE TLLH1
+  TIELINE LH5 88
+  D  -2  4
+  REST   8
+  G  -2  4
+  REST   8
+  D  -1  4
+  REST   8
+  G  -2  4
+  REST   8
+# kr2l D:\musfiles\dep-epigraphe-1.mus 24 60 4
+
+MEASURE 24
+  LINE TLLH2
+  TIELINE TLLH4 89
+  REST   8
+  A  -1  4
+  REST   8
+  Bb -1  4
+  REST   8
+  A  -1  4
+  REST   8
+  G  -1  4
+
+MEASURE 24
+  LINE TLLH3
+  TIELINE TLLH4 92
+  REST   8
+  D   0  4
+  REST   8
+  D   0  4
+  REST   8
+  C   0  4
+  REST   8
+  Bb -1  4
+# kr2l D:\musfiles\dep-epigraphe-1.mus 25 60 4
+
+MEASURE 25
+  LINE TLLH2
+  TIELINE TLLH4 89
+  REST   8
+  A  -1  4
+  REST   8
+  Bb -1  4
+  REST   8
+  C   0  4
+  REST   4
+  A  -1  8
+
+MEASURE 25
+  LINE TLLH3
+  TIELINE TLLH4 92
+  REST   8
+  C   0  4
+  REST   8
+  D   0  4
+  REST   8
+  E   0  4
+  REST   8
+  Bb -1  8
+  C   0  8
+
+# kr2l D:\musfiles\dep-epigraphe-1.mus 27 60 8
+
+MEASURE 26
+  METER 3 4
+  LINE RH5
+  C   0  8
+  C   0 16
+  E   0 16
+  C   0  4
+  C   0 16
+  E   0 16
+  C   0  8
+MEASURE 26
+  LINE LH3
+  C  -2  8
+  A  -3  8
+  F  -3  8
+  C  -1  8
+  A  -2  8
+  F  -2  8
+
+MEASURE 26
+  LINE TLLH2
+  TIELINE LH4 82
+  C  -1  8
+  A  -2  8
+  F  -2  8
+  REST   8  3
+
+MEASURE 26
+  LINE TLLH3
+  TIELINE LH4 85
+  E  -1  8
+  E  -1  8
+  F  -1  8
+  E  -1  8
+  E  -1  8
+  F  -1  8
+
+MEASURE 26
+  LINE LH4
+  G  -1  8
+  A  -1  8
+  A  -1  8
+  G  -1  8
+  A  -1  8
+  A  -1  8
+
+MEASURE 27
+  LINE TLRH4
+  TIELINE RH5a 80
+  REST   8
+  F   1 16
+  E   1 16
+  D   1  8
+  C   1  8
+  Bb  0  8
+  A   0  8
+  F   0 16
+  E   0 16
+  D   0  8  5
+
+MEASURE 27
+  LINE RH5a
+  REST   8
+  Bb  1 16
+  G   1 16
+  F   1  8
+  E   1  8
+  D   1  8
+  C   1  8
+  Bb  0 16
+  G   0 16
+  F   0  8  5
+# kr2l D:\musfiles\dep-epigraphe-1.mus 27 60 8
+
+MEASURE 26
+  LINE LH8
+  REST 4 3
+MEASURE 27
+  LINE LH8
+  PHANTOM  1
+  REST   2
+
+MEASURE 26
+  LINE TLLH8
+  TIELINE RH5 100
+  REST 8 5
+  C 0 8
+  TIENOTE RH5 LH8
+MEASURE 27
+  LINE TLLH8
+  CARRY 1
+  REST 2
+  
+# kr2l D:\musfiles\dep-epigraphe-1.mus 28 60 8
+
+MEASURE 28
+  LINE TLRH4
+  TIELINE RH5 80
+  E   0 16
+  D   0 16
+  C   0  8  5
+
+MEASURE 28
+  LINE RH5
+  A   0 16
+  F   0 16
+  E   0  8  5
+# kr2l D:\musfiles\dep-epigraphe-1.mus 29 60 8
+
+MEASURE 29
+  LINE TLRH4
+  TIELINE RH5 80
+  F   0 16
+  E   0 16
+  D   0  4
+  REST   8  3
+
+MEASURE 29
+  LINE RH5
+  Bb  0 16
+  G   0 16
+  F   0  4
+  REST   8  3
+# kr2l D:\musfiles\dep-epigraphe-1.mus 30 60 8
+
+# kr2l D:\musfiles\dep-epigraphe-1.mus 31 60 8
+
+MEASURE 31
+  LINE TLRH3
+  TIELINE RH4 92
+  G   0  4
+  C   1  4
+  Bb  0  4
+  A   0  4
+
+MEASURE 31
+  LINE RH4
+  Bb  0  4
+  E   1  4
+  D   1  4
+  C   1  4
+
+MEASURE 31
+  LINE RH5
+  D   1  4
+  G   1  4
+  F   1  4
+  E   1  4
+
+MEASURE 32
+  LINE TLRH3
+  TIELINE RH4 92
+  G   0  4
+  C   1  4
+  Bb  0  4
+  REST   4
+
+MEASURE 32
+  LINE RH4
+  Bb  0  4
+  E   1  4
+  D   1  4
+  REST   4
+
+MEASURE 32
+  LINE RH5
+  D   1  4
+  G   1  4
+  F   1  4
+  G   1  4
+
+MEASURE 33
+  LINE RH4
+  REST   2
+  G   1  2
+
+MEASURE 33
+  LINE RH5
+  CARRY  12
+  A   1 12
+  C   2 12
+  D   2 16  3
+  F   2 16
+  G   2  2
+# kr2l D:\musfiles\dep-epigraphe-1.mus 34 60 8
+
+MEASURE 34
+  LINE RH4
+  CARRY   8
+  F   1  8
+  D   1  8
+  F   1  8
+  D   1  4
+  C   1  12
+  A   0 12
+  C   1 12
+
+MEASURE 35
+  LINE RH4
+  A   0 12 4
+  G   0 12
+  F   0 12
+  G   0  2
+# kr2l D:\musfiles\dep-epigraphe-1.mus 35 60 8
+
+MEASURE 35
+  LINE RH5
+  REST   2
+  C   1  12 4
+  Bb  0 12
+  A   0 12
+# kr2l D:\musfiles\dep-epigraphe-1.mus 36 60 8
+
+MEASURE 36
+  LINE TLRH3
+  TIELINE TLRH4 92
+  Bb  0  1
+
+MEASURE 36
+  LINE TLRH4
+  TIELINE RH6 80
+  G   1  1
+
+MEASURE 36
+  LINE RH6
+  G   2  1
+# kr2l D:\musfiles\dep-epigraphe-1.mus 36 60 8
+
+MEASURE 36
+  LINE RH5
+  G   0  1
+# kr2l D:\musfiles\dep-epigraphe-1.mus 34 60 8
+
+MEASURE 34
+  LINE TLRH4a
+  TIELINE RH4 100
+  REST   2
+  D   1  2
+
+MEASURE 35
+  LINE TLRH4a
+  TIELINE RH4 100
+  CARRY  2
+  REST   2
+# kr2l D:\musfiles\dep-epigraphe-1.mus 27 60 8
+
+MEASURE 27
+  LINE LH5
+  REST   1
+  Bb -1 16
+  A  -1 16
+  G  -1  8
+  A  -1  8
+  Bb -1  8
+
+MEASURE 28
+  LINE LH5
+  CARRY  4
+  A  -1  8
+  G  -1  8
+  A  -1  8
+  Bb -1  8
+
+MEASURE 29
+  LINE LH5
+  C   0  4
+  Bb -1 16
+  C   0 16
+  D   0  8
+  E   0  8
+  F   0  8
+
+MEASURE 30
+  LINE LH5
+  G   0  8
+  F   0  8
+  G   0  8
+  A   0  8
+  Bb  0  8
+  C   1  8
+
+MEASURE 31
+  LINE TLLH3
+  TIELINE LH4 92
+  G  -1  4
+  C   0  4
+  Bb -1  4
+  A  -1  4
+
+MEASURE 31
+  LINE LH4
+  Bb -1  4
+  E   0  4
+  D   0  4
+  C   0  4
+
+MEASURE 31
+  LINE LH5
+  D   0  4
+  G   0  4
+  F   0  4
+  E   0  4
+# kr2l D:\musfiles\dep-epigraphe-1.mus 32 60 8
+
+MEASURE 32
+  LINE TLLH0
+  TIELINE LH4 85
+  REST   4  3
+  A  -1  4
+
+MEASURE 32
+  LINE TLLH1
+  TIELINE LH4 88
+  REST   4  3
+  C   0  4
+
+MEASURE 32
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4  3
+  E   0  4
+
+MEASURE 32
+  LINE TLLH3
+  TIELINE LH4 92
+  G  -1  4
+  C   0  4
+  Bb -1  4
+  A   0  4
+
+MEASURE 32
+  LINE LH4
+  Bb -1  4
+  E   0  4
+  D   0  4
+  C   1  4
+
+MEASURE 32
+  LINE LH5
+  D   0  4
+  G   0  4
+  F   0  4
+  E   1  4
+
+MEASURE 33
+  LINE TLLH0
+  TIELINE LH4 85
+  G  -1  4
+  C   0  4
+  Bb -1  2
+
+MEASURE 33
+  LINE TLLH1
+  TIELINE LH4 88
+  Bb -1  4
+  E   0  4
+  D   0  2
+
+MEASURE 33
+  LINE TLLH2
+  TIELINE LH4 90
+  D   0  4
+  G   0  4
+  F   0  2
+
+MEASURE 33
+  LINE TLLH3
+  TIELINE LH4 92
+  G   0  4
+  C   1  4
+  Bb  0  2
+
+MEASURE 33
+  LINE LH4
+  Bb  0  4
+  E   1  4
+  D   1  2
+
+MEASURE 33
+  LINE LH5
+  D   1  4
+  G   1  4
+  F   1  2
+# kr2l D:\musfiles\dep-epigraphe-1.mus 35 60 8
+
+MEASURE 35
+  LINE TLLH1
+  TIELINE LH4 88
+  REST   2
+  C  -2  2
+
+MEASURE 35
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   2
+  G  -2  2
+
+MEASURE 35
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   2
+  E  -1  2
+
+MEASURE 35
+  LINE LH4
+  REST   2
+  C   0  2
+
+MEASURE 35
+  LINE LH5
+  REST   2
+  E   0  2
+
+MEASURE 36
+  LINE TLLH1
+  TIELINE LH4 88
+  G  -3  1
+
+MEASURE 36
+  LINE TLLH2
+  TIELINE LH4 90
+  G  -2  1
+
+MEASURE 36
+  LINE TLLH3
+  TIELINE LH4 92
+  D  -1  1
+
+MEASURE 36
+  LINE LH4
+  Bb -1  1
+
+MEASURE 36
+  LINE LH5
+  D   0  1

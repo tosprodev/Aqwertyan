@@ -1,0 +1,954 @@
+NAME Scriabin: Prelude, Opus 11, Number 4
+
+MEASURE 1
+  METER 6 4
+  TEMPO 4 72.000000
+  KEY 0
+
+# kr2l scr11-04.mus 1 60 4
+
+MEASURE 1
+  LINE RH4
+  B   0  4
+  B   0  4
+  B   0  4
+  REST   4
+  B   0  4
+  B   0  4
+
+MEASURE 1
+  LINE RH5
+  REST  4
+  REST  4
+  E   1  4
+  Eb  1  4
+  Eb  1  4
+  Eb  1  4
+# kr2l scr11-04.mus 2 60 4
+
+MEASURE 2
+  LINE RH4
+  B   0  4
+  REST   4  5
+
+MEASURE 2
+  LINE RH5
+  E   1  4
+  E   1  4
+  E   1  4
+  REST   4
+  A   0  4
+  A   0  4
+# kr2l scr11-04.mus 3 60 4
+
+MEASURE 3
+  LINE RH4
+  REST   4
+  F#  0  4
+  F#  0  4
+  REST   4
+  F#  0  4
+  F#  0  4
+
+MEASURE 3
+  LINE RH5
+  E   0  4
+  B   0  4
+  B   0  4
+  Bb  0  4
+  Bb  0  4
+  Bb  0  4
+
+MEASURE 4
+  LINE RH4
+  F#  0  4
+  REST   4  5
+
+MEASURE 4
+  LINE RH5
+  B   0  4
+  B   0  4
+  B   0  4
+  REST   4
+  E   0  4
+  E   0  4
+# kr2l scr11-04.mus 5 60 4
+
+MEASURE 5
+  LINE RH4
+  REST   4
+  G  -1  4
+  REST   2
+  B  -1  4
+  REST   4
+
+MEASURE 5
+  LINE RH5
+  E   0  4
+  B  -1  4
+  B  -1  4
+  E   0  4
+  E   0  4
+  B  -1  4
+
+MEASURE 6
+  LINE RH4
+  REST   4
+  A  -1  4
+  REST   2
+  C   0  4
+  REST   4
+
+MEASURE 6
+  LINE RH5
+  C   0  4
+  C   0  4
+  C   0  4
+  F#  0  4
+  F#  0  4
+  C   0  4
+# kr2l scr11-04.mus 7 60 4
+
+MEASURE 7
+  LINE RH5
+  D   0  4
+  G   0  4
+  G   0  4
+  F#  0  4
+  A#  0  4
+  A#  0  4
+# kr2l scr11-04.mus 8 60 4
+
+MEASURE 8
+  LINE RH5
+  A   0  4
+  A   0  4
+  A   0  4
+  D#   1  4
+  D#   1  4
+  D#  1  4
+# kr2l scr11-04.mus 9 60 4
+
+MEASURE 9
+  LINE RH4
+  A   0  4
+  B   0  4
+  B   0  4
+  REST   4
+  B   0  4
+  B   0  4
+
+MEASURE 9
+  LINE RH5
+  E   1  4
+  E   1  4
+  E   1  4
+  Eb  1  4
+  Eb  1  4
+  Eb  1  4
+
+MEASURE 10
+  LINE RH4
+  B   0  4
+  REST   4  5
+
+MEASURE 10
+  LINE RH5
+  E   1  4
+  E   1  4
+  E   1  4
+  REST   4
+  A   0  4
+  A   0  4
+# kr2l scr11-04.mus 11 60 4
+
+MEASURE 11
+  LINE RH4
+  REST   4
+  F#  0  4
+  F#  0  4
+  REST   4
+  F#  0  4
+  F#  0  4
+
+MEASURE 11
+  LINE RH5
+  E   0  4
+  B   0  4
+  B   0  4
+  Bb  0  4
+  Bb  0  4
+  Bb  0  4
+
+MEASURE 12
+  LINE RH4
+  F#  0  4
+  REST   4  5
+
+MEASURE 12
+  LINE RH5
+  B   0  4
+  B   0  4
+  B   0  4
+  REST   4
+  E   0  4
+  E   0  4
+# kr2l scr11-04.mus 13 60 4
+
+MEASURE 13
+  LINE RH4
+  REST   4
+  G  -1  4
+  REST   2
+  B  -1  4
+  REST   4
+
+MEASURE 13
+  LINE RH5
+  E   0  4
+  B  -1  4
+  B  -1  4
+  E   0  4
+  E   0  4
+  B  -1  4
+
+MEASURE 14
+  LINE RH4
+  REST   4
+  A  -1  4
+  REST   2
+  C   0  4
+  REST   4
+
+MEASURE 14
+  LINE RH5
+  C   0  4
+  C   0  4
+  C   0  4
+  F#  0  4
+  F#  0  4
+  C   0  4
+# kr2l scr11-04.mus 15 60 4
+
+MEASURE 15
+  LINE RH4
+  REST   1
+  D   0  4
+  REST   4
+
+MEASURE 15
+  LINE RH5
+  REST   2
+  F   0  4
+  B   0  4
+  B   0  4
+  B   0  4
+
+MEASURE 16
+  LINE RH5
+  A   0  4
+  A   0  4
+  A   0  4
+  A   0  4
+  A   0  4
+  A   0  4
+
+MEASURE 17
+  LINE RH5
+  REST   4  3
+  G   0  4
+  G   0  4
+  G   0  4
+
+MEASURE 18
+  LINE RH5
+  G   0  4  3
+  REST   4  3
+
+MEASURE 19
+  LINE RH5
+  B  -1  4
+  B  -1  4
+  B  -1  1
+
+MEASURE 20
+  LINE RH5
+  B  -1  4
+  B  -1  4
+  B  -1  4
+  B  -1  4
+  B  -1  4
+  B  -1  4
+
+MEASURE 21
+  LINE RH5
+  B  -1  4
+  B  -1  4
+  B  -1  4
+  B  -1  4
+  B  -1  4
+  B  -1  4
+
+MEASURE 22
+  LINE RH5
+  B  -1  4
+  B  -1  4
+  B  -1  1
+
+MEASURE 23
+  LINE RH5
+  B  -1  4
+  B  -1  4
+  B  -1  1
+# kr2l scr11-04.mus 1 120 4
+
+MEASURE 1
+  LINE RH6
+  REST   4  3
+  B   1  4  3
+
+MEASURE 2
+  LINE RH6
+  CARRY  4
+  G   1  4
+  F#  1  4
+  REST   4
+  D   1  4
+  C#  1  4
+# kr2l scr11-04.mus 3 120 4
+
+MEASURE 3
+  LINE RH6
+  B   0  4
+  REST   2
+  F#  1  4  3
+
+MEASURE 4
+  LINE RH6
+  CARRY  4
+  D   1  4
+  C#  1  4
+  REST   4
+  A   0  4
+  G#  0  4
+
+MEASURE 5
+  LINE RH6
+  G   0  4
+  REST   4
+  E   0  4
+  G   0  2
+  F#  0  4
+
+MEASURE 6
+  LINE RH6
+  F#  0  2
+  F#  0  4
+  A   0  2
+  G   0  4
+
+MEASURE 7
+  LINE RH6
+  G   0  4
+  C#  1  4
+  B   0  4
+  Bb  0  4
+  D   1  4
+  C#  1  4
+# kr2l scr11-04.mus 8 120 4
+
+MEASURE 8
+  LINE RH6
+  C   1  4
+  B   0  4
+  Eb  1  4
+  G   1  4
+  F#  1  4
+  G   1  4
+# kr2l scr11-04.mus 9 120 4
+
+MEASURE 9
+  LINE RH6
+  REST   4  3
+  B   1  4  3
+
+MEASURE 10
+  LINE RH6
+  CARRY  4
+  G   1  4
+  F#  1  4
+  REST   4
+  D   1  4
+  C#  1  4
+
+MEASURE 11
+  LINE RH6
+  B   0  4
+  REST   2
+  F#  1  4  3
+
+MEASURE 12
+  LINE RH6
+  CARRY  4
+  D   1  4
+  C#  1  4
+  REST   4
+  A   0  4
+  G#  0  4
+
+MEASURE 13
+  LINE RH6
+  G   0  4
+  REST   4
+  E   0  4
+  G   0  2
+  F#  0  4
+
+MEASURE 14
+  LINE RH6
+  F#  0  2
+  F#  0  4
+  A   0  2
+  G   0  4
+# kr2l scr11-04.mus 15 120 4
+
+MEASURE 15
+  LINE RH6
+  REST   2
+  B   0  4
+  D   1  2
+  D   1  4
+
+MEASURE 16
+  LINE RH4a
+  D   0  4  3
+  C   0  4  3
+
+MEASURE 16
+  LINE RH6
+  D   1  4  3
+  C   1  4  3
+
+MEASURE 17
+  LINE RH4a
+  REST   4  3
+  E   0  4  3
+
+MEASURE 17
+  LINE RH6
+  REST   4  3
+  C   1  4  3
+
+MEASURE 18
+  LINE RH4a
+  E   0  4  3
+  REST   4  3
+
+MEASURE 18
+  LINE RH6
+  B   0  4  3
+  REST   4  3
+# kr2l scr11-04.mus 19 120 4
+
+MEASURE 19
+  LINE RH5a
+  Eb  0  4  3
+  REST   4  3
+
+MEASURE 19
+  LINE RH6
+  B   0  4  3
+  REST   4  3
+
+MEASURE 20
+  LINE RH5a
+  E   0  4  3
+  Eb  0  4  3
+
+MEASURE 20
+  LINE RH6
+  B   0  4  3
+  B   0  4  3
+
+MEASURE 21
+  LINE RH5a
+  E   0  4  3
+  Eb  0  4  3
+
+MEASURE 21
+  LINE RH6
+  B   0  4  3
+  B   0  4  3
+
+MEASURE 22
+  LINE RH5a
+  E   0  4  3
+  REST   4  3
+
+MEASURE 22
+  LINE RH6
+  B   0  4  3
+  REST   4  3
+
+MEASURE 23
+  LINE RH5a
+  E   0  4  3
+  REST   4  3
+
+MEASURE 23
+  LINE RH6
+  B   0  4  3
+  REST   4  3
+# kr2l scr11-04.mus 1 120 4
+
+MEASURE 1
+  LINE TLRH3
+  TIELINE RH5 80
+  REST   4  3
+  B   0  4
+  REST   2
+
+MEASURE 2
+  LINE TLRH3
+  TIELINE RH5 80
+  REST   4
+  B   0  4
+  Bb  0  4
+  REST   4
+  E   0  4
+  E   0  4
+# kr2l scr11-04.mus 3 120 4
+
+MEASURE 3
+  LINE TLRH3
+  TIELINE RH5 80
+  REST   4  3
+  F#  0  4
+  REST   2
+# kr2l scr11-04.mus 4 120 4
+
+MEASURE 4
+  LINE TLRH3
+  TIELINE RH5 80
+  REST   4
+  F#  0  4
+  F   0  4
+  REST   4
+  B  -1  4
+  B  -1  4
+# kr2l scr11-04.mus 5 120 4
+
+MEASURE 5
+  LINE TLRH3
+  TIELINE RH5 80
+  B  -1  4
+  REST   4
+  G  -1  4
+  G  -1  4
+  REST   2
+# kr2l scr11-04.mus 6 120 4
+
+MEASURE 6
+  LINE TLRH3
+  TIELINE RH5 80
+  A  -1  4
+  REST   4
+  A  -1  4
+  A  -1  4
+  REST   2
+
+MEASURE 7
+  LINE TLRH3
+  TIELINE RH5 80
+  B  -1  4
+  D   0  4
+  D   0  4
+  C#  0  4
+  E   0  4
+  E   0  4
+
+MEASURE 8
+  LINE TLRH3
+  TIELINE RH5 80
+  E   0  4
+  Eb  0  4
+  REST   4
+  A   0  4
+  A   0  4
+  A   0  4
+
+MEASURE 9
+  LINE TLRH3
+  TIELINE RH5 80
+  REST   4  3
+  B   0  4
+  REST   2
+
+MEASURE 10
+  LINE TLRH3
+  TIELINE RH5 80
+  REST   4
+  B   0  4
+  Bb  0  4
+  REST   4
+  E   0  4
+  E   0  4
+
+MEASURE 11
+  LINE TLRH3
+  TIELINE RH5 80
+  REST   4  3
+  F#  0  4
+  REST   2
+
+MEASURE 12
+  LINE TLRH3
+  TIELINE RH5 80
+  REST   4
+  F#  0  4
+  F   0  4
+  REST   4
+  B  -1  4
+  B  -1  4
+
+MEASURE 13
+  LINE TLRH3
+  TIELINE RH5 80
+  B  -1  4
+  REST   4
+  G  -1  4
+  G  -1  4
+  REST   2
+
+MEASURE 14
+  LINE TLRH3
+  TIELINE RH5 80
+  A  -1  4
+  REST   4
+  A  -1  4
+  A  -1  4
+  REST   2
+# kr2l scr11-04.mus 15 120 4
+
+MEASURE 15
+  LINE TLRH3
+  TIELINE RH5 80
+  REST   2
+  D   0  4
+  D   0  4
+  REST   4
+  D   0  4
+# kr2l scr11-04.mus 1 60 4
+
+MEASURE 1
+  LINE LH5
+  REST   8  3
+  A   0  8
+  G#  0  8
+  G   0  8
+  G   0  2
+  G   0  4
+# kr2l scr11-04.mus 2 60 4
+
+MEASURE 2
+  LINE LH5
+  CARRY  8
+  F#  0  8
+  E   0  8
+  D   0  8
+  REST   4
+  F#  0  4  3
+# kr2l scr11-04.mus 3 60 4
+
+MEASURE 3
+  LINE LH5
+  CARRY  4
+  REST   8
+  E   0  8
+  Eb  0  8
+  D   0  8
+  D   0  2
+  D   0  4
+# kr2l scr11-04.mus 4 60 4
+
+MEASURE 4
+  LINE LH5
+  CARRY  8
+  C#  0  8
+  B  -1  8
+  A  -1  8
+  REST   4
+  C#  0  4  3
+# kr2l scr11-04.mus 5 60 4
+
+MEASURE 5
+  LINE LH5
+  CARRY  8  3
+  E  -1  8
+  D  -1  8
+  C# -1  8  5
+  D  -1  4
+# kr2l scr11-04.mus 6 60 4
+
+MEASURE 6
+  LINE LH5
+  Eb -1  8  3
+  F# -1  8
+  E  -1  8
+  Eb -1  8  5
+  E  -1  4
+
+MEASURE 7
+  LINE LH5
+  F  -1  4  3
+  F# -1  4  3
+
+MEASURE 8
+  LINE LH5
+  B  -1  4  3
+  B  -1  4  3
+# kr2l scr11-04.mus 9 60 4
+
+MEASURE 9
+  LINE LH5
+  CARRY  8  3
+  A   0  8
+  G#  0  8
+  G   0  8
+  G   0  2
+  G   0  4
+# kr2l scr11-04.mus 10 60 4
+
+MEASURE 10
+  LINE LH5
+  CARRY  8
+  F#  0  8
+  E   0  8
+  D   0  8
+  REST   4
+  F#  0  4  3
+
+MEASURE 11
+  LINE LH5
+  CARRY  4
+  REST   8
+  E   0  8
+  Eb  0  8
+  D   0  8
+  D   0  2
+  D   0  4
+# kr2l scr11-04.mus 12 60 4
+
+MEASURE 12
+  LINE LH5
+  CARRY  8
+  C#  0  8
+  B  -1  8
+  A  -1  8
+  REST   4
+  C#  0  4  3
+
+MEASURE 13
+  LINE LH5
+  CARRY  4
+  REST   8
+  E  -1  8
+  D  -1  8
+  C# -1  8  5
+  D  -1  4
+# kr2l scr11-04.mus 14 60 4
+
+MEASURE 14
+  LINE LH5
+  Eb -1  8  3
+  F# -1  8
+  E  -1  8
+  Eb -1  8  5
+  E  -1  4
+# kr2l scr11-04.mus 15 60 4
+
+MEASURE 15
+  LINE LH5
+  REST   8  3
+  B  -1  8
+  A  -1  8
+  G# -1  8  7
+
+MEASURE 16
+  LINE LH5
+  A  -1  2  3
+
+MEASURE 17
+  LINE LH5
+  REST   4  3
+  Bb -1  4  3
+
+MEASURE 18
+  LINE LH5
+  B  -1  4
+  B  -1  4
+  B  -1  1
+# kr2l scr11-04.mus 19 60 4
+
+MEASURE 19
+  LINE LH4
+  B  -2  4  3
+  REST   4  3
+
+MEASURE 19
+  LINE LH5
+  A  -1  4  3
+  REST   4  3
+
+MEASURE 20
+  LINE TLLH3
+  TIELINE LH4 92
+  E  -2  8  3
+  REST   8  9
+
+MEASURE 20
+  LINE LH4
+  B  -2  8  3
+  REST   8  9
+
+MEASURE 20
+  LINE LH5
+  G  -1  8  3
+  A  -1  8
+  G# -1  8
+  G  -1  8
+  G  -1  2
+  B  -2  4
+
+MEASURE 21
+  LINE LH5
+  CARRY  8  3
+  A  -1  8
+  G# -1  8
+  G  -1  8
+  G  -1  2
+  B  -2  4
+
+MEASURE 22
+  LINE LH5
+  CARRY  4  3
+  REST   4  3
+# kr2l scr11-04.mus 23 60 4
+
+MEASURE 23
+  LINE TLLH3
+  TIELINE LH4 92
+  E  -2  4  3
+  REST   4  3
+
+MEASURE 23
+  LINE LH4
+  B  -2  4  3
+  REST   4  3
+
+MEASURE 23
+  LINE LH5
+  G  -1  4  3
+  REST   4  3
+
+MEASURE 24
+  LINE LH5
+  E  -3  4
+  REST   4  5
+# kr2l scr11-04.mus 15 120 4
+
+MEASURE 15
+  LINE LH6
+  REST   4  3
+  F   0  4  3
+
+MEASURE 16
+  LINE LH6
+  F   0  2  3
+
+MEASURE 17
+  LINE LH6
+  REST   2  3
+# kr2l scr11-04.mus 21 60 4
+
+MEASURE 21
+  LINE LH3
+  E  -2  8  3
+  REST   8  9
+
+MEASURE 21
+  LINE LH6
+  G  -1  8  3
+  REST   8  9
+
+MEASURE 22
+  LINE LH3
+  E  -2  4  3
+  REST   4  3
+
+MEASURE 22
+  LINE LH6
+  G  -1  4  3
+  REST   4  3
+# kr2l scr11-04.mus 5 60 4
+
+MEASURE 5
+  LINE LH6
+  REST   4  3
+  B  -1  4
+  REST   2
+
+MEASURE 6
+  LINE LH6
+  REST   4  3
+  C   0  4
+  REST   2
+# kr2l scr11-04.mus 13 60 4
+
+MEASURE 13
+  LINE LH6
+  REST   4  3
+  B  -1  4
+  REST   2
+
+MEASURE 14
+  LINE LH6
+  REST   4  3
+  C   0  4
+  REST   2
+# kr2l scr11-04.mus 2 60 12
+
+MEASURE 2
+  LINE LH6
+  REST   2
+  D   0 12
+  C#  0  8
+  F# -1 24
+  REST   4  3
+# kr2l scr11-04.mus 10 60 12
+
+MEASURE 10
+  LINE LH6
+  REST   2
+  D   0 12
+  C#  0  8
+  F# -1 24
+  REST   4  3
+# kr2l scr11-04.mus 4 60 12
+
+MEASURE 4
+  LINE LH6
+  REST   2
+  A  -1 12
+  G# -1  8
+  C# -1 24
+  REST   4  3
+# kr2l scr11-04.mus 12 60 12
+
+MEASURE 12
+  LINE LH6
+  REST   2
+  A  -1 12
+  G# -1  8
+  C# -1 24
+  REST   4  3

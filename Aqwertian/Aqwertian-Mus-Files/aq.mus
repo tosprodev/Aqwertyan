@@ -1,0 +1,1862 @@
+NAME Bach - Prelude #6
+
+MEASURE 1
+METER 4 4
+TEMPO 8 72
+KEY 1b
+RHNOTE B -1
+
+
+# kr2l tmp bach-p6.mus 1 120 8 0 88 /tmp/kr2l
+
+MEASURE 1
+  LINE LH4
+  VOLPERC 90
+  D  -1  8
+  EXMATCH d Q
+  D  -1  8
+  EXMATCH d Q
+  D  -1  8
+  EXMATCH d Q
+  D  -1  8
+  EXMATCH d Q
+  D  -1  8
+  EXMATCH d Q
+  D  -1  8
+  EXMATCH d Q
+  D  -1  8
+  EXMATCH d Q
+  D  -1  8
+  EXMATCH d Q
+
+MEASURE 2
+  LINE LH4
+  D  -1  8
+  EXMATCH d Q
+  D  -1  8
+  EXMATCH d Q
+  D   0  8
+  EXMATCH f Q
+  D   0  8
+  EXMATCH f Q
+  G  -1  8
+  EXMATCH s Q
+  G  -1  8
+  EXMATCH s Q
+  C   0  8
+  EXMATCH f Q
+  C   0  8
+  EXMATCH f Q
+
+MEASURE 3
+  LINE LH4
+  F  -1  8
+  EXMATCH s Q
+  F  -1  8
+  EXMATCH s Q
+  Bb -1  8
+  EXMATCH f Q
+  G  -1  8
+  EXMATCH d Q
+  C   0  8
+  EXMATCH f Q
+  A  -1  8
+  EXMATCH d Q
+  D   0  8
+  EXMATCH f Q
+  D  -1  8
+  EXMATCH d Q
+
+MEASURE 4
+  LINE LH4
+  E  -1  8
+  EXMATCH f Q
+  C  -1  8
+  EXMATCH d Q
+  F  -1  8
+  EXMATCH f Q
+  E  -1  8
+  EXMATCH d Q
+  D  -1  8
+  EXMATCH s Q
+  C  -1  8
+  EXMATCH d Q
+  Bb -2  8
+  EXMATCH f Q
+  A  -2  8
+  EXMATCH d Q
+
+MEASURE 5
+  LINE LH4
+  G  -2  8
+  EXMATCH s Q
+  F  -2  8
+  EXMATCH d Q
+  E  -2  8
+  EXMATCH f Q
+  C  -2  8
+  EXMATCH d Q
+  F  -2  8
+  EXMATCH s Q
+  A  -2  8
+  EXMATCH d Q
+  Bb -2  8
+  EXMATCH f Q
+  C  -1  8
+  EXMATCH d Q
+
+# kr2l tmp bach-p6.mus 6 120 8 0 88 /tmp/kr2l
+
+MEASURE 6
+  LINE LH4
+  F  -2  4
+  EXMATCH a Q
+  REST   8
+  Eb -1  8
+  EXMATCH d Q
+  D  -1  8
+  EXMATCH f Q
+  C  -1  8
+  EXMATCH d Q
+  Bb -2  8
+  EXMATCH s Q
+  A  -2  8
+  EXMATCH d Q
+
+MEASURE 7
+  LINE LH4
+  G  -2  8
+  EXMATCH f Q
+  Bb -2  8
+  EXMATCH d Q
+  C  -1  8
+  EXMATCH s Q
+  D  -1  8
+  EXMATCH d Q
+  Eb -1  8
+  EXMATCH f Q
+  Bb -2  8
+  EXMATCH s Q
+  C  -1  8
+  EXMATCH d Q
+  D  -1  8
+  EXMATCH f Q
+
+MEASURE 8
+  LINE LH4
+  G  -2  4
+  EXMATCH a Q
+  REST   8
+  F  -1  8
+  EXMATCH d Q
+  E  -1  8
+  EXMATCH f Q
+  D  -1  8
+  EXMATCH d Q
+  C  -1  8
+  EXMATCH s Q
+  B  -2  8
+  EXMATCH d Q
+
+MEASURE 9
+  LINE LH4
+  A  -2  8
+  EXMATCH f Q
+  C  -1  8
+  EXMATCH d Q
+  D  -1  8
+  EXMATCH s Q
+  E  -1  8
+  EXMATCH d Q
+  F  -1  8
+  EXMATCH f Q
+  C  -1  8
+  EXMATCH s Q
+  D  -1  8
+  EXMATCH d Q
+  E  -1  8
+  EXMATCH f Q
+
+MEASURE 10
+  LINE LH4
+  A  -2  8
+  EXMATCH a Q
+  A  -1  8
+  EXMATCH f Q
+  A  -1  8
+  EXMATCH f Q
+  G  -1  8
+  EXMATCH d Q
+  F  -1  8
+  EXMATCH s Q
+  F  -2  8
+  EXMATCH f Q
+  F  -2  8
+  EXMATCH f Q
+  E  -2  8
+  EXMATCH d Q
+
+MEASURE 11
+  LINE LH4
+  D  -2  8
+  EXMATCH s Q
+  D  -1  8
+  EXMATCH f Q
+  D  -1  8
+  EXMATCH f Q
+  C  -1  8
+  EXMATCH d Q
+  Bb -2  8
+  EXMATCH s Q
+  Bb -1  8
+  EXMATCH f Q
+  Bb -1  8
+  EXMATCH f Q
+  A  -1  8
+  EXMATCH d Q
+
+MEASURE 12
+  LINE LH4
+  G  -1  4
+  EXMATCH a Q
+  REST   8
+  Bb -1  8
+  EXMATCH d Q
+  A  -1  8
+  EXMATCH f Q
+  G  -1  8
+  EXMATCH d Q
+  F  -1  8
+  EXMATCH s Q
+  E  -1  8
+  EXMATCH d Q
+
+MEASURE 13
+  LINE LH4
+  D  -1  8
+  EXMATCH f Q
+  F  -1  8
+  EXMATCH d Q
+  G  -1  8
+  EXMATCH s Q
+  A  -1  8
+  EXMATCH d Q
+  Bb -1  8
+  EXMATCH f Q
+  F  -1  8
+  EXMATCH a Q
+  G  -1  8
+  EXMATCH s Q
+  A  -1  8
+  EXMATCH d Q
+
+# kr2l tmp bach-p6.mus 14 120 8 0 88 /tmp/kr2l
+
+MEASURE 14
+  LINE LH4
+  Bb -1  8
+  EXMATCH f Q
+  F  -2  8
+  EXMATCH a Q
+  G  -2  8
+  EXMATCH s Q
+  A  -2  8
+  EXMATCH d Q
+  Bb -2  8
+  EXMATCH f Q
+  F  -2  8
+  EXMATCH a Q
+  G  -2  8
+  EXMATCH s Q
+  A  -2  8
+  EXMATCH d Q
+
+MEASURE 15
+  LINE LH4
+  D  -2 12  5
+  EXMATCH a Q
+  REST 12
+  D  -1 12  5
+  EXMATCH a Q
+  REST 12
+# kr2l tmp bach-p6.mus 16 120 8 0 88 /tmp/kr2l
+
+MEASURE 16
+  LINE LH4
+  C#  0  8
+  EXMATCH r Q
+  D  -1  8
+  EXMATCH a Q
+  C#  0  8
+  EXMATCH r Q
+  D  -1  8
+  EXMATCH a Q
+  C#  0  8
+  EXMATCH r Q
+  D  -1  8
+  EXMATCH a Q
+  C#  0  8
+  EXMATCH r Q
+  D  -1  8
+  EXMATCH a Q
+
+MEASURE 17
+  LINE LH4
+  C   0  8
+  EXMATCH r Q
+  D  -1  8
+  EXMATCH a Q
+  C   0  8
+  EXMATCH r Q
+  D  -1  8
+  EXMATCH a Q
+  C   0  8
+  EXMATCH r Q
+  D  -1  8
+  EXMATCH a Q
+  C   0  8
+  EXMATCH r Q
+  D  -1  8
+  EXMATCH a Q
+
+MEASURE 18
+  LINE LH4
+  Bb -1  8
+  EXMATCH r Q
+  D  -1  8
+  EXMATCH a Q
+  Bb -1  8
+  EXMATCH r Q
+  D  -1  8
+  EXMATCH a Q
+  G  -1  8
+  EXMATCH r Q
+  D  -1  8
+  EXMATCH a Q
+  G  -1  8
+  EXMATCH r Q
+  D  -1  8
+  EXMATCH a Q
+
+MEASURE 19
+  LINE LH4
+  E  -1  8
+  EXMATCH r Q
+  D  -1  8
+  EXMATCH a Q
+  E  -1  8
+  EXMATCH r Q
+  D  -1  8
+  EXMATCH a Q
+  E  -1  8
+  EXMATCH r Q
+  D  -1  8
+  EXMATCH a Q
+  E  -1  8
+  EXMATCH r Q
+  D  -1  8
+  EXMATCH a Q
+
+MEASURE 20
+  LINE LH4
+  F# -1  8
+  EXMATCH r Q
+  D  -1  8
+  EXMATCH a Q
+  F# -1  8
+  EXMATCH r Q
+  D  -1  8
+  EXMATCH a Q
+  G  -1  8
+  EXMATCH d Q
+  A  -1  8
+  EXMATCH f Q
+  G  -1  8
+  EXMATCH d Q
+  F  -1  8
+  EXMATCH s Q
+  
+  LINE TLLH4
+  TIELINE LH4 100
+  REST 8 3
+  D   -1 8 5
+
+MEASURE 21
+  LINE TLLH4a
+  TIELINE LH4 90
+  REST   2
+  Ab -2  8  3
+  REST   8
+
+MEASURE 21
+  LINE TLLH4
+  CARRY  2
+  REST   4
+  F  -1  4
+
+MEASURE 22
+  LINE TLLH4a
+  Bb -2  2
+  B  -2  8  3
+  REST   8
+# kr2l tmp bach-p6.mus 23 120 8 0 88 /tmp/kr2l
+
+# kr2l tmp bach-p6.mus 23 120 8 0 88 /tmp/kr2l
+
+
+MEASURE 21
+  LINE LH4
+  E  -1  8
+  EXMATCH a Q
+  G  -1  8
+  EXMATCH f Q
+  F  -1  8
+  EXMATCH d Q
+  E  -1  8
+  EXMATCH s Q
+  D  -1  8
+  EXMATCH a Q
+  E  -1  8
+  EXMATCH d Q
+  F  -1  8
+  EXMATCH f Q
+  A  -2  8
+  EXMATCH a Q
+
+MEASURE 22
+  LINE LH4
+  E  -1  8
+  EXMATCH d Q
+  G  -1  8
+  EXMATCH f Q
+  F  -1  8
+  EXMATCH d Q
+  E  -1  8
+  EXMATCH s Q
+  F  -1  8
+  EXMATCH d Q
+  E  -1  8
+  EXMATCH f Q
+  F  -1  8
+  EXMATCH d Q
+  Bb -2  8
+  EXMATCH s Q
+
+# kr2l tmp bach-p6.mus 23 120 8 0 88 /tmp/kr2l
+
+MEASURE 23
+  LINE LH4
+  A  -2  8
+  EXMATCH a Q
+  E  -1  8
+  EXMATCH s Q
+  G  -1  8
+  EXMATCH d Q
+  Bb -1  8
+  EXMATCH f Q
+  A  -1 8 
+  EXMATCH a Q
+  D   0  8
+  EXMATCH s Q
+  F   0  8
+  EXMATCH d Q
+  A   0  8
+  EXMATCH f Q
+
+MEASURE 23
+  LINE TLLH4
+  A  -2 8 3
+  REST 8
+  A  -1 8 3
+  REST 8
+
+MEASURE 24
+  LINE LH4
+  G#  0 8
+  EXMATCH a Q
+  REST  8 7
+
+MEASURE 25
+  LINE RH3
+  REST   4  3
+  B  -2  4
+
+MEASURE 25
+  LINE RH6
+  REST   4  3
+  G#  -1  4
+
+MEASURE 26
+  LINE RH3
+  A  -2  2
+  D  -2  2
+
+MEASURE 26
+  LINE RH6
+  A  -1  2
+  D  -1  2
+# kr2l tmp bach-p6.mus 24 120 8 0 88 /tmp/kr2l
+
+MEASURE 25
+  LINE LH4
+  REST   4  3
+  D  -1  4
+
+MEASURE 25
+  LINE RH5
+  REST   4  3
+  F  -1  4
+
+MEASURE 26
+  LINE LH4
+  D  -1  4
+  REST   4  3
+
+MEASURE 26
+  LINE RH5
+  F  -1  4
+  E  -1  4
+  REST   2
+# kr2l tmp bach-p6.mus 1 48 8 0 88 /tmp/kr2l
+
+MEASURE 1
+  LINE RH9
+  REST  24
+  REST  24
+  REST  24
+  REST  24
+  REST  24
+  A   0 24
+  EXMATCH l Q
+  F   0 24
+  EXMATCH k Q
+  D   0 24
+  EXMATCH j Q
+  A   0 24
+  EXMATCH l Q
+  F   0 24
+  EXMATCH k Q
+  D   0 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  Bb  0 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  Bb  0 24
+  EXMATCH l Q
+  G   0 24
+  EXMATCH k Q
+  E   0 24
+  EXMATCH j Q
+  G   0 24
+  EXMATCH l Q
+  E   0 24
+  EXMATCH k Q
+  C#  0 24
+  EXMATCH j Q
+  G   0 24
+  EXMATCH l Q
+  E   0 24
+  EXMATCH k Q
+  C#  0 24
+  EXMATCH j Q
+  A   0 24
+  EXMATCH l Q
+
+MEASURE 2
+  LINE RH9
+  F   0 24
+  EXMATCH k Q
+  D   0 24
+  EXMATCH j Q
+  A   0 24
+  EXMATCH l Q
+  F   0 24
+  EXMATCH k Q
+  D   0 24
+  EXMATCH j Q
+  A   1 24
+  EXMATCH l Q
+  F   1 24
+  EXMATCH k Q
+  D   1 24
+  EXMATCH j Q
+  F   1 24
+  EXMATCH l Q
+  D   1 24
+  EXMATCH k Q
+  A   0 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  Bb  0 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  Bb  0 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  G   1 24
+  EXMATCH l Q
+  E   1 24
+  EXMATCH k Q
+  C   1 24
+  EXMATCH j Q
+  E   1 24
+  EXMATCH l Q
+  C   1 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  C   1 24
+  EXMATCH l Q
+# kr2l tmp bach-p6.mus 3 40 8 0 88 /tmp/kr2l
+
+MEASURE 3
+  LINE RH9
+  A   0 24
+  EXMATCH k Q
+  F   0 24
+  EXMATCH j Q
+  C   1 24
+  EXMATCH l Q
+  A   0 24
+  EXMATCH k Q
+  F   0 24
+  EXMATCH j Q
+  F   1 24
+  EXMATCH l Q
+  D   1 24
+  EXMATCH k Q
+  Bb  0 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  Bb  0 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  G   1 24
+  EXMATCH l Q
+  E   1 24
+  EXMATCH k Q
+  C   1 24
+  EXMATCH j Q
+  E   1 24
+  EXMATCH l Q
+  C   1 24
+  EXMATCH k Q
+  A   0 24
+  EXMATCH j Q
+  A   1 24
+  EXMATCH l Q
+  F   1 24
+  EXMATCH k Q
+  D   1 24
+  EXMATCH j Q
+  F   1 24
+  EXMATCH l Q
+  D   1 24
+  EXMATCH k Q
+  Bb  0 24
+  EXMATCH j Q
+  Bb  1 24
+  EXMATCH l Q
+
+MEASURE 4
+  LINE RH9
+  G   1 24
+  EXMATCH k Q
+  E   1 24
+  EXMATCH j Q
+  G   1 24
+  EXMATCH l Q
+  E   1 24
+  EXMATCH k Q
+  C   1 24
+  EXMATCH j Q
+  C   2 24
+  EXMATCH l Q
+  A   1 24
+  EXMATCH k Q
+  F   1 24
+  EXMATCH j Q
+  A   1 24
+  EXMATCH l Q
+  F   1 24
+  EXMATCH k Q
+  C   1 24
+  EXMATCH j Q
+  A   1 24
+  EXMATCH l Q
+  F   1 24
+  EXMATCH k Q
+  D   1 24
+  EXMATCH j Q
+  F   1 24
+  EXMATCH l Q
+  D   1 24
+  EXMATCH k Q
+  A   0 24
+  EXMATCH j Q
+  F   1 24
+  EXMATCH l Q
+  D   1 24
+  EXMATCH k Q
+  Bb  0 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  Bb  0 24
+  EXMATCH k Q
+  F   0 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+
+MEASURE 5
+  LINE RH9
+  Bb  0 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  Bb  0 24
+  EXMATCH l Q
+  G   0 24
+  EXMATCH k Q
+  D   0 24
+  EXMATCH j Q
+  Bb  0 24
+  EXMATCH l Q
+  G   0 24
+  EXMATCH k Q
+  C   0 24
+  EXMATCH j Q
+  Bb  0 24
+  EXMATCH l Q
+  G   0 24
+  EXMATCH k Q
+  E   0 24
+  EXMATCH j Q
+  Bb  0 24
+  EXMATCH l Q
+  A   0 24
+  EXMATCH k Q
+  F   0 24
+  EXMATCH j Q
+  A   0 24
+  EXMATCH l Q
+  F   0 24
+  EXMATCH k Q
+  C   0 24
+  EXMATCH j Q
+  F   0 24
+  EXMATCH l Q
+  D   0 24
+  EXMATCH k Q
+  Bb -1 24
+  EXMATCH j Q
+  F   0 24
+  EXMATCH l Q
+  C   0 24
+  EXMATCH k Q
+  Bb -1 24
+  EXMATCH j Q
+  E   0 24
+  EXMATCH l Q
+# kr2l tmp bach-p6.mus 6 40 8 0 88 /tmp/kr2l
+
+MEASURE 6
+  LINE RH9
+  C   0 24
+  EXMATCH k Q
+  A  -1 24
+  EXMATCH j Q
+  F   0 24
+  EXMATCH l Q
+  C   0 24
+  EXMATCH k Q
+  A  -1 24
+  EXMATCH j Q
+  C   0 24
+  EXMATCH l Q
+  A  -1 24
+  EXMATCH k Q
+  F  -1 24
+  EXMATCH j Q
+  C   0 24
+  EXMATCH l Q
+  A  -1 24
+  EXMATCH k Q
+  F  -1 24
+  EXMATCH j Q
+  C   0 24
+  EXMATCH l Q
+  A  -1 24
+  EXMATCH k Q
+  F# -1 24
+  EXMATCH j Q
+  C   0 24
+  EXMATCH l Q
+  A  -1 24
+  EXMATCH k Q
+  F# -1 24
+  EXMATCH j Q
+  Eb  0 24
+  EXMATCH l Q
+  A  -1 24
+  EXMATCH k Q
+  F# -1 24
+  EXMATCH j Q
+  D   0 24
+  EXMATCH l Q
+  A  -1 24
+  EXMATCH k Q
+  F# -1 24
+  EXMATCH j Q
+  C   0 24
+  EXMATCH l Q
+
+# kr2l tmp bach-p6.mus 7 40 8 0 88 /tmp/kr2l
+
+MEASURE 7
+  LINE RH9
+  Bb -1 24
+  EXMATCH k Q
+  G  -1 24
+  EXMATCH j Q
+  D   0 24
+  EXMATCH l Q
+  Bb -1 24
+  EXMATCH k Q
+  G  -1 24
+  EXMATCH j Q
+  D   0 24
+  EXMATCH l Q
+  Bb -1 24
+  EXMATCH k Q
+  G  -1 24
+  EXMATCH j Q
+  E   0 24
+  EXMATCH l Q
+  Bb -1 24
+  EXMATCH k Q
+  G  -1 24
+  EXMATCH j Q
+  F#  0 24
+  EXMATCH l Q
+  Bb -1 24
+  EXMATCH k Q
+  G  -1 24
+  EXMATCH j Q
+  G   0 24
+  EXMATCH l Q
+  D   0 24
+  EXMATCH k Q
+  Bb -1 24
+  EXMATCH j Q
+  G   0 24
+  EXMATCH l Q
+  Eb  0 24
+  EXMATCH k Q
+  A  -1 24
+  EXMATCH j Q
+  G   0 24
+  EXMATCH l Q
+  D   0 24
+  EXMATCH k Q
+  A  -1 24
+  EXMATCH j Q
+  F#  0 24
+  EXMATCH l Q
+
+MEASURE 8
+  LINE RH9
+  D   0 24
+  EXMATCH k Q
+  Bb -1 24
+  EXMATCH j Q
+  G   0 24
+  EXMATCH l Q
+  D   0 24
+  EXMATCH k Q
+  Bb -1 24
+  EXMATCH j Q
+  D   0 24
+  EXMATCH l Q
+  Bb -1 24
+  EXMATCH k Q
+  G  -1 24
+  EXMATCH j Q
+  D   0 24
+  EXMATCH l Q
+  Bb -1 24
+  EXMATCH k Q
+  G  -1 24
+  EXMATCH j Q
+  D   0 24
+  EXMATCH l Q
+  B  -1 24
+  EXMATCH k Q
+  Ab -1 24
+  EXMATCH j Q
+  D   0 24
+  EXMATCH l Q
+  B  -1 24
+  EXMATCH k Q
+  Ab -1 24
+  EXMATCH j Q
+  F   0 24
+  EXMATCH l Q
+  B  -1 24
+  EXMATCH k Q
+  Ab -1 24
+  EXMATCH j Q
+  E   0 24
+  EXMATCH l Q
+  B  -1 24
+  EXMATCH k Q
+  Ab -1 24
+  EXMATCH j Q
+  D   0 24
+  EXMATCH l Q
+
+MEASURE 9
+  LINE RH9
+  C   0 24
+  EXMATCH k Q
+  A  -1 24
+  EXMATCH j Q
+  E   0 24
+  EXMATCH l Q
+  C   0 24
+  EXMATCH k Q
+  A  -1 24
+  EXMATCH j Q
+  E   0 24
+  EXMATCH l Q
+  C   0 24
+  EXMATCH k Q
+  A  -1 24
+  EXMATCH j Q
+  F#  0 24
+  EXMATCH l Q
+  C   0 24
+  EXMATCH k Q
+  A  -1 24
+  EXMATCH j Q
+  Ab  0 24
+  EXMATCH l Q
+  C   0 24
+  EXMATCH k Q
+  A  -1 24
+  EXMATCH j Q
+  A   0 24
+  EXMATCH l Q
+  E   0 24
+  EXMATCH k Q
+  C   0 24
+  EXMATCH j Q
+  A   0 24
+  EXMATCH l Q
+  F   0 24
+  EXMATCH k Q
+  B  -1 24
+  EXMATCH j Q
+  A   0 24
+  EXMATCH l Q
+  E   0 24
+  EXMATCH k Q
+  B  -1 24
+  EXMATCH j Q
+  Ab  0 24
+  EXMATCH l Q
+# kr2l tmp bach-p6.mus 10 40 8 0 88 /tmp/kr2l
+
+MEASURE 10
+  LINE RH9
+  E   0 24
+  EXMATCH k Q
+  C   0 24
+  EXMATCH j Q
+  A   0 24
+  EXMATCH l Q
+  E   0 24
+  EXMATCH k Q
+  C   0 24
+  EXMATCH j Q
+  C   1 24
+  EXMATCH l Q
+  F   0 24
+  EXMATCH k Q
+  D   0 24
+  EXMATCH j Q
+  Bb  0 24
+  EXMATCH l Q
+  G   0 24
+  EXMATCH k Q
+  E   0 24
+  EXMATCH j Q
+  Bb  0 24
+  EXMATCH l Q
+  A   0 24
+  EXMATCH k Q
+  F   0 24
+  EXMATCH j Q
+  A   0 24
+  EXMATCH l Q
+  C   0 24
+  EXMATCH k Q
+  A  -1 24
+  EXMATCH j Q
+  A   0 24
+  EXMATCH l Q
+  D   0 24
+  EXMATCH k Q
+  B  -1 24
+  EXMATCH j Q
+  G   0 24
+  EXMATCH l Q
+  E   0 24
+  EXMATCH k Q
+  C#  0 24
+  EXMATCH j Q
+  G   0 24
+  EXMATCH l Q
+
+# kr2l tmp bach-p6.mus 11 40 8 0 88 /tmp/kr2l
+
+MEASURE 11
+  LINE RH9
+  F   0 24
+  EXMATCH k Q
+  D   0 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  A   0 24
+  EXMATCH k Q
+  F   0 24
+  EXMATCH j Q
+  F   1 24
+  EXMATCH l Q
+  Bb  0 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  Eb  1 24
+  EXMATCH l Q
+  C   1 24
+  EXMATCH k Q
+  A   0 24
+  EXMATCH j Q
+  Eb  1 24
+  EXMATCH l Q
+  D   1 24
+  EXMATCH k Q
+  Bb  0 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  F   0 24
+  EXMATCH k Q
+  D   0 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  G   0 24
+  EXMATCH k Q
+  E   0 24
+  EXMATCH j Q
+  C   1 24
+  EXMATCH l Q
+  A   0 24
+  EXMATCH k Q
+  F#  0 24
+  EXMATCH j Q
+  C   1 24
+  EXMATCH l Q
+
+MEASURE 12
+  LINE RH9
+  Bb  0 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  Bb  0 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  G   1 24
+  EXMATCH l Q
+  Eb  1 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  G   1 24
+  EXMATCH l Q
+  D   1 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  G   1 24
+  EXMATCH l Q
+  C#  1 24
+  EXMATCH k Q
+  A   0 24
+  EXMATCH j Q
+  G   1 24
+  EXMATCH l Q
+  E   1 24
+  EXMATCH k Q
+  C#  1 24
+  EXMATCH j Q
+  Bb  1 24
+  EXMATCH l Q
+  E   1 24
+  EXMATCH k Q
+  C#  1 24
+  EXMATCH j Q
+  A   1 24
+  EXMATCH l Q
+  E   1 24
+  EXMATCH k Q
+  C#  1 24
+  EXMATCH j Q
+  G   1 24
+  EXMATCH l Q
+# kr2l tmp bach-p6.mus 13 40 8 0 88 /tmp/kr2l
+
+MEASURE 13
+  LINE RH9
+  F   1 24
+  EXMATCH k Q
+  D   1 24
+  EXMATCH j Q
+  A   0 24
+  EXMATCH l Q
+  F   0 24
+  EXMATCH k Q
+  D   0 24
+  EXMATCH j Q
+  A   0 24
+  EXMATCH l Q
+  F   0 24
+  EXMATCH k Q
+  D   0 24
+  EXMATCH j Q
+  B   0 24
+  EXMATCH l Q
+  F   0 24
+  EXMATCH k Q
+  D   0 24
+  EXMATCH j Q
+  C#  1 24
+  EXMATCH l Q
+  F   0 24
+  EXMATCH k Q
+  D   0 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  F   0 24
+  EXMATCH k Q
+  D   0 24
+  EXMATCH j Q
+  A   0 24
+  EXMATCH l Q
+  F   0 24
+  EXMATCH k Q
+  D   0 24
+  EXMATCH j Q
+  Bb  0 24
+  EXMATCH l Q
+  E   0 24
+  EXMATCH k Q
+  C#  0 24
+  EXMATCH j Q
+  A   0 24
+  EXMATCH l Q
+# kr2l tmp bach-p6.mus 14 40 8 0 88 /tmp/kr2l
+
+MEASURE 14
+  LINE RH9
+  E   0 24
+  EXMATCH k Q
+  C#  0 24
+  EXMATCH j Q
+  G   0 24
+  EXMATCH l Q
+  D   0 24
+  EXMATCH k Q
+  A  -1 24
+  EXMATCH j Q
+  F   0 24
+  EXMATCH l Q
+  D   0 24
+  EXMATCH k Q
+  Bb -1 24
+  EXMATCH j Q
+  E   0 24
+  EXMATCH l Q
+  C#  0 24
+  EXMATCH k Q
+  A  -1 24
+  EXMATCH j Q
+  E   0 24
+  EXMATCH l Q
+  D   0 24
+  EXMATCH k Q
+  F  -1 24
+  EXMATCH j Q
+  Bb -1 24
+  EXMATCH l Q
+  A  -1 24
+  EXMATCH k Q
+  F  -1 24
+  EXMATCH j Q
+  D   0 24
+  EXMATCH l Q
+  Bb -1 24
+  EXMATCH k Q
+  E  -1 24
+  EXMATCH j Q
+  D   0 24
+  EXMATCH l Q
+  G  -1 24
+  EXMATCH k Q
+  E  -1 24
+  EXMATCH j Q
+  C#  0 24
+  EXMATCH l Q
+
+MEASURE 15
+  LINE RH9
+  A  -1 24
+  EXMATCH k Q
+  F# -1 24
+  EXMATCH j Q
+  A  -1 24
+  EXMATCH l Q
+  C   0 24
+  EXMATCH k Q
+  A  -1 24
+  EXMATCH j Q
+  C   0 24
+  EXMATCH l Q
+  Eb  0 24
+  EXMATCH k Q
+  C   0 24
+  EXMATCH j Q
+  Eb  0 24
+  EXMATCH l Q
+  F#  0 24          
+  EXMATCH k Q
+  F# -2 24
+  EXMATCH j Q
+  A  -2 24
+  EXMATCH l Q
+  Bb -1 24
+  EXMATCH k Q
+  G  -1 24
+  EXMATCH j Q
+  Bb -1 24
+  EXMATCH l Q
+  D   0 24
+  EXMATCH k Q
+  Bb -1 24
+  EXMATCH j Q
+  D   0 24
+  EXMATCH l Q
+  G   0 24
+  EXMATCH k Q
+  D   0 24
+  EXMATCH j Q
+  G   0 24
+  EXMATCH l Q
+  Bb  0 24
+  EXMATCH k Q
+  G  -1 24
+  EXMATCH j Q
+  Bb -1 24
+  EXMATCH l Q
+
+  LINE TLRH9
+  TIELINE RH9 100
+  REST 8 3
+  F# 0 8
+  REST 8 3
+  Bb 0 8
+  
+
+MEASURE 16
+  LINE RH9
+  Bb  0 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  E   1 24
+  EXMATCH l Q
+  Bb  0 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  G   1 24
+  EXMATCH l Q
+  Bb  0 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  E   1 24
+  EXMATCH l Q
+  Bb  0 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  C#  1 24
+  EXMATCH l Q
+  Bb  0 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  E   1 24
+  EXMATCH l Q
+  Bb  0 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  G   1 24
+  EXMATCH l Q
+  Bb  0 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  E   1 24
+  EXMATCH l Q
+  Bb  0 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  C#  1 24
+  EXMATCH l Q
+
+MEASURE 17
+  LINE RH9
+  A   0 24
+  EXMATCH k Q
+  F#  0 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  A   0 24
+  EXMATCH k Q
+  F#  0 24
+  EXMATCH j Q
+  Eb  1 24
+  EXMATCH l Q
+  A   0 24
+  EXMATCH k Q
+  F#  0 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  A   0 24
+  EXMATCH k Q
+  F#  0 24
+  EXMATCH j Q
+  C   1 24
+  EXMATCH l Q
+  A   0 24
+  EXMATCH k Q
+  F#  0 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  A   0 24
+  EXMATCH k Q
+  F#  0 24
+  EXMATCH j Q
+  Eb  1 24
+  EXMATCH l Q
+  A   0 24
+  EXMATCH k Q
+  F#  0 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  A   0 24
+  EXMATCH k Q
+  F#  0 24
+  EXMATCH j Q
+  C   1 24
+  EXMATCH l Q
+
+MEASURE 18
+  LINE RH9
+  G   0 24
+  EXMATCH k Q
+  D   0 24
+  EXMATCH j Q
+  G   0 24
+  EXMATCH l Q
+  Bb  0 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  Bb  0 24
+  EXMATCH l Q
+  D   1 24
+  EXMATCH k Q
+  Bb  0 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  G   1 24
+  EXMATCH k Q
+  D   1 24
+  EXMATCH j Q
+  G   1 24
+  EXMATCH l Q
+  Bb  1 24
+  EXMATCH k Q
+  A   1 24
+  EXMATCH j Q
+  G   1 24
+  EXMATCH l Q
+  F   1 24
+  EXMATCH k Q
+  E   1 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  C#  1 24
+  EXMATCH k Q
+  A   0 24
+  EXMATCH j Q
+  C#  1 24
+  EXMATCH l Q
+  E   1 24
+  EXMATCH k Q
+  C#  1 24
+  EXMATCH j Q
+  E   1 24
+  EXMATCH l Q
+
+# kr2l tmp bach-p6.mus 19 40 8 0 88 /tmp/kr2l
+
+MEASURE 19
+  LINE RH9
+  G   1 24
+  EXMATCH k Q
+  E   1 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  C#  1 24
+  EXMATCH k Q
+  B   0 24
+  EXMATCH j Q
+  A   0 24
+  EXMATCH l Q
+  G   0 24
+  EXMATCH k Q
+  E   0 24
+  EXMATCH j Q
+  G   0 24
+  EXMATCH l Q
+  Bb  0 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  Bb  0 24
+  EXMATCH l Q
+  C   1 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  E   1 24
+  EXMATCH l Q
+  C   1 24
+  EXMATCH k Q
+  Bb  0 24
+  EXMATCH j Q
+  E   1 24
+  EXMATCH l Q
+  C   1 24
+  EXMATCH k Q
+  A   0 24
+  EXMATCH j Q
+  E   1 24
+  EXMATCH l Q
+  C   1 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  E   1 24
+  EXMATCH l Q
+
+# kr2l tmp bach-p6.mus 20 40 8 0 88 /tmp/kr2l
+
+MEASURE 20
+  LINE RH9
+  C   1 24
+  EXMATCH k Q
+  A   0 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  Bb  0 24
+  EXMATCH k Q
+  G   0 24
+  EXMATCH j Q
+  Eb  1 24
+  EXMATCH l Q
+  A   0 24
+  EXMATCH k Q
+  F#  0 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  A   0 24
+  EXMATCH k Q
+  F#  0 24
+  EXMATCH j Q
+  C   1 24
+  EXMATCH l Q
+  G   0 24
+  EXMATCH k Q
+  D   0 24
+  EXMATCH j Q
+  Bb  0 24
+  EXMATCH l Q
+  G   0 24
+  EXMATCH k Q
+  F   0 24
+  EXMATCH j Q
+  Bb  0 24
+  EXMATCH l Q
+  G   0 24
+  EXMATCH k Q
+  Eb  0 24
+  EXMATCH j Q
+  Bb  0 24
+  EXMATCH l Q
+  G   0 24
+  EXMATCH k Q
+  D   0 24
+  EXMATCH j Q
+  Bb  0 24
+  EXMATCH l Q
+
+MEASURE 21
+  LINE RH9
+  G   0 24
+  EXMATCH k Q
+  C#  0 24
+  EXMATCH j Q
+  Bb  0 24
+  EXMATCH l Q
+  E   0 24
+  EXMATCH k Q
+  C#  0 24
+  EXMATCH j Q
+  Bb  0 24
+  EXMATCH l Q
+  E   0 24
+  EXMATCH k Q
+  C#  0 24
+  EXMATCH j Q
+  A   0 24
+  EXMATCH l Q
+  E   0 24
+  EXMATCH k Q
+  C#  0 24
+  EXMATCH j Q
+  G   0 24
+  EXMATCH l Q
+  D   0 24
+  EXMATCH k Q
+  B  -1 24
+  EXMATCH j Q
+  F   0 24
+  EXMATCH l Q
+  D   0 24
+  EXMATCH k Q
+  C#  0 24
+  EXMATCH j Q
+  F   0 24
+  EXMATCH l Q
+  D   0 24
+  EXMATCH k Q
+  B  -1 24
+  EXMATCH j Q
+  F   0 24
+  EXMATCH l Q
+  D   0 24
+  EXMATCH k Q
+  A  -1 24
+  EXMATCH j Q
+  F   0 24
+  EXMATCH l Q
+
+# kr2l tmp bach-p6.mus 22 40 8 0 88 /tmp/kr2l
+
+MEASURE 22
+  LINE RH9
+  C#  0 24
+  EXMATCH k Q
+  G  -1 24
+  EXMATCH j Q
+  E   0 24
+  EXMATCH l Q
+  C#  0 24
+  EXMATCH k Q
+  Bb -1 24
+  EXMATCH j Q
+  E   0 24
+  EXMATCH l Q
+  C#  0 24
+  EXMATCH k Q
+  A  -1 24
+  EXMATCH j Q
+  E   0 24
+  EXMATCH l Q
+  C#  0 24
+  EXMATCH k Q
+  G  -1 24
+  EXMATCH j Q
+  E   0 24
+  EXMATCH l Q
+  B  -1 24
+  EXMATCH k Q
+  Ab -1 24
+  EXMATCH j Q
+  D   0 24
+  EXMATCH l Q
+  C#  0 24
+  EXMATCH k Q
+  Ab -1 24
+  EXMATCH j Q
+  E   0 24
+  EXMATCH l Q
+  D   0 24
+  EXMATCH k Q
+  Ab -1 24
+  EXMATCH j Q
+  F   0 24
+  EXMATCH l Q
+  G  -1 24
+  EXMATCH k Q
+  E  -1 24
+  EXMATCH j Q
+  D  -1 24
+  EXMATCH l Q
+
+# kr2l tmp bach-p6.mus 23 40 8 0 88 /tmp/kr2l
+
+MEASURE 23
+  LINE RH9
+  C# -1  24
+  EXMATCH k Q
+  E  -1 24
+  EXMATCH j Q
+  G  -1 24
+  EXMATCH l Q
+  C#  0 24
+  EXMATCH k Q
+  G  -1 24
+  EXMATCH j Q
+  C#  0 24
+  EXMATCH l Q
+  E   0 24
+  EXMATCH k Q
+  C#  0 24
+  EXMATCH j Q
+  E   0 24
+  EXMATCH l Q
+  G   0 24
+  EXMATCH k Q
+  C# -1 24
+  EXMATCH j Q
+  E  -1 24
+  EXMATCH l Q
+  F   0 24
+  EXMATCH k Q
+  D   0 24
+  EXMATCH j Q
+  F   0 24
+  EXMATCH l Q
+  A   0 24
+  EXMATCH k Q
+  F   0 24
+  EXMATCH j Q
+  A   0 24
+  EXMATCH l Q
+  D   1 24
+  EXMATCH k Q
+  A   0 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  F   1 24
+  EXMATCH k Q
+  D   0 24
+  EXMATCH j Q
+  F   0 24
+  EXMATCH l Q
+
+
+
+# kr2l tmp bach-p6.mus 24 40 8 0 88 /tmp/kr2l
+
+MEASURE 24
+  LINE RH9
+  PHANTOM 24
+  EXMATCH k Q
+  B   0 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  F   1 24
+  EXMATCH k Q
+  D   1 24
+  EXMATCH j Q
+  F   1 24
+  EXMATCH l Q
+  Ab  1 24
+  EXMATCH k Q
+  F   1 24
+  EXMATCH j Q
+  Ab  1 24
+  EXMATCH l Q
+  B   1 24
+  EXMATCH k Q
+  Ab  1 24
+  EXMATCH j Q
+  F   1 24
+  EXMATCH l Q
+  Bb  1 24
+  EXMATCH k Q
+  G   1 24
+  EXMATCH j Q
+  E   1 24
+  EXMATCH l Q
+  A   1 24
+  EXMATCH k Q
+  F#  1 24
+  EXMATCH j Q
+  Eb  1 24
+  EXMATCH l Q
+  Ab  1 24
+  EXMATCH k Q
+  F   1 24
+  EXMATCH j Q
+  D   1 24
+  EXMATCH l Q
+  G   1 24
+  EXMATCH k Q
+  E   1 24
+  EXMATCH j Q
+  C#  1 24
+  EXMATCH l Q
+
+MEASURE 25
+  LINE RH9
+  F#  1 24
+  EXMATCH k Q
+  Eb  1 24
+  EXMATCH j Q
+  C   1 24
+  EXMATCH l Q
+  F   1 24
+  EXMATCH k Q
+  D   1 24
+  EXMATCH j Q
+  B   0 24
+  EXMATCH l Q
+  E   1 24
+  EXMATCH k Q
+  C#  1 24
+  EXMATCH j Q
+  Bb  0 24
+  EXMATCH l Q
+  Eb  1 24
+  EXMATCH k Q
+  C   1 24
+  EXMATCH j Q
+  A   0 24
+  EXMATCH l Q
+  D   1  2
+  EXMATCH k Q
+
+MEASURE 26
+  LINE RH9
+  CARRY  4
+  C#  1  4
+  D   1  2
+# kr2l tmp bach-p6.mus 22 40 8 0 88 /tmp/kr2l
+# kr2l tmp bach-p6.mus 22 40 8 0 88 /tmp/kr2l
+
+MEASURE 22
+  LINE TLRH9
+  TIELINE RH9 100
+  REST   8  7
+  G  -1  8
+
+MEASURE 23
+  LINE TLRH9
+  TIELINE RH9 100
+  CARRY 24
+  REST   6  5
+  F   1  8
+  LINE TLRH9a
+  TIELINE RH9 100
+  C# -1  8
+  REST 8 7
+
+MEASURE 24
+  LINE TLRH9
+  TIELINE RH9 100
+  CARRY 24
+  REST  24 23
+# kr2l tmp bach-p6.mus 25 40 4 0 88 /tmp/kr2l
+
+MEASURE 25
+  LINE RH6A
+  REST   4  3
+  D   0  4
+
+MEASURE 25
+  LINE RH7
+  REST   4  3
+  F   0  4
+
+MEASURE 25
+  LINE RH8
+  REST   4  3
+  Ab  0  4
+
+MEASURE 26
+  LINE RH6A
+  D   0  4
+  E   0  4
+  D   0  2
+
+MEASURE 26
+  LINE RH7
+  F   0  4
+  G   0  4
+  F#  0  2
+
+MEASURE 26
+  LINE RH8
+  A   0  2
+  A   0  2
+

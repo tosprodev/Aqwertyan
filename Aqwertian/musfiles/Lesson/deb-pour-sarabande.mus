@@ -1,0 +1,3392 @@
+NAME Debussy: Pour le piano: Sarabande
+
+MEASURE 1
+  METER 3 4
+  TEMPO 4 60.000000
+  KEY 4#
+
+# kr2l deb-pour-sarabande.mus 1 120 24
+
+MEASURE 1
+  LINE TLRH3
+  TIELINE RH4 92
+  F#  0  4
+  A   0  4
+  B   0 12
+  A   0 12
+  F#  0 12
+
+MEASURE 1
+  LINE RH4
+  C#  1  4
+  E   1  4
+  F#  1 12
+  E   1 12
+  C#  1 12
+
+MEASURE 1
+  LINE RH5
+  F#  1  4
+  A   1  4
+  B   1 12
+  A   1 12
+  F#  1 12
+# kr2l deb-pour-sarabande.mus 2 120 24
+
+MEASURE 2
+  LINE TLRH2
+  TIELINE RH4 88
+  REST   4
+  G#  0  2
+
+MEASURE 2
+  LINE TLRH3
+  TIELINE RH4 92
+  E   0  8
+  G#  0  8
+  B   0  2
+
+MEASURE 2
+  LINE RH4
+  B   0  8
+  D#  1  8
+  D#  1  2
+
+MEASURE 2
+  LINE RH5
+  E   1  8
+  G#  1  8
+  G#  1  2
+
+MEASURE 3
+  LINE TLRH3
+  TIELINE RH4 92
+  F#  0  8
+  REST   8
+  A   0  4
+  B   0 12
+  A   0 12
+  F#  0 12
+  LINE TLRH4
+  TIELINE RH4 100
+  C#  1 4
+  REST 2
+
+MEASURE 3
+  LINE RH4
+  C#  1  8
+  G#  0  8
+  E   1  4
+  F#  1 12
+  E   1 12
+  C#  1 12
+
+MEASURE 3
+  LINE RH5
+  F#  1  8
+  G#  1  8
+  A   1  4
+  B   1 12
+  A   1 12
+  F#  1 12
+
+MEASURE 4
+  LINE TLRH2
+  TIELINE RH4 88
+  REST   4
+  G#  0  2
+
+MEASURE 4
+  LINE TLRH3
+  TIELINE RH4 92
+  E   0  8
+  G#  0  8
+  B   0  2
+
+MEASURE 4
+  LINE RH4
+  B   0  8
+  D#  1  8
+  D#  1  2
+
+MEASURE 4
+  LINE RH5
+  E   1  8
+  G#  1  8
+  G#  1  2
+# kr2l deb-pour-sarabande.mus 5 120 24
+
+MEASURE 5
+  LINE RH5
+  G#  0  8
+  C#  1  8
+  C#  1  4
+  B   0 16
+  A   0 16
+  G#  0  8
+
+
+# kr2l deb-pour-sarabande.mus 6 120 24
+
+MEASURE 6
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   4
+  E  -1  8
+  G# -1  8
+  A  -1  8
+  B  -1  8
+
+MEASURE 6
+  LINE RH4
+  REST   4
+  A  -1  8
+  B  -1  8
+  C#  0  8
+  D#  0  8
+
+MEASURE 6
+  LINE RH5
+  G#  0  8
+  C#  0  8
+  C#  0  8
+  D#  0  8
+  E   0  8
+  G#  0  8
+# kr2l deb-pour-sarabande.mus 7 120 24
+
+MEASURE 7
+  LINE TLRH2
+  TIELINE RH4 88
+  REST   8  3
+  G# -1  8
+  A  -1  8
+  C#  0  8
+
+MEASURE 7
+  LINE TLRH3
+  TIELINE RH4 92
+  E  -1  8
+  G# -1  8
+  A  -1  8
+  B  -1  8
+  C#  0  8
+  E   0  8
+
+MEASURE 7
+  LINE RH4
+  A  -1  8
+  B  -1  8
+  C#  0  8
+  D#  0  8
+  E   0  8
+  G#  0  8
+
+MEASURE 7
+  LINE RH5
+  C#  0  8
+  D#  0  8
+  E   0  8
+  G#  0  8
+  A   0  8
+  C#  1  8
+# kr2l deb-pour-sarabande.mus 8 120 24
+
+MEASURE 8
+  LINE TLRH2
+  TIELINE RH4 88
+  D#  0  4
+  D#  0  2
+
+MEASURE 8
+  LINE TLRH3
+  TIELINE RH4 92
+  F#  0  4
+  F#  0  2
+
+MEASURE 8
+  LINE RH4
+  B   0  4
+  B   0  2
+
+MEASURE 8
+  LINE RH5
+  D#  1  4
+  D#  1  2
+# kr2l deb-pour-sarabande.mus 1 120 24
+
+MEASURE 1
+  LINE TLLH3
+  TIELINE LH4 92
+  D# -1  4
+  F# -1  4
+  A  -1 12
+  F# -1 12
+  D# -1 12
+
+MEASURE 1
+  LINE LH4
+  A  -1  4
+  C#  0  4
+  D#  0 12
+  C#  0 12
+  A  -1 12
+
+MEASURE 1
+  LINE LH5
+  C#  0  4
+  E   0  4
+  F#  0 12
+  E   0 12
+  C#  0 12
+# kr2l deb-pour-sarabande.mus 2 120 24
+
+MEASURE 2
+  LINE TLLH3
+  TIELINE LH4 92
+  E  -1  8
+  REST   8
+  G# -1  2
+
+MEASURE 2
+  LINE LH4
+  G# -1  8
+  D# -1  8
+  B  -1  2
+  LINE LH1
+  REST 8
+  G# -2 8
+  RIPPLE
+  REST 2
+
+MEASURE 2
+  LINE LH5
+  B  -1  8
+  B  -1  8
+  D#  0  2
+# kr2l deb-pour-sarabande.mus 3 120 24
+
+MEASURE 3
+  LINE TLLH3
+  TIELINE LH4 92
+  D# -1  4
+  F# -1  4
+  A  -1 12
+  F# -1 12
+  D# -1 12
+
+MEASURE 3
+  LINE LH4
+  A  -1  4
+  C#  0  4
+  D#  0 12
+  C#  0 12
+  A  -1 12
+
+MEASURE 3
+  LINE LH5
+  C#  0  4
+  E   0  4
+  F#  0 12
+  E   0 12
+  C#  0 12
+
+MEASURE 4
+  LINE TLLH3
+  TIELINE LH4 92
+  E  -1  8
+  REST   8
+  G# -1  2
+  LINE LH1
+  REST 8
+  G# -2 8
+  RIPPLE
+  REST 2
+
+
+
+MEASURE 4
+  LINE LH4
+  G# -1  8
+  D# -1  8
+  B  -1  2
+
+MEASURE 4
+  LINE LH5
+  B  -1  8
+  B  -1  8
+  D#  0  2
+
+MEASURE 5
+  LINE LH5
+  G# -1  8
+  C#  0  8
+  C#  0  4
+  B  -1 16
+  A  -1 16
+  G# -1  8
+
+MEASURE 6
+  LINE LH4
+  REST   4
+  A  -2  8
+  G# -2  8
+  F# -2  8
+  E  -2  8
+
+MEASURE 6
+  LINE LH5
+  G# -1  8
+  C# -1  8
+  C# -1  8
+  D# -1  8
+  E  -1  8
+  G# -1  8
+
+MEASURE 7
+  LINE LH4
+  A  -2  8
+  G# -2  8
+  F# -2  8
+  E  -2  8
+  D# -2  8
+  C# -2  8
+
+MEASURE 7
+  LINE LH5
+  C# -1  8
+  D# -1  8
+  E  -1  8
+  PHANTOM 8
+  D# -1  8
+  C# -1  8
+  LINE TLLH5 
+  TIELINE LH5 100
+  REST 4
+  E -1 4
+  REST 4
+
+# kr2l deb-pour-sarabande.mus 8 120 24
+
+MEASURE 8
+  LINE TLLH3
+  TIELINE LH4 92
+  B  -3  4
+  B  -2  2
+
+MEASURE 8
+  LINE LH4
+  F# -2  4
+  F# -1  2
+
+MEASURE 8
+  LINE LH5
+  B  -2  4
+  B  -1  2
+
+MEASURE 9
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  F# -1  4
+  D# -1  4
+
+MEASURE 9
+  LINE LH4
+  A  -1  4
+  A# -1  4
+  A# -1  4
+
+MEASURE 9
+  LINE LH5
+  C#  0  4
+  C#  0  4
+  D#  0  4
+
+MEASURE 10
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  F# -1  4
+  D# -1  4
+
+MEASURE 10
+  LINE LH4
+  A  -1  4
+  A# -1  4
+  A# -1  4
+
+MEASURE 10
+  LINE LH5
+  C#  0  4
+  C#  0  4
+  D#  0  4
+
+MEASURE 11
+  LINE TLLH3
+  TIELINE LH4 92
+  F# -2  8
+  E  -2  8
+  D  -2  8
+  E  -2  8
+  F# -2  8
+  G# -2  8
+
+MEASURE 11
+  LINE LH4
+  C# -1  8
+  B  -2  8
+  A  -2  8
+  B  -2  8
+  C# -1  8
+  D# -1  8
+
+MEASURE 11
+  LINE LH5
+  E  -1  8
+  D  -1  8
+  C  -1  8
+  D  -1  8
+  E  -1  8
+  F# -1  8
+
+MEASURE 12
+  LINE TLLH3
+  TIELINE LH4 92
+  F# -2  8
+  E  -2  8
+  D  -2  8
+  E  -2  8
+  F# -2  8
+  G# -2  8
+
+MEASURE 12
+  LINE LH4
+  C# -1  8
+  B  -2  8
+  A  -2  8
+  B  -2  8
+  C# -1  8
+  D# -1  8
+
+MEASURE 12
+  LINE LH5
+  E  -1  8
+  D  -1  8
+  C  -1  8
+  D  -1  8
+  E  -1  8
+  F# -1  8
+# kr2l deb-pour-sarabande.mus 9 120 16
+
+MEASURE 9
+  LINE RH5
+  E   1 16
+  D#  1 16
+  C#  1  8
+  C#  1  8  3
+  F#  1  8
+
+MEASURE 10
+  LINE RH5
+  E   1 16
+  D#  1 16
+  C#  1  8
+  C#  1  8  3
+  D#  1  8
+
+MEASURE 11
+  LINE RH5
+  G#  0 16
+  F#  0 16
+  E   0  8
+  E   0  8  3
+  F#  0  8
+
+MEASURE 12
+  LINE RH5
+  G#  0 16
+  F#  0 16
+  E   0  8
+  E   0  8  3
+  F#  0  8
+# kr2l deb-pour-sarabande.mus 13 120 16
+
+MEASURE 13
+  LINE RH4
+  E  -1  8  3
+  A# -1  8
+  E  -1  8
+  A# -1  8
+
+MEASURE 13
+  LINE RH5
+  C#  0  8  3
+  F#  0  8
+  C#  0  8
+  F#  0  8
+
+MEASURE 14
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8
+  G  -1  8
+  G  -1  2
+
+MEASURE 14
+  LINE RH4
+  E  -1  8
+  A# -1  8
+  A# -1  2
+
+MEASURE 14
+  LINE RH5
+  C#  0  8
+  D#  0  8
+  D#  0  2
+# kr2l deb-pour-sarabande.mus 9 120 16
+
+MEASURE 9
+  LINE TLRH3
+  TIELINE RH4 92
+  E   0  4
+  F#  0  4
+  F#  0  4
+
+MEASURE 9
+  LINE RH4
+  A   0  4
+  A#  0  4
+  A#  0  4
+
+MEASURE 10
+  LINE TLRH3
+  TIELINE RH4 92
+  E   0  4
+  F#  0  4
+  F#  0  4
+
+MEASURE 10
+  LINE RH4
+  A   0  4
+  A#  0  4
+  A#  0  4
+
+MEASURE 11
+  LINE RH4
+  A# -1  8
+  G# -1  8
+  F# -1  8
+  G# -1  8
+  A# -1  8
+  B#  -1  8
+
+MEASURE 12
+  LINE RH4
+  A# -1  8
+  G# -1  8
+  F# -1  8
+  G# -1  8
+  A# -1  8
+  B#  -1  8
+# kr2l deb-pour-sarabande.mus 13 120 16
+
+MEASURE 13
+  LINE LH4
+  A# -2  8  3
+  F# -2  8
+  A# -2  8
+  F# -2  8
+
+MEASURE 13
+  LINE LH5
+  G# -1  8  3
+  C# -1  8
+  G# -1  8
+  C# -1  8
+
+MEASURE 14
+  LINE LH4
+  A# -2  8
+  D# -2  8
+  D# -2  2
+
+MEASURE 14
+  LINE LH5
+  G# -1  8
+  A# -2  8
+  A# -2  2
+# kr2l deb-pour-sarabande.mus 14 120 16
+
+MEASURE 14
+  LINE LH1
+  REST   2
+  D# -3  4
+
+REPEAT 1 4 15
+MEASURE 15
+  MARK Au-Mouvt
+
+# kr2l deb-pour-sarabande.mus 19 120 16
+
+MEASURE 19
+  LINE TLRH2
+  TIELINE RH4 88
+  G#  0  8
+  REST   8
+  B   0  4
+  REST   4
+
+MEASURE 19
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  1  8
+  REST   8
+  D#  1  4
+  C#  1 16
+  REST  16  3
+
+MEASURE 19
+  LINE RH4
+  E   1  8
+  B   0  8
+  F#  1  4
+  E   1 16
+  B   0 16
+  A   0  8
+  LINE TLRH4 
+  TIELINE RH4 100
+  E 1 4
+  REST 4
+  E 1 4
+  LINE TLRH3a
+  TIELINE RH4 92
+  C# 1 4
+  REST 2
+
+MEASURE 19
+  LINE RH5
+  G#  1  8
+  B   1  8
+  B   1  4
+  C#  2 16
+  B   1 16
+  A   1  8
+# kr2l deb-pour-sarabande.mus 19 120 16
+
+MEASURE 19
+  LINE LH2
+  C# -1  4
+  RIPPLE
+  B  -2  4
+  RIPPLE
+  A  -2  4
+  RIPPLE
+
+MEASURE 19
+  LINE LH3
+  G# -1  4
+  F# -1  4
+  E  -1  4
+
+MEASURE 19
+  LINE TLLH1
+  TIELINE LH3 88
+  REST   4
+  B  -1  4
+  A  -1  4
+
+MEASURE 19
+  LINE LH4
+  C#  0  4
+  D#  0  4
+  C#  0  4
+
+MEASURE 19
+  LINE TLLH3
+  TIELINE LH4 80
+  REST   2
+  E   0  4
+
+MEASURE 19
+  LINE LH5
+  E   0  4
+  F#  0  4
+  A   0  4
+# kr2l deb-pour-sarabande.mus 20 120 16
+
+MEASURE 20
+  LINE LH4
+  G# -3  8
+  B  -3  8
+  B  -3  4
+  C# -2 16
+  B  -3 16
+  A  -3  8
+
+MEASURE 20
+  LINE LH5
+  G# -2  8
+  B  -2  8
+  B  -2  4
+  C# -1 16
+  B  -2 16
+  A  -2  8
+# kr2l deb-pour-sarabande.mus 21 120 16
+
+MEASURE 21
+  LINE LH4
+  G# -3  8
+  E  -3  8
+  E  -3  4
+  F# -3  4
+
+MEASURE 21
+  LINE LH5
+  G# -2  8
+  E  -2  8
+  E  -2  4
+  F# -2  4
+
+MEASURE 22
+  LINE LH4
+  C# -3  4  3
+
+MEASURE 22
+  LINE LH5
+  C# -2  4  3
+MEASURE 23
+  MARK Measure-23
+
+# kr2l deb-pour-sarabande.mus 23 120 16
+
+MEASURE 23
+  LINE TLRH4
+  TIELINE RH5 80
+  B  -1  4
+  B  -1  4
+  D   0  4
+
+MEASURE 23
+  LINE RH5
+  C#  0  4
+  C#  0  4
+  E   0  4
+
+MEASURE 24
+  LINE TLRH4
+  TIELINE RH5 80
+  B  -1  4
+  B  -1  2
+
+MEASURE 24
+  LINE RH5
+  C#  0  4
+  C#  0  2
+
+MEASURE 25
+  LINE TLRH4
+  TIELINE RH5 80
+  B  -1  4
+  B  -1  4
+  D   0  4
+
+MEASURE 25
+  LINE RH5
+  C#  0  4
+  C#  0  4
+  E   0  8
+  F#  0  8
+
+MEASURE 26
+  LINE TLRH4
+  TIELINE RH5 80
+  B  -1  4
+  B  -1  2
+
+MEASURE 26
+  LINE RH5
+  C#  0  4
+  C#  0  2
+
+MEASURE 27
+  LINE TLRH4
+  TIELINE RH5 80
+  D   0  4
+  D   0  4
+  F   0  4
+
+MEASURE 27
+  LINE RH5
+  E   0  4
+  E   0  4
+  G   0  4
+
+MEASURE 28
+  LINE TLRH4
+  TIELINE RH5 80
+  D   0  4
+  D   0  4
+  F   0  4
+
+MEASURE 28
+  LINE RH5
+  E   0  4
+  E   0  4
+  G   0  8
+  A   0  8
+# kr2l deb-pour-sarabande.mus 23 120 16
+
+MEASURE 23
+  LINE RH4
+  F# -1  4
+  F# -1  4
+  A  -1  8
+  G# -1 16
+  G  -1 16
+
+MEASURE 24
+  LINE RH4
+  F# -1  4
+  F# -1  2
+
+MEASURE 25
+  LINE RH4
+  F# -1  4
+  F# -1  4
+  A  -1  8
+  G# -1 16
+  G  -1 16
+
+MEASURE 26
+  LINE RH4
+  F# -1  4
+  F# -1  2
+
+MEASURE 27
+  LINE RH4
+  A  -1  4
+  A  -1  4
+  C   0  8
+  B  -1 16
+  A# -1 16
+
+MEASURE 28
+  LINE RH4
+  A  -1  4
+  A  -1  4
+  C   0  8
+  B  -1  8
+# kr2l deb-pour-sarabande.mus 29 120 16
+
+MEASURE 29
+  LINE TLRH2
+  TIELINE RH4 88
+  A# -1  4
+  A# -1  4
+  D#  0  8
+  REST   8
+
+MEASURE 29
+  LINE TLRH3
+  TIELINE RH4 92
+  D#  0  4
+  C#  0  4
+  F#  0  4
+
+MEASURE 29
+  LINE RH4
+  G#  0  4
+  F#  0  4
+  A#  0  8
+  C#  0 16
+  C   0 16
+  LINE TLRH4
+  TIELINE RH4 100
+  REST 2
+  A#  0 4
+
+MEASURE 29
+  LINE RH5
+  A#  0  4
+  A#  0  4
+  D#  1  8
+  C#  1 16
+  C   1 16
+# kr2l deb-pour-sarabande.mus 30 120 16
+
+MEASURE 30
+  LINE TLRH2
+  TIELINE RH4 88
+  A# -1  8
+  REST   8
+  C#  0  8
+  REST   8  3
+
+MEASURE 30
+  LINE TLRH3
+  TIELINE RH4 92
+  D#  0  4
+  F#  0  4
+  F   0  4
+
+MEASURE 30
+  LINE RH4
+  G#  0  8
+  C   0  8
+  A#  0  8
+  D#  0  8
+  A#  0  8
+  PHANTOM   8
+  LINE TLRH4
+  TIELINE RH4 100
+  D# 0 4
+  A# 0 4
+  A# 0 4
+
+
+MEASURE 30
+  LINE RH5
+  A#  0  8
+  C   1  8
+  C#  1  8
+  D#  1  8
+  F   1  8
+  C#  1  8
+# kr2l deb-pour-sarabande.mus 31 120 16
+
+MEASURE 31
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   4
+  D   0  4
+  B  -1  4
+
+MEASURE 31
+  LINE RH4
+  D#  0  8
+  PHANTOM   8
+  F#  0  4
+  D#  0  4
+  LINE TLRH4
+  TIELINE RH4 100
+  D# 0 4
+  REST 2
+
+
+
+MEASURE 31
+  LINE RH5
+  F   0  8
+  G#  0  8
+  C#  1  4
+  B   0  8
+  A#  0 16
+  G#  0 16
+# kr2l deb-pour-sarabande.mus 32 120 16
+
+MEASURE 32
+  LINE TLRH2
+  TIELINE RH4 88
+  G# -1  4  3
+
+MEASURE 32
+  LINE TLRH3
+  TIELINE RH4 92
+  B  -1  4  3
+
+MEASURE 32
+  LINE RH4
+  E   0  4  3
+
+MEASURE 32
+  LINE RH5
+  G#  0  4  3
+# kr2l deb-pour-sarabande.mus 23 120 8
+
+MEASURE 23
+  LINE LH4
+  G# -2  4
+  G# -2  4
+  B  -2  4
+
+MEASURE 23
+  LINE LH5
+  C# -1  4
+  C# -1  4
+  E  -1  4
+# kr2l deb-pour-sarabande.mus 24 120 8
+
+MEASURE 24
+  LINE LH4
+  G# -2  4
+  G# -2  2
+
+MEASURE 24
+  LINE LH5
+  C# -1  4
+  C# -1  2
+
+MEASURE 25
+  LINE LH4
+  REST   4
+  G# -2  4
+  B  -2  4
+
+MEASURE 25
+  LINE LH5
+  REST   4
+  C# -1  4
+  E  -1  4
+
+MEASURE 26
+  LINE LH4
+  G# -2  4
+  G# -2  2
+
+MEASURE 26
+  LINE LH5
+  C# -1  4
+  C# -1  2
+
+MEASURE 27
+  LINE LH4
+  B  -2  4
+  B  -2  4
+  D  -1  4
+
+MEASURE 27
+  LINE LH5
+  E  -1  4
+  E  -1  4
+  G  -1  4
+
+MEASURE 28
+  LINE LH4
+  B  -2  4
+  B  -2  4
+  D  -1  4
+
+MEASURE 28
+  LINE LH5
+  E  -1  4
+  E  -1  4
+  G  -1  4
+# kr2l deb-pour-sarabande.mus 29 120 8
+
+MEASURE 29
+  LINE TLLH3
+  TIELINE LH4 92
+  D# -2  4
+  F# -2  4
+  G# -2  4
+
+MEASURE 29
+  LINE LH4
+  G# -2  4
+  C# -1  4
+  D# -1  4
+
+MEASURE 29
+  LINE LH5
+  F# -1  4
+  F# -1  4
+  G# -1  4
+# kr2l deb-pour-sarabande.mus 30 120 8
+
+MEASURE 30
+  LINE TLLH3
+  TIELINE LH4 92
+  D# -2  4
+  F# -2  4
+  A# -2  4
+
+MEASURE 30
+  LINE LH4
+  G# -2  4
+  C# -1  4
+  F  -1  4
+
+MEASURE 30
+  LINE LH5
+  F# -1  4
+  A# -1  4
+  C#  0  4
+# kr2l deb-pour-sarabande.mus 31 120 8
+
+MEASURE 31
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   2
+  G# -2  4
+
+MEASURE 31
+  LINE LH4
+  G# -1  8
+  REST   8
+  E  -1  4
+  D# -1  4
+  LINE TLLH5
+  TIELINE LH5 100
+  B  -1  4
+  REST 2
+
+MEASURE 31
+  LINE LH5
+  B  -1  8
+  F  -1  8
+  G# -1  4
+  G# -1  4
+# kr2l deb-pour-sarabande.mus 32 120 8
+
+MEASURE 32
+  LINE TLLH3
+  TIELINE LH4 92
+  E  -2  4  3
+
+MEASURE 32
+  LINE LH4
+  B  -2  4  3
+
+MEASURE 32
+  LINE LH5
+  E  -1  4  3
+# kr2l deb-pour-sarabande.mus 24 120 8
+
+MEASURE 24
+  LINE LH1
+  REST   8  3
+  C# -2  4
+  G# -3  8
+
+MEASURE 25
+  LINE LH1
+  C# -3  4
+  REST   2
+# kr2l deb-pour-sarabande.mus 26 120 8
+
+MEASURE 26
+  LINE LH1
+  REST   8  3
+  C# -2  4
+  G# -3  8
+# kr2l deb-pour-sarabande.mus 32 120 8
+
+MEASURE 32
+  LINE LH1
+  REST   8
+  B  -3  4
+  E -3  8
+  E -3  4
+# kr2l D:\musfiles\deb-pour-sarabande.mus 33 60 8
+
+MEASURE 33
+  LINE TLRH2
+  TIELINE RH4 88
+  F# -1  4
+  F# -1  4
+  B  -1  8
+  REST   8
+
+MEASURE 33
+  LINE TLRH3
+  TIELINE RH4 92
+  B  -1  4
+  A  -1  4
+  D   0  4
+
+MEASURE 33
+  LINE RH4
+  E   0  4
+  D   0  4
+  F#  0  8
+  A  -1 16
+  G# -1 16
+  LINE TLRH4
+  TIELINE RH4 100
+  REST 2
+  F# 0 4
+
+MEASURE 33
+  LINE RH5
+  F#  0  4
+  F#  0  4
+  B   0  8
+  A   0 16
+  G#  0 16
+# kr2l D:\musfiles\deb-pour-sarabande.mus 34 60 8
+
+MEASURE 34
+  LINE TLRH2
+  TIELINE RH4 88
+  F# -1  8
+  REST   8
+  A  -1  8
+  REST   8  3
+
+MEASURE 34
+  LINE TLRH3
+  TIELINE RH4 92
+  B  -1  4
+  D   0  4
+  C#  0  4
+
+MEASURE 34
+  LINE RH4
+  E   0  8
+  G# -1  8
+  F#  0  8
+  B  -1  8
+  F#  0  4
+  LINE TLRH4
+  TIELINE RH4 100
+  E   0  4
+  F#  0  4
+  F#  0  4
+
+MEASURE 34
+  LINE RH5
+  F#  0  8
+  G#  0  8
+  A   0  8
+  B   0  8
+  C#  1  8
+  A   0  8
+# kr2l D:\musfiles\deb-pour-sarabande.mus 35 60 8
+
+MEASURE 35
+  LINE TLRH2
+  TIELINE RH4 88
+  F#  0  8
+  G#  0  8
+  G#  0  4
+  F#  0  4
+
+MEASURE 35
+  LINE TLRH3
+  TIELINE RH4 92
+  A   0  8
+  B   0  8
+  B   0  4
+  A   0  4
+
+MEASURE 35
+  LINE RH4
+  B   0  8
+  C#  1  8
+  C#  1  4
+  B   0  4
+
+MEASURE 35
+  LINE RH5
+  D#  1  8
+  E   1  8
+  E   1  4
+  D#  1  4
+# kr2l D:\musfiles\deb-pour-sarabande.mus 36 60 16
+
+MEASURE 36
+  LINE TLRH2
+  TIELINE RH4 88
+  F#  0  8
+  B   0  8
+  A   0 16
+  G#  0 16
+  F#  0  8
+  F#  0  4
+
+MEASURE 36
+  LINE TLRH3
+  TIELINE RH4 92
+  A   0  8
+  D#  1  8
+  C#  1 16
+  B   0 16
+  A   0  8
+  A   0  4
+
+MEASURE 36
+  LINE RH4
+  B   0  8
+  E   1  8
+  D#  1 16
+  C#  1 16
+  B   0  8
+  B   0  4
+
+MEASURE 36
+  LINE RH5
+  D#  1  8
+  G#  1  8
+  F#  1 16
+  E   1 16
+  D#  1  8
+  D#  1  4
+
+MEASURE 37
+  LINE TLRH2
+  TIELINE RH4 88
+  A   0  8
+  B   0  8
+  B   0  4
+  A   0  4
+
+MEASURE 37
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  1  8
+  D#  1  8
+  D#  1  4
+  C#  1  4
+
+MEASURE 37
+  LINE RH4
+  D#  1  8
+  E   1  8
+  E   1  4
+  D#  1  4
+
+MEASURE 37
+  LINE RH5
+  F#  1  8
+  G#  1  8
+  G#  1  4
+  F#  1  4
+
+MEASURE 38
+  LINE TLRH2
+  TIELINE RH4 88
+  A   0  8
+  D#  1  8
+  C#  1 16
+  B   0 16
+  A   0  8
+  A   0  8
+  G#  1  8
+
+MEASURE 38
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  1  8
+  F#  1  8
+  E   1 16
+  D#  1 16
+  C#  1  8
+  C#  1  8
+  A   1  8
+
+MEASURE 38
+  LINE RH4
+  D#  1  8
+  G#  1  8
+  F#  1 16
+  E   1 16
+  D#  1  8
+  D#  1  8
+  C#  2  8
+
+MEASURE 38
+  LINE RH5
+  F#  1  8
+  B   1  8
+  A   1 16
+  G#  1 16
+  F#  1  8
+  F#  1  8
+  E   2  8
+# kr2l D:\musfiles\deb-pour-sarabande.mus 39 60 16
+
+MEASURE 39
+  LINE TLRH2
+  TIELINE RH4 88
+  E   1  8
+  D#  1  8
+  C#  1  8
+  B   0  8
+  A   0  8
+  G#  1  8
+
+MEASURE 39
+  LINE TLRH3
+  TIELINE RH4 92
+  F#  1  8
+  F#  1  8
+  E   1  8
+  D#  1  8
+  C#  1  8
+  A   1  8
+
+MEASURE 39
+  LINE RH4
+  A   1  8
+  G#  1  8
+  F#  1  8
+  E   1  8
+  D#  1  8
+  C#  2  8
+
+MEASURE 39
+  LINE RH5
+  C#  2  8
+  B   1  8
+  A   1  8
+  G#  1  8
+  F#  1  8
+  E   2  8
+# kr2l D:\musfiles\deb-pour-sarabande.mus 40 60 16
+
+MEASURE 40
+  LINE TLRH2
+  TIELINE RH4 88
+  E   1  8
+  D#  1  8
+  C#  1  8
+  B   0  8
+  A   0  8
+  G#  0  8
+
+MEASURE 40
+  LINE TLRH3
+  TIELINE RH4 92
+  F#  1  8
+  E   1  8
+  D#  1  8
+  C#  1  8
+  B   0  8
+  A   0  8
+
+MEASURE 40
+  LINE RH4
+  A   1  8
+  F#  1  8
+  F#  1  8
+  E   1  8
+  D#  1  8
+  C#  1  8
+
+MEASURE 40
+  LINE RH5
+  C#  2  8
+  B   1  8
+  A   1  8
+  G#  1  8
+  F#  1  8
+  E   1  8
+
+MEASURE 41
+  LINE TLRH2
+  TIELINE RH4 88
+  F#  0  8
+  E   0  8
+  D#  0  4
+  B  -1  4
+
+MEASURE 41
+  LINE TLRH3
+  TIELINE RH4 92
+  G#  0  8
+  F#  0  8
+  E   0  4
+  C#  0  4
+
+MEASURE 41
+  LINE RH4
+  B   0  8
+  A   0  8
+  G#  0  4
+  E   0  4
+
+MEASURE 41
+  LINE RH5
+  D#  1  8
+  C#  1  8
+  B   0  4
+  G#  0  4
+# kr2l D:\musfiles\deb-pour-sarabande.mus 42 60 4
+
+MEASURE 42
+  LINE RH5
+  F#  0  4
+  A   0  4
+  B   0 12
+  A   0 12
+  F#  0 12
+
+MEASURE 43
+  LINE RH5
+  E   0  8
+  G#  0  8
+  G#  0  2
+
+MEASURE 44
+  LINE RH5
+  F#  0  8
+  G#  0  8
+  A   0  4
+  B   0 12
+  A   0 12
+  F#  0 12
+
+MEASURE 45
+  LINE RH5
+  E   0  8
+  G#  0  8
+  G#  0  2
+
+MEASURE 46
+  LINE RH5
+  G#  1  8
+  C#  2  8
+  C#  2  4
+  B   1 16
+  A   1 16
+  G#  1  8
+
+MEASURE 47
+  LINE RH5
+  G#  1  8
+  C#  1  8
+  C#  1  8
+  D#  1  8
+  E   1  8
+  G#  1  8
+
+MEASURE 48
+  LINE RH5
+  C#  1  8
+  D#  1  8
+  E   1  8
+  G#  1  8
+  A   1  8
+  C#  2  8
+# kr2l D:\musfiles\deb-pour-sarabande.mus 49 60 4
+
+MEASURE 49
+  LINE RH5
+  D#  2  4
+  D#  2  2
+
+MEASURE 50
+  LINE RH5
+  D#  1  4
+  D#  1  8  3
+  F   1  8
+
+MEASURE 51
+  LINE RH5
+  C#  1  8
+  G#  0  8
+  G#  0  4
+  F#  0  4
+
+MEASURE 52
+  LINE RH5
+  D#  1  4
+  D#  1  8  3
+  F   1  8
+
+MEASURE 53
+  LINE RH5
+  C#  1  8
+  G#  0  8
+  G#  1  8  3
+  F#  1  8
+
+MEASURE 54
+  LINE RH5
+  G#  1  8
+  F#  1 16
+  G#  1 16
+  G#  1  8
+  F#  1  8
+  G#  1  8
+  A#  1  8
+
+MEASURE 55
+  LINE RH5
+  A#  1  4  3
+
+MEASURE 56
+  LINE RH5
+  B   1 16
+  A#  1 16
+  G#  1  8
+  G#  1  8  3
+  C#  2  8
+
+MEASURE 57
+  LINE RH5
+  B   1  16
+  A#  1  16
+  G#  1  8
+  G#  1  8  3
+  C#  2  8
+
+MEASURE 58
+  LINE RH5
+  B   1  8
+  A#  1  8
+  G#  1  8
+  A#  1  8
+  B   1  8
+  C#  2  8
+# kr2l D:\musfiles\deb-pour-sarabande.mus 59 60 4
+
+MEASURE 59
+  LINE RH5
+  D#  2  4
+  D#  2  2
+
+MEASURE 60
+  LINE RH5
+  E   1 16
+  D#  1 16
+  C#  1  8
+  C#  1  8  3
+  F#  1  8
+
+MEASURE 61
+  LINE RH5
+  E   1 16
+  D#  1 16
+  C#  1  8
+  C#  1  8  3
+  F#  1  8
+
+MEASURE 62
+  LINE RH5
+  E   1  8
+  D#  1  8
+  C#  1  8
+  D#  1  8
+  E   1  8
+  F#  1  8
+
+MEASURE 63
+  LINE RH5
+  G#  1  8
+  F#  1 16
+  G#  1 16
+  G#  1  8
+  B   1  8
+  G#  1  8
+  D#  1  8
+# kr2l D:\musfiles\deb-pour-sarabande.mus 64 60 4
+
+MEASURE 64
+  LINE RH5
+  G#  1  8
+  F#  1 16
+  G#  1 16
+  G#  1  8
+  C#  2  8
+  G#  1  8
+  D#  1  8
+
+MEASURE 65
+  LINE RH5
+  G#  1  8
+  C#  2  8
+  G#  1  8
+  D#  1  8
+  G#  0  8
+  D#  0  8
+# kr2l D:\musfiles\deb-pour-sarabande.mus 66 60 4
+
+MEASURE 66
+  LINE RH5
+  G# -2  8
+  C# -1  8
+  C# -1  4
+  B  -2 16
+  A  -2 16
+  G# -2  8
+# kr2l D:\musfiles\deb-pour-sarabande.mus 42 60 4
+
+MEASURE 42
+  LINE TLRH2
+  TIELINE RH4 88
+  F# -1  4  3
+
+MEASURE 42
+  LINE TLRH3
+  TIELINE RH4 92
+  A  -1  4  3
+
+MEASURE 42
+  LINE RH4
+  D   0  4  3
+# kr2l D:\musfiles\deb-pour-sarabande.mus 43 60 4
+
+MEASURE 43
+  LINE TLRH2
+  TIELINE RH4 88
+  E  -1  4
+  G# -1  2
+
+MEASURE 43
+  LINE TLRH3
+  TIELINE RH4 92
+  G# -1  4
+  B  -1  2
+
+MEASURE 43
+  LINE RH4
+  B  -1  4
+  D#  0  2
+
+MEASURE 44
+  LINE TLRH2
+  TIELINE RH4 88
+  F# -1  4  3
+
+MEASURE 44
+  LINE TLRH3
+  TIELINE RH4 92
+  A  -1  4  3
+
+MEASURE 44
+  LINE RH4
+  D   0  4  3
+
+MEASURE 45
+  LINE TLRH2
+  TIELINE RH4 88
+  E  -1  4
+  G# -1  2
+
+MEASURE 45
+  LINE TLRH3
+  TIELINE RH4 92
+  G# -1  4
+  B  -1  2
+
+MEASURE 45
+  LINE RH4
+  B  -1  4
+  D#  0  2
+MEASURE 42
+  MARK Au-mouvt-2
+
+MEASURE 35
+  MARK Animez-un-peu
+
+# kr2l D:\musfiles\deb-pour-sarabande.mus 46 60 4
+
+MEASURE 48
+  LINE TLRH2
+  TIELINE RH4 88
+  REST   4
+  E   0  8
+  G#  0  8
+  A   0  4
+
+MEASURE 48
+  LINE TLRH3
+  TIELINE RH4 92
+  F#  0  4
+  A   0  8
+  B   0  8
+  C#  1  4
+
+MEASURE 48
+  LINE RH4
+  A   0  4
+  C#  1  8
+  D#  1  8
+  F#  1  4
+
+MEASURE 49
+  LINE TLRH2
+  TIELINE RH4 88
+  D#  1  4
+  D#  1  2
+
+MEASURE 49
+  LINE TLRH3
+  TIELINE RH4 92
+  F#  1  4
+  F#  1  2
+
+MEASURE 49
+  LINE RH4
+  B   1  4
+  B   1  2
+# kr2l D:\musfiles\deb-pour-sarabande.mus 46 60 8
+
+MEASURE 46
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   4
+  C#  1  4
+  B   0  4
+
+MEASURE 46
+  LINE RH4
+  C#  1  4
+  F#  1  4
+  E   1  4
+
+MEASURE 47
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   2
+  G#  0  4
+
+MEASURE 47
+  LINE RH4
+  C#  1  8
+  A   0  8
+  A   0  4
+  C#  1  4
+# kr2l D:\musfiles\deb-pour-sarabande.mus 50 60 8
+
+MEASURE 50
+  LINE TLRH2
+  TIELINE RH4 88
+  D#  0  4
+  D#  0  8  3
+  F   0  8
+
+MEASURE 50
+  LINE TLRH3
+  TIELINE RH4 92
+  F#  0  4
+  F#  0  8  3
+  G#  0  8
+
+MEASURE 50
+  LINE RH4
+  A#  0  4
+  A#  0  8  3
+  C   1  8
+
+MEASURE 51
+  LINE TLRH2
+  TIELINE RH4 88
+  C#  0  4
+  REST   2
+
+MEASURE 51
+  LINE TLRH3
+  TIELINE RH4 92
+  E   0  4
+  A# -1  4
+  B  -1  4
+
+MEASURE 51
+  LINE RH4
+  G#  0  4
+  E   0  4
+  D   0  4
+# kr2l D:\musfiles\deb-pour-sarabande.mus 52 60 8
+
+MEASURE 52
+  LINE TLRH2
+  TIELINE RH4 88
+  D#  0  4
+  D#  0  8  3
+  F   0  8
+
+MEASURE 52
+  LINE TLRH3
+  TIELINE RH4 92
+  F#  0  4
+  F#  0  8  3
+  G#  0  8
+
+MEASURE 52
+  LINE RH4
+  A#  0  4
+  A#  0  8  3
+  C   1  8
+
+MEASURE 53
+  LINE TLRH2
+  TIELINE RH4 88
+  C#  0  4
+  G#  0  8  3
+  F#  0  8
+
+MEASURE 53
+  LINE TLRH3
+  TIELINE RH4 92
+  E   0  4
+  B   0  8  3
+  B   0  8
+
+MEASURE 53
+  LINE RH4
+  G#  0  4
+  E   1  8  3
+  D   1  8
+
+MEASURE 54
+  LINE TLRH2
+  TIELINE RH4 88
+  G#  0  8
+  F#  0 16
+  G#  0 16
+  G#  0  8
+  F#  0  8
+  G#  0  8
+  A#  0  8
+
+MEASURE 54
+  LINE TLRH3
+  TIELINE RH4 92
+  B   0  8
+  B   0 16
+  B   0 16
+  B   0  8
+  B   0  8
+  B   0  8
+  D#  1  8
+
+MEASURE 54
+  LINE RH4
+  E   1  8
+  D   1 16
+  E   1 16
+  E   1  8
+  D   1  8
+  E   1  8
+  G   1  8
+# kr2l D:\musfiles\deb-pour-sarabande.mus 55 60 8
+
+MEASURE 55
+  LINE TLRH2
+  TIELINE RH4 88
+  A#  0  4  3
+
+MEASURE 55
+  LINE TLRH3
+  TIELINE RH4 92
+  D#  1  4  3
+
+MEASURE 55
+  LINE RH4
+  G   1  4  3
+# kr2l D:\musfiles\deb-pour-sarabande.mus 56 60 8
+
+MEASURE 56
+  LINE TLRH2
+  TIELINE RH4 88
+  B   0  4
+  A#  0  4
+  G#  0  4
+
+MEASURE 56
+  LINE TLRH3
+  TIELINE RH4 92
+  D#  1  4
+  C#  1  4
+  B   0  4
+
+MEASURE 56
+  LINE RH4
+  G#  1  4
+  F#  1  4
+  E   1  4
+
+MEASURE 57
+  LINE TLRH2
+  TIELINE RH4 88
+  B   0  4
+  A#  0  4
+  G#  0  4
+
+MEASURE 57
+  LINE TLRH3
+  TIELINE RH4 92
+  D#  1  4
+  C#  1  4
+  B   0  4
+
+MEASURE 57
+  LINE RH4
+  G#  1  4
+  F#  1  4
+  E   1  4
+
+# kr2l D:\musfiles\deb-pour-sarabande.mus 58 60 8
+
+MEASURE 58
+  LINE TLRH2
+  TIELINE RH4 88
+  B   0  8
+  A#  0  8
+  G#  0  8
+  A#  0  8
+  B   0  8
+  C#  1  8
+
+MEASURE 58
+  LINE TLRH3
+  TIELINE RH4 92
+  D#  1  8
+  C#  1  8
+  C#  1  8
+  C#  1  8
+  D#  1  8
+  F#  1  8
+
+MEASURE 58
+  LINE RH4
+  G#  1  8
+  F#  1  8
+  E   1  8
+  F#  1  8
+  G#  1  8
+  A#  1  8
+
+MEASURE 59
+  LINE TLRH2
+  TIELINE RH4 88
+  D#  1  4
+  D#  1  2
+
+MEASURE 59
+  LINE TLRH3
+  TIELINE RH4 92
+  G   1  4
+  G   1  2
+
+MEASURE 59
+  LINE RH4
+  A#  1  4
+  A#  1  2
+# kr2l D:\musfiles\deb-pour-sarabande.mus 60 60 8
+
+MEASURE 60
+  LINE TLRH2
+  TIELINE RH4 88
+  E   0  4
+  D#  0  4
+  C#  0  4
+
+MEASURE 60
+  LINE TLRH3
+  TIELINE RH4 92
+  G#  0  4
+  F#  0  4
+  E   0  4
+
+MEASURE 60
+  LINE RH4
+  C#  1  4
+  B   0  4
+  A   0  4
+
+MEASURE 61
+  LINE TLRH2
+  TIELINE RH4 88
+  E   0  4
+  D#  0  4
+  C#  0  4
+
+MEASURE 61
+  LINE TLRH3
+  TIELINE RH4 92
+  G#  0  4
+  F#  0  4
+  E   0  4
+
+MEASURE 61
+  LINE RH4
+  C#  1  4
+  B   0  4
+  A   0  4
+
+MEASURE 62
+  LINE TLRH2
+  TIELINE RH4 88
+  E   0  8
+  D#  0  8
+  C#  0  8
+  D#  0  8
+  E   0  8
+  F#  0  8
+
+MEASURE 62
+  LINE TLRH3
+  TIELINE RH4 92
+  G#  0  8
+  G   0  8
+  F#  0  8
+  G   0  8
+  G#  0  8
+  B   0  8
+
+MEASURE 62
+  LINE RH4
+  C#  1  8
+  A#  0  8
+  A   0  8
+  A#  0  8
+  C#  1  8
+  D#  1  8
+# kr2l D:\musfiles\deb-pour-sarabande.mus 63 60 8
+
+MEASURE 63
+  LINE TLRH3
+  TIELINE RH4 92
+  B   0  8
+  F#  0 16
+  REST  16
+  G#  0  8
+  B   0  8
+  G#  0  8
+  D#  0  8
+
+MEASURE 63
+  LINE RH4
+  D#  1  8
+  C#  1 16
+  G#  0 16
+  D#  1  8
+  F#  1  8
+  D#  1  8
+  A#  0  8
+  LINE TLRH4
+  TIELINE RH4 100
+  REST 8
+  C#  1  8
+  REST 2
+
+# kr2l D:\musfiles\deb-pour-sarabande.mus 64 60 8
+
+MEASURE 64
+  LINE TLRH3
+  TIELINE RH4 92
+  G#  0  8
+  F#  0 16
+  REST  16
+  G#  0  8
+  C#  1  8
+  G#  0  8
+  D#  0  8
+
+MEASURE 64
+  LINE RH4
+  D#  1  8
+  C#  1 16
+  G#  0 16
+  D#  1  8
+  G#  1  8
+  D#  1  8
+  A#  0  8
+  LINE TLRH4
+  TIELINE RH4 100
+  REST 8
+  C#  1  8
+  REST 2
+
+MEASURE 65
+  LINE TLRH3
+  TIELINE RH4 92
+  G#  0  8
+  C#  1  8
+  G#  0  8
+  D#  0  8
+  REST   8
+  D# -1  8
+
+MEASURE 65
+  LINE RH4
+  D#  1  8
+  G#  1  8
+  D#  1  8
+  A#  0  8
+  G# -1  8
+  A# -1  8
+# kr2l D:\musfiles\deb-pour-sarabande.mus 67 60 8
+
+MEASURE 67
+  LINE TLRH2
+  TIELINE RH4 88
+  C# -1  2
+  E  -1  4
+
+MEASURE 67
+  LINE TLRH3
+  TIELINE RH4 92
+  F# -1  2
+  A  -1  4
+
+MEASURE 67
+  LINE RH4
+  B  -1  2
+  D   0  4
+
+MEASURE 67
+  LINE RH5
+  C#  0  2
+  E   0  4
+
+MEASURE 68
+  LINE TLRH2
+  TIELINE RH4 88
+  CARRY  4
+  G# -1  2
+
+MEASURE 68
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  4
+  C#  0  2
+
+MEASURE 68
+  LINE RH4
+  CARRY  4
+  F#  0  2
+
+MEASURE 68
+  LINE RH5
+  CARRY  4
+  G#  0  2
+
+MEASURE 69
+  LINE TLRH2
+  TIELINE RH4 88
+  B  -1  4  3
+
+MEASURE 69
+  LINE TLRH3
+  TIELINE RH4 92
+  E   0  4  3
+
+MEASURE 69
+  LINE RH4
+  A   0  4  3
+
+MEASURE 69
+  LINE RH5
+  B   0  4  3
+
+MEASURE 70
+  LINE TLRH2
+  TIELINE RH4 88
+  CARRY  4
+  B   0  2
+
+MEASURE 70
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  4
+  E   1  2
+
+MEASURE 70
+  LINE RH4
+  CARRY  4
+  A   1  2
+
+MEASURE 70
+  LINE RH5
+  CARRY  4
+  B   1  2
+# kr2l D:\musfiles\deb-pour-sarabande.mus 71 60 8
+
+MEASURE 71
+  LINE TLRH2
+  TIELINE RH4 88
+  C#  1  4  3
+
+MEASURE 71
+  LINE TLRH3
+  TIELINE RH4 92
+  E   1  4  3
+
+MEASURE 71
+  LINE RH4
+  G#  1  4  3
+
+MEASURE 71
+  LINE RH5
+  C#  2  4  3
+
+MEASURE 72
+  LINE TLRH2
+  TIELINE RH4 88
+  CARRY  4  3
+
+MEASURE 72
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  4  3
+
+MEASURE 72
+  LINE RH4
+  CARRY  4  3
+
+MEASURE 72
+  LINE RH5
+  CARRY  4  3
+# kr2l D:\musfiles\deb-pour-sarabande.mus 33 60 8
+
+MEASURE 33
+  LINE TLLH3
+  TIELINE LH4 92
+  B  -3  4
+  D  -2  4
+  E  -2  4
+
+MEASURE 33
+  LINE LH4
+  E  -2  4
+  A  -2  4
+  B  -2  4
+
+MEASURE 33
+  LINE LH5
+  D  -1  4
+  D  -1  4
+  E  -1  4
+# kr2l D:\musfiles\deb-pour-sarabande.mus 34 60 8
+
+MEASURE 34
+  LINE TLLH3
+  TIELINE LH4 92
+  B  -3  4
+  REST   4
+  F# -2  4
+
+MEASURE 34
+  LINE LH4
+  E  -2  4
+  D  -2  4
+  C# -1  4
+
+MEASURE 34
+  LINE LH5
+  D  -1  4
+  A  -2  4
+  A  -1  4
+# kr2l D:\musfiles\deb-pour-sarabande.mus 35 60 8
+
+MEASURE 35
+  LINE TLLH2
+  TIELINE LH4 90
+  F# -1  8
+  G# -1  8
+  G# -1  4
+  F# -1  4
+
+MEASURE 35
+  LINE TLLH3
+  TIELINE LH4 92
+  A  -1  8
+  B  -1  8
+  B  -1  4
+  A  -1  4
+
+MEASURE 35
+  LINE LH4
+  C#  0  8
+  C#  0  8
+  C#  0  4
+  C#  0  4
+
+MEASURE 35
+  LINE LH5
+  D#  0  8
+  E   0  8
+  E   0  4
+  D#  0  4
+# kr2l D:\musfiles\deb-pour-sarabande.mus 36 60 8
+
+MEASURE 36
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   8
+  B  -1  8
+  A  -1 16
+  G# -1 16
+  F# -1  8
+  F# -1  4
+
+MEASURE 36
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  D#  0  8
+  C#  0 16
+  B  -1 16
+  A  -1  8
+  A  -1  4
+
+MEASURE 36
+  LINE LH4
+  REST   8
+  E   0  8
+  D#  0 16
+  C#  0 16
+  C#  0  8
+  C#  0  4
+
+MEASURE 36
+  LINE LH5
+  REST   8
+  G#  0  8
+  F#  0 16
+  E   0 16
+  D#  0  8
+  D#  0  4
+# kr2l D:\musfiles\deb-pour-sarabande.mus 37 60 8
+
+MEASURE 37
+  LINE TLLH2
+  TIELINE LH4 90
+  A  -1  8
+  B  -1  8
+  B  -1  4
+  A  -1  4
+
+MEASURE 37
+  LINE TLLH3
+  TIELINE LH4 92
+  C#  0  8
+  D#  0  8
+  D#  0  4
+  C#  0  4
+
+MEASURE 37
+  LINE LH4
+  D#  0  8
+  E   0  8
+  E   0  4
+  D#  0  4
+
+MEASURE 37
+  LINE LH5
+  F#  0  8
+  G#  0  8
+  G#  0  4
+  F#  0  4
+# kr2l D:\musfiles\deb-pour-sarabande.mus 38 60 8
+
+MEASURE 38
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   8
+  D#  0  8
+  C#  0 16
+  B  -1 16
+  A  -1  8
+  A  -1  8
+  G#  0  8
+
+MEASURE 38
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  F#  0  8
+  E   0 16
+  D#  0 16
+  C#  0  8
+  C#  0  8
+  A   0  8
+
+MEASURE 38
+  LINE LH4
+  REST   8
+  G#  0  8
+  F#  0 16
+  E   0 16
+  D#  0  8
+  D#  0  8
+  C#  1  8
+
+MEASURE 38
+  LINE LH5
+  REST   8
+  B   0  8
+  A   0 16
+  G#  0 16
+  F#  0  8
+  F#  0  8
+  E   1  8
+# kr2l D:\musfiles\deb-pour-sarabande.mus 39 60 8
+
+MEASURE 39
+  LINE TLLH2
+  TIELINE LH4 90
+  E   0  8
+  D#  0  8
+  C#  0  8
+  B  -1  8
+  A  -1  8
+  G#  0  8
+
+MEASURE 39
+  LINE TLLH3
+  TIELINE LH4 92
+  F#  0  8
+  F#  0  8
+  E   0  8
+  D#  0  8
+  C#  0  8
+  A   0  8
+
+MEASURE 39
+  LINE LH4
+  A   0  8
+  G#  0  8
+  F#  0  8
+  E   0  8
+  D#  0  8
+  C#  1  8
+
+MEASURE 39
+  LINE LH5
+  C#  1  8
+  B   0  8
+  A   0  8
+  G#  0  8
+  F#  0  8
+  E   1  8
+# kr2l D:\musfiles\deb-pour-sarabande.mus 40 60 8
+
+MEASURE 40
+  LINE TLLH2
+  TIELINE LH4 90
+  E   0  8
+  D#  0  8
+  C#  0  8
+  B  -1  8
+  A  -1  8
+  G# -1  8
+
+MEASURE 40
+  LINE TLLH3
+  TIELINE LH4 92
+  F#  0  8
+  E   0  8
+  D#  0  8
+  C#  0  8
+  B  -1  8
+  A  -1  8
+
+MEASURE 40
+  LINE LH4
+  A   0  8
+  G#  0  8
+  F#  0  8
+  E   0  8
+  D#  0  8
+  C#  0  8
+
+MEASURE 40
+  LINE LH5
+  C#  1  8
+  B   0  8
+  A   0  8
+  G#  0  8
+  F#  0  8
+  E   0  8
+# kr2l D:\musfiles\deb-pour-sarabande.mus 41 60 8
+
+MEASURE 41
+  LINE TLLH2
+  TIELINE LH4 90
+  F# -1  8
+  E  -1  8
+  D# -1  4
+  B  -2  4
+
+MEASURE 41
+  LINE TLLH3
+  TIELINE LH4 92
+  G# -1  8
+  F# -1  8
+  E  -1  4
+  C# -1  4
+
+MEASURE 41
+  LINE LH4
+  B  -1  8
+  A  -1  8
+  G# -1  4
+  E  -1  4
+
+MEASURE 41
+  LINE LH5
+  D#  0  8
+  C#  0  8
+  B  -1  4
+  G# -1  4
+
+MEASURE 42
+  LINE TLLH3
+  TIELINE LH4 92
+  D  -2  4  3
+
+MEASURE 42
+  LINE LH4
+  A  -2  4  3
+
+MEASURE 42
+  LINE LH5
+  D  -1  4  3
+# kr2l D:\musfiles\deb-pour-sarabande.mus 43 60 8
+
+MEASURE 43
+  LINE LH4
+  E  -2  4
+  G# -2  2
+
+MEASURE 43
+  LINE LH5
+  B  -2  4
+  D# -1  2
+# kr2l D:\musfiles\deb-pour-sarabande.mus 44 60 8
+
+MEASURE 44
+  LINE TLLH3
+  TIELINE LH4 92
+  D  -2  4  3
+
+MEASURE 44
+  LINE LH4
+  A  -2  4  3
+
+MEASURE 44
+  LINE LH5
+  D  -1  4  3
+# kr2l D:\musfiles\deb-pour-sarabande.mus 45 60 8
+
+MEASURE 45
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  G# -3  2
+
+MEASURE 45
+  LINE LH4
+  E  -2  4
+  G# -2  2
+
+MEASURE 45
+  LINE LH5
+  B  -2  4
+  D# -1  2
+
+MEASURE 46
+  LINE TLLH3
+  TIELINE LH4 92
+  C#  0  4
+  D#  0  4
+  REST   4
+
+MEASURE 46
+  LINE LH4
+  E   0  4
+  F#  0  4
+  E   0  4
+
+MEASURE 46
+  LINE LH5
+  G#  0  4
+  G#  0  4
+  G#  0  4
+
+MEASURE 47
+  LINE LH4
+  F#  0  8
+  E   0  8
+  D#  0  4
+  C#  0  4
+
+MEASURE 47
+  LINE LH5
+  A   0  8
+  G#  0  8
+  F#  0  4
+  E   0  4
+
+MEASURE 48
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   2
+  F# -1  4
+
+MEASURE 48
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8  3
+  G# -1  8
+  A  -1  4
+
+MEASURE 48
+  LINE LH4
+  B  -1  4
+  A  -1  8
+  B  -1  8
+  C#  0  4
+
+MEASURE 48
+  LINE LH5
+  D#  0  4
+  C#  0  8
+  D#  0  8
+  F#  0  4
+
+MEASURE 49
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  B  -1  2
+
+MEASURE 49
+  LINE TLLH3
+  TIELINE LH4 92
+  B -3  4
+  D#  0  2
+
+MEASURE 49
+  LINE LH4
+  F# -2 4
+  F#  0  2
+
+MEASURE 49
+  LINE LH5
+  B -2   4
+  B   0  2
+# kr2l D:\musfiles\deb-pour-sarabande.mus 50 60 8
+
+MEASURE 50
+  LINE LH4
+  F# -1  4
+  F# -1  8  3
+  G# -1  8
+
+MEASURE 50
+  LINE LH5
+  A# -1  4
+  A# -1  8  3
+  C   0  8
+
+MEASURE 51
+  LINE LH4
+  C# -1  4
+  F# -2  4
+  B  -2  4
+
+MEASURE 51
+  LINE LH5
+  G# -1  4
+  C# -1  4
+  F# -1  4
+
+MEASURE 52
+  LINE LH4
+  F# -1  4
+  F# -1  8  3
+  G# -1  8
+
+MEASURE 52
+  LINE LH5
+  A# -1  4
+  A# -1  8  3
+  C   0  8
+# kr2l D:\musfiles\deb-pour-sarabande.mus 53 60 8
+
+MEASURE 53
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  E  -1  8  3
+  REST   8
+
+MEASURE 53
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  G# -1  8  3
+  REST   8
+
+MEASURE 53
+  LINE LH4
+  C# -1  4
+  B  -1  8  3
+  B  -1  8
+
+MEASURE 53
+  LINE LH5
+  G# -1  4
+  E   0  8  3
+  D   0  8
+# kr2l D:\musfiles\deb-pour-sarabande.mus 54 60 8
+
+MEASURE 54
+  LINE TLLH3
+  TIELINE LH4 92
+  REST  16  3
+  E  -1 16
+  E  -1  8
+  REST   8  3
+
+MEASURE 54
+  LINE LH4
+  B  -1  8
+  B  -1 16
+  B  -1 16
+  B  -1  8
+  B  -1  8
+  B  -1  8
+  D#  0  8
+
+MEASURE 54
+  LINE LH5
+  E   0  8
+  D   0 16
+  E   0 16
+  E   0  8
+  D   0  8
+  E   0  8
+  G   0  8
+# kr2l D:\musfiles\deb-pour-sarabande.mus 55 60 8
+
+MEASURE 55
+  LINE LH4
+  D#  0  4  3
+
+MEASURE 55
+  LINE LH5
+  G   0  4  3
+# kr2l D:\musfiles\deb-pour-sarabande.mus 56 60 8
+
+MEASURE 56
+  LINE TLLH2
+  TIELINE LH4 90
+  G# -1  4
+  F# -1  4
+  E  -1  4
+
+MEASURE 56
+  LINE TLLH3
+  TIELINE LH4 92
+  B  -1  4
+  A# -1  4
+  G# -1  4
+
+MEASURE 56
+  LINE LH4
+  D#  0  4
+  C#  0  4
+  B  -1  4
+
+MEASURE 56
+  LINE LH5
+  G#  0  4
+  F#  0  4
+  E   0  4
+
+MEASURE 57
+  LINE TLLH2
+  TIELINE LH4 90
+  G# -1  4
+  F# -1  4
+  E  -1  4
+
+MEASURE 57
+  LINE TLLH3
+  TIELINE LH4 92
+  B  -1  4
+  A# -1  4
+  G# -1  4
+
+MEASURE 57
+  LINE LH4
+  D#  0  4
+  C#  0  4
+  B  -1  4
+
+MEASURE 57
+  LINE LH5
+  G#  0  4
+  F#  0  4
+  E   0  4
+
+MEASURE 58
+  LINE TLLH2
+  TIELINE LH4 90
+  G# -1  8
+  REST   8  3
+  G# -1  8
+  F# -1  8
+
+MEASURE 58
+  LINE TLLH3
+  TIELINE LH4 92
+  B  -1  8
+  A# -1  8
+  REST   8
+  A# -1  8
+  B  -1  8
+  C#  0  8
+
+MEASURE 58
+  LINE LH4
+  D#  0  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+  D#  0  8
+  F#  0  8
+
+MEASURE 58
+  LINE LH5
+  G#  0  8
+  F#  0  8
+  E   0  8
+  F#  0  8
+  G#  0  8
+  A#  0  8
+# kr2l D:\musfiles\deb-pour-sarabande.mus 59 60 8
+
+MEASURE 59
+  LINE TLLH3
+  TIELINE LH4 92
+  D#  0  4
+  D#  0  2
+
+MEASURE 59
+  LINE LH4
+  G   0  4
+  G   0  2
+
+MEASURE 59
+  LINE LH5
+  A#  0  4
+  A#  0  2
+# kr2l D:\musfiles\deb-pour-sarabande.mus 60 60 8
+
+MEASURE 60
+  LINE TLLH3
+  TIELINE LH4 92
+  C# -1  4
+  B  -2  4
+  A  -2  4
+
+MEASURE 60
+  LINE LH4
+  G# -1  4
+  F# -1  4
+  E  -1  4
+
+MEASURE 60
+  LINE LH5
+  C#  0  4
+  B  -1  4
+  A  -1  4
+
+MEASURE 61
+  LINE TLLH3
+  TIELINE LH4 92
+  C# -1  4
+  B  -2  4
+  A  -2  4
+
+MEASURE 61
+  LINE LH4
+  G# -1  4
+  F# -1  4
+  E  -1  4
+
+MEASURE 61
+  LINE LH5
+  C#  0  4
+  B  -1  4
+  A  -1  4
+
+MEASURE 62
+  LINE TLLH3
+  TIELINE LH4 92
+  C# -1  8
+  REST   8  3
+  C# -1  8
+  B  -2  8
+
+MEASURE 62
+  LINE LH4
+  G# -1  8
+  D# -1  8
+  F# -1  8
+  D# -1  8
+  G# -1  8
+  F# -1  8
+
+MEASURE 62
+  LINE LH5
+  C#  0  8
+  A# -1  8
+  A  -1  8
+  A# -1  8
+  C#  0  8
+  D#  0  8
+# kr2l D:\musfiles\deb-pour-sarabande.mus 63 60 8
+
+MEASURE 63
+  LINE TLLH3
+  TIELINE LH4 92
+  REST 32 0
+  REST   8  3
+  B  -1  8
+  REST   8
+  D# -1  8
+  LINE LH2
+  D# -1 32 0
+  REST 8 6
+  LINE LH1
+  G# -2 32 0
+  RIPPLE
+  REST 8 6
+
+MEASURE 63
+  LINE LH4
+  REST 32 0
+  G# -1  8
+  F# -1 16
+  G# -1 16
+  G# -1  8
+  D#  0  8
+  G# -1  8
+  F# -1  8
+
+MEASURE 63
+  LINE LH5
+  REST 32 0
+  D#  0  8
+  C#  0 16
+  PHANTOM 16
+  D#  0  8
+  F#  0  8
+  D#  0  8
+  A# -1  8
+# kr2l D:\musfiles\deb-pour-sarabande.mus 64 60 8
+
+MEASURE 64
+  LINE TLLH3
+  TIELINE LH4 92
+  REST 32 0
+  REST   8  3
+  C#  0  8
+  REST   8
+  D# -1  8
+  LINE LH2
+  D# -1 32 0
+  REST 8 6
+  LINE LH1
+  G# -2 32 0
+  RIPPLE
+  REST 8 6
+
+
+MEASURE 64
+  LINE LH4
+  REST 32 0
+  G# -1  8
+  F# -1 16
+  G# -1 16
+  G# -1  8
+  E   0  8
+  G# -1  8
+  F# -1  8
+
+MEASURE 64
+  LINE LH5
+  REST 32 0
+  D#  0  8
+  C#  0 16
+  PHANTOM 16
+  D#  0  8
+  G#  0  8
+  D#  0  8
+  A# -1  8
+
+MEASURE 65
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  C#  0  8
+  REST   2
+
+MEASURE 65
+  LINE LH4
+  G# -1  8
+  E   0  8
+  G# -1  8
+  D# -1  8
+  G# -2  8
+  D# -2  8
+
+MEASURE 65
+  LINE LH5
+  D#  0  8
+  G#  0  8
+  D#  0  8
+  A# -1  8
+  D# -1  8
+  A# -2  8
+
+# kr2l D:\musfiles\deb-pour-sarabande.mus 66 60 8
+
+MEASURE 66
+  LINE LH5
+  G# -3  8
+  C# -2  8
+  C# -2  4
+  B  -3 16
+  A  -3 16
+  G# -3  8
+
+MEASURE 67
+  LINE LH4
+  REST   4
+  C# -3  4
+  RIPPLE
+  REST   4
+
+MEASURE 67
+  LINE LH5
+  G# -2  4
+  C# -2  4
+  B  -2  4
+
+MEASURE 68
+  LINE LH4
+  E  -3  4
+  RIPPLE 
+  REST   4
+  G# -3  4
+  RIPPLE 
+
+MEASURE 68
+  LINE LH5
+  E  -2  4
+  D# -1  4
+  G# -2  4
+
+MEASURE 69
+  LINE LH4
+  F# -2  4
+  RIPPLE 
+  B  -2  4
+  RIPPLE 
+  F# -1  4
+  RIPPLE 
+
+MEASURE 69
+  LINE LH5
+  F# -1  4
+  B  -1  4
+  F#  0  4
+# kr2l D:\musfiles\deb-pour-sarabande.mus 70 60 8
+
+MEASURE 70
+  LINE LH4
+  B  -1  4
+  RIPPLE 
+  F#  0  4
+  RIPPLE 
+  B   0  4
+  RIPPLE 
+
+MEASURE 70
+  LINE LH5
+  B   0  4
+  F#  1  4
+  B   1  4
+
+MEASURE 71
+  LINE TLLH3
+  TIELINE LH4 92
+  C#  0  4  3
+
+MEASURE 71
+  LINE LH4
+  E   0  4  3
+
+MEASURE 71
+  LINE LH5
+  G#  0  4  3
+
+MEASURE 72
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  4  3
+
+MEASURE 72
+  LINE LH4
+  CARRY  4  3
+
+MEASURE 72
+  LINE LH5
+  CARRY  4  3
+# kr2l D:\musfiles\deb-pour-sarabande.mus 50 60 8
+
+MEASURE 50
+  LINE LH1
+  G# -2  4  3
+
+MEASURE 50
+  LINE LH2
+  D# -1  4  3
+  RIPPLE 
+# kr2l D:\musfiles\deb-pour-sarabande.mus 52 60 8
+
+MEASURE 52
+  LINE LH1
+  G# -2  4  3
+
+MEASURE 52
+  LINE LH2
+  D# -1  4  3
+  RIPPLE 
+# kr2l D:\musfiles\deb-pour-sarabande.mus 53 60 8
+
+MEASURE 53
+  LINE LH1
+  REST   4
+  E  -2  8  3
+  B  -2  8
+
+MEASURE 53
+  LINE LH2
+  REST   4
+  B  -2  8  3
+  RIPPLE
+  F# -1  8
+  RIPPLE 
+# kr2l D:\musfiles\deb-pour-sarabande.mus 54 60 8
+
+MEASURE 54
+  LINE LH1
+  E  -1  8
+  B  -2 16
+  REST  16  3
+  B  -2  8
+  REST   8
+  D# -1  8
+
+MEASURE 54
+  LINE LH2
+  G# -1  8
+  RIPPLE
+  F# -1 16
+  RIPPLE
+  REST  16  3
+  F# -1  8
+  RIPPLE
+  REST   8
+  A# -1  8
+  RIPPLE
+
+
+MEASURE 55
+  LINE LH1
+  D# -1  4  3
+
+MEASURE 55
+  LINE LH2
+  A# -1  4  3
+  RIPPLE
+# kr2l D:\musfiles\deb-pour-sarabande.mus 55 60 8
+
+MEASURE 55
+  LINE LH1a
+  REST   4
+  D# -3  4
+  D# -2  4
+
+MEASURE 55
+  LINE LH2a
+  REST   4
+  D# -2  4
+  D# -1  4
+# kr2l D:\musfiles\deb-pour-sarabande.mus 71 60 8
+
+MEASURE 71
+  LINE LH1a
+  REST   4
+  C# -3  4
+  C# -3  4
+
+MEASURE 71
+  LINE LH2a
+  REST   4
+  C# -2  4
+  C# -2  4
+
+MEASURE 72
+  LINE LH1a
+  C# -3  4  3
+
+MEASURE 72
+  LINE LH2a
+  C# -2  4  3
+# kr2l D:\musfiles\deb-pour-sarabande.mus 72 60 8
+
+MEASURE 72
+  LINE RH1
+  C# -1  4  3
+# kr2l D:\musfiles\deb-pour-sarabande.mus 55 60 8
+
+MEASURE 55
+  LINE RH1
+  REST   4
+  D# -1  4
+  D#  0  4
+# kr2l D:\musfiles\deb-pour-sarabande.mus 35 60 8
+
+MEASURE 35
+  LINE LH2a
+  REST   8  3
+  C# -1  4
+  F# -2  8
+# kr2l D:\musfiles\deb-pour-sarabande.mus 36 60 8
+
+MEASURE 36
+  LINE LH2a
+  F# -3  4
+  REST   2
+# kr2l D:\musfiles\deb-pour-sarabande.mus 37 60 8
+
+MEASURE 37
+  LINE LH2a
+  REST   8  3
+  C# -1  4
+  F# -2  8
+
+MEASURE 38
+  LINE LH2a
+  F# -3  4
+  REST   2
+# kr2l D:\musfiles\deb-pour-sarabande.mus 43 60 8
+
+MEASURE 43
+  LINE LH2a
+  REST   4
+  G# -3  2
+  RIPPLE
+# kr2l D:\musfiles\deb-pour-sarabande.mus 45 60 8
+
+MEASURE 45
+  LINE LH2a
+  REST   4
+  G# -3  2
+  RIPPLE
+# kr2l D:\musfiles\deb-pour-sarabande.mus 59 60 8
+
+MEASURE 59
+  LINE LH1a
+  D# -1  4
+  REST   2
+
+MEASURE 59
+  LINE LH2a
+  A#  -1  4
+  RIPPLE
+  REST   4
+  D# -1  4

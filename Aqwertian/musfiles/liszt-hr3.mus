@@ -1,0 +1,3036 @@
+NAME Liszt's 3rd Hungarian Rhapsody
+
+MEASURE 1
+METER 4 4
+TEMPO 4 60
+KEY 2b
+
+# kr2l tmp liszt-hr3.mus 1 40 4 0 88 /tmp/kr2l
+
+MEASURE 1
+  LINE LH4
+  REST   4  3
+  F  -3 16  3
+  Bb -3 16
+
+MEASURE 2
+  LINE LH4
+  Bb -3  8  3
+  A  -3  8
+  C  -2  8
+  Bb -3  8
+  C  -2  32 0
+  Bb -3  8
+  A  -3  8
+
+MEASURE 2
+  LINE RH7
+  REST   4
+  F  -2  2
+  F  -2  4
+
+MEASURE 2
+  LINE RH8
+  REST   4
+  C# -1  2
+  C# -1  4
+
+MEASURE 2
+  LINE RH9
+  REST   4
+  F  -1  2
+  F  -1  4
+
+MEASURE 3
+  LINE LH3
+  REST   4  3
+  D  -3  4
+
+MEASURE 3
+  LINE LH4
+  Bb -3 16
+  A  -3 16
+  Bb -3 16
+  C  -2 16
+  C# -2 16
+  C  -2 16
+  Bb -3 16
+  A  -3 16
+  Bb -3  4
+  D  -2  4
+
+MEASURE 3
+  LINE TLRH5
+  TIELINE RH6 95
+  REST   4  3
+  Bb -2  4
+
+MEASURE 3
+  LINE RH6
+  REST   4  3
+  D  -1  4
+
+MEASURE 3
+  LINE RH7
+  REST   4
+  F  -2  2
+  F  -1  4
+
+MEASURE 3
+  LINE RH8
+  REST   4
+  C# -1  2
+  Ab -1  4
+
+MEASURE 3
+  LINE RH9
+  REST   4
+  F  -1  2
+  Bb -1  4
+
+MEASURE 4
+  LINE LH3
+  Eb -3  8  3
+  E  -3  8
+  F  -3  8
+  Ab -3  8
+  D  -3  8
+  F  -3  8
+
+MEASURE 4
+  LINE LH4
+  Eb -2  8  3
+  E  -2  8
+  F  -2  8
+  Ab -2  8
+  D  -2  8
+  F  -2  8
+
+MEASURE 4
+  LINE TLRH5
+  TIELINE RH6 95
+  REST   4  3
+  Bb -2  4
+
+MEASURE 4
+  LINE RH6
+  REST   4
+  Bb -2  4
+  REST   4
+  D  -1  4
+
+MEASURE 4
+  LINE RH7
+  REST   4
+  Eb -1  4
+  REST   4
+  F  -1  4
+
+MEASURE 4
+  LINE RH8
+  REST   4
+  G  -1  4
+  REST   4
+  Ab -1  4
+
+MEASURE 4
+  LINE RH9
+  REST   4
+  Bb -1  4
+  REST   4
+  Bb -1  4
+
+MEASURE 5
+  LINE LH3
+  F  -3  8
+  Eb -3  8
+  Eb -3 16  3
+  D  -3 16
+  Eb -3  8
+  REST   8  3
+
+MEASURE 5
+  LINE LH4
+  F  -2  8
+  Eb -2  8
+  Eb -2 16  3
+  D  -2 16
+  Eb -2  8
+  REST   8
+  E  -2  4
+
+MEASURE 5
+  LINE RH6
+  REST   4
+  Bb -2  4
+  Bb -2  8
+  REST   8  3
+
+MEASURE 5
+  LINE RH7
+  REST   4
+  Eb -1  4
+  Eb -1  8
+  REST   8  3
+
+MEASURE 5
+  LINE RH8
+  REST   4
+  G  -1  4
+  G  -1  8
+  REST   8  3
+
+MEASURE 5
+  LINE RH9
+  REST   4
+  Bb -1  4
+  Bb -1  8
+  REST   8  3
+
+MEASURE 6
+  LINE LH4
+  F  -2  8  3
+  E  -2  8
+  F  -2  8
+  G  -2  8
+  Ab -2  6
+  G  -2  12
+
+# kr2l tmp liszt-hr3.mus 7 40 4 0 88 /tmp/kr2l
+
+MEASURE 6
+  LINE RH6
+  REST   4
+  C# -1  2
+  C# -1  4
+
+MEASURE 6
+  LINE RH7
+  REST   4
+  F  -1  2
+  F  -1  4
+
+MEASURE 6
+  LINE RH8
+  REST   4
+  Bb -1  2
+  Bb -1  4
+
+MEASURE 6
+  LINE RH9
+  REST   4
+  C#  0  2
+  C#  0  4
+
+MEASURE 7
+  LINE LH4
+  F  -2  4 1 3
+  E  -2  4 1 3
+  F  -2  4 1 3
+  F# -2  4 1 3
+  F  -2  4 1 3
+  Eb -2  4 1 3
+  C# -2  4 1 3
+  C  -2  4 1 3
+  C# -2  4 1 3
+  Eb -2  4 1 3
+  C# -2  4 1 3
+  C  -2  4 1 3  
+# kr2l tmp liszt-hr3.mus 8 40 4 0 88 /tmp/kr2l
+
+MEASURE 7
+  LINE RH9
+  REST   1
+
+MEASURE 8
+  LINE LH4
+  Bb -3  8
+  REST  16
+  A  -3 16
+  Bb -3  4
+  C  -2  8
+  Eb -2  8
+  A  -3  8
+  C  -2  8
+
+MEASURE 8
+  LINE RH7
+  REST   4
+  F  -2  4
+  A  -2  4
+  C  -1  4
+
+MEASURE 8
+  LINE RH8
+  REST   4
+  C# -1  4
+  Eb -1  4
+  Eb -1  4
+
+MEASURE 8
+  LINE RH9
+  REST   4
+  F  -1  4
+  F  -1  4
+  F  -1  4
+
+MEASURE 9
+  LINE LH3
+  REST   2
+  Bb -4  4
+  REST   4
+
+MEASURE 9
+  LINE LH4
+  Bb -3  4
+  E  -3  32 0
+  F  -3  4
+  Bb -3  4
+  REST   4
+# kr2l tmp liszt-hr3.mus 2 40 4 0 88 /tmp/kr2l
+
+MEASURE 9
+  LINE RH7
+  F  -2  4
+  Bb -2 16  3
+  A  -2 16
+  Bb -2  4
+  REST   4
+
+MEASURE 9
+  LINE RH8
+  D  -1  4
+  D  -1  2
+  REST   4
+
+MEASURE 9
+  LINE RH9
+  F  -1  4
+  F  -1  2
+  REST   4
+# kr2l tmp liszt-hr3.mus 10 40 4 0 88 /tmp/kr2l
+
+MEASURE 10
+  LINE RH5
+  Bb -1  32 0
+  Bb -1  8  3
+  A  -1  8
+  C   0  8
+  Bb -1  8
+  Bb -1  8
+  A  -1  8
+
+MEASURE 10
+  LINE RH9
+  Bb  0  32 0
+  Bb  0  8  3
+  A   0  8
+  C   1  8
+  Bb  0  8
+  C   1  32 0
+  Bb  0  8
+  A   0  8
+
+MEASURE 10
+  LINE LH3
+  REST   4
+  C# -1  2
+  C# -1  4
+
+MEASURE 10
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   4
+  F  -1  2
+  F  -1  4
+
+MEASURE 10
+  LINE LH4
+  REST   4
+  C#  0  2
+  C#  0  4
+
+MEASURE 10
+  LINE LH1
+  Bb -3  4
+  REST   4  3
+
+MEASURE 10
+  LINE LH2
+  Bb -2  4
+  REST   4  3
+
+MEASURE 11
+  LINE RH5
+  Bb -1 16
+  A  -1 16
+  Bb -1 16
+  C   0 16
+  C#  0 16
+  C   0 16
+  Bb -1 16
+  A  -1 16
+  Bb -1  4
+  D   0  4
+
+MEASURE 11
+  LINE TLRH8
+  TIELINE RH6 95
+  REST   4  3
+  F   0  4
+
+MEASURE 11
+  LINE RH6
+  REST   4  3
+  Ab  0  4
+
+MEASURE 11
+  LINE RH7
+  REST   4  3
+  Bb  0  4
+
+MEASURE 11
+  LINE RH9
+  Bb  0 16
+  A   0 16
+  Bb  0 16
+  C   1 16
+  C#  1 16
+  C   1 16
+  Bb  0 16
+  A   0 16
+  Bb  0  4
+  D   1  4
+
+MEASURE 11
+  LINE LH3
+  REST   4
+  C# -1  2
+  Bb -2  4
+
+MEASURE 11
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   4
+  F  -1  2
+  F  -1  4
+
+MEASURE 11
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4  3
+  Ab -1  4
+
+MEASURE 11
+  LINE LH4
+  REST   4
+  C#  0  2
+  Bb -1  4
+
+MEASURE 11
+  LINE LH1
+  Bb -3  4
+  REST   4  3
+
+MEASURE 11
+  LINE LH2
+  Bb -2  4
+  REST   4  3
+
+MEASURE 12
+  LINE RH5
+  Eb  0 16  7
+  E   0 16
+  F   0  8
+  Ab  0  8
+  REST   8
+  F   0  8
+
+MEASURE 12
+  LINE RH9
+  Eb  1 16  7
+  E   1 16
+  F   1  8
+  Ab  1  8
+  D   1  8
+  F   1  8
+# kr2l tmp liszt-hr3.mus 13 40 4 0 88 /tmp/kr2l
+
+MEASURE 12
+  LINE LH3
+  REST   4
+  G  -1  4
+  REST   4
+  F  -1  4
+
+MEASURE 12
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   4
+  Bb -1  4
+  REST   4
+  Ab -1  4
+
+MEASURE 12
+  LINE LH4
+  REST   4
+  G   0  4
+  REST   4
+  D   0  4
+
+MEASURE 12
+  LINE LH1
+  Eb -2  4
+  REST   4
+  Bb -3  4
+  REST   4
+
+MEASURE 12
+  LINE LH2
+  Eb -1  4
+  REST   4
+  Bb -2  4
+  REST   4
+
+MEASURE 13
+  LINE RH5
+  F   0  8
+  Eb  0  8
+  Eb  0  8
+  REST  16
+  D   0 16
+  Eb  0  8
+  REST   8
+  E   0  4
+
+MEASURE 13
+  LINE RH9
+  F   1  8
+  Eb  1  8
+  F   1  32 0
+  Eb  1  8
+  REST  16
+  D   1 16
+  Eb  1  8
+  REST   8
+  E   1  4
+
+MEASURE 13
+  LINE LH3
+  REST   4
+  G  -1  4
+  G  -1  8
+  REST   8  3
+
+MEASURE 13
+  LINE LH4
+  REST   4
+  Bb -1  4
+  Bb -1  8
+  REST   8  3
+
+MEASURE 13
+  LINE LH1
+  Eb -2  4
+  REST   4  3
+
+MEASURE 13
+  LINE LH2
+  Eb -1  4
+  REST   4  3
+
+MEASURE 14
+  LINE RH9
+  RH NOSKIPIG
+  F   0  32 0
+  Bb  0  32 0
+  Db  1  32 0
+  F   1  8  3
+  E   1  8
+  F   1  8
+  G   1  8
+  Ab  1 16  3
+  TRILL Ab  1
+  G   1 16
+
+# kr2l tmp liszt-hr3.mus 15 40 4 0 88 /tmp/kr2l
+
+MEASURE 14
+  LINE LH1a
+  REST   4
+  F  -1  2
+  F  -1  4
+  RIPPLE
+
+MEASURE 14
+  LINE LH2a
+  REST   4
+  Bb -1  2
+  Bb -1  4
+
+MEASURE 14
+  LINE LH3
+  REST   4
+  C#  0  2
+  C#  0  4
+
+MEASURE 14
+  LINE LH4
+  REST   4
+  F   0  2
+  F   0  4
+
+MEASURE 14
+  LINE LH1
+  Bb -3  4
+  REST   4  3
+
+MEASURE 14
+  LINE LH2
+  Bb -2  4
+  REST   4  3
+
+MEASURE 15
+  LINE RH9
+  RH SKIPIG
+  F   1  4 1 3
+  E   1  4 1 3
+  F   1  4 1 3
+  F#  1  4 1 3
+  F   1  4 1 3
+  Eb  1  4 1 3
+  C#  1  4 1 3
+  C   1  4 1 3
+  C#  1  4 1 3
+  Eb  1  4 1 3
+  C#  1  4 1 3
+  C   1  4 1 3 
+# kr2l tmp liszt-hr3.mus 16 40 4 0 88 /tmp/kr2l
+
+MEASURE 15
+  LINE LH4
+  REST   1
+
+MEASURE 15
+  LINE LH2
+  REST   1
+
+MEASURE 16
+  LINE RH9
+  Bb  0  32 0
+  C   1  32 0
+  Bb  0  8
+  REST  16
+  A   0 16
+  Bb  0  4
+  C   1  8
+  Eb  1  8
+  A   0  8
+  C   1  8
+
+MEASURE 16
+  LINE LH3
+  REST   4
+  F  -1  4
+  REST   4
+  F  -1  4
+
+MEASURE 16
+  LINE TLLH2
+  TIELINE LH3 95
+  REST   4
+  F   0  4
+  REST   4
+  F   0  4
+
+MEASURE 16
+  LINE LH4
+  REST   4
+  C#  0  4
+  REST   4
+  Eb  0  4
+
+MEASURE 16
+  LINE LH2
+  F  -2  4
+  REST   4
+  F  -2  4
+  REST   4
+
+MEASURE 17
+  LINE RH9
+  Bb  0  4
+  Bb  0 16  3
+  A   0 16
+  Bb  0  8
+  REST   8  3
+# kr2l tmp liszt-hr3.mus 17 40 4 0 88 /tmp/kr2l
+
+MEASURE 17
+  LINE TLRH8
+  TIELINE RH6 95
+  REST   4
+  Bb -1  4
+  Bb -1  4
+  REST   4
+
+MEASURE 17
+  LINE RH6
+  REST   4
+  D   0  4
+  D   0  4
+  REST   4
+# kr2l tmp liszt-hr3.mus 10 40 4 0 88 /tmp/kr2l
+
+MEASURE 17
+  LINE LH3
+  CARRY  4
+  REST   4
+  Bb -3  4
+  REST   4
+
+MEASURE 17
+  LINE TLLH2
+  CARRY  4
+  REST   4  3
+
+MEASURE 17
+  LINE LH4
+  D   0  4
+  E  -1  32 0
+  F  -1  4
+  Bb -2  4
+  REST   4
+
+MEASURE 17
+  LINE TLLH3
+  TIELINE LH4 95
+  REST   4
+  E  -2  32 0
+  F  -2  4
+  REST   2
+
+# kr2l tmp liszt-hr3.mus 18 40 4 0 88 /tmp/kr2l
+
+MEASURE 18
+  LINE RH9
+  RH NOSKIPIG
+  G   1 16
+  D   2 16
+  D   2 16
+  C#  2 16
+  C#  2 16
+  Bb  1 16
+  Bb  1 16
+  A   1 16
+  G   1 16
+  D   2 16
+  D   2 16
+  C#  2 16
+  C#  2 16
+  Bb  1 16
+  Bb  1 16
+  A   1 16
+
+MEASURE 18
+  LINE LH4
+  Bb  0 32
+  D   1 32
+  G   0 32
+  D   1 32
+  Bb  0 32
+  D   1 32
+  G   0 32
+  D   1 32
+  Bb  0 32
+  D   1 32
+  G   0 32
+  D   1 32
+  REST   8
+  Bb  0 32
+  D   1 32
+  G   0 32
+  D   1 32
+  Bb  0 32
+  D   1 32
+  G   0 32
+  D   1 32
+  Bb  0 32
+  D   1 32
+  G   0 32
+  D   1 32
+  REST   8
+
+MEASURE 19
+  LINE RH9
+  G   1 16
+  D   2 16
+  D   2 16
+  C#  2 16
+  C#  2 16
+  Bb  1 16
+  Bb  1 16
+  A   1 16
+  A   1 16
+  G   1 16
+  G   1 16
+  F#  1 16
+  F#  1 16
+  Eb  1 16
+  Eb  1 16
+  D   1 16
+# kr2l tmp liszt-hr3.mus 18 40 8 0 88 /tmp/kr2l
+
+MEASURE 19
+  LINE LH3
+  REST   4  3
+  G  -1  4
+
+MEASURE 19
+  LINE LH2
+  REST   4  3
+  C#  0  4
+
+MEASURE 19
+  LINE LH4
+  TOGETHER
+  Bb  0 32
+  D   1 32
+  G   0 32
+  D   1 32
+  Bb  0 32
+  D   1 32
+  G   0 32
+  D   1 32
+  Bb  0 32
+  D   1 32
+  G   0 32
+  D   1 32
+  REST   8  3
+  Bb  0  4
+# kr2l tmp liszt-hr3.mus 20 40 16 0 88 /tmp/kr2l
+
+MEASURE 20
+  LINE RH9
+  D   1 32  9
+  F#  1 32
+  A   1 32
+  Bb  1 32
+  A   1 32
+  F#  1 32
+  Eb  1 32
+  D   1 32
+  F#  1 32
+  A   1 32
+  Bb  1 32
+  C#  2 32
+  D   2 32
+  Eb  2 32
+  D   2 32
+  F#  2 32
+  D   2 32
+  A   2 32
+  D   2 32
+  Bb  2 32
+  D   2 32
+  A   2 32  
+  REST  16
+
+# kr2l tmp liszt-hr3.mus 20 40 4 0 88 /tmp/kr2l
+
+MEASURE 20
+  LINE LH3
+  F# -1  4
+  REST   4  3
+
+MEASURE 20
+  LINE LH4
+  D   0  4
+  REST   4  3
+
+MEASURE 20
+  LINE LH2
+  A   0  4
+  REST   4  3
+
+MEASURE 21 =REPEAT 18
+MEASURE 22 =REPEAT 19
+# kr2l tmp liszt-hr3.mus 23 40 4 0 88 /tmp/kr2l
+
+MEASURE 23
+  LINE LH2
+  F# -1  4
+  REST   4  3
+
+MEASURE 23
+  LINE LH3
+  D   0  4
+  REST   4  3
+
+MEASURE 23
+  LINE LH4
+  A   0  4
+  REST   4  3
+# kr2l tmp liszt-hr3.mus 23 40 4 0 88 /tmp/kr2l
+
+MEASURE 23
+  LINE RH9
+  D   1  4
+  REST   4 1 15
+  F#  0  4 1 15
+  A   0  4 1 15
+  Bb  0  4 1 15
+  C#  1  4 1 15
+  D   1  4 1 15
+  C#  1  4 1 15
+  Bb  0  4 1 15
+  A   0  4 1 15
+  F#  0  4 1 15
+  Eb  0  4 1 15
+  D   0  4 1 15
+  C#  0  4 1 15
+  Bb -1  4 1 15
+  A  -1  4 1 15
+  F# -1  8
+  REST   8
+  REST   4
+# kr2l tmp liszt-hr3.mus 24 40 4 0 88 /tmp/kr2l
+
+MEASURE 24
+  LINE RH9
+  RH SKIPIG
+  F#  0 16
+  G   0 16
+  A   0 16  3
+  C#  1 16
+  D   1 16
+  C#  1 16
+  Eb  1 16
+  D   1 16
+  D   1 16
+  C#  1 16
+  C#  1 16
+  Bb  0 16
+  Bb  0 16
+  A   0 16
+
+# kr2l tmp liszt-hr3.mus 25 40 4 0 88 /tmp/kr2l
+
+MEASURE 24
+  LINE LH1
+  REST   4
+  D  -1  8
+  REST   8  3
+  Bb -1  8
+  REST   8
+
+MEASURE 24
+  LINE LH2
+  REST   4
+  F# -1  8
+  REST   8  3
+  D   0  8
+  REST   8
+
+MEASURE 24
+  LINE LH4
+  REST   4
+  C   0  8
+  REST   8  3
+  G   0  8
+  REST   8
+
+MEASURE 25
+  LINE RH9
+  A   0 16
+  G   0 16
+  F#  0 16
+  G   0 16
+  A   0 16
+  C#  1 16
+  D   1 16
+  C#  1 16
+  Eb  1 4 1 6
+  D   1 4 1 6
+  C#  1 4 1 6
+  Eb  1 4 1 6
+  D   1 4 1 6
+  C#  1 4 1 6
+  Eb  1 4 1 6
+  D   1 4 1 6
+  C#  1 4 1 6
+  Bb  0 4 1 6
+  A   0 4 1 6
+  G   0 4 1 6 
+
+MEASURE 25
+  LINE LH1
+  REST   4
+  D  -1  8
+  REST   8  3
+  Bb -1  8
+  REST   8
+
+MEASURE 25
+  LINE LH2
+  REST   4
+  F# -1  8
+  REST   8  3
+  D   0  8
+  REST   8
+
+MEASURE 25
+  LINE LH4
+  REST   4
+  C   0  8
+  REST   8  3
+  G   0  8
+  REST   8
+
+
+# kr2l tmp liszt-hr3.mus 26 40 8 0 88 /tmp/kr2l
+
+MEASURE 26
+  LINE RH9
+  F#  0 16
+  G   0 16
+  A   0 16  3
+  C#  1 16
+  D   1 16
+  C#  1 16
+  Eb  1 16
+  D   1 16
+  D   1 16
+  C#  1 16
+  C#  1 16
+  Bb  0 16
+  Bb  0 16
+  A   0 16
+
+# kr2l tmp liszt-hr3.mus 27 40 4 0 88 /tmp/kr2l
+
+MEASURE 26
+  LINE LH1
+  REST   4
+  D  -1  8
+  REST   8  3
+  Bb -1  8
+  REST   8
+
+MEASURE 26
+  LINE LH2
+  REST   4
+  F# -1  8
+  REST   8  3
+  D   0  8
+  REST   8
+
+MEASURE 26
+  LINE LH4
+  REST   4
+  C   0  8
+  REST   8  3
+  G   0  8
+  REST   8
+# kr2l tmp liszt-hr3.mus 27 40 16 0 88 /tmp/kr2l
+
+MEASURE 27
+  LINE RH9
+  A   0 16
+  G   0 16
+  F#  0 16
+  G   0 16
+  A   0 16
+  Bb  0 16
+  F#  0 16
+  A   0 16
+  G   0  8
+  B   0  8
+  G   0  8
+  B   0  8
+
+MEASURE 27
+  LINE LH1
+  REST   8
+  Bb -2  8
+  REST   8
+  D  -1  8
+  G  -1  4
+  Eb -1  4
+
+MEASURE 27
+  LINE LH2
+  REST   8
+  G  -1  8
+  REST   8
+  A  -1  8
+  B  -1  4
+  REST   4
+
+MEASURE 27
+  LINE LH4
+  REST   8
+  D   0  8
+  REST   8
+  C   0  8
+  D   0  4
+  D   0  4
+
+# kr2l tmp liszt-hr3.mus 28 40 4 0 88 /tmp/kr2l
+
+MEASURE 28
+  LINE RH9
+  G   0  2
+  REST   2
+# kr2l tmp liszt-hr3.mus 24 40 4 0 88 /tmp/kr2l
+
+MEASURE 28
+  LINE LH1
+  G  -2  2
+  REST   2
+
+MEASURE 28
+  LINE LH2
+  D  -1  2
+  REST   2
+
+MEASURE 28
+  LINE LH4
+  B  -1  2
+  REST   2
+
+
+MEASURE 29
+  LINE RH9
+  RH NOSKIPIG
+  G   2 16
+  D   3 16
+  D   3 16
+  C#  3 16
+  C#  3 16
+  Bb  2 16
+  Bb  2 16
+  A   2 16
+  G   2 16
+  D   3 16
+  D   3 16
+  C#  3 16
+  C#  3 16
+  Bb  2 16
+  Bb  2 16
+  A   2 16
+
+MEASURE 29
+  LINE TLRH9
+  TIELINE RH9 93
+  G   1 16
+  D   2 16
+  D   2 16
+  C#  2 16
+  C#  2 16
+  Bb  1 16
+  Bb  1 16
+  A   1 16
+  G   1 16
+  D   2 16
+  D   2 16
+  C#  2 16
+  C#  2 16
+  Bb  1 16
+  Bb  1 16
+  A   1 16
+
+MEASURE 29
+  LINE LH4
+  Bb  0 32
+  D   1 32
+  G   0 32
+  D   1 32
+  Bb  0 32
+  D   1 32
+  G   0 32
+  D   1 32
+  Bb  0 32
+  D   1 32
+  G   0 32
+  D   1 32
+  REST   8
+  Bb  0 32
+  D   1 32
+  G   0 32
+  D   1 32
+  Bb  0 32
+  D   1 32
+  G   0 32
+  D   1 32
+  Bb  0 32
+  D   1 32
+  G   0 32
+  D   1 32
+  REST   8
+
+MEASURE 30
+  LINE RH9
+  G   1 16
+  D   2 16
+  D   2 16
+  C#  2 16
+  C#  2 16
+  Bb  1 16
+  Bb  1 16
+  A   1 16
+  A   1 16
+  G   1 16
+  G   1 16
+  F#  1 16
+  F#  1 16
+  Eb  1 16
+  Eb  1 16
+  D   1 16
+  TRANSPOSE 12
+# kr2l tmp liszt-hr3.mus 18 40 8 0 88 /tmp/kr2l
+
+MEASURE 30
+  LINE TLRH9
+  G   1 16
+  D   2 16
+  D   2 16
+  C#  2 16
+  C#  2 16
+  Bb  1 16
+  Bb  1 16
+  A   1 16
+  A   1 16
+  G   1 16
+  G   1 16
+  F#  1 16
+  F#  1 16
+  Eb  1 16
+  Eb  1 16
+  D   1 16
+# kr2l tmp liszt-hr3.mus 18 40 8 0 88 /tmp/kr2l
+
+MEASURE 30
+  LINE LH3
+  REST   4  3
+  G  -1  4
+
+MEASURE 30
+  LINE LH2
+  REST   4  3
+  C#  0  4
+
+MEASURE 30
+  LINE LH4
+  Bb  0 32
+  D   1 32
+  G   0 32
+  D   1 32
+  Bb  0 32
+  D   1 32
+  G   0 32
+  D   1 32
+  Bb  0 32
+  D   1 32
+  G   0 32
+  D   1 32
+  REST   8  3
+  Bb  0  4
+
+
+MEASURE 31
+  LINE TLRH9
+  D   1 32  9
+  REST  32  23
+
+MEASURE 31
+  LINE RH9
+  D   2 32  9
+  F#  1 32
+  A   1 32
+  Bb  1 32
+  A   1 32
+  F#  1 32
+  Eb  1 32
+  D   1 32
+  F#  1 32
+  A   1 32
+  Bb  1 32
+  C#  2 32
+  D   2 32
+  Eb  2 32
+  D   2 32
+  F#  2 32
+  D   2 32
+  A   2 32
+  D   2 32
+  Bb  2 32
+  D   2 32
+  A   2 32
+  REST  16
+
+# kr2l tmp liszt-hr3.mus 31 40 4 0 88 /tmp/kr2l
+
+MEASURE 31
+  LINE LH3
+  F#  0  4
+  REST   4  3
+
+MEASURE 31
+  LINE LH4
+  A   0  4
+  REST   4  3
+
+MEASURE 32 =REPEAT 29
+MEASURE 33 =REPEAT 30
+
+MEASURE 34
+  LINE LH2
+  F# -1  4
+  RIPPLE
+  REST   4  3
+
+MEASURE 34
+  LINE LH4
+  A   0  4
+  REST   4  3
+# kr2l tmp liszt-hr3.mus 34 40 4 0 88 /tmp/kr2l
+
+MEASURE 34
+  LINE TLRH9
+  D   1  4
+  REST   4 3
+
+MEASURE 34
+  LINE RH9
+  D   2  4
+  REST   4 1 15
+  F#  0  4 1 15
+  A   0  4 1 15
+  Bb  0  4 1 15
+  C#  1  4 1 15
+  D   1  4 1 15
+  C#  1  4 1 15
+  Bb  0  4 1 15
+  A   0  4 1 15
+  F#  0  4 1 15
+  Eb  0  4 1 15
+  D   0  4 1 15
+  C#  0  4 1 15
+  Bb -1  4 1 15
+  A  -1  4 1 15
+  F# -1  8
+  REST   8
+  REST   4
+
+
+MEASURE 35
+  LINE RH9
+  RH SKIPIG
+  F#  0 16
+  G   0 16
+  A   0 16  3
+  C#  1 16
+  D   1 16
+  C#  1 16
+  Eb  1 16
+  D   1 16
+  D   1 16
+  C#  1 16
+  C#  1 16
+  Bb  0 16
+  Bb  0 16
+  A   0 16
+
+MEASURE 36
+  LINE RH9
+  A   0 16
+  G   0 16
+  F#  0 16
+  G   0 16
+  A   0 16
+  C#  1 16
+  D   1 16
+  C#  1 16
+  Eb  1 4 1 6
+  D   1 4 1 6
+  C#  1 4 1 6
+  Eb  1 4 1 6
+  D   1 4 1 6
+  C#  1 4 1 6
+  Eb  1 4 1 6
+  D   1 4 1 6
+  C#  1 4 1 6
+  Bb  0 4 1 6
+  A   0 4 1 6
+  G   0 4 1 6
+
+MEASURE 37
+  LINE RH9
+  F#  0 16
+  G   0 16
+  A   0 16  3
+  C#  1 16
+  D   1 16
+  C#  1 16
+  Eb  1 16
+  D   1 16
+  D   1 16
+  C#  1 16
+  C#  1 16
+  Bb  0 16
+  Bb  0 16
+  A   0 16
+
+MEASURE 38
+  LINE RH9
+  A   0 16
+  G   0 16
+  F#  0 16
+  G   0 16
+  A   0 16
+  Bb  0 16
+  F#  0 16
+  A   0 16
+  G   0  8
+  B   0  8
+  G   0  8
+  B   0  8
+
+MEASURE 39
+  LINE RH9
+  G   0  2
+  REST   2
+
+# kr2l tmp liszt-hr3.mus 35 30 4 0 88 /tmp/kr2l
+
+MEASURE 35
+  LINE LH2
+  REST   8
+  D  -1  8
+  D  -1  8
+  REST   4
+  Bb -1  8
+  Bb -1  8
+  REST   8
+
+MEASURE 35
+  LINE LH3
+  REST   8
+  F# -1  8
+  F# -1  8
+  REST   4
+  D   0  8
+  D   0  8
+  REST   8
+
+MEASURE 35
+  LINE LH4
+  REST   8
+  C   0  8
+  C   0  8
+  REST   4
+  G   0  8
+  G   0  8
+  REST   8
+
+MEASURE 36
+  LINE LH2
+  REST   8
+  D  -1  8
+  D  -1  8
+  REST   4
+  Bb -1  8
+  Bb -1  8
+  REST   8
+
+MEASURE 36
+  LINE LH3
+  REST   8
+  F# -1  8
+  F# -1  8
+  REST   4
+  D   0  8
+  D   0  8
+  REST   8
+
+MEASURE 36
+  LINE LH4
+  REST   8
+  C   0  8
+  C   0  8
+  REST   4
+  G   0  8
+  G   0  8
+  REST   8
+
+MEASURE 37
+  LINE LH2
+  REST   8
+  D  -1  8
+  D  -1  8
+  REST   4
+  Bb -1  8
+  Bb -1  8
+  REST   8
+
+MEASURE 37
+  LINE LH3
+  REST   8
+  F# -1  8
+  F# -1  8
+  REST   4
+  D   0  8
+  D   0  8
+  REST   8
+
+MEASURE 37
+  LINE LH4
+  REST   8
+  C   0  8
+  C   0  8
+  REST   4
+  G   0  8
+  G   0  8
+  REST   8
+# kr2l tmp liszt-hr3.mus 37 30 8 0 88 /tmp/kr2l
+
+MEASURE 38
+  LINE LH2
+  REST   8
+  Bb -2  8
+  REST   8
+  D  -1  8
+  G  -1  4
+  C  -1  4
+
+MEASURE 38
+  LINE LH3
+  REST   8
+  G  -1  8
+  REST   8
+  A  -1  8
+  B  -1  4
+  G  -1  4
+
+MEASURE 38
+  LINE LH4
+  REST   8
+  D   0  8
+  REST   8
+  C   0  8
+  D   0  4
+  E   0  4
+
+MEASURE 39
+  LINE LH2
+  G  -2  2
+  REST   2
+
+MEASURE 39
+  LINE LH3
+  D  -1  2
+  REST   2
+
+MEASURE 39
+  LINE LH4
+  B  -1  2
+  REST   2
+
+MEASURE 45 =REPEAT 7
+MEASURE 45 
+  LINE LH3
+  LCOPY LH4
+  TRANSPOSE -12
+
+# kr2l tmp liszt-hr3.mus 40 30 2 0 88 /tmp/kr2l
+
+MEASURE 40
+  LINE LH4
+  Bb -3  8  3
+  A  -3  8
+  C  -2  8
+  Bb -3  8
+  Bb -3  8
+  A  -3  8
+  LINE LH3
+  LCOPY LH4
+  TRANSPOSE -12
+# kr2l tmp liszt-hr3.mus 40 30 2 0 88 /tmp/kr2l
+
+MEASURE 40
+  LINE RH7
+  REST   4
+  F  -2  2
+  F  -2  4
+
+MEASURE 40
+  LINE RH8
+  RH SKIPIG
+  REST   4
+  C# -1  2
+  C# -1  4
+
+MEASURE 40
+  LINE RH9
+  REST   4
+  F  -1  2
+  F  -1  4
+# kr2l tmp liszt-hr3.mus 41 30 2 0 88 /tmp/kr2l
+
+MEASURE 41
+  LINE TLRH5
+  TIELINE RH6 95
+  REST   4  3
+  Bb -2  4
+
+MEASURE 41
+  LINE RH6
+  REST   4  3
+  D  -1  4
+
+MEASURE 41
+  LINE RH7
+  REST   4
+  F  -2  2
+  F  -1  4
+
+MEASURE 41
+  LINE RH8
+  REST   4
+  C# -1  2
+  Ab -1  4
+
+MEASURE 41
+  LINE RH9
+  REST   4
+  F  -1  2
+  Bb -1  4
+
+MEASURE 42
+  LINE TLRH5
+  TIELINE RH6 95
+  REST   4  3
+  Bb -2  4
+
+MEASURE 42
+  LINE RH6
+  REST   4
+  Bb -2  4
+  REST   4
+  D  -1  4
+
+MEASURE 42
+  LINE RH7
+  REST   4
+  Eb -1  4
+  REST   4
+  F  -1  4
+
+MEASURE 42
+  LINE RH8
+  REST   4
+  G  -1  4
+  REST   4
+  Ab -1  4
+
+MEASURE 42
+  LINE RH9
+  REST   4
+  Bb -1  4
+  REST   4
+  Bb -1  4
+
+MEASURE 43
+  LINE RH6
+  REST   4
+  Bb -2  4
+  Bb -2  8
+  REST   8  3
+
+MEASURE 43
+  LINE RH7
+  REST   4
+  Eb -1  4
+  Eb -1  8
+  REST   8  3
+
+MEASURE 43
+  LINE RH8
+  REST   4
+  G  -1  4
+  G  -1  8
+  REST   8  3
+
+MEASURE 43
+  LINE RH9
+  REST   4
+  Bb -1  4
+  Bb -1  8
+  REST   8  3
+
+MEASURE 44
+  LINE RH6
+  REST   4
+  C# -1  2
+  C# -1  4
+
+MEASURE 44
+  LINE RH7
+  REST   4
+  F  -1  2
+  F  -1  4
+
+MEASURE 44
+  LINE RH8
+  REST   4
+  Bb -1  2
+  Bb -1  4
+
+MEASURE 44
+  LINE RH9
+  REST   4
+  C#  0  2
+  C#  0  4
+# kr2l tmp liszt-hr3.mus 41 30 2 -12 88 /tmp/kr2l
+
+# kr2l tmp liszt-hr3.mus 41 30 4 -12 88 /tmp/kr2l
+
+MEASURE 41
+  LINE LH3
+  Bb -4 16
+  A  -4 16
+  Bb -4 16
+  C  -3 16
+  C# -3 16
+  C  -3 16
+  Bb -4 16
+  A  -4 16
+  Bb -4  8
+  REST   8
+  D  -3  4
+
+MEASURE 41
+  LINE LH4
+  Bb -3 16
+  A  -3 16
+  Bb -3 16
+  C  -2 16
+  C# -2 16
+  C  -2 16
+  Bb -3 16
+  A  -3 16
+  Bb -3  8
+  REST   8
+  D  -2  4
+
+MEASURE 42
+  LINE LH3
+  Eb -3  8  3
+  E  -3  8
+  F  -3  8
+  Ab -3  8
+  D  -3  8
+  F  -3  8
+
+MEASURE 42
+  LINE LH4
+  Eb -2  8  3
+  E  -2  8
+  F  -2  8
+  Ab -2  8
+  D  -2  8
+  F  -2  8
+
+MEASURE 43
+  LINE LH3
+  F  -3  8
+  Eb -3  8
+  F  -3  32 0
+  Eb -3  8
+  REST  16
+  D  -3 16
+  Eb -3  8
+  REST   8
+  E  -3  4
+
+MEASURE 43
+  LINE LH4
+  F  -2  8
+  Eb -2  8
+  F  -2  32 0
+  Eb -2  8
+  REST  16
+  D  -2 16
+  Eb -2  8
+  REST   8
+  E  -2  4
+
+MEASURE 44
+  LINE LH3
+  F  -3  8  3
+  E  -3  8
+  F  -3  8
+  G  -3  8
+  Ab -3 12
+  G  -3  6
+
+MEASURE 44
+  LINE LH4
+  F  -2  8  3
+  E  -2  8
+  F  -2  8
+  G  -2  8
+  Ab -2 12
+  G  -2  6
+# kr2l tmp liszt-hr3.mus 46 30 4 -12 88 /tmp/kr2l
+
+MEASURE 46
+  LINE LH3
+  Bb -4  8
+  REST  16
+  A  -4 16
+  Bb -4  4
+  C  -3  8
+  Eb -3  8
+  A  -4  8
+  C  -3  8
+
+MEASURE 46
+  LINE LH4
+  Bb -3  8
+  REST  16
+  A  -3 16
+  Bb -3  4
+  C  -2  8
+  Eb -2  8
+  A  -3  8
+  C  -2  8
+
+MEASURE 47
+  LINE LH3
+  REST   2
+  Bb -4  4
+  REST   4
+
+MEASURE 47
+  LINE LH4
+  Bb -3  4
+  E  -3  32 0
+  F  -3  4
+  Bb -3  4
+  REST   4
+# kr2l tmp liszt-hr3.mus 46 30 4 0 88 /tmp/kr2l
+
+MEASURE 46
+  LINE RH6
+  REST   4
+  F  -2  4
+  F  -2  4
+  F  -2  4
+
+MEASURE 46
+  LINE RH7
+  REST   2
+  A  -2  4
+  C  -1  4
+
+MEASURE 46
+  LINE RH8
+  REST   4
+  C# -1  4
+  Eb -1  4
+  Eb -1  4
+
+MEASURE 46
+  LINE RH9
+  REST   4
+  F  -1  4
+  F  -1  4
+  F  -1  4
+
+MEASURE 47
+  LINE RH6
+  F  -2  4
+  F  -2  4
+  F  -2  4
+  REST   4
+
+MEASURE 47
+  LINE RH7
+  REST   4
+  Bb -2  16 3
+  A  -2  16
+  Bb -2  4
+  REST   4
+
+MEASURE 47
+  LINE RH8
+  D  -1  4
+  D  -1  4
+  D  -1  4
+  REST   4
+
+MEASURE 47
+  LINE RH9
+  F  -1  4
+  F  -1  4
+  F  -1  4
+  REST   4
+# kr2l tmp liszt-hr3.mus 48 30 4 0 88 /tmp/kr2l
+
+MEASURE 48
+  LINE RH8
+  Bb -1  32 0
+  Bb -1  8  3
+  A  -1  8
+  C   0  8
+  Bb -1  8
+  Bb -1  8
+  A  -1  8
+
+MEASURE 48
+  LINE RH9
+  Bb  0  32 0
+  Bb  0  8  3
+  A   0  8
+  C   1  8
+  Bb  0  8
+  Bb  0  8
+  A   0  8
+
+MEASURE 49
+  LINE TLRH5
+  TIELINE RH6 95
+  REST   4  3
+  D   0  4
+
+MEASURE 49
+  LINE RH6
+  REST   4  3
+  F   0  4
+
+MEASURE 49
+  LINE RH7
+  REST   4  3
+  Ab  0  4
+
+MEASURE 49
+  LINE RH8
+  Bb -1 16
+  A  -1 16
+  Bb -1 16
+  C   0 16
+  C#  0 16
+  C   0 16
+  Bb -1 16
+  A  -1 16
+  Bb -1  4
+  Bb  0  4
+
+MEASURE 49
+  LINE RH9
+  Bb  0 16
+  A   0 16
+  Bb  0 16
+  C   1 16
+  C#  1 16
+  C   1 16
+  Bb  0 16
+  A   0 16
+  Bb  0  4
+  D   1  4
+
+MEASURE 50
+  LINE RH6
+  Eb  0  8  3
+  REST   8  5
+
+MEASURE 50
+  LINE RH7
+  G   0  8  3
+  REST   8  5
+
+MEASURE 50
+  LINE RH8
+  Bb  0  8  3
+  E   0  8
+  F   0  8
+  Ab  0  8
+  D   0  8
+  F   0  8
+
+MEASURE 50
+  LINE RH9
+  Eb  1  8  3
+  E   1  8
+  F   1  8
+  Ab  1  8
+  D   1  8
+  F   1  8
+
+MEASURE 51
+  LINE RH8
+  F   0  8
+  Eb  0  8
+  Eb  0  8   
+  D   0  8
+  Eb  0  8
+  REST   8
+  E   0  4
+
+MEASURE 51
+  LINE RH9
+  F   1  8
+  Eb  1  8
+  F   1 32  0
+  Eb  1  8   
+  D   1  8   
+  Eb  1  8
+  REST   8
+  E   1  4
+# kr2l tmp liszt-hr3.mus 52 30 4 0 88 /tmp/kr2l
+
+MEASURE 52
+  LINE RH9
+  RH NOSKIPIG
+  F   0  32 0
+  Bb  0  32 0
+  Db  1  32 0
+  F   1  8  3
+  E   1  8
+  F   1  8
+  G   1  8
+  Ab  1 16  3
+  TRILL Ab 1
+  G   1 16
+
+MEASURE 53
+  LINE RH9
+  RH SKIPIG
+  F   1 4 1 3
+  E   1 4 1 3
+  F   1 4 1 3
+  F#  1 4 1 3
+  F   1 4 1 3
+  Eb  1 4 1 3
+  C#  1 4 1 3
+  C   1 4 1 3
+  C#  1 4 1 3
+  Eb  1 4 1 3
+  C#  1 4 1 3
+  C   1 4 1 3 
+
+MEASURE 54
+  LINE RH9
+  Bb  0  32 0
+  C   1  32 0
+  Bb  0  8
+  REST  16
+  A   0 16
+  Bb  0  4
+  C   1  8
+  Eb  1  8
+  A   0  8
+  C   1  8
+
+# kr2l tmp liszt-hr3.mus 48 30 4 0 88 /tmp/kr2l
+
+MEASURE 48
+  LINE TLLH2
+  TIELINE LH3 95
+  REST   8
+  C# -1  4
+  C# -1  4
+  C# -1  4
+  C# -1  8
+
+MEASURE 48
+  LINE LH3
+  REST   8
+  F  -1  4
+  F  -1  4
+  F  -1  4
+  F  -1  8
+
+MEASURE 48
+  LINE LH4
+  REST   8
+  C#  0  4
+  C#  0  4
+  C#  0  4
+  C#  0  8
+
+MEASURE 49
+  LINE TLLH2
+  TIELINE LH3 95
+  REST   8
+  C# -1  4
+  C# -1  4
+  C# -1  8
+  REST   8
+  F  -1  8
+
+MEASURE 49
+  LINE LH3
+  REST   8
+  F  -1  4
+  F  -1  4
+  F  -1  8
+  REST   8
+  Ab -1  8
+
+MEASURE 49
+  LINE LH4
+  REST   8
+  C#  0  4
+  C#  0  4
+  C#  0  8
+  REST   8
+  D   0  8
+# kr2l tmp liszt-hr3.mus 50 30 4 0 88 /tmp/kr2l
+
+MEASURE 50
+  LINE TLLH2
+  TIELINE LH3 95
+  REST   8
+  G  -1  4
+  REST   4
+  F  -1  4
+  F  -1  8
+
+MEASURE 50
+  LINE LH3
+  REST   8
+  Bb -1  4
+  G  -1  8
+  REST   8
+  Ab -1  4
+  Ab -1  8
+
+MEASURE 50
+  LINE LH4
+  REST   8
+  Eb  0  4
+  Bb -1  8
+  REST   8
+  D   0  4
+  D   0  8
+
+MEASURE 51
+  LINE LH3
+  REST   8
+  G  -1  4
+  G  -1  4
+  REST   8  3
+
+MEASURE 51
+  LINE LH4
+  REST   8
+  Bb -1  4
+  Bb -1  4
+  REST   8  3
+# kr2l tmp liszt-hr3.mus 52 30 4 0 88 /tmp/kr2l
+
+MEASURE 52
+  LINE LH1a
+  REST   4
+  F  -1  2
+  F  -1  4
+  RIPPLE
+
+MEASURE 52
+  LINE LH2a
+  REST   4
+  Bb -1  2
+  Bb -1  4
+
+MEASURE 52
+  LINE LH3
+  REST   4
+  C#  0  2
+  C#  0  4
+
+MEASURE 52
+  LINE LH4
+  REST   4
+  F   0  2
+  F   0  4
+
+MEASURE 53
+  LINE LH4
+  REST   1
+# kr2l tmp liszt-hr3.mus 54 30 4 0 88 /tmp/kr2l
+
+MEASURE 54
+  LINE TLLH1
+  TIELINE LH4 92
+  REST   4
+  F  -1  4
+  REST   4
+  F  -1  4
+
+MEASURE 54
+  LINE TLLH2
+  TIELINE LH3 95
+  REST   4
+  Bb -1  4
+  REST   4
+  C   0  4
+
+MEASURE 54
+  LINE LH3
+  REST   4
+  C#  0  4
+  REST   4
+  Eb  0  4
+
+MEASURE 54
+  LINE LH4
+  REST   4
+  F   0  4
+  REST   4
+  F   0  4
+# kr2l tmp liszt-hr3.mus 48 30 4 0 88 /tmp/kr2l
+
+MEASURE 48
+  LINE LH1
+  Bb -3  8
+  REST   8  7
+
+MEASURE 48
+  LINE LH2
+  Bb -2  8
+  REST   8  7
+
+MEASURE 49
+  LINE LH1
+  Bb -3  8
+  REST   8  7
+
+MEASURE 49
+  LINE LH2
+  Bb -2  8
+  REST   8  5
+  Bb -2  8
+  REST   8
+# kr2l tmp liszt-hr3.mus 50 30 4 0 88 /tmp/kr2l
+
+MEASURE 50
+  LINE LH1
+  Eb -2  8
+  REST   8  3
+  Bb -3  8
+  REST   8  3
+
+MEASURE 50
+  LINE LH2
+  Eb -1  8
+  REST   8  3
+  Bb -2  8
+  REST   8  3
+
+MEASURE 51
+  LINE LH1
+  Eb -2  8
+  REST   8  7
+
+MEASURE 51
+  LINE LH2
+  Eb -1  8
+  REST   8  7
+
+MEASURE 52
+  LINE LH2
+  Bb -3  4
+  REST   4  3
+# kr2l tmp liszt-hr3.mus 54 30 4 0 88 /tmp/kr2l
+
+MEASURE 54
+  LINE LH2
+  F  -2  4
+  REST   4
+  F  -2  4
+  REST   4
+# kr2l tmp liszt-hr3.mus 55 30 4 0 88 /tmp/kr2l
+
+MEASURE 55
+  LINE LH1
+  APART
+  Bb -1  8
+  REST   8 7
+
+MEASURE 55
+  LINE LH2
+  C#  0  4
+  C#  0  4
+  C#  0  2
+
+MEASURE 55
+  LINE LH3
+  F   0  4
+  F   0  4
+  F   0  2
+
+MEASURE 55
+  LINE LH4
+  Bb  0  4
+  RIPPLE
+  Bb  0  16 3
+  A   0  16
+  Bb  0  2
+
+MEASURE 56
+  LINE LH2
+  Bb -1  4
+  RIPPLE
+  REST   4  3
+
+MEASURE 56
+  LINE LH3
+  Eb  0  4
+  Eb  0 16  3
+  C#  0 16
+  Eb  0  2
+
+MEASURE 56
+  LINE LH4
+  F#  0  4
+  F#  0 16  3
+  F   0 16
+  F#  0  2
+# kr2l tmp liszt-hr3.mus 57 30 4 0 88 /tmp/kr2l
+
+MEASURE 57
+  LINE TLLH2
+  TIELINE LH1 95
+  REST   4
+  Bb -1  2
+  Bb -1  4
+
+MEASURE 57
+  LINE LH1
+  REST   4
+  Eb  0  2
+  Eb  0  4
+
+MEASURE 57
+  LINE LH2
+  REST   4
+  F#  0  2
+  F#  0  4
+
+MEASURE 57
+  LINE LH3
+  REST   4
+  A   0  2
+  A   0  4
+
+MEASURE 57
+  LINE LH4
+  Bb -3  8
+  REST   8
+  B   0  2
+  B   0  4
+
+MEASURE 58
+  LINE TLLH2
+  TIELINE LH1 95
+  CARRY  4
+  Bb -1  4
+  REST   2
+
+MEASURE 58
+  LINE LH1
+  CARRY  4
+  Eb  0  4
+  Bb -1  2
+
+MEASURE 58
+  LINE LH2
+  CARRY  4
+  F#  0  4
+  Eb  0  2
+
+MEASURE 58
+  LINE LH3
+  CARRY  4
+  A   0  4
+  F#  0  2
+
+MEASURE 58
+  LINE LH4
+  CARRY  4
+  B   0  4
+  A   0  2
+  RIPPLE
+# kr2l tmp liszt-hr3.mus 55 30 4 0 88 /tmp/kr2l
+
+MEASURE 55
+  LINE RH9
+  REST  16
+  F   2 16
+  F   2 16
+  E   2 16
+  E   2 16
+  C#  2 16
+  C#  2 16
+  C   2 16
+  REST  16
+  Bb  1 16
+  Bb  1 16
+  A   1 16
+  A   1 16
+  Gb  1 16
+  Gb  1 16
+  F   1 16
+# kr2l tmp liszt-hr3.mus 56 30 4 0 88 /tmp/kr2l
+
+MEASURE 56
+  LINE RH8
+  REST  16
+  F#  2 16
+  F#  2 16
+  F   2 16
+  F   2 16
+  Eb  2 16
+  Eb  2 16
+  D   2 16
+  REST  16
+  Eb  2 16
+  Eb  2 16
+  C#  2 16
+  C#  2 16
+  C   2 16
+  C   2 16
+  B   1 16
+
+MEASURE 56
+  LINE RH9
+  REST  16
+  Bb  2 16
+  Bb  2 16
+  A   2 16
+  A   2 16
+  F#  2 16
+  F#  2 16
+  F   2 16
+  REST  16
+  F#  2 16
+  F#  2 16
+  F   2 16
+  F   2 16
+  E   2 16
+  E   2 16
+  Eb  2 16
+
+# kr2l tmp liszt-hr3.mus 57 30 4 0 88 /tmp/kr2l
+
+MEASURE 57
+  LINE RH8
+  REST  16
+  F#  2 16
+  F#  2 16
+  E   2 16
+  E   2 16
+  Eb  2 16
+  Eb  2 16
+  C#  2 16
+  C#  2 16
+  B   1 16
+  B   1 16
+  A   1 16
+  A   1 16
+  Ab  1 16
+  Ab  1 16
+  F#  1 16
+
+MEASURE 57
+  LINE RH9
+  REST  16
+  Eb  3 16
+  Eb  3 16
+  C#  3 16
+  C#  3 16
+  B   2 16
+  B   2 16
+  A   2 16
+  A   2 16
+  Ab  2 16
+  Ab  2 16
+  F#  2 16
+  F#  2 16
+  F   2 16
+  F   2 16
+  Eb  2 16
+# kr2l tmp liszt-hr3.mus 58 25 4 0 88 /tmp/kr2l
+
+MEASURE 58
+  LINE RH8
+  F#  1 16
+  E   1 16
+  E   1 16
+  Eb  1 16
+  Eb  1 16
+  C#  1 16
+  C#  1 16
+  B   0 16
+  B   0 16
+  REST  16  7
+
+MEASURE 58
+  LINE RH9
+  RH NOSKIPIG
+  Eb  2 16
+  C#  2 16
+  C#  2 16
+  B   1 16
+  B   1 16
+  A   1 16
+  A   1 16
+  Ab  1 16
+  Ab  1 2 1 30
+  F#  1 2 1 30
+  Eb  1 2 1 30
+  B   0 2 1 30
+  Bb  0 2 1 30
+  B   0 2 1 30
+  C   1 2 1 30
+  C#  1 2 1 30
+  D   1 2 1 30
+  Eb  1 2 1 30
+  E   1 2 1 30
+  F   1 2 1 30
+  F#  1 2 1 30
+  F   1 2 1 30
+  Ab  1 2 1 30
+  G   1 2 1 30
+  F#  1 2 1 30
+  F   1 2 1 30
+  F#  1 2 1 30
+  F   1 2 1 30
+  E   1 2 1 30
+  Eb  1 2 1 30
+  E   1 2 1 30
+  Eb  1 2 1 30
+  D   1 2 1 30
+  C#  1 2 1 30
+  D   1 2 1 30
+  C#  1 2 1 30
+  C   1 2 1 30
+  B   0 2 1 30
+# kr2l tmp liszt-hr3.mus 59 30 4 0 88 /tmp/kr2l
+
+# kr2l tmp liszt-hr3.mus 59 25 4 0 88 /tmp/kr2l
+
+MEASURE 59
+  LINE LH1
+  Bb -1  4
+  RIPPLE
+  REST   4  3
+
+MEASURE 59
+  LINE LH2
+  C#  0  4
+  C#  0  4
+  C#  0  2
+
+MEASURE 59
+  LINE LH3
+  F   0  4
+  F   0  4
+  F   0  2
+
+MEASURE 59
+  LINE LH4
+  Bb  0  4
+  Bb  0  16 3
+  A   0  16
+  Bb  0  2
+
+# kr2l tmp liszt-hr3.mus 60 30 4 0 88 /tmp/kr2l
+
+MEASURE 60
+  LINE LH1
+  Eb  0  4
+  RIPPLE
+  REST   4  3
+
+MEASURE 60
+  LINE LH2
+  Bb  0  4
+  REST   4  3
+
+MEASURE 60
+  LINE LH3
+  Eb  1  4
+  Eb  1 16  3
+  D   1 16
+  Eb  1  2
+
+MEASURE 60
+  LINE LH4
+  F#  1  4
+  F#  1 16  3
+  F   1 16
+  F#  1  2
+# kr2l tmp liszt-hr3.mus 60 30 4 0 88 /tmp/kr2l
+
+MEASURE 60
+  LINE TLLH1
+  TIELINE LH3 92
+  REST   4
+  Eb  0  4
+  Eb  0  2
+
+MEASURE 60
+  LINE TLLH2
+  TIELINE LH3 95
+  REST   4
+  Bb  0  4
+  Bb  0  2
+# kr2l tmp liszt-hr3.mus 60 30 4 0 88 /tmp/kr2l
+
+MEASURE 61
+  LINE TLLH1
+  TIELINE LH3 92
+  REST   4
+  Bb -1  2
+  Bb -1  4
+
+MEASURE 61
+  LINE LH1
+  REST   4
+  Eb  0  2
+  Eb  0  4
+
+MEASURE 61
+  LINE LH2
+  REST   4
+  F#  0  2
+  F#  0  4
+
+MEASURE 61
+  LINE LH3
+  REST   4
+  A   0  2
+  A   0  4
+
+MEASURE 61
+  LINE LH4
+  Bb -3  4
+  B   0  2
+  B   0  4
+
+MEASURE 62
+  LINE TLLH1
+  TIELINE LH3 92
+  CARRY  4
+  Bb -2  4
+  Bb -2  4
+  Bb -2  4
+
+MEASURE 62
+  LINE LH1
+  CARRY  4
+  Eb -1  4
+  Eb -1  4
+  Eb -1  4
+
+MEASURE 62
+  LINE LH2
+  CARRY  4
+  F# -1  4
+  F# -1  4
+  F# -1  4
+
+MEASURE 62
+  LINE LH3
+  CARRY  4
+  A  -1  4
+  A  -1  4
+  A  -1  4
+
+MEASURE 62
+  LINE LH4
+  CARRY  4
+  B  -1  4
+  B  -1  4
+  B  -1  4
+# kr2l tmp liszt-hr3.mus 63 30 4 0 88 /tmp/kr2l
+
+MEASURE 63
+  LINE LH1
+  Bb -2  4
+  F  -1  4
+  Bb -2  4
+  F  -1  4
+
+MEASURE 64
+  LINE LH1
+  Bb -2  4
+  F  -1  4
+  REST   2
+# kr2l tmp liszt-hr3.mus 63 30 4 0 88 /tmp/kr2l
+
+MEASURE 63
+  LINE LH2
+  REST  16
+  D   0 16
+  Bb -1 16
+  C#  0 16
+  REST  16
+  F   0 16
+  Bb -1 16
+  E   0 16
+  REST  16
+  D   0 16
+  Bb -1 16
+  C#  0 16
+  REST  16
+  F   0 16
+  Bb -1 16
+  E   0 16
+
+MEASURE 64
+  LINE LH2
+  REST  16
+  D   0 16
+  Bb -1 16
+  C#  0 16
+  REST  16
+  F   0 16
+  Bb -1 16
+  E   0 16
+  REST  16
+  F   0 16
+  Bb -1 16
+  E   0 16
+  REST  16
+  F   0 16
+  Bb -1 16
+  E   0 16
+
+MEASURE 65
+  LINE LH2
+  REST  16
+  F   0 16
+  Bb -1 16
+  E   0 16
+  F   0 16
+  Bb  0 16
+  C#  1 16
+  E   1 16
+  F   1 16
+  Bb  1 16
+  C#  2 16
+  E   2 16 
+  F   2  8
+  REST  8
+# kr2l tmp liszt-hr3.mus 66 30 4 0 88 /tmp/kr2l
+
+# kr2l tmp liszt-hr3.mus 66 30 4 0 88 /tmp/kr2l
+
+MEASURE 66
+  LINE LH3
+  REST   4
+  Bb -2  2
+  Bb -2  4
+
+MEASURE 67
+  LINE LH3
+  CARRY  1
+# kr2l tmp liszt-hr3.mus 66 30 4 0 88 /tmp/kr2l
+
+MEASURE 66
+  LINE LH2
+  REST  16 7
+  A  -2 16
+  REST  16 7
+  A  -2 16
+  
+MEASURE 66
+  LINE LH1
+  REST   2
+  F  -2  4
+  E  -2  32 0
+  F  -2  4
+
+MEASURE 67
+  LINE LH1
+  Bb -3  1
+
+MEASURE 67
+  LINE LH2
+  F  -2  1
+# kr2l tmp liszt-hr3.mus 59 30 4 0 88 /tmp/kr2l
+
+MEASURE 59
+  LINE RH9
+  RH SKIPIG
+  REST  16
+  F  -1 16
+  F  -1 16
+  E  -1 16
+  E  -1 16
+  C# -1 16
+  C# -1 16
+  C  -1 16
+  REST  16
+  Bb -2 16
+  Bb -2 16
+  A  -2 16
+  A  -2 16
+  F# -2 16
+  F# -2 16
+  F  -2 16
+
+# kr2l tmp liszt-hr3.mus 60 30 4 0 88 /tmp/kr2l
+
+MEASURE 60
+  LINE RH9
+  Bb -3 16
+  Bb -1 16
+  Bb -1 16
+  A  -1 16
+  A  -1 16
+  F# -1 16
+  F# -1 16
+  F  -1 16
+  REST  16
+  Eb -1 16
+  Eb -1 16
+  D  -1 16
+  D  -1 16
+  B  -2 16
+  B  -2 16
+  Bb -2 16
+
+# kr2l tmp liszt-hr3.mus 61 30 4 0 88 /tmp/kr2l
+
+MEASURE 61
+  LINE RH8
+  REST  16
+  F#  2 16
+  F#  2 16
+  E   2 16
+  E   2 16
+  Eb  2 16
+  Eb  2 16
+  C#  2 16
+  C#  2 16
+  B   1 16
+  B   1 16
+  A   1 16
+  A   1 16
+  Ab  1 16
+  Ab  1 16
+  F#  1 16
+
+MEASURE 61
+  LINE RH9
+  REST  16
+  F#  3 16
+  F#  3 16
+  E   3 16
+  E   3 16
+  Eb  3 16
+  Eb  3 16
+  C#  3 16
+  C#  3 16
+  B   2 16
+  B   2 16
+  A   2 16
+  A   2 16
+  Ab  2 16
+  Ab  2 16
+  F#  2 16
+
+MEASURE 62
+  LINE RH8
+  F#  1 16
+  E   1 16
+  E   1 16
+  Eb  1 16
+  Eb  1 16
+  C#  1 16
+  C#  1 16
+  B   0 16
+  B   0 16
+  A   0 16
+  A   0 16
+  Ab  0 16
+  Ab  0 16
+  F#  0 16
+  F#  0 16
+  F   0  16
+
+MEASURE 62
+  LINE RH9
+  F#  2 16
+  E   2 16
+  E   2 16
+  Eb  2 16
+  Eb  2 16
+  C#  2 16
+  C#  2 16
+  B   1 16
+  B   1 16
+  A   1 16
+  A   1 16
+  Ab  1 16
+  Ab  1 16
+  F#  1 16
+  F#  1 16
+  F   1 16
+# kr2l tmp liszt-hr3.mus 63 25 4 0 88 /tmp/kr2l
+
+MEASURE 63
+  LINE TLRH9
+  TIELINE RH9 85
+  TOGETHER
+  REST  16
+  Bb  0 16
+  F   0 16
+  Bb  0 16
+  REST  16
+  Bb  0 16
+  F   0 16
+  Bb  0 16
+  REST  16
+  Bb  0 16
+  F   0 16
+  Bb  0 16
+  REST  16
+  Bb  0 16
+  F   0 16
+  Bb  0 16
+
+MEASURE 63
+  LINE RH9
+  REST  16
+  F   1 16
+  F   1 16
+  E   1 16
+  E   1 16
+  D   1 16
+  D   1 16
+  C#  1 16
+  REST  16
+  F   1 16
+  F   1 16
+  E   1 16
+  E   1 16
+  D   1 16
+  D   1 16
+  C#  1 16
+# kr2l tmp liszt-hr3.mus 64 25 4 0 88 /tmp/kr2l
+
+MEASURE 64
+  LINE TLRH9
+  TIELINE RH9 85
+  REST  16
+  Bb  0 16
+  F   0 16
+  Bb  0 16
+  REST  16
+  Bb  0 16
+  F   0 16
+  Bb  0 16
+  REST  16
+  Bb  0 16
+  F   0 16
+  Bb  0 16
+  REST  16
+  Bb  0 16
+  F   0 16
+  Bb  0 16
+
+MEASURE 64
+  LINE RH9
+  REST  16
+  F   1 16
+  F   1 16
+  E   1 16
+  E   1 16
+  D   1 16
+  D   1 16
+  C#  1 16
+  E   1 16
+  D   1 16
+  D   1 16
+  C#  1 16
+  E   1 16
+  D   1 16
+  D   1 16
+  C#  1 16
+
+MEASURE 65
+  LINE TLRH9
+  TIELINE RH9 85
+  REST  16
+  Bb  0 16
+  F   0 16
+  Bb  0 16
+  REST   4  3
+
+MEASURE 65
+  LINE RH9
+  E   1 16
+  D   1 16
+  D   1 16
+  C#  1 16
+  D   1 16
+  F   1 16
+  Bb  1 16
+  C#  2 16
+  D   2 16
+  F   2 16
+  Bb  2 16
+  C#  3 16
+  D   3  8
+  REST   8
+# kr2l tmp liszt-hr3.mus 66 25 4 0 88 /tmp/kr2l
+
+MEASURE 66
+  LINE RH6
+  REST   4
+  F  -1  2
+  F  -1  4
+
+MEASURE 66
+  LINE RH7
+  REST   4
+  Bb -1  16 3
+  A  -1  16
+  Bb -1  4
+  Bb -1  16 3
+  A  -1  16
+
+MEASURE 66
+  LINE RH8
+  REST   4
+  D   0  2
+  D   0  4
+
+MEASURE 66
+  LINE RH9
+  REST   4
+  F   0  2
+  F   0  4
+
+MEASURE 67
+  LINE RH6
+  CARRY  1
+
+MEASURE 67
+  LINE RH7
+  Bb -1  1
+
+MEASURE 67
+  LINE RH8
+  CARRY  1
+
+MEASURE 67
+  LINE RH9
+  CARRY  1

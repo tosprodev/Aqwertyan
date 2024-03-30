@@ -1,0 +1,448 @@
+NAME Bingo
+
+MEASURE 1
+  METER  2 4
+  KEY 1#
+  TEMPO 8 80
+
+
+# kr2l tmp bingo.mus 1 160 8 0 88 /tmp/kr2l
+
+MEASURE 1
+  LINE RH9
+  REST   8  3
+  D   0  8
+
+MEASURE 2
+  LINE RH9
+  G   0  8
+  G   0  8
+  D   0  8
+  D   0  8
+
+MEASURE 3
+  LINE RH9
+  E   0  8
+  E   0  8
+  D   0  8
+  D   0  8
+
+MEASURE 4
+  LINE RH9
+  G   0  8
+  G   0  8
+  A   0  8
+  A   0  8
+
+MEASURE 5
+  LINE RH9
+  B   0  4
+  G   0  4
+
+MEASURE 6
+  LINE RH9
+  B   0  4
+  B   0  4
+
+MEASURE 7
+  LINE RH9
+  C   1  8
+  C   1  8
+  C   1  4
+
+MEASURE 8
+  LINE RH9
+  A   0  4
+  A   0  4
+
+MEASURE 9
+  LINE RH9
+  B   0 32  3
+  B   0 32  5
+  B   0  4
+
+MEASURE 10
+  LINE RH9
+  G   0  4
+  G   0  4
+
+MEASURE 11
+  LINE RH9
+  A   0  8
+  A   0  8
+  A   0  8
+  G   0  8
+
+MEASURE 12
+  LINE RH9
+  F#  0  8
+  D   0  8
+  E   0  8
+  F#  0  8
+
+MEASURE 13
+  LINE RH9
+  G   0  4
+  G   0  8
+  D   0  8
+
+MEASURE 14
+  LINE RH9
+  G   0  8
+  G   0  8
+  D   0  8
+  D   0  8
+
+MEASURE 15
+  LINE RH9
+  E   0  8
+  E   0  8
+  D   0  8
+  D   0  8
+
+MEASURE 16
+  LINE RH9
+  G   0  8
+  G   0  8
+  A   0 32  3
+  A   0 32  5
+
+MEASURE 17
+  LINE RH9
+  B   0  4
+  G   0  4
+
+MEASURE 18
+  LINE RH9
+  PHANTOM 4
+  B   0  4
+
+MEASURE 19
+  LINE RH9
+  C   1  8
+  C   1  8
+  C   1  4
+
+MEASURE 20
+  LINE RH9
+  PHANTOM 4
+  A   0  4
+
+MEASURE 21
+  LINE RH9
+  B   0  8
+  B   0  8
+  B   0  4
+
+MEASURE 22
+  LINE RH9
+  PHANTOM 4
+  G   0  4
+
+MEASURE 23
+  LINE RH9
+  A   0  8
+  A   0  8
+  A   0  8
+  G   0  8
+
+MEASURE 24
+  LINE RH9
+  F#  0  8
+  D   0  8
+  E   0  8
+  F#  0  8
+
+MEASURE 25
+  LINE RH9
+  G   0  4
+  G   0  4
+# kr2l tmp bingo.mus 2 116 8 0 88 /tmp/kr2l
+
+MEASURE 2
+  LINE TLRH6
+  TIELINE RH9 85
+  G  -2  4
+  REST   4
+
+MEASURE 2
+  LINE TLRH7
+  TIELINE RH9 85
+  D  -1  4
+  B  -2  4
+
+MEASURE 2
+  LINE TLRH8
+  TIELINE RH9 85
+  B  -1  4
+  G  -1  4
+
+MEASURE 3
+  LINE TLRH7
+  TIELINE RH9 85
+  C  -1  4
+  D  -1  4
+
+MEASURE 3
+  LINE TLRH8
+  TIELINE RH9 85
+  G  -1  4
+  F# -1  4
+
+MEASURE 4
+  LINE TLRH7
+  TIELINE RH9 85
+  B  -2  4
+  A  -2  4
+
+MEASURE 4
+  LINE TLRH8
+  TIELINE RH9 85
+  G  -1  4
+  F# -1  4
+
+MEASURE 5
+  LINE TLRH7
+  TIELINE RH9 85
+  G  -2  2
+
+MEASURE 5
+  LINE TLRH8
+  TIELINE RH9 85
+  G  -1  2
+
+MEASURE 6
+  LINE TLRH7
+  TIELINE RH9 85
+  E  -1  4
+  REST   4
+
+MEASURE 6
+  LINE TLRH8
+  TIELINE RH9 85
+  G  -1  4
+  D  -1  4
+
+MEASURE 7
+  LINE TLRH7
+  TIELINE RH9 85
+  C  -1  2
+
+MEASURE 7
+  LINE TLRH8
+  TIELINE RH9 85
+  A  -1  2
+
+MEASURE 8
+  LINE TLRH7
+  TIELINE RH9 85
+  D  -1  4
+  REST   4
+
+MEASURE 8
+  LINE TLRH8
+  TIELINE RH9 85
+  F# -1  4
+  C  -1  4
+
+MEASURE 9
+  LINE TLRH7
+  TIELINE RH9 85
+  B  -2  2
+
+MEASURE 9
+  LINE TLRH8
+  TIELINE RH9 85
+  G  -1  2
+
+MEASURE 10
+  LINE TLRH7
+  TIELINE RH9 85
+  C  -1  4
+  REST   4
+
+MEASURE 10
+  LINE TLRH8
+  TIELINE RH9 85
+  E  -1  4
+  B  -2  4
+
+MEASURE 11
+  LINE TLRH7
+  TIELINE RH9 85
+  A  -2  4
+  REST   4
+
+MEASURE 11
+  LINE TLRH8
+  TIELINE RH9 85
+  E  -1  4
+  G  -1  4
+
+MEASURE 12
+  LINE TLRH7
+  TIELINE RH9 85
+  D  -1  8
+  REST   8  3
+
+MEASURE 12
+  LINE TLRH8
+  TIELINE RH9 85
+  A  -1  8
+  F# -1  8
+  G  -1  8
+  A  -1  8
+
+MEASURE 13
+  LINE TLRH7
+  TIELINE RH9 85
+  G  -2  4
+  G  -2  4
+
+MEASURE 13
+  LINE TLRH8
+  TIELINE RH9 85
+  E  -1  4
+  D  -1  4
+
+MEASURE 14
+  LINE TLRH7
+  TIELINE RH9 85
+  G  -2  4
+  B  -2  4
+
+MEASURE 14
+  LINE TLRH8
+  TIELINE RH9 85
+  D  -1  4
+  G  -1  4
+
+MEASURE 15
+  LINE TLRH7
+  TIELINE RH9 85
+  C  -1  4
+  D  -1  4
+
+MEASURE 15
+  LINE TLRH8
+  TIELINE RH9 85
+  G  -1  4
+  F# -1  4
+
+MEASURE 16
+  LINE TLRH7
+  TIELINE RH9 85
+  B  -2  4
+  A  -2  4
+
+MEASURE 16
+  LINE TLRH8
+  TIELINE RH9 85
+  G  -1  4
+  F# -1  4
+
+MEASURE 17
+  LINE TLRH7
+  TIELINE RH9 85
+  G  -2  2
+
+MEASURE 17
+  LINE TLRH8
+  TIELINE RH9 85
+  G  -1  2
+
+MEASURE 18
+  LINE TLRH7
+  TIELINE RH9 85
+  E  -1  4
+  REST   4
+
+MEASURE 18
+  LINE TLRH8
+  TIELINE RH9 85
+  G  -1  4
+  D  -1  4
+
+MEASURE 19
+  LINE TLRH7
+  TIELINE RH9 85
+  C  -1  2
+
+MEASURE 19
+  LINE TLRH8
+  TIELINE RH9 85
+  A  -1  2
+
+MEASURE 20
+  LINE TLRH7
+  TIELINE RH9 85
+  D  -1  4
+  REST   4
+
+MEASURE 20
+  LINE TLRH8
+  TIELINE RH9 85
+  F# -1  4
+  C  -1  4
+
+MEASURE 21
+  LINE TLRH7
+  TIELINE RH9 85
+  B  -2  2
+
+MEASURE 21
+  LINE TLRH8
+  TIELINE RH9 85
+  G  -1  2
+
+MEASURE 22
+  LINE TLRH7
+  TIELINE RH9 85
+  C  -1  4
+  REST   4
+
+MEASURE 22
+  LINE TLRH8
+  TIELINE RH9 85
+  E  -1  4
+  B  -2  4
+
+MEASURE 23
+  LINE TLRH7
+  TIELINE RH9 85
+  A  -2  4
+  REST   4
+
+MEASURE 23
+  LINE TLRH8
+  TIELINE RH9 85
+  E  -1  4
+  G  -1  4
+
+# kr2l tmp bingo.mus 24 116 8 0 88 /tmp/kr2l
+
+MEASURE 24
+  LINE TLRH7
+  TIELINE RH9 85
+  D  -1  8
+  REST   8  3
+
+MEASURE 24
+  LINE TLRH8
+  TIELINE RH9 85
+  A  -1  8
+  F# -1  8
+  G  -1  8
+  A  -1  8
+
+MEASURE 25
+  LINE TLRH7
+  TIELINE RH9 85
+  G  -2  4
+  G  -2  4
+
+MEASURE 25
+  LINE TLRH8
+  TIELINE RH9 85
+  E  -1  4
+  D  -1  4

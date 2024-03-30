@@ -1,0 +1,3748 @@
+
+NAME Rachmaninoff Elegie Opus 3/1
+
+MEASURE 1
+METER 4 4
+TEMPO 4 60
+KEY 6b
+MARK Beginning
+
+
+MEASURE 3
+  LINE RH9
+  REST   2
+  Gb  1  2
+
+MEASURE 4
+  LINE RH9
+  CARRY  4  3
+  F   1  4
+
+MEASURE 5
+  LINE RH9
+  CARRY  8
+  D   1  4
+  Eb  1 16
+  F   1 16
+  Eb  1  2
+
+MEASURE 6
+  LINE RH9
+  CARRY  8
+  Bb  0  4
+  Cb  1  8
+  Db  1  2
+
+MEASURE 7
+  LINE RH9
+  CARRY  8
+  Eb  1 16
+  Db  1 16
+  Cb  1  2
+  Bb  0  4
+
+MEASURE 8
+  LINE RH9
+  CARRY  4
+  Ab  0  2
+  Gb  0  4
+
+MEASURE 9
+  LINE RH9
+  Eb  0  1
+# kr2l tmp rach3-1.mus 1 30 4 0 88 /tmp/kr2l
+
+MEASURE 1
+  LINE TLLH2
+  TIELINE LH4 95
+  APART
+  Eb -3  8
+  REST   8  7
+
+MEASURE 1
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Gb -1  8
+  Eb  0  8
+  Bb  0  8
+  Eb  0  8
+  Gb -1  8
+  Bb -2  8
+
+MEASURE 2
+  LINE TLLH2
+  Eb -3  8
+  REST   8  7
+
+MEASURE 2
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Gb -1  8
+  Eb  0  8
+  Bb  0  8
+  Eb  0  8
+  Gb -1  8
+  Bb -2  8
+
+MEASURE 3
+  LINE TLLH2
+  Eb -3  8
+  REST   8  7
+
+MEASURE 3
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Gb -1  8
+  Eb  0  8
+  Bb  0  8
+  Eb  0  8
+  Gb -1  8
+  Bb -2  8
+
+MEASURE 4
+  LINE TLLH2
+  Eb -3  8
+  REST   8  7
+
+MEASURE 4
+  LINE LH4
+  Eb -2  8
+  Cb -1  8
+  Ab -1  8
+  D   0  8
+  Ab  0  8
+  D   0  8
+  Ab -1  8
+  Cb -1  8
+
+MEASURE 5
+  LINE TLLH2
+  Eb -3  8
+  REST   8  7
+
+MEASURE 5
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Gb -1  8
+  Eb  0  8
+  Bb  0  8
+  Eb  0  8
+  Gb -1  8
+  Bb -2  8
+
+MEASURE 6
+  LINE TLLH2
+  Eb -3  8
+  REST   8  7
+
+MEASURE 6
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  G  -1  8
+  Db  0  8
+  G   0  8
+  Db  0  8
+  G  -1  8
+  Bb -2  8
+
+MEASURE 7
+  LINE LH4
+  Ab -3  8
+  Ab -2  8
+  Eb -1  8
+  Cb  0  8
+  Ab  0  8
+  Cb  0  8
+  Eb -1  8
+  Ab -2  8
+
+MEASURE 8
+  LINE LH4
+  Bb -3  8
+  Bb -2  8
+  Ab -1  8
+  D   0  8
+  Bb  0  8
+  D   0  8
+  Ab -1  8
+  Bb -2  8
+
+MEASURE 9
+  LINE LH4
+  Cb -2  8
+  Cb -1  8
+  Gb -1  8
+  Cb  0  8
+  Gb  0  8
+  Cb  0  8
+  Gb -1  8
+  Cb -1  8
+# kr2l tmp rach3-1.mus 10 30 4 0 88 /tmp/kr2l
+
+MEASURE 10
+  LINE LH4
+  Ab -3  8
+  Ab -2  8
+  F  -1  8
+  Cb  0  8
+  Eb  0  8
+  Cb  0  8
+  F  -1  8
+  Ab -2  8
+
+MEASURE 11
+  LINE TLLH2
+  Eb -3  8
+  REST   8  7
+
+MEASURE 11
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Gb -1  8
+  Eb  0  8
+  Bb  0  8
+  Eb  0  8
+  Gb -1  8
+  Bb -2  8
+# kr2l tmp rach3-1.mus 12 30 4 0 88 /tmp/kr2l
+
+MEASURE 12
+  LINE TLLH2
+  Eb -3  8
+  REST   8  7
+
+MEASURE 12
+  LINE LH4
+  Eb -2  8
+  Cb -1  8
+  Ab -1  8
+  D   0  8
+  Ab  0  8
+  D   0  8
+  Ab -1  8
+  Cb -1  8
+
+MEASURE 13
+  LINE TLLH2
+  Eb -3  8
+  REST   8  7
+
+MEASURE 13
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Gb -1  8
+  Eb  0  8
+  Bb  0  8
+  Eb  0  8
+  Gb -1  8
+  Bb -2  8
+
+MEASURE 14
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Gb -1  8
+  Eb  0  8
+  D  -2  8
+  Bb -2  8
+  Gb -1  8
+  D   0  8
+
+MEASURE 15
+  LINE LH4
+  Db -2  8
+  Db -1  8
+  Bb -1  8
+  Gb  0  8
+  Bb  0  8
+  Gb  0  8
+  Bb -1  8
+  Db -1  8
+
+# kr2l tmp rach3-1.mus 16 30 4 0 88 /tmp/kr2l
+
+MEASURE 16
+  LINE LH4
+  Db -2  8
+  Db -1  8
+  F  -1  8
+  Cb  0  8
+  Db  1  8
+  Cb  0  8
+  F  -1  8
+  Db -1  8
+
+MEASURE 17
+  LINE TLLH2
+  Gb -3  8
+  REST   8  7
+
+MEASURE 17
+  LINE LH4
+  Gb -2  8
+  Db -1  8
+  Gb -1  8
+  Bb -1  8
+  Eb  0  8
+  Db  0  8
+  Bb -1  8
+  Gb -1  8
+
+# kr2l tmp rach3-1.mus 18 30 4 0 88 /tmp/kr2l
+
+MEASURE 18
+  LINE TLLH2
+  Ab -3  8
+  REST   8  7
+
+MEASURE 18
+  LINE LH4
+  Ab -2  8
+  F  -1  8
+  Cb  0  8
+  Eb  0  8
+  PHANTOM 8
+  Eb  0  8
+  Cb  0  8
+  F  -1  8
+
+MEASURE 19
+  LINE TLLH2
+  Bb -3  8
+  REST   8  7
+
+MEASURE 19
+  LINE LH4
+  Bb -2  8
+  F  -1  8
+  Bb -1  8
+  D   0  8
+  Gb  0  8
+  F   0  8
+  D   0  8
+  Bb -1  8
+
+MEASURE 20
+  LINE LH4
+  F  -2  8
+  Eb -1  8
+  Ab -1  8
+  Cb  0  8
+  Gb  0  8
+  F   0  8
+  Cb  0  8
+  Ab -1  8
+
+MEASURE 21
+  LINE TLLH2
+  Bb -3  8
+  REST   8  7
+
+MEASURE 21
+  LINE LH4
+  Bb -2  8
+  F  -1  8
+  Bb -1  8
+  D   0  8
+  Gb  0  8
+  F   0  8
+  D   0  8
+  Bb -1  8
+# kr2l tmp rach3-1.mus 22 30 4 0 88 /tmp/kr2l
+
+MEASURE 22
+  LINE LH4
+  Ab -2  8
+  F  -1  8
+  Bb -1  8
+  D   0  8
+  Gb  0  8
+  F   0  8
+  D   0  8
+  Bb -1  8
+
+MEASURE 23
+  LINE LH4
+  Gb -2  8
+  Bb -1  8
+  Eb  0  8
+  Gb  0  8
+  Cb  1  8
+  Bb  0  8
+  Gb  0  8
+  Eb  0  8
+# kr2l tmp rach3-1.mus 24 30 4 0 88 /tmp/kr2l
+
+MEASURE 24
+  LINE TLLH2
+  C  -2  8
+  REST   8  7
+
+MEASURE 24
+  LINE LH4
+  C  -1  8
+  Bb -1  8
+  Eb  0  8
+  Gb  0  8
+  Db  1  8
+  C   1  8
+  Gb  0  8
+  Eb  0  8
+
+MEASURE 25
+  LINE LH4
+  F  -2  8
+  C  -1  8
+  A  -1  8
+  C   0  8
+  A   0  8
+  C   0  8
+  A  -1  8
+  C  -1  8
+# kr2l tmp rach3-1.mus 26 30 4 0 88 /tmp/kr2l
+
+MEASURE 26
+  LINE TLLH2
+  A  -3  8
+  REST   8  7
+
+MEASURE 26
+  LINE LH4
+  A  -2  8
+  Gb -1  8
+  Eb  0  8
+  Gb  0  8
+  Eb  1  8
+  Gb  0  8
+  Eb  0  8
+  Gb -1  8
+
+# kr2l tmp rach3-1.mus 27 30 4 0 88 /tmp/kr2l
+
+MEASURE 27
+  LINE TLLH2
+  Bb -3  8
+  REST   8  7
+
+MEASURE 27
+  LINE LH4
+  Bb -2  8
+  F  -1  8
+  Db  0  8
+  F   0  8
+  Db  1  8
+  F   0  8
+  Db  0  8
+  F  -1  8
+
+# kr2l tmp rach3-1.mus 28 30 4 0 88 /tmp/kr2l
+
+MEASURE 28
+  LINE TLLH2
+  F  -3  8
+  REST   8  7
+
+MEASURE 28
+  LINE LH4
+  F  -2  8
+  D  -1  8
+  Cb  0  8
+  D   0  8
+  Cb  1  8
+  D   0  8
+  Cb  0  8
+  D  -1  8
+
+MEASURE 29
+  LINE TLLH2
+  Gb -3  8
+  REST   8  7
+
+MEASURE 29
+  LINE LH4
+  Gb -2  8
+  Eb -1  8
+  Bb -1  8
+  Eb  0  8
+  Bb  0  8
+  Eb  0  8
+  Bb -1  8
+  Eb -1  8
+
+MEASURE 30
+  LINE TLLH2
+  Ab -3  8
+  REST   8  7
+
+MEASURE 30
+  LINE LH4
+  Ab -2  8
+  F  -1  8
+  Cb  0  8
+  Eb  0  8
+  Cb  1  8
+  Eb  0  8
+  Cb  0  8
+  F  -1  8
+
+# kr2l tmp rach3-1.mus 31 30 4 0 88 /tmp/kr2l
+
+MEASURE 31
+  LINE LH4
+  Bb -3  8
+  Bb -2  8
+  Gb -1  8
+  Eb  0  8
+  PHANTOM 8
+  Eb  0  8
+  Gb -1  8
+  Bb -2  8
+
+# kr2l tmp rach3-1.mus 32 30 4 0 88 /tmp/kr2l
+
+MEASURE 32
+  LINE LH4
+  Bb -3  8
+  Bb -2  8
+  Ab -1  8
+  D   0  8
+  Bb  0  8
+  D   0  8
+  Ab -1  8
+  Bb -2  8
+
+MEASURE 33
+  LINE TLLH2
+  Eb -3  8
+  REST   8  7
+
+MEASURE 33
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Gb -1  8
+  Eb  0  8
+  PHANTOM 8
+  Eb  0  8
+  Gb -1  8
+  Bb -2  8
+
+MEASURE 34
+  LINE TLLH2
+  Eb -3  8
+  REST   8  7
+
+MEASURE 34
+  LINE LH4
+  Eb -2  8
+  Cb -1  8
+  Ab -1  8
+  D   0  8
+  Ab  0  8
+  D   0  8
+  Ab -1  8
+  Cb -1  8
+
+MEASURE 35
+  LINE TLLH2
+  Eb -3  8
+  REST   8  7
+
+MEASURE 35
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Gb -1  8
+  Eb  0  8
+  Bb  0  8
+  Eb  0  8
+  Gb -1  8
+  Bb -2  8
+# kr2l tmp rach3-1.mus 36 30 4 0 88 /tmp/kr2l
+
+MEASURE 36
+  LINE TLLH2
+  Eb -3  8
+  REST   8  7
+
+MEASURE 36
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  G  -1  8
+  Db  0  8
+  G   0  8
+  Db  0  8
+  G  -1  8
+  Bb -2  8
+
+MEASURE 37
+  LINE LH4
+  Ab -3  8
+  Ab -2  8
+  Eb -1  8
+  Cb  0  8
+  Ab  0  8
+  Cb  0  8
+  Eb -1  8
+  Ab -2  8
+
+MEASURE 38
+  LINE LH4
+  Bb -3  8
+  Bb -2  8
+  Ab -1  8
+  D   0  8
+  Bb  0  8
+  D   0  8
+  Ab -1  8
+  Bb -2  8
+# kr2l tmp rach3-1.mus 39 30 4 0 88 /tmp/kr2l
+
+MEASURE 39
+  LINE TLLH2
+  Eb -3  8
+  REST   8  7
+
+MEASURE 39
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Gb -1  8
+  Eb  0  8
+  Bb  0  8
+  Eb  0  8
+  Gb -1  8
+  Bb -2  8
+
+MEASURE 40
+  LINE TLLH2
+  Eb -3  8
+  REST   8  7
+
+MEASURE 40
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Gb -1  8
+  Eb  0  8
+  Bb  0  8
+  Eb  0  8
+  Gb -1  8
+  Bb -2  8
+# kr2l tmp rach3-1.mus 10 36 4 0 88 /tmp/kr2l
+
+MEASURE 10
+  LINE TLRH7
+  TIELINE RH8 95
+  REST  12
+  Cb  0 12
+  Eb  0 12
+  F   0 12
+  Gb  0 12
+  Ab  0 12
+  Cb  1 16  7
+  Bb  0 16
+
+MEASURE 10
+  LINE RH8
+  REST  12
+  F   0 12
+  Gb  0 12
+  Ab  0 12
+  Bb  0 12
+  Cb  1 12
+  Ab  1 16  7
+  Gb  1 16
+
+# kr2l tmp rach3-1.mus 11 36 4 0 88 /tmp/kr2l
+
+MEASURE 11
+  LINE TLRH7
+  TIELINE RH8 95
+  Bb  0  2
+  REST   2
+
+MEASURE 11
+  LINE RH8
+  Gb  1  2
+  Gb  1  2
+
+MEASURE 12
+  LINE RH8
+  CARRY  4
+  F   1 4 1 5
+  Gb  1 4 1 5
+  F   1 4 1 5
+  Eb  1 4 1 5
+  F   1 4 1 5
+  Gb  1  8  3
+  F   1  8
+
+# kr2l tmp rach3-1.mus 13 36 4 0 88 /tmp/kr2l
+
+MEASURE 13
+  LINE RH8
+  CARRY  8
+  D   1  4
+  Eb  1 16
+  F   1 16
+  Eb  1  2
+
+MEASURE 14
+  LINE RH8
+  CARRY  4
+  Bb  0  2
+  Cb  1  4
+
+MEASURE 15
+  LINE RH8
+  Db  1  1
+
+MEASURE 16
+  LINE RH7
+  REST   4
+  Eb  0  2
+  Db  0  4
+
+MEASURE 16
+  LINE RH8
+  CARRY  8
+  Eb  1 16
+  Db  1 16
+  Cb  1  2
+  Bb  0  4
+
+MEASURE 17
+  LINE RH7
+  Bb -1  1
+
+MEASURE 17
+  LINE RH8
+  Gb  0  1
+
+MEASURE 18
+  LINE TLRH7
+  TIELINE RH8 95
+  REST   2
+  Eb  0  4
+  F   0  4
+
+MEASURE 18
+  LINE RH8
+  REST   4
+  F   0  4
+  Gb  0  4
+  Ab  0  4
+
+MEASURE 19
+  LINE TLRH7
+  TIELINE RH8 95
+  D   0  1
+
+MEASURE 19
+  LINE RH8
+  Bb  0  1
+
+MEASURE 20
+  LINE TLRH7
+  TIELINE RH8 95
+  REST   8
+  Ab  0  8
+  Bb  0  4 1 3
+  Cb  1  4 1 3
+  Db  1  4 1 3
+  Gb  1  8  3
+  F   1  8
+
+MEASURE 20
+  LINE RH8
+  REST   8
+  Cb  1  8
+  Db  1  4 1 3
+  Eb  1  4 1 3
+  F   1  4 1 3
+  Bb  1  8  3
+  Ab  1  8
+# kr2l tmp rach3-1.mus 21 36 4 0 88 /tmp/kr2l
+
+MEASURE 21
+  LINE TLRH7
+  TIELINE RH8 95
+  Bb  0  1
+
+MEASURE 21
+  LINE RH8
+  D   1  1
+
+MEASURE 22
+  LINE TLRH7
+  TIELINE RH8 95
+  REST   2
+  Bb  0  2
+
+MEASURE 22
+  LINE RH8
+  REST   4
+  Bb  0  4
+  C   1  4
+  D   1  4
+
+MEASURE 23
+  LINE TLRH6
+  TIELINE RH8 92
+  Gb  0  1
+
+MEASURE 23
+  LINE TLRH7
+  TIELINE RH8 95
+  Bb  0  1
+
+MEASURE 23
+  LINE RH8
+  Eb  1  1
+
+# kr2l tmp rach3-1.mus 24 36 4 0 88 /tmp/kr2l
+
+MEASURE 24
+  LINE TLRH7
+  TIELINE RH8 95
+  REST   8
+  Bb  0  8     
+  Eb  1  4 1 3
+  F   1  4 1 3
+  Gb  1  4 1 3
+  Db  2  8  3
+  C   2  8
+
+MEASURE 24
+  LINE RH8
+  REST   8
+  F   1  8
+  Gb  1  4 1 3
+  Ab  1  4 1 3
+  Bb  1  4 1 3
+  F   2  8  3
+  Eb  2  8
+# kr2l tmp rach3-1.mus 25 36 4 0 88 /tmp/kr2l
+
+MEASURE 25
+  LINE TLRH7
+  TIELINE RH8 95
+  F   1  1
+
+MEASURE 25
+  LINE RH8
+  A   1  1
+
+MEASURE 26
+  LINE TLRH6
+  TIELINE RH8 92
+  REST   4
+  Gb  1  4
+  F   1  4
+  Eb  1  4
+
+MEASURE 26
+  LINE TLRH7
+  TIELINE RH8 95
+  REST   4
+  Eb  2  4
+  Db  2  4
+  C   2  4
+
+MEASURE 26
+  LINE RH8
+  REST   4
+  Gb  2  4
+  F   2  4
+  Eb  2  4
+
+# kr2l tmp rach3-1.mus 27 36 4 0 88 /tmp/kr2l
+
+# kr2l tmp rach3-1.mus 27 36 4 0 88 /tmp/kr2l
+
+MEASURE 27
+  LINE TLRH6
+  TIELINE RH8 92
+  F   1  4
+  Eb  1 12
+  F   1 12
+  Eb  1 12
+  Db  1  2
+
+MEASURE 27
+  LINE TLRH7
+  TIELINE RH8 95
+  Db  2  4
+  C   2 12
+  Db  2 12
+  C   2 12
+  Bb  1  2
+
+MEASURE 27
+  LINE RH8
+  F   2  4
+  Eb  2 12
+  F   2 12
+  Eb  2 12
+  Db  2  2
+# kr2l tmp rach3-1.mus 28 36 4 0 88 /tmp/kr2l
+
+MEASURE 28
+  LINE TLRH6
+  TIELINE RH8 92
+  REST   4
+  Cb  1  4
+  Bb  0  4
+  Ab  0  4
+
+MEASURE 28
+  LINE TLRH7
+  TIELINE RH8 95
+  REST   4
+  Ab  1  4
+  Gb  1  4
+  F   1  4
+
+MEASURE 28
+  LINE RH8
+  REST   4
+  Cb  2  4
+  Bb  1  4
+  Ab  1  4
+
+MEASURE 29
+  LINE TLRH6
+  TIELINE RH8 92
+  Bb  0  4
+  Ab  0 12
+  Bb  0 12
+  Ab  0 12
+  Gb  0  2
+
+MEASURE 29
+  LINE TLRH7
+  TIELINE RH8 95
+  Gb  1  4
+  F   1 12
+  Gb  1 12
+  F   1 12
+  Eb  1  2
+
+MEASURE 29
+  LINE RH8
+  Bb  1  4
+  Ab  1 12
+  Bb  1 12
+  Ab  1 12
+  Gb  1  2
+
+MEASURE 30
+  LINE TLRH6
+  TIELINE RH8 92
+  CARRY  4
+  REST   4  3
+
+MEASURE 30
+  LINE TLRH7
+  TIELINE RH8 95
+  CARRY  4
+  Ab  0  4
+  Gb  0  4
+  F   0  4
+
+MEASURE 30
+  LINE RH8
+  CARRY  4
+  F   1  4
+  Eb  1  4
+  D   1  4
+
+MEASURE 31
+  LINE RH7
+  Cb  1  2
+  RIPPLE
+  REST   2
+
+MEASURE 31
+  LINE TLRH7
+  TIELINE RH8 95
+  REST   2
+  Bb  0  2
+
+MEASURE 31
+  LINE RH8
+  Ab  1  2
+  Gb  1  2
+
+MEASURE 32
+  LINE TLRH7
+  TIELINE RH8 95
+  CARRY  4
+  Ab  0  4 1 3
+  Bb  0  4 1 3
+  Ab  0  4 1 3
+  Gb  0  8  3
+  F   0  8
+
+MEASURE 32
+  LINE RH8
+  CARRY  4
+  F   1  4 1 3
+  Gb  1  4 1 3
+  F   1  4 1 3
+  Eb  1  8  3
+  D   1  8
+# kr2l tmp rach3-1.mus 33 36 4 0 88 /tmp/kr2l
+
+MEASURE 33
+  LINE TLRH7
+  TIELINE RH8 95
+  Gb  0  2
+  Bb  0  2
+
+MEASURE 33
+  LINE RH8
+  Eb  1  2
+  Gb  1  2
+
+MEASURE 34
+  LINE TLRH7
+  TIELINE RH8 95
+  CARRY  4
+  Ab  0  4 1 5
+  Bb  0  4 1 5
+  Ab  0  4 1 5
+  Gb  0  4 1 5
+  Ab  0  4 1 5
+  Bb  0  8  3
+  Ab  0  8
+
+MEASURE 34
+  LINE RH8
+  CARRY  4 
+  F   1  4 1 5
+  Gb  1  4 1 5
+  F   1  4 1 5
+  Eb  1  4 1 5
+  F   1  4 1 5
+  Gb  1  8  3
+  F   1  8
+
+MEASURE 35
+  LINE TLRH7
+  TIELINE RH8 95
+  CARRY  8
+  F   0  4
+  Gb  0 16
+  Ab  0 16
+  Gb  0  2   
+
+MEASURE 35
+  LINE RH8
+  CARRY  8
+  D   1  4
+  Eb  1 16
+  F   1 16
+  Eb  1  2
+
+# kr2l tmp rach3-1.mus 36 36 4 0 88 /tmp/kr2l
+
+MEASURE 36
+  LINE TLRH7
+  TIELINE RH8 95
+  CARRY  8
+  Db  0  4
+  Eb  0  8
+  Fb  0  2
+
+MEASURE 36
+  LINE RH8
+  CARRY  8
+  Bb  0  4
+  Cb  1  8
+  Db  1  2
+
+MEASURE 37
+  LINE TLRH7
+  TIELINE RH8 95
+  CARRY  8
+  Gb  0 16
+  Fb  0 16
+  Eb  0  2
+  Db  0  4
+
+MEASURE 37
+  LINE RH8
+  CARRY  8
+  Eb  1 16
+  Db  1 16
+  Cb  1  2
+  Bb  0  4
+
+MEASURE 38
+  LINE TLRH7
+  TIELINE RH8 95
+  CARRY  4
+  Cb  0  2
+  Bb -1  4 1 3
+  Cb  0  4 1 3
+  Bb -1  4 1 3
+
+MEASURE 38
+  LINE RH8
+  CARRY  4
+  Ab  0  2
+  Gb  0  4 1 3
+  Ab  0  4 1 3
+  Gb  0  4 1 3
+
+MEASURE 39
+  LINE TLRH7
+  TIELINE RH8 95
+  Gb -1  1
+
+MEASURE 39
+  LINE RH8
+  Eb  0  1
+
+MEASURE 40
+  LINE TLRH7
+  TIELINE RH8 95
+  CARRY  1
+
+MEASURE 40
+  LINE RH8
+  CARRY  1
+
+MEASURE 41
+  LINE TLRH7
+  TIELINE RH8 95
+  Bb  0  8
+  Gb  0  8
+  Bb  0  8
+  Gb  0  8
+  Db  1  8
+  Bb  0  8
+  Db  1  8
+  Bb  0  8
+
+MEASURE 41
+  LINE RH8
+  Eb  1  8
+  Db  1  8
+  Eb  1  8
+  Db  1  8
+  Ab  1  8
+  Gb  1  8
+  Ab  1  8
+  Gb  1  8
+# kr2l tmp rach3-1.mus 42 36 4 0 88 /tmp/kr2l
+
+MEASURE 42
+  LINE TLRH7
+  TIELINE RH8 95
+  Bb  0  8
+  Gb  0  8
+  Bb  0  8
+  Gb  0  8
+  Gb  0  8
+  Eb  0  8
+  Gb  0  8
+  Eb  0  8
+
+MEASURE 42
+  LINE RH8
+  Eb  1  8
+  Db  1  8
+  Eb  1  8
+  Db  1  8
+  Db  1  8
+  Cb  1  8
+  Db  1  8
+  Cb  1  8
+
+MEASURE 43
+  LINE TLRH7
+  TIELINE RH8 95
+  Ab  0  8
+  Eb  0  8
+  Ab  0  8
+  Eb  0  8
+  D   0  8
+  Bb -1  8
+  D   0  8
+  Bb -1  8
+
+MEASURE 43
+  LINE RH8
+  Cb  1  8
+  Bb  0  8
+  Cb  1  8
+  Bb  0  8
+  Bb  0  8
+  Ab  0  8
+  Bb  0  8
+  Ab  0  8
+
+MEASURE 44
+  LINE TLRH7
+  TIELINE RH8 95
+  D   0  8
+  Bb -1  8
+  D   0  8
+  Bb -1  8
+  Eb  0  8
+  Bb -1  8
+  Eb  0  8
+  Bb -1  8
+
+MEASURE 44
+  LINE RH8
+  Bb  0  8
+  Ab  0  8
+  Bb  0  8
+  Ab  0  8
+  Bb  0  8
+  Gb  0  8
+  Bb  0  8
+  Gb  0  8
+
+MEASURE 45
+  LINE TLRH7
+  TIELINE RH8 95
+  Gb  0  8
+  Eb  0  8
+  Gb  0  8
+  Eb  0  8
+  Eb  0  8
+  Ab -1  8
+  Eb  0  8
+  Ab -1  8
+
+MEASURE 45
+  LINE RH8
+  A   0  8
+  Ab  0  8
+  A   0  8
+  Ab  0  8
+  Ab  0  8
+  Gb  0  8
+  Ab  0  8
+  Gb  0  8
+
+MEASURE 46
+  LINE TLRH7
+  TIELINE RH8 95
+  D   0  8
+  Ab -1  8
+  D   0  8
+  Ab -1  8
+  D   0  8
+  Ab -1  8
+  D   0  8
+  Ab -1  8
+
+MEASURE 46
+  LINE RH8
+  Ab  0  8
+  F   0  8
+  Ab  0  8
+  F   0  8
+  Bb  0  8
+  F   0  8
+  Cb  1  8
+  F   0  8
+# kr2l tmp rach3-1.mus 47 36 4 0 88 /tmp/kr2l
+
+MEASURE 47
+  LINE TLRH7
+  TIELINE RH8 95
+  Bb  0  8
+  Gb  0  8
+  Bb  0  8
+  Gb  0  8
+  Db  1  8
+  Bb  0  8
+  Db  1  8
+  Bb  0  8
+
+MEASURE 47
+  LINE RH8
+  Eb  1  8
+  Db  1  8
+  Eb  1  8
+  Db  1  8
+  Ab  1  8
+  Gb  1  8
+  Ab  1  8
+  Gb  1  8
+
+MEASURE 48
+  LINE TLRH7
+  TIELINE RH8 95
+  Bb  0  8
+  Gb  0  8
+  Bb  0  8
+  Gb  0  8
+  Gb  0  8
+  Eb  0  8
+  Gb  0  8
+  Eb  0  8
+
+MEASURE 48
+  LINE RH8
+  Eb  1  8
+  Db  1  8
+  Eb  1  8
+  Db  1  8
+  Db  1  8
+  Cb  1  8
+  Db  1  8
+  Cb  1  8
+
+MEASURE 49
+  LINE TLRH7
+  TIELINE RH8 95
+  Ab  0  8
+  Eb  0  8
+  Ab  0  8
+  Eb  0  8
+  D   0  8
+  Bb -1  8
+  D   0  8
+  Bb -1  8
+
+MEASURE 49
+  LINE RH8
+  Cb  1  8
+  Bb  0  8
+  Cb  1  8
+  Bb  0  8
+  Bb  0  8
+  Ab  0  8
+  Bb  0  8
+  Ab  0  8
+
+MEASURE 50
+  LINE TLRH7
+  TIELINE RH8 95
+  D   0  8
+  Bb -1  8
+  D   0  8
+  Bb -1  8
+  Eb  0  8
+  Bb -1  8
+  Eb  0  8
+  Bb -1  8
+
+MEASURE 50
+  LINE RH8
+  Bb  0  8
+  Ab  0  8
+  Bb  0  8
+  Ab  0  8
+  Bb  0  8
+  Gb  0  8
+  Bb  0  8
+  Gb  0  8
+
+MEASURE 51
+  LINE TLRH7
+  TIELINE RH8 95
+  Gb  0  8
+  Eb  0  8
+  Gb  0  8
+  Eb  0  8
+  Eb  0  8
+  Ab -1  8
+  Eb  0  8
+  Ab -1  8
+
+MEASURE 51
+  LINE RH8
+  A   0  8
+  Ab  0  8
+  A   0  8
+  Ab  0  8
+  Ab  0  8
+  Gb  0  8
+  Ab  0  8
+  Gb  0  8
+
+# kr2l tmp rach3-1.mus 52 36 4 0 88 /tmp/kr2l
+
+MEASURE 52
+  LINE TLRH7
+  TIELINE RH8 95
+  Eb  0  8
+  A  -1  8
+  Db  0  8
+  Bb -1  8
+  Cb  1  8
+  F   0  8
+  Cb  1  8
+  F   0  8
+
+MEASURE 52
+  LINE RH8
+  A   0  8
+  Gb  0  8
+  Bb  0  8
+  Gb  0  8
+  Eb  1  8
+  Db  1  8
+  Eb  1  8
+  Db  1  8
+# kr2l tmp rach3-1.mus 53 36 4 0 88 /tmp/kr2l
+
+MEASURE 53
+  LINE TLRH7
+  TIELINE RH8 95
+  D   1  8
+  Ab  0  8
+  D   1  8
+  Ab  0  8
+  REST   2
+
+MEASURE 53
+  LINE RH8
+  Gb  1  8
+  F   1  8
+  Gb  1  8
+  F   1  8
+  Bb  1  2
+
+MEASURE 54
+  LINE RH8
+  CARRY  2
+  Ab  1  4
+  Eb  1  4
+
+MEASURE 55
+  LINE RH8
+  Gb  1  8  3
+  F   1  8
+  Bb -1  2 1 3
+  C   0  2 1 3
+  D   0  2 1 3
+
+# kr2l tmp rach3-1.mus 56 36 4 0 88 /tmp/kr2l
+
+MEASURE 56
+  LINE RH8
+  Eb  0  4
+  Bb  0  4
+  Bb  0  8  3
+  Ab  0  8
+
+MEASURE 57
+  LINE RH8
+  D   0  1
+
+MEASURE 57
+  LINE RH9
+  REST   2
+  Bb  1  2
+
+MEASURE 58
+  LINE RH9
+  CARRY  2
+  Ab  1  6
+  Gb  1  6
+  Eb  1  6
+
+MEASURE 59
+  LINE RH8
+  Gb  1  8  3
+  F   1  8
+  Bb -1  6   
+  C   0  6   
+  D   0  6   
+
+MEASURE 60
+  LINE RH8
+  Eb  0  4
+  Bb  0  4
+  Bb  0  8  3
+  Ab  0  8
+# kr2l tmp rach3-1.mus 56 36 4 0 88 /tmp/kr2l
+
+MEASURE 56
+  LINE TLRH6
+  TIELINE RH8 92
+  REST   2
+  Cb  0  2
+
+MEASURE 56
+  LINE TLRH7
+  TIELINE RH8 95
+  Bb -1  2
+  Eb  0  2
+
+MEASURE 57
+  LINE TLRH6
+  TIELINE RH8 92
+  F  -1  1
+
+MEASURE 57
+  LINE TLRH7
+  TIELINE RH8 95
+  Ab -1  1
+# kr2l tmp rach3-1.mus 60 36 4 0 88 /tmp/kr2l
+
+MEASURE 60
+  LINE TLRH7
+  TIELINE RH8 95
+  Bb -1  4
+  REST   4  3
+# kr2l tmp rach3-1.mus 60 36 4 0 88 /tmp/kr2l
+
+MEASURE 60
+  LINE RH5
+  REST   2
+  Gb -1  2
+
+MEASURE 60
+  LINE RH6
+  REST   2
+  C   0  2
+
+MEASURE 60
+  LINE RH7
+  REST   2
+  Eb  0  2
+  RIPPLE
+# kr2l tmp rach3-1.mus 41 36 4 0 88 /tmp/kr2l
+
+# kr2l tmp rach3-1.mus 41 36 2 0 88 /tmp/kr2l
+
+MEASURE 41
+  MARK Trio
+  LINE LH4
+  REST   4
+  Db -1  4
+  Bb -1  2
+
+MEASURE 42
+  LINE LH4
+  CARRY  2
+  Ab -1  4
+  Eb -1  4
+
+MEASURE 43
+  LINE LH4
+  Gb -1  2
+  F  -1  2
+
+MEASURE 44
+  LINE LH4
+  CARRY  2
+  Eb -1  4
+  Bb -2  4
+
+MEASURE 45
+  LINE LH4
+  Db -1  2
+  C  -1  2
+
+MEASURE 46
+  LINE LH4
+  CARRY  4
+  Cb -1  4
+  Bb -2  4
+  Ab -2  4
+
+MEASURE 47
+  LINE LH4
+  REST   4
+  Db -1  4
+  Bb -1  2
+
+MEASURE 48
+  LINE LH4
+  CARRY  2
+  Ab -1  4
+  Eb -1  4
+
+MEASURE 49
+  LINE LH4
+  Gb -1  2
+  F  -1  2
+
+MEASURE 50
+  LINE LH4
+  CARRY  2
+  Eb -1  4
+  Bb -2  4
+
+MEASURE 51
+  LINE LH4
+  Db -1  2
+  C  -1  2
+
+MEASURE 52
+  LINE LH4
+  CARRY  4
+  Db -1  4
+  Ab -1  4
+  Gb -1  8
+  Ab -1  8
+
+MEASURE 53
+  LINE LH4
+  Cb  0  4
+  Bb -1  4
+  REST   2
+# kr2l tmp rach3-1.mus 41 36 2 0 88 /tmp/kr2l
+
+MEASURE 41
+  LINE TLLH2a
+  TIELINE LH2 95
+  Gb -3  4
+  REST   4  3
+
+MEASURE 41
+  LINE LH2
+  Gb -2  4
+  REST   4  3
+# kr2l tmp rach3-1.mus 44 36 2 0 88 /tmp/kr2l
+
+MEASURE 44
+  LINE TLLH2a
+  TIELINE LH2 95
+  Gb -3  4
+  REST   4  3
+
+MEASURE 44
+  LINE LH2
+  Gb -2  4
+  REST   4  3
+# kr2l tmp rach3-1.mus 47 36 2 0 88 /tmp/kr2l
+
+MEASURE 47
+  LINE TLLH2a
+  TIELINE LH2 95
+  Gb -3  4
+  REST   4  3
+
+MEASURE 47
+  LINE LH2
+  Gb -2  4
+  REST   4  3
+# kr2l tmp rach3-1.mus 50 36 2 0 88 /tmp/kr2l
+
+MEASURE 50
+  LINE TLLH2a
+  TIELINE LH2 95
+  Gb -3  4
+  REST   4  3
+
+MEASURE 50
+  LINE LH2
+  Gb -2  4
+  REST   4  3
+# kr2l tmp rach3-1.mus 53 36 4 0 88 /tmp/kr2l
+
+MEASURE 53
+  LINE TLLH1
+  TIELINE LH5 95
+  REST   2
+  D   0  8
+  Bb -1  8
+  D   0  8
+  Bb -1  8
+
+MEASURE 53
+  LINE LH5
+  REST   2
+  Bb  0  8
+  Ab  0  8
+  Bb  0  8
+  Ab  0  8
+
+# kr2l tmp rach3-1.mus 54 36 4 0 88 /tmp/kr2l
+
+MEASURE 54
+  LINE TLLH1
+  TIELINE LH5 95
+  REST   8
+  Ab -1  8
+  Eb  0  8
+  Ab -1  8
+  Eb  0  8
+  Ab -1  8
+  Eb  0  8
+  Ab -1  8
+
+MEASURE 54
+  LINE LH5
+  REST   8
+  F   0  8
+  Ab  0  8
+  F   0  8
+  Ab  0  8
+  F   0  8
+  Ab  0  8
+  F   0  8
+
+MEASURE 55
+  LINE TLLH1
+  TIELINE LH5 95
+  REST   8
+  Bb -1  8
+  D   0  8
+  Bb -1  8   
+  REST   2
+
+MEASURE 55
+  LINE LH5
+  REST   8
+  Ab  0  8
+  Bb  0  8
+  Ab  0  8    
+  REST   2
+# kr2l tmp rach3-1.mus 54 36 4 0 88 /tmp/kr2l
+
+MEASURE 54
+  LINE LH2
+  Cb -1  1
+
+MEASURE 55
+  LINE TLLH2a
+  TIELINE LH2 95
+  REST   2
+  Ab -2  2
+
+MEASURE 55
+  LINE LH2
+  Bb -2  2
+  F  -1  2
+
+MEASURE 56
+  LINE TLLH2a
+  TIELINE LH2 95
+  Gb -2  2
+  F  -2  2
+
+MEASURE 56
+  LINE LH2
+  Eb -1  2
+  F  -1  2
+
+MEASURE 57
+  LINE TLLH2a
+  TIELINE LH2 95
+  Bb -3  1
+
+MEASURE 57
+  LINE LH2
+  Bb -2  1
+
+MEASURE 58
+  LINE LH2
+  Cb -1  1
+
+MEASURE 59
+  LINE TLLH2a
+  TIELINE LH2 95
+  REST   2
+  Ab -2  2
+
+MEASURE 59
+  LINE LH2
+  Bb -2  2
+  F  -1  2
+
+MEASURE 60
+  LINE TLLH2a
+  TIELINE LH2 95
+  Gb -2  2
+  REST   2
+
+MEASURE 60
+  LINE LH2
+  Db -1  2
+  Ab -3  2
+
+MEASURE 60
+  LINE LH3
+  REST   2
+  Ab -2  2
+
+MEASURE 61
+  MARK Trio-build
+  LINE TLLH2a
+  TIELINE LH2 95
+  Db -2  1
+
+MEASURE 61
+  LINE LH2
+  Ab -2  1
+
+MEASURE 62
+  LINE LH2
+  F  -2  1
+
+MEASURE 63
+  LINE LH2
+  Gb -2  2
+  Ab -2  2
+
+MEASURE 64
+  LINE LH2
+  Gb -2  2
+  F  -2  2
+
+MEASURE 65
+  LINE TLLH2a
+  TIELINE LH2 95
+  REST   2
+  Db -2  2
+
+MEASURE 65
+  LINE LH2
+  Eb -2  2
+  Db -1  2
+
+MEASURE 66
+  LINE TLLH2a
+  TIELINE LH2 95
+  Cb -2  2
+  Bb -3  2
+
+MEASURE 66
+  LINE LH2
+  Cb -1  2
+  Bb -2  2
+# kr2l tmp rach3-1.mus 67 36 4 0 88 /tmp/kr2l
+
+MEASURE 67
+  LINE TLLH2a
+  TIELINE LH2 95
+  Ab -3  2
+  Ab -2  2
+
+MEASURE 67
+  LINE LH2
+  Ab -2  2
+  Ab -1  2
+
+MEASURE 68
+  LINE TLLH2a
+  TIELINE LH2 95
+  Gb -2  2
+  Db -2  2
+
+MEASURE 68
+  LINE LH2
+  Gb -1  2
+  Db -1  2
+
+MEASURE 69
+  LINE TLLH2a
+  TIELINE LH2 95
+  Cb -2  2
+  Bb -3  2
+
+MEASURE 70
+  MARK Climax
+  LINE TLLH2a
+  TIELINE LH2 95
+  A  -3  1
+
+MEASURE 69
+  LINE LH2
+  Cb -1  2
+  Bb -2  2
+
+MEASURE 70
+  LINE LH2
+  A  -2  1
+
+MEASURE 71
+  LINE TLLH2a
+  TIELINE LH2 95
+  A   0  1
+
+MEASURE 71
+  LINE LH2
+  E  1   1
+# kr2l tmp rach3-1.mus 72 36 4 0 88 /tmp/kr2l
+
+MEASURE 72
+  LINE LH1   
+  Eb -3  2 1 3
+  Bb -2  2 1 3
+  G  -1  2 1 3
+  Db  0  2
+
+MEASURE 72
+  LINE LH2
+  Eb -2  2 1 3
+  G  -1  2 1 3
+  Db  0  2 1 3
+  G   0  2
+
+MEASURE 73
+  LINE TLLH2a
+  TIELINE LH2 95
+  A  -3  1
+
+MEASURE 73
+  LINE LH2
+  A  -2  1
+
+MEASURE 74
+  LINE TLLH2a
+  TIELINE LH2 95
+  E   0  1
+
+MEASURE 74
+  LINE LH2
+  E   1  1
+
+MEASURE 75
+  LINE LH1
+  Eb -3  2 1 3
+  Bb -2  2 1 3
+  G  -1  2 1 3
+  Db  0  2
+
+MEASURE 75
+  LINE LH2
+  Eb -2  2 1 3
+  G  -1  2 1 3
+  Db  0  2 1 3
+  G   0  2
+# kr2l tmp rach3-1.mus 57 36 4 0 88 /tmp/kr2l
+
+MEASURE 57
+  LINE TLLH1
+  TIELINE LH5 95
+  REST   8
+  Bb -1  8
+  D   0  8
+  Bb -1  8
+  D   0  8
+  Bb -1  8
+  D   0  8
+  Bb -1  8
+
+MEASURE 57
+  LINE LH5
+  REST   8
+  Ab  0  8
+  Bb  0  8
+  Ab  0  8
+  Bb  0  8
+  Ab  0  8
+  Bb  0  8
+  Ab  0  8
+
+MEASURE 58
+  LINE TLLH1
+  TIELINE LH5 95
+  REST   8
+  Ab -1  8
+  Eb  0  8
+  Ab -1  8
+  Eb  0  8
+  Ab -1  8
+  Eb  0  8
+  Ab -1  8
+
+MEASURE 58
+  LINE LH5
+  REST   8
+  F   0  8
+  Ab  0  8
+  F   0  8
+  Ab  0  8
+  F   0  8
+  Ab  0  8
+  F   0  8
+
+MEASURE 59
+  LINE TLLH1
+  TIELINE LH5 95
+  REST   8
+  Bb -1  8
+  D   0  8
+  Bb -1  8
+  REST   2
+
+MEASURE 59
+  LINE LH5
+  REST   8
+  Ab  0  8
+  Bb  0  8
+  Ab  0  8
+  REST   2
+# kr2l tmp rach3-1.mus 61 36 4 0 88 /tmp/kr2l
+
+MEASURE 61
+  LINE TLRH6
+  TIELINE RH8 92
+  F  -1  2
+  REST   2
+
+MEASURE 61
+  LINE TLRH7
+  TIELINE RH8 95
+  Cb  0  2
+  Cb  2  2
+
+MEASURE 61
+  LINE RH8
+  Db  0  2
+  Eb  2  2
+
+MEASURE 62
+  LINE TLRH7
+  TIELINE RH8 95
+  CARRY  4
+  Bb  1  4
+  Ab  1  2 1 3
+  Gb  1  2 1 3
+  F   1  2 1 3
+
+MEASURE 62
+  LINE RH8
+  CARRY  4
+  Db  2  4
+  Cb  2  2 1 3
+  Bb  1  2 1 3
+  Ab  1  2 1 3
+
+# kr2l tmp rach3-1.mus 63 36 4 0 88 /tmp/kr2l
+
+MEASURE 63
+  LINE TLRH5
+  TIELINE RH8 92
+  Gb  1  2
+  Bb -1  2 1 3
+  C   0  2 1 3
+  D   0  2 1 3
+
+MEASURE 63
+  LINE RH8
+  Bb  1  2
+  Bb  0  2 1 3
+  C   1  2 1 3
+  D   1  2 1 3
+
+MEASURE 64
+  LINE TLRH5
+  TIELINE RH8 92
+  CARRY  4
+  Eb  0  2
+  F   0  4
+
+MEASURE 64
+  LINE RH8
+  CARRY  4
+  Eb  1  2
+  F   1  4
+
+MEASURE 65
+  LINE TLRH5
+  TIELINE RH8 92
+  CARRY  4
+  Gb  0  8  3
+  G   0  8
+  Gb  0  8
+  G   0  8
+
+MEASURE 65
+  LINE RH8
+  CARRY  4
+  Gb  1  8  3
+  G   1  8
+  Gb  1  8
+  G   1  8
+# kr2l tmp rach3-1.mus 66 36 4 0 88 /tmp/kr2l
+
+MEASURE 66
+  LINE TLRH5
+  TIELINE RH8 92
+  G   0  4
+  Ab  0  2
+  Bb  0  4
+
+MEASURE 66
+  LINE RH8
+  G   1  4
+  Ab  1  2
+  Bb  1  4
+
+MEASURE 67
+  LINE TLRH5
+  TIELINE RH8 92
+  CARRY  4
+  Cb  1  4
+  Bb  0  2 1 3
+  C   1  2 1 3
+  D   1  2 1 3
+
+MEASURE 67
+  LINE RH8
+  CARRY  4
+  Cb  2  4
+  Bb  1  2 1 3
+  C   2  2 1 3
+  D   2  2 1 3
+# kr2l tmp rach3-1.mus 68 36 4 0 88 /tmp/kr2l
+
+MEASURE 68
+  LINE TLRH5
+  TIELINE RH8 92
+  D   1  4
+  Eb  1  4
+  D   1  4
+  Eb  1  4
+
+MEASURE 68
+  LINE RH8
+  D   2  4
+  Eb  2  4
+  D   2  4
+  Eb  2  4
+
+MEASURE 69
+  LINE TLRH5
+  TIELINE RH8 92
+  D   1  2 1 3
+  Eb  1  2 1 3
+  D   1  2 1 3
+  Eb  1  2 1 5
+  D   1  2 1 5
+  Eb  1  2 1 5
+  D   1  2 1 5
+  Eb  1  2 1 5
+
+MEASURE 69
+  LINE RH8
+  D   2  2 1 3
+  Eb  2  2 1 3
+  D   2  2 1 3
+  Eb  2  2 1 5
+  D   2  2 1 5
+  Eb  2  2 1 5
+  D   2  2 1 5
+  Eb  2  2 1 5
+# kr2l tmp rach3-1.mus 70 36 4 0 88 /tmp/kr2l
+
+MEASURE 70
+  LINE TLRH5
+  TIELINE RH8 92
+  Eb  1  2
+  Cb  2  2
+
+MEASURE 70
+  LINE TLRH6
+  TIELINE RH8 92
+  A   1  2
+  Db  2  2
+
+MEASURE 70
+  LINE TLRH7
+  TIELINE RH8 95
+  Db  2  4
+  Fb  1  4
+  Fb  2  2
+
+MEASURE 70
+  LINE RH8
+  Eb  2  4
+  Fb  2  4
+  Cb  3  2
+
+MEASURE 71
+  LINE TLRH5
+  TIELINE RH8 92
+  CARRY  4
+  A   1  4
+  Ab  1  8  3
+  REST   8
+
+MEASURE 71
+  LINE TLRH6
+  TIELINE RH8 92
+  CARRY  4
+  Db  2  4
+  Db  2  8  3
+  REST   8
+
+MEASURE 71
+  LINE TLRH7
+  TIELINE RH8 95
+  CARRY  4
+  Fb  2  4
+  Fb  2  8  3
+  Gb  1  8
+
+MEASURE 71
+  LINE RH8
+  CARRY  4
+  A   2  4
+  Ab  2  8  3
+  Gb  2  8
+
+MEASURE 72
+  LINE TLRH5
+  TIELINE RH8 92
+  F   1  4  3
+  REST   4
+
+MEASURE 72
+  LINE TLRH6
+  TIELINE RH8 92
+  G   1  4  3
+  REST   4
+
+MEASURE 72
+  LINE TLRH7
+  TIELINE RH8 95
+  Db  2  4  3
+  Fb  1  4
+
+MEASURE 72
+  LINE RH8
+  F   2  4  3
+  Fb  2  4
+
+MEASURE 73
+  LINE TLRH6
+  TIELINE RH8 92
+  REST   2
+  Db  1  8  3
+  REST   8
+
+MEASURE 73
+  LINE TLRH7
+  TIELINE RH8 95
+  CARRY  4
+  Eb  1  4
+  A   1  8  3
+  Cb  1  8
+
+MEASURE 73
+  LINE RH8
+  CARRY  4
+  Eb  2  4
+  Db  2  8  3
+  Cb  2  8
+# kr2l tmp rach3-1.mus 74 36 4 0 88 /tmp/kr2l
+
+MEASURE 74
+  LINE TLRH5
+  TIELINE RH8 92
+  REST   4
+  A   0  4
+  Ab  0  8  3
+  REST   8
+
+MEASURE 74
+  LINE TLRH6
+  TIELINE RH8 92
+  Cb  1  4
+  Db  1  4
+  Db  1  8  3
+  REST   8
+
+MEASURE 74
+  LINE TLRH7
+  TIELINE RH8 95
+  Db  1  4
+  Fb  1  4
+  Fb  1  8  3
+  Gb  0  8
+
+MEASURE 74
+  LINE RH8
+  Cb  2  4
+  A   1  4
+  Ab  1  8  3
+  Gb  1  8
+
+# kr2l tmp rach3-1.mus 75 36 4 0 88 /tmp/kr2l
+
+MEASURE 75
+  LINE TLRH5
+  TIELINE RH8 92
+  F   0  4  3
+  REST   4
+
+MEASURE 75
+  LINE TLRH6
+  TIELINE RH8 92
+  G   0  4  3
+  REST   4
+
+MEASURE 75
+  LINE TLRH7
+  TIELINE RH8 95
+  Db  1  4  3
+  Fb  0  4
+
+MEASURE 75
+  LINE RH8
+  F   1  4  3
+  Fb  1  4
+
+MEASURE 76
+  LINE TLRH7
+  TIELINE RH8 95
+  CARRY  4
+  Eb  0  4
+  Fb  0  2 1 3
+  Eb  0  2 1 3
+  Db  0  2 1 3
+
+MEASURE 76
+  LINE RH8
+  CARRY  4
+  Eb  1  4
+  Fb  1  2 1 3
+  Eb  1  2 1 3
+  Db  1  2 1 3
+
+# kr2l tmp rach3-1.mus 63 36 4 0 88 /tmp/kr2l
+
+MEASURE 63
+  LINE TLRH6
+  TIELINE LH2 88
+  REST   2
+  D   0  2
+
+MEASURE 63
+  LINE TLRH7
+  TIELINE LH2 88
+  REST   2
+  F   0  2
+
+MEASURE 64
+  LINE TLRH6
+  TIELINE LH2 88
+  Gb  0  2
+  Ab  0  2
+
+MEASURE 64
+  LINE TLRH7
+  TIELINE LH2 88
+  Bb  0  2
+  Bb  0  2
+
+MEASURE 65
+  LINE TLRH6
+  TIELINE LH2 88
+  Bb  0  2
+  Bb  0  2
+
+MEASURE 65
+  LINE TLRH7
+  TIELINE LH2 88
+  Eb  1  2
+  Eb  1  2
+
+MEASURE 66
+  LINE TLRH6
+  TIELINE LH2 88
+  Cb  1  2
+  Db  1  2
+
+MEASURE 66
+  LINE TLRH7
+  TIELINE LH2 88
+  Eb  1  2
+  Eb  1  2
+
+MEASURE 67
+  LINE TLRH6
+  TIELINE LH2 88
+  Eb  1  2
+  D   1  2
+
+MEASURE 67
+  LINE TLRH7
+  TIELINE LH2 88
+  Ab  1  2
+  F   1  2
+
+MEASURE 68
+  LINE TLRH6
+  TIELINE LH2 88
+  Gb  1  2
+  G   1  2
+
+MEASURE 68
+  LINE TLRH7
+  TIELINE LH2 88
+  Bb  1  2
+  Bb  1  2
+
+MEASURE 69
+  LINE TLRH6
+  TIELINE LH2 88
+  Ab  1  2
+  G   1  2
+
+MEASURE 69
+  LINE TLRH7
+  TIELINE LH2 88
+  Cb  2  2
+  Db  2  2
+
+# kr2l tmp rach3-1.mus 63 36 4 0 88 /tmp/kr2l
+
+MEASURE 63
+  LINE TLLH1
+  TIELINE LH4 95
+  REST   8
+  Bb -1  8
+  Db  0  8
+  Bb -1  8
+  REST   2 1 3
+  Bb -2  2 1 3
+  D  -1  2 1 3
+
+MEASURE 63
+  LINE LH4
+  REST   8
+  Gb  0  8
+  Bb  0  8
+  Gb  0  8
+  REST   2 1 3
+  F  -1  2 1 3
+  Bb -1  2 1 3
+# kr2l tmp rach3-1.mus 64 18 2 0 88 /tmp/kr2l
+
+MEASURE 64
+  LINE TLLH1
+  TIELINE LH4 95
+  REST   6
+  Bb -2  6
+  Eb -1  6
+  REST   6
+  Bb -2  6
+  D  -1  6
+
+MEASURE 64
+  LINE LH4
+  REST   6
+  Gb -1  6
+  Bb -1  6
+  REST   6
+  Ab -1  6
+  Bb -1  6
+
+MEASURE 65
+  LINE TLLH1
+  TIELINE LH4 95
+  REST   6
+  Bb -2  6
+  Eb -1  6
+  REST   6
+  Eb -1  6
+  G  -1  6
+
+MEASURE 65
+  LINE LH4
+  REST   6
+  Gb -1  6
+  Bb -1  6
+  REST   6
+  Bb -1  6
+  Eb  0  6
+
+MEASURE 66
+  LINE TLLH1
+  TIELINE LH4 95
+  REST   6
+  Eb -1  6
+  Ab -1  6
+  REST   6
+  Eb -1  6
+  G  -1  6
+
+MEASURE 66
+  LINE LH4
+  REST   6
+  Cb  0  6
+  Eb  0  6
+  REST   6
+  Db  0  6
+  Eb  0  6
+
+MEASURE 67
+  LINE TLLH1
+  TIELINE LH4 95
+  REST   6
+  Eb -1  6
+  Ab -1  6
+  REST   6
+  F  -1  6
+  Bb -1  6
+
+MEASURE 67
+  LINE LH4
+  REST   6
+  Cb  0  6
+  Eb  0  6
+  REST   6
+  D   0  6
+  F   0  6
+
+# kr2l tmp rach3-1.mus 68 18 2 0 88 /tmp/kr2l
+
+MEASURE 68
+  LINE TLLH1
+  TIELINE LH4 95
+  REST   6
+  Gb -1  6
+  Bb -1  6
+  REST   6
+  Eb -1  6
+  G  -1  6
+
+MEASURE 68
+  LINE LH4
+  REST   6
+  Eb  0  6
+  Gb  0  6
+  REST   6
+  Bb -1  6
+  Eb  0  6
+
+MEASURE 69
+  LINE TLLH1
+  TIELINE LH4 95
+  REST   6
+  Eb -1  6
+  Ab -1  6
+  REST   6
+  Eb -1  6
+  G  -1  6
+
+MEASURE 69
+  LINE LH4
+  REST   6
+  Cb  0  6
+  Eb  0  6
+  REST   6
+  Db  0  6
+  Eb  0  6
+# kr2l tmp rach3-1.mus 70 36 4 0 88 /tmp/kr2l
+
+MEASURE 70
+  LINE TLLH1
+  TIELINE LH4 95
+  REST   8
+  Fb -1  8
+  A  -1  8
+  Fb -1  8
+  A  -1  8
+  Fb -1  8
+  A  -1  8
+  Fb  0  8
+
+MEASURE 70
+  LINE LH4
+  REST   8
+  Db  0  8
+  Fb  0  8
+  Db  0  8
+  Fb  0  8
+  Db  0  8
+  Fb  0  8
+  Db  1  8
+# kr2l tmp rach3-1.mus 73 36 4 0 88 /tmp/kr2l
+
+MEASURE 73
+  LINE TLLH1
+  TIELINE LH4 95
+  REST   8
+  Fb -1  8
+  A  -1  8
+  Fb -1  8
+  A  -1  8
+  Fb -1  8
+  A  -1  8
+  Fb  0  8
+
+MEASURE 73
+  LINE LH4
+  REST   8
+  Db  0  8
+  Fb  0  8
+  Db  0  8
+  Fb  0  8
+  Db  0  8
+  Fb  0  8
+  Db  1  8
+# kr2l tmp rach3-1.mus 61 36 4 0 88 /tmp/kr2l
+
+MEASURE 61
+  LINE TLLH1
+  TIELINE LH4 95
+  REST   8
+  Ab -1  8
+  Cb  0  8
+  Ab -1  8
+  Cb  0  8
+  Ab -1  8
+  Cb  0  8
+  Ab -1  8
+
+MEASURE 61
+  LINE LH4
+  REST   8
+  F   0  8
+  Ab  0  8
+  F   0  8
+  Ab  0  8
+  F   0  8
+  Ab  0  8
+  F   0  8
+
+MEASURE 62
+  LINE TLLH1
+  TIELINE LH4 95
+  REST   8
+  Cb  0  8
+  Db  0  8
+  Cb  0  8
+  Db  0  8
+  Cb  0  8
+  Db  0  8
+  Cb  0  8
+
+MEASURE 62
+  LINE LH4
+  REST   8
+  Ab  0  8
+  Cb  1  8
+  Ab  0  8
+  Cb  1  8
+  Ab  0  8
+  Cb  1  8
+  Ab  0  8
+# kr2l tmp rach3-1.mus 77 18 2 0 88 /tmp/kr2l
+
+MEASURE 77
+  LINE TLRH5
+  TIELINE RH8 92
+  REST   2
+  A  -1  6
+  REST   3
+
+MEASURE 77
+  LINE TLRH6
+  TIELINE RH8 92
+  REST   2
+  C   0  6
+  REST   3
+
+MEASURE 77
+  LINE TLRH7
+  TIELINE RH8 95
+  Db  0  6
+  Cb  0  6
+  A  -1  6
+  Fb  0  6
+  Ab -1  12 3
+  Gb -1  12
+
+MEASURE 77
+  LINE RH8
+  Db  1  6
+  Cb  1  6
+  A   0  6
+  A   0  6
+  Ab  0  12 3
+  Gb  0  12
+# kr2l tmp rach3-1.mus 78 18 2 0 88 /tmp/kr2l
+
+MEASURE 78
+  LINE RH8
+  F   0  4  3
+  Fb  0  4
+
+MEASURE 79
+  LINE RH8
+  F   0  4  3
+  Fb  0  4
+
+MEASURE 80
+  LINE RH8
+  Fb  0  4  3
+  Eb  0  4
+
+MEASURE 81
+  LINE RH8
+  F   0  4  3
+  E   0  4
+
+MEASURE 82
+  LINE RH8
+  Fb  0  4  3
+  Eb  0  4
+# kr2l tmp rach3-1.mus 78 36 2 0 88 /tmp/kr2l
+
+MEASURE 78
+  LINE TLRH6
+  TIELINE RH8 92
+  G  -1  1
+
+MEASURE 78
+  LINE TLRH7
+  TIELINE RH8 95
+  Db  0  1
+
+MEASURE 79
+  LINE TLRH6
+  TIELINE RH8 92
+  G  -1  1
+
+MEASURE 79
+  LINE TLRH7
+  TIELINE RH8 95
+  Db  0  1
+
+MEASURE 80
+  LINE TLRH6
+  TIELINE RH8 92
+  G  -1  1
+
+MEASURE 80
+  LINE TLRH7
+  TIELINE RH8 95
+  Db  0  1
+
+MEASURE 81
+  LINE TLRH6
+  TIELINE RH8 92
+  G  -1  1
+
+MEASURE 81
+  LINE TLRH7
+  TIELINE RH8 95
+  Db  0  1
+
+MEASURE 82
+  LINE TLRH6
+  TIELINE RH8 92
+  G  -1  1
+
+MEASURE 82
+  LINE TLRH7
+  TIELINE RH8 95
+  Db  0  1
+# kr2l tmp rach3-1.mus 76 18 2 0 88 /tmp/kr2l
+
+MEASURE 76
+  LINE TLLH2a
+  TIELINE LH2 95
+  A  -3  1
+
+MEASURE 76
+  LINE LH2
+  A  -2  1
+# kr2l tmp rach3-1.mus 76 18 2 0 88 /tmp/kr2l
+
+MEASURE 76
+  LINE TLLH1
+  TIELINE LH4 95
+  REST   4
+  A  -1  8
+  REST   8
+  A  -1  2 1 3
+  Fb -1  2 1 3
+  Fb -1  2 1 3
+
+MEASURE 76
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   2
+  REST   2 2 3
+  A  -1  2 1 3
+
+MEASURE 76
+  LINE LH4
+  REST   8
+  Fb -1  8
+  Db  0  8
+  Fb -1  8
+  Db  0  2 1 3
+  A  -1  2 1 3
+  E   0  2 1 3
+# kr2l tmp rach3-1.mus 77 18 2 0 88 /tmp/kr2l
+
+MEASURE 77
+  LINE TLLH1
+  TIELINE LH4 95
+  Fb -1  2
+  REST   2
+
+MEASURE 77
+  LINE TLLH2
+  TIELINE LH4 92
+  A  -1  2
+  REST   2
+
+MEASURE 77
+  LINE LH4
+  Fb  0  2
+  REST   2
+# kr2l tmp rach3-1.mus 78 18 2 0 88 /tmp/kr2l
+
+MEASURE 78
+  LINE LH1
+  Eb -3  6
+  Bb -2  6
+  G  -1  6
+  Db  0  2
+
+MEASURE 78
+  LINE LH4
+  Eb -2  6
+  G  -1  6
+  Db  0  6
+  G   0  2
+
+MEASURE 79
+  LINE LH1
+  A  -3  6
+  A  -2  6
+  G  -1  6
+  Db  0  2
+
+MEASURE 79
+  LINE LH4
+  A  -2  6
+  G  -1  6
+  Db  0  6
+  G   0  2
+
+MEASURE 80
+  LINE LH1
+  Eb -3  6
+  Bb -2  6
+  G  -1  6
+  Db  0  2
+
+MEASURE 80
+  LINE LH4
+  Eb -2  6
+  G  -1  6
+  Db  0  6
+  G   0  2
+
+MEASURE 81
+  LINE LH1
+  A  -3  6   
+  A  -2  6   
+  G  -1  6
+  Db  0  2
+
+MEASURE 81
+  LINE LH4
+  A  -2  6   
+  G  -1  6   
+  Db  0  6
+  G   0  2
+
+MEASURE 82
+  LINE LH1
+  Eb -3  6
+  Bb -2  6
+  G  -1  6
+  Db  0  2
+
+MEASURE 82
+  LINE LH4
+  Eb -2  6
+  G  -1  6
+  Db  0  6
+  G   0  2
+
+MEASURE 83
+  METER 29 4
+  TOGETHER
+
+# kr2l tmp rach3-1.mus 83 36 4 0 88 /tmp/kr2l
+
+MEASURE 83
+  LINE LH4
+  REST   2
+  G  -1  4
+  Ab -1  4
+  Cb  0  2
+  Bb -1  2
+  REST   2
+  Cb  0  4
+  Db  0  4
+  Eb  0  4
+  Gb  0  2
+  Fb  0  2
+  REST   2
+  Gb  0  4
+  Ab  0  4
+  Cb  1  4
+  Bb  0  4
+  Cb  1  4
+  Db  1  4
+  Cb  1  2
+  Bb  0  2 
+
+MEASURE 83
+  LINE RH8
+  REST   2
+  Bb -1  4
+  Cb  0  4
+  Eb  0  2
+  Db  0  2
+  REST   2
+  Eb  0  4
+  Fb  0  4
+  Gb  0  4
+  Bb  0  2
+  Ab  0  2
+  REST   2
+  Bb  0  4
+  Cb  1  4
+  Eb  1  4
+  Db  1  4
+  Eb  1  4
+  Fb  1  4
+  Ab  1  2
+  Gb  1  2
+
+MEASURE 84
+  MARK Recap
+  METER 4 4 
+  APART
+
+# kr2l tmp rach3-1.mus 84 36 4 0 88 /tmp/kr2l
+
+MEASURE 84
+  LINE TLLH1
+  TIELINE LH4 95
+  Eb -3  8
+  REST   8  7
+
+MEASURE 84
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Gb -1  8
+  Eb  0  8
+  PHANTOM 8
+  Eb  0  8
+  Gb -1  8
+  Bb -2  8
+
+MEASURE 85
+  LINE TLLH1
+  TIELINE LH4 95
+  Eb -3  8
+  REST   8  7
+
+MEASURE 85
+  LINE LH4
+  Eb -2  8
+  Cb -1  8
+  Ab -1  8
+  D   0  8
+  Ab  0  8
+  D   0  8
+  Ab -1  8
+  Cb -1  8
+
+MEASURE 86
+  LINE TLLH1
+  TIELINE LH4 95
+  Eb -3  8
+  REST   8  7
+
+MEASURE 86
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Gb -1  8
+  Eb  0  8
+  Bb  0  8
+  Eb  0  8
+  Gb -1  8
+  Bb -2  8
+
+MEASURE 87
+  LINE TLLH1
+  TIELINE LH4 95
+  Eb -3  8
+  REST   8  7
+
+MEASURE 87
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  G  -1  8
+  Db  0  8
+  G   0  8
+  Db  0  8
+  G  -1  8
+  Bb -2  8
+
+# kr2l tmp rach3-1.mus 88 36 4 0 88 /tmp/kr2l
+
+MEASURE 88
+  LINE LH4
+  Ab -3  8
+  Ab -2  8
+  Eb -1  8
+  Cb  0  8
+  Ab  0  8
+  Cb  0  8
+  Eb -1  8
+  Ab -2  8
+
+MEASURE 89
+  LINE LH4
+  Bb -3  8
+  Bb -2  8
+  Bb -1  8
+  D   0  8
+  Bb  0  8
+  D   0  8
+  Ab -1  8
+  Bb -2  8
+
+MEASURE 90
+  LINE TLLH1
+  TIELINE LH4 95
+  Eb -3  8
+  REST   8  7
+
+MEASURE 90
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  G  -1  8
+  Db  0  8
+  G   0  8
+  Db  0  8
+  G  -1  8
+  Bb -2  8
+
+MEASURE 91
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Bb -1  8
+  Db  0  8
+  Bb  0  8
+  Db  0  8
+  G  -1  8
+  Bb -2  8
+
+# kr2l tmp rach3-1.mus 92 36 4 0 88 /tmp/kr2l
+
+MEASURE 92
+  LINE LH4
+  Eb -2  8
+  Cb -1  8
+  Ab -1  8
+  Cb  0  8
+  Eb  0  8
+  Cb  0  8
+  Ab -1  8
+  Cb -1  8
+
+MEASURE 93
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Ab -1  8
+  D   0  8
+  Bb  0  8
+  D   0  8
+  Ab -1  8
+  Bb -2  8
+
+MEASURE 94
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Gb -1  8
+  Eb  0  8
+  Bb  0  8
+  Eb  0  8
+  Gb -1  8
+  Bb -2  8
+
+MEASURE 95
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  G  -1  8
+  Db  0  8
+  G   0  8
+  Db  0  8
+  G  -1  8
+  Bb -2  8
+
+MEASURE 96
+  LINE LH4
+  Eb -2  8
+  Cb -1  8
+  Ab -1  8
+  Eb  0  8
+  Ab  0  8
+  Eb  0  8
+  Cb -1  8
+  Ab -2  8
+
+MEASURE 97
+  LINE LH4
+  Eb -2  8
+  Cb -1  8
+  Fb -1  8
+  D   0  8
+  Gb  0  8
+  D   0  8
+  Cb -1  4
+# kr2l tmp rach3-1.mus 98 36 4 0 88 /tmp/kr2l
+
+MEASURE 98
+  LINE TLLH1
+  TIELINE LH4 95
+  Eb -3  8
+  REST   8  7
+
+MEASURE 98
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Gb -1  8
+  Eb  0  8
+  Bb  0  8
+  Eb  0  8
+  Gb -1  8
+  Bb -2  8
+# kr2l tmp rach3-1.mus 99 36 4 0 88 /tmp/kr2l
+
+MEASURE 99
+  LINE LH4
+  Ab -3  8
+  Ab -2  8
+  Eb -1  8
+  F  -1  8
+  Eb  0  8
+  Cb  0  8
+  F  -1  8
+  Ab -2  8
+
+MEASURE 100
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Gb -1  8
+  Eb  0  8
+  Bb  0  8
+  Eb  0  8
+  Gb -1  8
+  Bb -2  8
+
+MEASURE 101
+  LINE TLLH1
+  TIELINE LH4 95
+  Ab -3  8
+  REST   8  7
+
+MEASURE 101
+  LINE LH4
+  Ab -2  8
+  F  -1  8
+  Cb  0  8
+  Eb  0  8
+  Cb  1  8
+  Eb  0  8
+  Cb  0  8
+  F  -1  8
+# kr2l tmp rach3-1.mus 102 36 4 0 88 /tmp/kr2l
+
+MEASURE 102
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Gb -1  8
+  Eb  0  8
+  Bb  0  8
+  Eb  0  8
+  Gb -1  8
+  Bb -2  8
+
+MEASURE 103
+  MARK Coda
+  LINE TLLH1
+  TIELINE LH4 95
+  Ab -3  8
+  REST   8  7
+
+MEASURE 103
+  LINE LH4
+  Ab -2  8
+  F  -1  8
+  Cb  0  8
+  Eb  0  8
+  Ab  0  8
+  Eb  0  8
+  Cb  0  8
+  F  -1  8
+# kr2l tmp rach3-1.mus 102 36 4 0 88 /tmp/kr2l
+
+MEASURE 104
+  METER 3 4
+# kr2l tmp rach3-1.mus 104 36 4 0 88 /tmp/kr2l
+# kr2l tmp rach3-1.mus 104 36 4 0 88 /tmp/kr2l
+
+MEASURE 104
+  LINE TLLH2a
+  TIELINE LH2 95
+  Eb -3  2
+  Ab -3  4
+
+MEASURE 104
+  LINE LH2
+  Eb -2  2
+  Ab -2  4
+
+MEASURE 105
+  LINE TLLH2a
+  TIELINE LH2 95
+  Eb -3  2
+  Ab -3  4
+
+MEASURE 105
+  LINE LH2
+  Eb -2  2
+  Ab -2  4
+
+MEASURE 106
+  LINE TLLH2a
+  TIELINE LH2 95
+  Eb -3  2
+  REST   2
+
+MEASURE 106
+  LINE LH2
+  Eb -2  2
+  REST   2
+
+MEASURE 107
+  METER 4 4
+  TOGETHER
+  LH NOSKIPIG
+  LINE LH1
+  Eb -3  4 1 3
+  REST   4 2 3
+  REST   4 3
+
+MEASURE 107
+  LINE LH2
+  Eb -2  4 1 3
+  Bb -2  4 1 3
+  Gb -1  4 1 3
+  Eb  0 16  3
+  Bb  0 16
+  Bb  0  2
+
+# kr2l tmp rach3-1.mus 104 12 4 0 88 /tmp/kr2l
+
+MEASURE 104
+  LINE TLLH1
+  TIELINE LH4 95
+  REST  12  7
+  F  -1  6
+
+MEASURE 104
+  LINE TLLH2
+  TIELINE LH4 92
+  REST  12  7
+  Cb  0  6
+
+MEASURE 104
+  LINE LH4
+  REST  12
+  Bb -2 12
+  Gb -1 12
+  Eb  0  4
+  REST  12
+  Eb  0  6
+
+MEASURE 105
+  LINE TLLH1
+  TIELINE LH4 95
+  REST  12  7
+  F  -1  6
+
+MEASURE 105
+  LINE TLLH2
+  TIELINE LH4 92
+  REST  12  7
+  Cb  0  6
+
+MEASURE 105
+  LINE LH4
+  REST  12
+  Bb -2 12
+  Gb -1 12
+  Eb  0  4
+  REST  12
+  Eb  0  6
+
+MEASURE 106
+  LINE TLLH1
+  TIELINE LH4 95
+  REST  12
+  Bb -2  6
+  REST  4 3
+
+MEASURE 106
+  LINE LH4
+  REST  12
+  Gb -1  6
+  REST   4 3
+# kr2l tmp rach3-1.mus 84 36 4 0 88 /tmp/kr2l
+
+MEASURE 84
+  LINE TLRH7
+  TIELINE RH8 95
+  Bb  0  2
+  Bb  0  2
+
+MEASURE 84
+  LINE RH8
+  Gb  1  2
+  Gb  1  2
+
+MEASURE 85
+  LINE TLRH7
+  TIELINE RH8 95
+  CARRY  4
+  Ab  0  4 1 5
+  Bb  0  4 1 5
+  Ab  0  4 1 5
+  Gb  0  4 1 5
+  Ab  0  4 1 5
+  Bb  0  8 3
+  Ab  0  8
+
+MEASURE 85
+  LINE RH8
+  CARRY  4
+  F   1  4 1 5
+  Gb  1  4 1 5
+  F   1  4 1 5
+  Eb  1  4 1 5
+  F   1  4 1 5
+  Gb  1  8 3
+  F   1  8
+# kr2l tmp rach3-1.mus 86 36 4 0 88 /tmp/kr2l
+
+MEASURE 86
+  LINE TLRH7
+  TIELINE RH8 95
+  CARRY  8
+  F   0  4
+  Gb  0 16
+  Ab  0 16
+  Gb  0  2
+
+MEASURE 86
+  LINE RH8
+  CARRY  8
+  D   1  4
+  Eb  1 16
+  F   1 16
+  Eb  1  2
+
+MEASURE 87
+  LINE TLRH7
+  TIELINE RH8 95
+  CARRY  8
+  Db  0  4
+  Eb  0  8
+  Fb  0  2
+
+MEASURE 87
+  LINE RH8
+  CARRY  8
+  Bb  0  4
+  Cb  1  8
+  Db  1  2
+# kr2l tmp rach3-1.mus 88 36 4 0 88 /tmp/kr2l
+
+MEASURE 88
+  LINE TLRH7
+  TIELINE RH8 95
+  CARRY  8
+  Gb  0 16
+  Fb  0 16
+  Eb  0  2
+  Db  0  4
+
+MEASURE 88
+  LINE RH8
+  CARRY  8
+  Eb  1 16
+  Db  1 16
+  Cb  1  2
+  Bb  0  4
+
+MEASURE 89
+  LINE TLRH7
+  TIELINE RH8 95
+  CARRY  4
+  Cb  0  2
+  Bb -1 16  3
+  REST  16
+
+MEASURE 89
+  LINE RH8
+  CARRY  4
+  Ab  0  2
+  Gb  0 16  3
+  Eb  0 16
+# kr2l tmp rach3-1.mus 90 36 4 0 88 /tmp/kr2l
+
+MEASURE 90
+  LINE TLRH5
+  TIELINE RH8 92
+  G  -1  2
+  REST   2
+
+MEASURE 90
+  LINE TLRH6
+  TIELINE RH8 92
+  Bb -1  2
+  REST   2
+
+MEASURE 90
+  LINE TLRH7
+  TIELINE RH8 95
+  Db  0  2
+  Bb  0  2
+
+MEASURE 90
+  LINE RH8
+  Eb  0  2
+  G   1  2
+
+MEASURE 91
+  LINE TLRH7
+  TIELINE RH8 95
+  CARRY  4
+  Ab  0  4
+  G   0  4
+  Bb  0  4
+
+MEASURE 91
+  LINE RH8
+  CARRY  4
+  Fb  1  4
+  Eb  1  4
+  Db  1  4
+
+MEASURE 92
+  LINE TLRH7
+  TIELINE RH8 95
+  Cb  1  4
+  Bb  0 12
+  Cb  1 12
+  Bb  0 12
+  Ab  0  2
+
+MEASURE 92
+  LINE RH8
+  Eb  1  4
+  Db  1 12
+  Eb  1 12
+  Db  1 12
+  Cb  1  2
+
+MEASURE 93
+  LINE TLRH7
+  TIELINE RH8 95
+  CARRY  4
+  D   0  4
+  Cb  0  6
+  Bb -1  6
+  Ab -1  6
+
+MEASURE 93
+  LINE RH8
+  CARRY  4
+  Bb  0  4
+  Ab  0  6
+  Gb  0  6
+  F   0  6
+
+MEASURE 94
+  LINE TLRH7
+  TIELINE RH8 95
+  Bb -1  4
+  Ab -1 12
+  Bb -1 12
+  Ab -1 12
+  Gb -1  2
+
+MEASURE 94
+  LINE RH8
+  Gb  0  4
+  F   0 12
+  Gb  0 12
+  F   0 12
+  Eb  0  2
+# kr2l tmp rach3-1.mus 95 36 4 0 88 /tmp/kr2l
+
+MEASURE 95
+  LINE TLRH7
+  TIELINE RH8 95
+  CARRY  8
+  REST   8 7
+
+MEASURE 95
+  LINE RH8
+  CARRY  8
+  Bb -1  4
+  Cb  0  8
+  Db  0  2
+
+MEASURE 96
+  LINE RH8
+  CARRY  8
+  Eb  0 16
+  Db  0 16
+  Cb  0  2
+  Bb -1  4
+# kr2l tmp rach3-1.mus 97 36 4 0 88 /tmp/kr2l
+
+MEASURE 97
+  LINE RH8
+  CARRY  4
+  Ab -1  2
+  Gb -1 12
+  Ab -1 12
+  Gb -1 12
+
+MEASURE 98
+  LINE RH8
+  Eb -1  1
+
+# kr2l tmp rach3-1.mus 99 36 4 0 88 /tmp/kr2l
+
+MEASURE 99
+  LINE TLRH7
+  TIELINE RH8 95
+  REST  12
+  F  -1 12
+  Gb -1 12
+  Ab -1 12
+  Cb  0 12
+  Db  0 12
+  Gb  0 8 3  
+  F   0 8 
+
+MEASURE 99
+  LINE RH8
+  REST  12
+  Ab -1 12
+  Bb -1 12
+  Cb  0 12
+  Eb  0 12
+  F   0 12
+  Bb  0  8  3
+  Ab  0  8
+
+# kr2l tmp rach3-1.mus 100 36 4 0 88 /tmp/kr2l
+
+MEASURE 100
+  LINE TLRH7
+  TIELINE RH8 95
+  Gb -1  1
+
+MEASURE 100
+  LINE RH8
+  Eb  0  1
+
+MEASURE 101
+  LINE TLRH7
+  TIELINE RH8 95
+  REST  12
+  F   0 12
+  Gb  0 12
+  Ab  0 12
+  Cb  1 12
+  Db  1 12
+  Gb  1  8 3
+  F   1  8
+
+MEASURE 101
+  LINE RH8
+  REST  12
+  Ab  0 12
+  Bb  0 12
+  Cb  1 12
+  Eb  1 12
+  F   1 12
+  Bb  1  8 3
+  Ab  1  8
+
+# kr2l tmp rach3-1.mus 102 36 4 0 88 /tmp/kr2l
+
+MEASURE 102
+  LINE TLRH7
+  TIELINE RH8 95
+  Gb  0  1
+
+MEASURE 102
+  LINE RH8
+  Eb  1  1
+# kr2l tmp rach3-1.mus 102 36 4 0 88 /tmp/kr2l
+
+MEASURE 103
+  LINE TLRH7
+  TIELINE RH8 95
+  REST   8
+  Eb  1  8
+  F   1  8
+  Gb  1  8
+  Ab  1  8
+  Bb  1  8
+  Cb  2  8
+  Db  2  8
+
+MEASURE 103
+  LINE RH8
+  REST   8
+  Gb  1  8
+  Ab  1  8
+  Bb  1  8
+  Cb  2  8
+  Db  2  8
+  Eb  2  8
+  F   2  8
+
+# kr2l tmp rach3-1.mus 104 18 4 0 88 /tmp/kr2l
+
+MEASURE 104
+  LINE TLRH7
+  TIELINE RH8 92
+  F   2  8
+  Eb  2  8
+  Db  2  8
+  Cb  2  8
+  Bb  1  4 1 3
+  Ab  1  4 1 3
+  Gb  1  4 1 3
+
+MEASURE 104
+  LINE RH8
+  Ab  2  8
+  Gb  2  8
+  F   2  8
+  Eb  2  8
+  Db  2  4 1 3
+  Cb  2  4 1 3
+  Bb  1  4 1 3
+
+MEASURE 105
+  LINE TLRH7
+  TIELINE RH8 92
+  F   1  8
+  Eb  1  8
+  Db  1  8
+  Cb  1  8
+  Bb  0  4 1 3
+  Ab  0  4 1 3
+  Gb  0  4 1 3
+
+MEASURE 105
+  LINE RH8
+  Ab  1  8
+  Gb  1  8
+  F   1  8
+  Eb  1  8
+  Db  1  4 1 3
+  Cb  1  4 1 3
+  Bb  0  4 1 3
+
+MEASURE 106
+  METER 4 4
+  LINE TLRH7
+  TIELINE RH8 92
+  F   0  4 1 3
+  Eb  0  4 1 3
+  Db  0  4 1 3
+  Cb  0  4 1 3
+  Bb -1  4 1 3
+  Ab -1  4 1 3
+  Gb -1 16      
+  F  -1 16
+  Eb -1 16
+  Db -1 16
+  Cb -1  4 1 5
+  Bb -2  4 1 5
+  Ab -2  4 1 5
+  Gb -2  4 1 5
+  F  -2  4 1 5
+
+MEASURE 106
+  LINE RH8
+  RH NOSKIPIG
+  Ab  0  4 1 3
+  Gb  0  4 1 3
+  F   0  4 1 3
+  Eb  0  4 1 3
+  Db  0  4 1 3
+  Cb  0  4 1 3
+  Bb -1 16
+  Ab -1 16
+  Gb -1 16
+  F  -1 16
+  Eb -1 4 1 5
+  Db -1 4 1 5
+  Cb -1 4 1 5
+  Bb -2 4 1 5
+  Ab -2 4 1 5    
+# kr2l tmp rach3-1.mus 104 36 4 0 88 /tmp/kr2l
+
+# kr2l tmp rach3-1.mus 104 36 4 0 88 /tmp/kr2l
+
+MEASURE 104
+  LINE TLRH6
+  TIELINE RH8 100
+  Bb  2  2
+  Eb  2  4
+
+MEASURE 105
+  LINE TLRH6
+  TIELINE RH8 100
+  Bb  1  2
+  Eb  1  4
+
+MEASURE 106
+  LINE TLRH6
+  TIELINE RH8 100
+  Bb  0  2
+  REST   2

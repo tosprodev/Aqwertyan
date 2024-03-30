@@ -1,0 +1,570 @@
+NAME Farner in the Dell
+
+MEASURE 1
+  METER 6 8
+  KEY 1b
+  TEMPO 4 4
+
+
+
+# kr2l tmp farmer.mus 1 160 8 0 88 /tmp/kr2l
+
+MEASURE 1
+  LINE RH8
+  REST   8  5
+  C   0  8
+
+MEASURE 2
+  LINE RH8
+  F   0  4
+  F   0  8
+  F   0  4
+  F   0  8
+
+MEASURE 3
+  LINE RH8
+  F   0  8  3
+  REST   4
+  G   0  8
+
+MEASURE 4
+  LINE RH8
+  A   0  4
+  A   0  8
+  A   0  4
+  A   0  8
+
+MEASURE 5
+  LINE RH8
+  A   0  8  3
+  REST   8  3
+
+MEASURE 6
+  LINE RH8
+  C   1  8  3
+  C   1  4
+  D   1  8
+
+MEASURE 7
+  LINE RH8
+  C   1  4
+  A   0  8
+  F   0  4
+  G   0  8
+
+MEASURE 8
+  LINE RH8
+  A   0  4
+  A   0  8
+  G   0  4
+  G   0  8
+
+MEASURE 9
+  LINE RH8
+  F   0  8  5
+  C   0  8
+# kr2l tmp farmer.mus 10 160 8 0 88 /tmp/kr2l
+
+MEASURE 10
+  LINE RH8
+  F   0  4
+  F   0  8
+  F   0  4
+  F   0  8
+
+MEASURE 11
+  LINE RH8
+  F   0  8  3
+  REST   4
+  G   0  8
+
+MEASURE 12
+  LINE RH8
+  A   0  4
+  A   0  8
+  A   0  4
+  A   0  8
+
+MEASURE 13
+  LINE RH8
+  A   0  8  3
+  REST   8  3
+
+MEASURE 14
+  LINE RH8
+  C   1  8  3
+  C   1  4
+  D   1  8
+
+MEASURE 15
+  LINE RH8
+  C   1  4
+  A   0  8
+  F   0  4
+  G   0  8
+
+MEASURE 16
+  LINE RH8
+  A   0  4
+  A   0  8
+  G   0  4
+  G   0  8
+
+MEASURE 17
+  LINE RH8
+  F   0  8  5
+  C   0  8
+# kr2l tmp farmer.mus 18 160 8 0 88 /tmp/kr2l
+
+MEASURE 18
+  LINE RH8
+  F   0  4
+  F   0  8
+  F   0  4
+  F   0  8
+
+MEASURE 19
+  LINE RH8
+  F   0  8  3
+  REST   4
+  G   0  8
+
+MEASURE 20
+  LINE RH8
+  A   0  4
+  A   0  8
+  A   0  4
+  A   0  8
+
+MEASURE 21
+  LINE RH8
+  A   0  8  3
+  REST   8  3
+
+MEASURE 22
+  LINE RH8
+  C   1  8  3
+  C   1  4
+  D   1  8
+
+MEASURE 23
+  LINE RH8
+  C   1  4
+  A   0  8
+  F   0  4
+  G   0  8
+
+MEASURE 24
+  LINE RH8
+  A   0  4
+  A   0  8
+  G   0  4
+  G   0  8
+
+MEASURE 25
+  LINE RH8
+  F   0  8  5
+  C   0  8
+# kr2l tmp farmer.mus 26 160 8 0 88 /tmp/kr2l
+
+MEASURE 26
+  LINE RH8
+  F   0  4
+  F   0  8
+  F   0  4
+  F   0  8
+
+MEASURE 27
+  LINE RH8
+  F   0  8  3
+  REST   4
+  G   0  8
+
+MEASURE 28
+  LINE RH8
+  A   0  4
+  A   0  8
+  A   0  4
+  A   0  8
+
+MEASURE 29
+  LINE RH8
+  A   0  8  3
+  REST   8  3
+
+MEASURE 30
+  LINE RH8
+  C   1  8  3
+  C   1  4
+  D   1  8
+
+MEASURE 31
+  LINE RH8
+  C   1  4
+  A   0  8
+  F   0  4
+  G   0  8
+
+MEASURE 32
+  LINE RH8
+  A   0  4
+  A   0  8
+  G   0  4
+  G   0  8
+
+MEASURE 33
+  LINE RH8
+  F   0  8  5
+  C   0  8
+# kr2l tmp farmer.mus 2 160 8 0 88 /tmp/kr2l
+
+MEASURE 2
+  LINE TLRH6
+  TIELINE RH8 80
+  F  -1  8  3
+  Bb -2  8  3
+
+MEASURE 2
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  8  3
+  F  -1  8  3
+
+MEASURE 3
+  LINE TLRH6
+  TIELINE RH8 80
+  F  -1  8  3
+  REST   8  3
+
+MEASURE 3
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  8  3
+  REST   8  3
+
+MEASURE 4
+  LINE TLRH6
+  TIELINE RH8 80
+  F  -1  8  3
+  Bb -2  8  3
+
+MEASURE 4
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  8  3
+  F  -1  8  3
+
+MEASURE 5
+  LINE TLRH6
+  TIELINE RH8 80
+  F  -1  8  3
+  REST   8  3
+
+MEASURE 5
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  8  3
+  REST   8  3
+
+MEASURE 6
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  8  3
+  A  -1  4
+  Bb -1  8
+
+MEASURE 7
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  4
+  F  -1  8
+  D  -1  4
+  C# -1  8
+
+MEASURE 8
+  LINE TLRH6
+  TIELINE RH8 80
+  REST   8  3
+  C  -2  8  3
+
+MEASURE 8
+  LINE TLRH7
+  TIELINE RH8 80
+  C  -1  8  3
+  Bb -1  8  3
+
+MEASURE 9
+  LINE TLRH6
+  TIELINE RH8 80
+  F  -2 8  5 
+  REST  8     
+
+MEASURE 9
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1 8   5
+  REST  8     
+# kr2l tmp farmer.mus 10 160 8 0 88 /tmp/kr2l
+
+MEASURE 10
+  LINE TLRH6
+  TIELINE RH8 80
+  F  -1  8  3
+  Bb -2  8  3
+
+MEASURE 10
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  8  3
+  F  -1  8  3
+
+MEASURE 11
+  LINE TLRH6
+  TIELINE RH8 80
+  F  -1  8  3
+  REST   8  3
+
+MEASURE 11
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  8  3
+  REST   8  3
+
+MEASURE 12
+  LINE TLRH6
+  TIELINE RH8 80
+  F  -1  8  3
+  Bb -2  8  3
+
+MEASURE 12
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  8  3
+  F  -1  8  3
+
+MEASURE 13
+  LINE TLRH6
+  TIELINE RH8 80
+  F  -1  8  3
+  REST   8  3
+
+MEASURE 13
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  8  3
+  REST   8  3
+
+MEASURE 14
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  8  3
+  A  -1  4
+  Bb -1  8
+
+MEASURE 15
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  4
+  F  -1  8
+  D  -1  4
+  C# -1  8
+
+MEASURE 16
+  LINE TLRH6
+  TIELINE RH8 80
+  REST   8  3
+  C  -2  8  3
+
+MEASURE 16
+  LINE TLRH7
+  TIELINE RH8 80
+  C  -1  8  3
+  Bb -1  8  3
+
+MEASURE 17
+  LINE TLRH6
+  TIELINE RH8 80
+  F  -2 8  5
+  REST  8
+
+MEASURE 17
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1 8  5
+  REST  8
+# kr2l tmp farmer.mus 18 160 8 0 88 /tmp/kr2l
+
+MEASURE 18
+  LINE TLRH6
+  TIELINE RH8 80
+  F  -1  8  3
+  Bb -2  8  3
+
+MEASURE 18
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  8  3
+  F  -1  8  3
+
+MEASURE 19
+  LINE TLRH6
+  TIELINE RH8 80
+  F  -1  8  3
+  REST   8  3
+
+MEASURE 19
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  8  3
+  REST   8  3
+
+MEASURE 20
+  LINE TLRH6
+  TIELINE RH8 80
+  F  -1  8  3
+  Bb -2  8  3
+
+MEASURE 20
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  8  3
+  F  -1  8  3
+
+MEASURE 21
+  LINE TLRH6
+  TIELINE RH8 80
+  F  -1  8  3
+  REST   8  3
+
+MEASURE 21
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  8  3
+  REST   8  3
+
+MEASURE 22
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  8  3
+  A  -1  4
+  Bb -1  8
+
+MEASURE 23
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  4
+  F  -1  8
+  D  -1  4
+  C# -1  8
+
+MEASURE 24
+  LINE TLRH6
+  TIELINE RH8 80
+  REST   8  3
+  C  -2  8  3
+
+MEASURE 24
+  LINE TLRH7
+  TIELINE RH8 80
+  C  -1  8  3
+  Bb -1  8  3
+
+MEASURE 25
+  LINE TLRH6
+  TIELINE RH8 80
+  F  -2 8  5
+  REST  8
+
+MEASURE 25
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1 8  5
+  REST  8
+# kr2l tmp farmer.mus 26 160 8 0 88 /tmp/kr2l
+
+MEASURE 26
+  LINE TLRH6
+  TIELINE RH8 80
+  F  -1  8  3
+  Bb -2  8  3
+
+MEASURE 26
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  8  3
+  F  -1  8  3
+
+MEASURE 27
+  LINE TLRH6
+  TIELINE RH8 80
+  F  -1  8  3
+  REST   8  3
+
+MEASURE 27
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  8  3
+  REST   8  3
+
+MEASURE 28
+  LINE TLRH6
+  TIELINE RH8 80
+  F  -1  8  3
+  Bb -2  8  3
+
+MEASURE 28
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  8  3
+  F  -1  8  3
+
+MEASURE 29
+  LINE TLRH6
+  TIELINE RH8 80
+  F  -1  8  3
+  REST   8  3
+
+MEASURE 29
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  8  3
+  REST   8  3
+
+MEASURE 30
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  8  3
+  A  -1  4
+  Bb -1  8
+
+MEASURE 31
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1  4
+  F  -1  8
+  D  -1  4
+  C# -1  8
+
+MEASURE 32
+  LINE TLRH6
+  TIELINE RH8 80
+  REST   8  3
+  C  -2  8  3
+
+MEASURE 32
+  LINE TLRH7
+  TIELINE RH8 80
+  C  -1  8  3
+  Bb -1  8  3
+
+MEASURE 33
+  LINE TLRH6
+  TIELINE RH8 80
+  F  -2 8  5
+  REST  8
+
+MEASURE 33
+  LINE TLRH7
+  TIELINE RH8 80
+  A  -1 8  5
+  REST  8

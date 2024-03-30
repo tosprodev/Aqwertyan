@@ -1,0 +1,721 @@
+NAME Scriabin: Etude, Opus 2, Number 1: Andante
+
+MEASURE 1
+  METER 3 4
+  TEMPO 4 60.000000
+  KEY 4#
+
+# kr2l scr02-01.mus 1 60 4
+
+MEASURE 1
+  LINE RH5
+  C#  0  8
+  D#  0  8
+  E   0  8
+  F#  0  8
+  G#  0  8
+  C#  1  8
+
+MEASURE 2
+  LINE RH5
+  B   0 16  3
+  A   0 16
+  A   0  2
+
+MEASURE 3
+  LINE RH5
+  F#  0  8
+  G#  0  8
+  A   0  8
+  B   0  8
+  C#  1  8
+  F#  1  8
+# kr2l scr02-01.mus 4 60 4
+
+MEASURE 4
+  LINE TLRH4
+  TIELINE RH5 80
+  E   0 16  3
+  D#  0 16
+  D#  0  2
+
+MEASURE 4
+  LINE RH5
+  E   1 16  3
+  D#  1 16
+  D#  1  2
+
+MEASURE 5
+  LINE RH5
+  C#  1  8
+  D#  1  8
+  E   1  8
+  F#  1  8
+  G#  1  8
+  C#  2  8
+
+MEASURE 6
+  LINE RH5
+  B   1  16 3
+  G#  1  16
+  G#  1  4
+  E   1  4
+
+MEASURE 7
+  LINE RH5
+  D#  1  16 3
+  B   0  16
+  B   0  4
+  D#  1  4
+
+MEASURE 8
+  LINE RH5
+  B   0  16 3
+  G#  0  16
+  G#  0  2
+
+MEASURE 9
+  LINE RH5
+  C#  0  8
+  D#  0  8
+  E   0  8
+  F#  0  8
+  G#  0  8
+  C#  1  8
+
+MEASURE 10
+  LINE RH5
+  B   0 16  3
+  A#  0 16
+  A#  0  2
+
+MEASURE 11
+  LINE RH5
+  G#  0  8
+  A#  0  8
+  B   0  8
+  C#  1  8
+  D#  1  8
+  G#  1  8
+
+MEASURE 12
+  LINE RH5
+  F#  1 16  3
+  F   1 16
+  F   1  2
+MEASURE 14
+  KEY 5b
+
+# kr2l scr02-01.mus 13 60 4
+
+MEASURE 13
+  LINE RH5
+  D#  1  8
+  F   1  8
+  F#  1  8
+  G#  1  8
+  A#  1  8
+  D#  2  8
+
+MEASURE 14
+  LINE RH5
+  Db  2 16  3
+  Bb  1 16
+  Bb  1  4
+  Gb  1  4
+
+MEASURE 15
+  LINE RH5
+  F   1 16  3
+  Db  1 16
+  Db  1  4
+  F   1  4
+
+MEASURE 16
+  LINE RH5
+  Db  1 16  3
+  Bb  0 16
+  Bb  0  8
+  REST   8  3
+MEASURE 17
+  KEY 3b
+
+# kr2l scr02-01.mus 17 60 4
+
+MEASURE 17
+  LINE RH5
+  Bb  0  8
+  C   1  8
+  C   1  8
+  B   0  8
+  C   1  8
+  F   1  8
+
+MEASURE 18
+  LINE RH5
+  C   1 16  3
+  Bb  0 16
+  Bb  0  2
+# kr2l scr02-01.mus 19 60 4
+
+MEASURE 19
+  LINE RH5
+  Bb  0  8
+  C   1  8
+  C   1  8
+  B   0  8
+  C   1 12
+  G   1 12
+  F   1 12
+# kr2l scr02-01.mus 1 50 8
+
+MEASURE 1
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   8  5
+  G# -2  8
+
+MEASURE 1
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  G# -2  8
+  G# -2  8
+  G# -2  8
+  REST   8
+  G# -1  8
+
+MEASURE 1
+  LINE LH4
+  E  -1  8
+  E  -1  8
+  G# -1  8
+  G# -1  8
+  C# -2  8
+  C#  0  8
+
+MEASURE 1
+  LINE LH5
+  G# -1  8
+  G# -1  8
+  C#  0  8
+  C#  0  8
+  E   0  8
+  E   0  8
+
+MEASURE 1
+  LINE LH2
+  C# -2 8
+  RIPPLE
+  REST 8 5
+  LINE LH3
+  G# -2 8
+  REST 8 5
+  LINE TLLH4
+  TIELINE LH4 100
+  REST 8
+  E -1 4
+  G# -2 4
+  REST 8
+  LINE TLLH5
+  TIELINE LH5 100
+  REST 8 3
+  C# 0 4
+  REST 8
+  
+
+# kr2l scr02-01.mus 2 50 8
+
+MEASURE 2
+  LINE TLLH1
+  TIELINE LH4 88
+  REST   8
+  C# -1  8
+  C# -1  8
+  C# -1  8
+  C# -1  8
+  C# -1  8
+
+MEASURE 2
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   8
+  F# -1  8
+  F# -1  8
+  F# -1  8
+  F# -1  8
+  F# -1  8
+
+MEASURE 2
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  B  -1  8
+  A  -1  8
+  A  -1  8
+  A  -1  8
+  A  -1  8
+
+MEASURE 2
+  LINE LH4
+  C# -1  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+
+MEASURE 2
+  LINE LH5
+  F# -1  8
+  F#  0  8
+  F#  0  8
+  F#  0  8
+  F#  0  8
+  F#  0  8
+  LINE LH2
+  C# -2 8
+  RIPPLE
+  REST 8 5
+  LINE LH3
+  F# -2 8
+  REST 8 5
+
+# kr2l scr02-01.mus 2 50 8
+
+MEASURE 2
+  LINE TLRH2
+  TIELINE RH4 88
+  B  -1  8
+  REST   8  5
+
+MEASURE 2
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  0  8
+  REST   8  5
+
+MEASURE 2
+  LINE RH4
+  F#  0  8
+  REST   8  5
+# kr2l scr02-01.mus 3 50 8
+
+MEASURE 3
+  LINE TLRH3
+  TIELINE TLRH4 92
+  F# -1  8
+  A  -1  8
+  REST   2
+
+MEASURE 3
+  LINE TLRH4
+  TIELINE RH5 72
+  C#  0  8
+  C#  0  8
+  F#  0  8
+  C#  0  8
+  F#  0  8
+  REST   8
+# kr2l scr02-01.mus 3 50 8
+
+MEASURE 3
+  LINE TLLH1
+  TIELINE LH4 88
+  REST   8  5
+  D# -1  8
+
+MEASURE 3
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   8  5
+  A  -1  8
+
+MEASURE 3
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8  5
+  C#  0  8
+
+MEASURE 3
+  LINE LH4
+  A  -2  8
+  G# -2  8
+  F# -2  8
+  E  -2  8
+  D# -2  8
+  F#  0  8
+
+MEASURE 3
+  LINE LH5
+  A  -1  8
+  G# -1  8
+  F# -1  8
+  E  -1  8
+  D# -1  8
+  C#  1  8
+# kr2l scr02-01.mus 3 50 8
+
+MEASURE 3
+  LINE TLLH3a
+  TIELINE LH5 80
+  C# -1  8
+  C# -1  4
+  A  -2  4
+  REST   8
+  LINE TLTLRH4
+  TIELINE TLRH4 100
+  REST 8
+  C# 0 4
+  C# 0 4
+  REST 8
+
+# kr2l scr02-01.mus 4 50 8
+
+MEASURE 4
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   8
+  F# -1  8
+  F# -1  8
+  F# -1  8
+  F# -1  8
+  F# -1  8
+
+MEASURE 4
+  LINE LH4
+  C#  0  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+  C   0  8
+  C   0  8
+
+MEASURE 4
+  LINE LH5
+  A   0  8
+  A   0  8
+  A   0  8
+  A   0  8
+  G#  0  8
+  G#  0  8
+  LINE LH2
+  G# -2 8
+  REST 8 5
+  LINE LH3
+  F# -1 8
+  RIPPLE
+  REST 8 5
+
+# kr2l D:\musfiles\Scriabin\scr02-01.mus 5 60 4
+
+MEASURE 5
+  LINE LH6
+  C#  0  8
+  B  -1  8
+  A# -1  8
+  G#  0  4
+  E   0  8
+
+MEASURE 6
+  LINE LH6
+  E   0  8
+  D#  0  8
+  D   0  8
+  D#  0  8
+  D#  0  8
+  G# -1  8
+# kr2l D:\musfiles\Scriabin\scr02-01.mus 7 60 4
+
+MEASURE 7
+  LINE LH6
+  A# -1  8
+  B  -1  8
+  E   0  8
+  D#  0  8
+  B  -1  8
+  A# -1  8
+# kr2l D:\musfiles\Scriabin\scr02-01.mus 8 60 4
+
+MEASURE 8
+  LINE LH6
+  G#  -1  8
+  G#  -1  8
+  D  -1  8
+  E  -1  4
+  D# -1  8
+# kr2l D:\musfiles\Scriabin\scr02-01.mus 5 60 8
+
+MEASURE 5
+  LINE TLLH4
+  TIELINE LH5 80
+  E   0  8
+  E   0  8
+  REST   8  3
+  C#  1  8
+  LINE TLTLLH4
+  TIELINE TLLH4 100
+  REST 8
+  E  0  4
+  TIENOTE TLLH4 LH5
+  REST 8 3
+
+MEASURE 5
+  LINE LH5
+  G#  0  8
+  G#  0  8
+  C#  1  8
+  C#  1  8
+  E   1  8
+  G#  1  8
+  LINE TLLH5
+  TIELINE LH5 100
+  REST 8 3
+  C# 1 4
+  REST 8
+
+MEASURE 6
+  LINE TLLH4
+  TIELINE LH5 80
+  B   0  8
+  G#  0  8
+  G#  0  8
+  G#  0  8
+  E   0  8
+  E   0  8
+
+MEASURE 6
+  LINE LH5
+  G#  1  8
+  B   0  8
+  B   0  8
+  B   0  8
+  G#  0  8
+  G#  0  8
+
+MEASURE 7
+  LINE TLLH3
+  TIELINE TLLH4 92
+  REST   2
+  E   0  8
+  E   0  8
+
+MEASURE 7
+  LINE TLLH4
+  TIELINE LH5 80
+  D#  0  8
+  REST   8  3
+  G   0  8
+  G   0  8
+
+MEASURE 7
+  LINE LH5
+  G#  0  8
+  G#  0  8
+  G#  0  8
+  G#  0  8
+  C#  1  8
+  C#  1  8
+# kr2l D:\musfiles\Scriabin\scr02-01.mus 8 60 8
+
+MEASURE 8
+  LINE TLLH4
+  TIELINE LH5 80
+  B  -1  8
+  B  -1  8
+  REST   2
+  LINE TLLH3
+  TIELINE LH5 75
+  D# -1  8
+  D# -1 8
+  REST 2
+
+MEASURE 8
+  LINE LH5
+  D#  0  8
+  D#  0  8
+  G# -2  2
+# kr2l D:\musfiles\Scriabin\scr02-01.mus 5 60 4
+
+MEASURE 5
+  LINE TLLH2
+  TIELINE LH5 80
+  C# -2  4  3
+
+MEASURE 6
+  LINE TLLH2
+  TIELINE LH5 80
+  D# -1  2
+  C# -1  4
+
+MEASURE 6
+  LINE TLLH1
+  TIELINE LH5 76
+  G# -1  2
+  REST   4
+
+MEASURE 7
+  LINE TLLH2
+  TIELINE LH5 80
+  B  -2  2
+  C# -1  4
+
+MEASURE 8
+  LINE TLLH2
+  TIELINE LH5 80
+  G# -2  4
+  REST   2
+# kr2l D:\musfiles\Scriabin\scr02-01.mus 9 60 4
+
+MEASURE 8
+  LINE RH3
+  REST   8  3
+  F# -1  8
+  F# -1  8
+  F# -1  8
+
+MEASURE 8
+  LINE RH4
+  REST   4
+  C   0  8
+  C   0  8
+  C   0  8
+  C   0  8
+  LINE TLRH3
+  TIELINE RH4 80
+  REST 4
+  F# -1 8
+  REST 8 3
+# kr2l D:\musfiles\Scriabin\scr02-01.mus 9 60 8
+
+MEASURE 9
+  LINE TLRH3
+  TIELINE TLRH4 92
+  E -1  8
+  E -1  8
+  REST   2
+
+MEASURE 9
+  LINE TLRH4
+  TIELINE RH5 70
+  G#  -1  8
+  G#  -1  8
+  C#  0  8
+  REST   8  3
+# kr2l D:\musfiles\Scriabin\scr02-01.mus 9 60 8
+
+MEASURE 9
+  LINE TLRH5
+  TIELINE RH5 88
+  REST   8  5
+  C#  0  8
+
+MEASURE 10
+  LINE TLRH5
+  TIELINE RH5 88
+  B  -1 16  3
+  A# -1 16
+  A# -1  2
+# kr2l D:\musfiles\Scriabin\scr02-01.mus 11 60 8
+
+MEASURE 11
+  LINE TLRH5
+  TIELINE RH5 88
+  REST   8  5
+  G#  0  8
+
+MEASURE 12
+  LINE TLRH5
+  TIELINE RH5 88
+  F#  0 16  3
+  F   0 16
+  F   0  2
+# kr2l D:\musfiles\Scriabin\scr02-01.mus 11 60 8
+
+MEASURE 11
+  LINE TLRH3
+  TIELINE TLRH4 92
+  B  -1  8
+  B  -1  8
+  REST   2
+
+MEASURE 11
+  LINE TLRH4
+  TIELINE RH5 70
+  D#  0  8
+  D#  0  8
+  G#  0  8
+  REST   8  3
+# kr2l D:\musfiles\Scriabin\scr02-01.mus 9 60 8
+
+MEASURE 9
+  LINE LH4
+  C# -2  8
+  B  -3  8
+  A# -3  8
+  A# -2  8 3
+
+MEASURE 9
+  LINE LH5
+  C# -1  8
+  B  -2  8
+  A# -2  8
+  C#  0  8
+  E   0  8
+  REST   8
+# kr2l D:\musfiles\Scriabin\scr02-01.mus 10 60 8
+
+MEASURE 10
+  LINE TLLH2
+  TIELINE LH4 90
+  D# -1  8
+  D# -1  8
+  D# -1  8
+  REST   8  3
+
+MEASURE 10
+  LINE TLLH3
+  TIELINE LH4 92
+  C#  0  8
+  C#  0  8
+  C#  0  8
+  REST   8  3
+
+MEASURE 10
+  LINE LH4
+  E   0  8
+  E   0  8
+  E   0  8
+  D# -1  4
+  D# -1  8
+
+MEASURE 10
+  LINE LH5
+  G#  0  8
+  G#  0  8
+  G#  0  8
+  E   0  4
+  D#  0  8
+# kr2l D:\musfiles\Scriabin\scr02-01.mus 10 60 8
+
+MEASURE 10
+  LINE RH3
+  REST   8  3
+  C#  0  8
+  C#  0  8
+  C#  0  8
+
+MEASURE 10
+  LINE RH2
+  REST   8  3
+  G   0  8
+  G   0  8
+  G   0  8
+MEASURE 9
+  LINE TLTLRH4
+  TIELINE RH4 100
+  REST 8
+  G# -1 4
+  C# -1 4
+  REST 8
+

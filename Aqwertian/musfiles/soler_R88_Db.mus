@@ -1,0 +1,2721 @@
+NAME Soler -- Sonata in Db, R88
+
+MEASURE 1
+METER 3 4
+TEMPO 4 60
+KEY 5b
+MARK BEGINNING
+
+# kr2l tmp soler_R88_Db.mus 1 48 4 0 88 /tmp/kr2l
+
+MEASURE 1
+  LINE RH9
+  REST  12
+  Db  1 12
+  Db  2 12
+  REST  12
+  Ab  0 12
+  Ab  1 12
+  REST  12
+  F   0 12
+  F   1 12
+
+MEASURE 2
+  LINE RH9
+  REST  12
+  Gb  0 12
+  Gb  1 12
+  REST  12
+  Eb  0 12
+  Eb  1 12
+  REST  12
+  C   0 12
+  C   1 12
+
+MEASURE 3
+  LINE RH9
+  REST  12
+  Db  0 12
+  Db  1 12
+  REST  12
+  Ab -1 12
+  Ab  0 12
+  REST  12
+  F  -1 12
+  F   0 12
+
+MEASURE 4
+  LINE RH9
+  REST  12
+  Gb -1 12
+  Gb  0 12
+  REST  12
+  Eb -1 12
+  Eb  0 12
+  REST  12
+  C  -1 12
+  C   0 12
+# kr2l tmp soler_R88_Db.mus 1 48 4 0 88 /tmp/kr2l
+
+MEASURE 1
+  LINE LH2
+  Db  1 12
+  REST   6
+  Ab  0 12
+  REST   6
+  F   0 12
+  REST   6
+
+MEASURE 2
+  LINE LH2
+  Gb  0 12
+  REST   6
+  Eb  0 12
+  REST   6
+  C   0 16
+  REST  16  3
+
+MEASURE 3
+  LINE LH2
+  Db  0 12
+  REST  12  2
+  Ab -1 12
+  REST  12  2
+  F  -1 12
+  REST   6
+
+MEASURE 4
+  LINE LH2
+  Gb -1 12
+  REST   6
+  Eb -1 12
+  REST   6
+  C  -1 12
+  REST   6
+
+MEASURE 5
+  LINE LH2
+  Db -2  4  3
+  RIPPLE
+
+MEASURE 6
+  LINE LH2
+  Db -2  4  3
+  RIPPLE
+
+MEASURE 7
+  LINE LH2
+  Db -2  2
+  RIPPLE
+  Gb -2  4
+
+MEASURE 8
+  LINE LH2
+  Ab -2  4
+  Ab -3  2
+# kr2l tmp soler_R88_Db.mus 5 48 4 0 88 /tmp/kr2l
+
+MEASURE 5
+  LINE LH4
+  Ab -2  4  3
+
+MEASURE 6
+  LINE LH4
+  Ab -2  4  3
+
+MEASURE 7
+  LINE LH4
+  Ab -2  2
+  REST   4
+# kr2l tmp soler_R88_Db.mus 6 48 4 0 88 /tmp/kr2l
+
+MEASURE 6
+  LINE LH5
+  Db -1  4  3
+
+MEASURE 7
+  LINE LH5
+  Db -1  2
+  REST   4
+# kr2l tmp soler_R88_Db.mus 5 48 4 0 88 /tmp/kr2l
+
+MEASURE 5
+  LINE RH9
+  Db -1  3
+  TRILL Eb -1
+  Eb -1 12
+  F  -1 12
+  Gb -1 12
+  F  -1 12
+  Eb -1 12
+
+MEASURE 6
+  LINE RH9
+  F  -1  3
+  TRILL Gb -1
+  Eb -1 12
+  F  -1 12
+  Gb -1 12
+  F  -1 12
+  Eb -1 12
+
+MEASURE 7
+  LINE RH9
+  F  -1 12
+  Gb -1 12
+  Ab -1 12
+  Bb -1 12
+  C   0 12
+  Db  0 12
+  Eb  0 12
+  F   0 12
+  Gb  0 12
+
+MEASURE 8
+  LINE RH9
+  F   0 12
+  Eb  0 12
+  Db  0 12
+  Db  0  4
+  TRILL Eb 0
+  C   0  4
+
+MEASURE 9
+  LINE RH9
+  F   0  3
+  TRILL Gb 0
+  Eb  0 12
+  F   0 12
+  Gb  0 12
+  F   0 12
+  Eb  0 12
+
+MEASURE 10
+  LINE RH9
+  F   0  3
+  TRILL Gb 0
+  Eb  0 12
+  F   0 12
+  Gb  0 12
+  F   0 12
+  Eb  0 12
+
+MEASURE 11
+  LINE RH9
+  F   0 12
+  Gb  0 12
+  Ab  0 12
+  Bb  0 12
+  C   1 12
+  Db  1 12
+  Eb  1 12
+  F   1 12
+  Gb  1 12
+
+MEASURE 12
+  LINE RH9
+  F   1 12
+  Eb  1 12
+  Db  1 12
+  Db  1  4
+  TRILL Eb 1
+  C   1  4
+# kr2l tmp soler_R88_Db.mus 9 48 4 0 88 /tmp/kr2l
+
+MEASURE 9
+  LINE LH2
+  Db -2  4  3
+  RIPPLE
+
+MEASURE 9
+  LINE LH4
+  Ab -2  4  3
+
+MEASURE 9
+  LINE LH5
+  Db -1  4  3
+
+MEASURE 10
+  LINE LH2
+  Db -2  4  3
+
+MEASURE 10
+  LINE LH4
+  Ab -2  4  3
+
+MEASURE 10
+  LINE LH5
+  Db -1  4  3
+
+MEASURE 11
+  LINE LH2
+  Db -2  2
+  Gb -2  4
+
+MEASURE 11
+  LINE LH4
+  Ab -2  2
+  REST   4
+
+MEASURE 11
+  LINE LH5
+  Db -1  2
+  REST   4
+
+MEASURE 12
+  LINE LH2
+  Ab -2  4
+  Ab -3  2
+# kr2l tmp soler_R88_Db.mus 13 48 4 0 88 /tmp/kr2l
+
+MEASURE 13
+  APART
+  TEMPO RESET
+  LINE RH9
+  Bb  1 64 0
+  Ab  1 64 0
+  Bb  1 64 0
+  Ab  1  3
+  Gb  1 12
+  F   1 12
+  Gb  1 12
+  F   1 12
+  Eb  1 12
+
+MEASURE 14
+  LINE RH9
+  Ab  1  3
+  Gb  1 12
+  F   1 12
+  Gb  1 12
+  F   1 12
+  Eb  1 12
+
+MEASURE 15
+  LINE RH9
+  C   2 64 0
+  Bb  1 64 0
+  C   2 64 0
+  Bb  1  3
+  Ab  1 12
+  G   1 12
+  Ab  1 12
+  G   1 12
+  F   1 12
+
+MEASURE 16
+  LINE RH9
+  Bb  1  3
+  Ab  1 12
+  G   1 12
+  Ab  1 12
+  G   1 12
+  F   1 12
+
+MEASURE 17
+  TOGETHER
+  LINE RH9
+  G   1 12
+  Bb  1 12
+  Ab  1 12
+  G   1 12
+  F   1 12
+  Eb  1 12
+  Eb  1 64 0
+  Db  1  4
+  TRILL Eb 1
+  C   1 64 0
+  Db  1 64 0
+
+MEASURE 18
+  LINE RH9
+  C   1 12
+  Eb  1 12
+  Db  1 12
+  C   1 12
+  Bb  0 12
+  Ab  0 12
+  Ab  0 64 0
+  Gb  0  4
+  TRILL Ab 0
+  F   0 64 0
+  Gb  0 64 0
+# kr2l tmp soler_R88_Db.mus 19 48 4 0 88 /tmp/kr2l
+
+MEASURE 19
+  LINE RH9
+  F   0 12
+  F   1 12
+  Eb  1 12
+  Db  1 12
+  C   1 12
+  Bb  0 12
+  Bb  0 64 0
+  Ab  0  4
+  TRILL Bb 0
+  G  0 64 0
+  Ab 0 64 0
+
+MEASURE 20
+  LINE RH9
+  Bb  0  8 3
+  TRILL Ab 0
+  G   0 16
+  F   0 16
+  Eb  0  4
+# kr2l tmp soler_R88_Db.mus 21 48 4 0 88 /tmp/kr2l
+
+MEASURE 21
+  TEMPO RESET
+  MARK Repeated-notes-1
+  LINE RH9
+  REST  12
+  C   1 12
+  C   2 12
+  REST  12
+  C   1 12
+  C   2 12
+  REST  12
+  C   1 12
+  C   2 12
+
+MEASURE 22
+  LINE RH9
+  Bb  1 12
+  Eb  1 12
+  Eb  1 12
+  Eb  1 12
+  Eb  1 12
+  Eb  1 12
+  Eb  1 12
+  Eb  1 12
+  Eb  1 12
+
+MEASURE 23
+  LINE RH9
+  REST  12
+  C   1 12
+  C   2 12
+  REST  12
+  C   1 12
+  C   2 12
+  REST  12
+  C   1 12
+  C   2 12
+
+MEASURE 24
+  LINE RH9
+  Bb  1 12
+  Eb  1 12
+  Eb  1 12
+  Eb  1 12
+  Eb  1 12
+  Eb  1 12
+  Eb  1 12
+  Eb  1 12
+  Eb  1 12
+
+MEASURE 25
+  LINE RH9
+  Eb  1 12
+  C   1 12
+  Ab  1 12
+  Ab  1 12
+  Ab  1 12
+  Ab  1 12
+  Ab  1 12
+  Ab  1 12
+  Ab  1 12
+
+MEASURE 26
+  LINE RH9
+  Ab  1 12
+  F   1 12
+  Bb  1 12
+  Bb  1 12
+  Bb  1 12
+  Bb  1 12
+  Bb  1 12
+  Bb  1 12
+  Bb  1 12
+
+MEASURE 27
+  LINE RH9
+  Bb  1 12
+  G   1 12
+  C   2 12
+  C   2 12
+  C   2 12
+  C   2 12
+  C   2 12
+  C   2 12
+  C   2 12
+
+MEASURE 28
+  LINE RH9
+  C   2 12
+  Ab  1 12
+  Db  2 12
+  Db  2 12
+  Db  2 12
+  Db  2 12
+  Db  2 12
+  Db  2 12
+  Db  2 12
+
+MEASURE 29
+  LINE RH9
+  Bb  1  64 0
+  C   2  64 0
+  Bb  1  3
+  C   2 12
+  Db  2 12
+  Db  2 12
+  C   2 12
+  Bb  1 12
+
+MEASURE 30
+  LINE RH9
+  C   2 12
+  Bb  1 12
+  C   2 12
+  Db  2 12
+  C   2 12
+  Bb  1 12
+  Ab  1 16 3
+  TRILL Bb 1
+  G   1 16
+
+# kr2l tmp soler_R88_Db.mus 31 48 4 0 88 /tmp/kr2l
+
+MEASURE 31
+  TEMPO RESET
+  MARK Repeated-Notes-2
+  LINE RH9
+  REST  12
+  C   0 12
+  C   1 12
+  REST  12
+  C   0 12
+  C   1 12
+  REST  12
+  C   0 12
+  C   1 12
+
+MEASURE 32
+  LINE RH9
+  Bb  0 12
+  Eb  0 12
+  Eb  0 12
+  Eb  0 12
+  Eb  0 12
+  Eb  0 12
+  Eb  0 12
+  Eb  0 12
+  Eb  0 12
+
+MEASURE 33
+  LINE RH9
+  REST  12
+  C   0 12
+  C   1 12
+  REST  12
+  C   0 12
+  C   1 12
+  REST  12
+  C   0 12
+  C   1 12
+
+MEASURE 34
+  LINE RH9
+  Bb  0 12
+  Eb  0 12
+  Eb  0 12
+  Eb  0 12
+  Eb  0 12
+  Eb  0 12
+  Eb  0 12
+  Eb  0 12
+  Eb  0 12
+
+MEASURE 35
+  LINE RH9
+  Eb  0 12
+  C   0 12
+  Ab  0 12
+  Ab  0 12
+  Ab  0 12
+  Ab  0 12
+  Ab  0 12
+  Ab  0 12
+  Ab  0 12
+
+MEASURE 36
+  LINE RH9
+  Ab  0 12
+  F   0 12
+  Bb  0 12
+  Bb  0 12
+  Bb  0 12
+  Bb  0 12
+  Bb  0 12
+  Bb  0 12
+  Bb  0 12
+
+MEASURE 37
+  LINE RH9
+  Bb  0 12
+  G   0 12
+  C   1 12
+  C   1 12
+  C   1 12
+  C   1 12
+  C   1 12
+  C   1 12
+  C   1 12
+
+MEASURE 38
+  LINE RH9
+  C   1 12
+  Ab  0 12
+  Db  1 12
+  Db  1 12
+  Db  1 12
+  Db  1 12
+  Db  1 12
+  Db  1 12
+  Db  1 12
+
+MEASURE 39
+  LINE RH9
+  Bb  0  64 0
+  C   1  64 0
+  Bb  0  3
+  C   1 12
+  Db  1 12
+  Db  1 12
+  C   1 12
+  Bb  0 12
+
+MEASURE 40
+  LINE RH9
+  C   1 12
+  Bb  0 12
+  C   1 12
+  Db  1 12
+  C   1 12
+  Bb  0 12
+  Ab  0  16 3
+  TRILL Bb 0
+  G   0  16
+# kr2l tmp soler_R88_Db.mus 41 48 4 0 88 /tmp/kr2l
+
+MEASURE 41
+  LINE RH9
+  REST  12
+  C   1 12
+  C   2  3
+  REST  12
+  Db  1 12
+  Db  2 12
+
+MEASURE 42
+  LINE RH9
+  REST  12
+  C   1 12
+  C   2 12
+  REST  12
+  Bb  0 12
+  Bb  1 12
+  REST  12
+  Ab  0 12
+  Ab  1 12
+
+MEASURE 43
+  LINE RH9
+  REST  12
+  Db  1 12
+  Db  0 12
+  REST  12
+  C   1 12
+  Eb  0 12
+  REST  12
+  Bb  0 12
+  Eb  0 12
+
+MEASURE 44
+  LINE RH9
+  REST  12
+  C   0 12
+  C   1  3
+  REST  12
+  Db  0 12
+  Db  1 12
+
+MEASURE 45
+  LINE RH9
+  REST  12
+  C   0 12
+  C   1 12
+  REST  12
+  Bb -1 12
+  Bb  0 12
+  REST  12
+  Ab -1 12
+  Ab  0 12
+
+MEASURE 46
+  LINE RH9
+  REST  12
+  Db  0 12
+  Db -1 12
+  REST  12
+  C   0 12
+  Eb -1 12
+  REST  12
+  Bb -1 12
+  Eb -1 12
+
+MEASURE 47
+  LINE RH9
+  REST  12
+  Db  1 12
+  Db  0 12
+  REST  12
+  C   1 12
+  Eb  0 12
+  REST  12
+  Bb  0 12
+  Eb  0 12
+
+MEASURE 48
+  LINE RH9
+  REST  12
+  Db  0 12
+  Db -1 12
+  REST  12
+  C   0 12
+  Eb -1 12
+  REST  12
+  Bb -1 12
+  Eb -1 12
+
+MEASURE 49
+  LINE RH9
+  REST  12
+  Ab -1 12
+  C   0 12
+  REST  12
+  Eb -1 12
+  Ab -1 12
+  REST  12
+  C  -1 12
+  Eb -1 12
+
+MEASURE 50
+  LINE RH9
+  REST  12
+  Ab -2 12
+  C  -1 12
+  REST  12
+  Eb -2 12
+  Ab -2 12
+  REST  12
+  C  -2 12
+  Eb -2 12
+# kr2l tmp soler_R88_Db.mus 13 48 4 0 88 /tmp/kr2l
+
+MEASURE 13
+  LINE LH2
+  Ab  0  4
+  Ab  0  4
+  Ab  0  4
+
+MEASURE 13
+  LINE LH4
+  Db  1  4
+  Db  1  4
+  C   1  4
+
+MEASURE 14
+  LINE LH2
+  Ab  0  4
+  Ab  0  4
+  Ab  0  4
+
+MEASURE 14
+  LINE LH4
+  Db  1  4
+  Db  1  4
+  C   1  4
+
+MEASURE 15
+  LINE LH2
+  Bb  0  4
+  Bb  0  4
+  Bb  0  4
+
+MEASURE 15
+  LINE LH4
+  Eb  1  4
+  Eb  1  4
+  D   1  4
+
+MEASURE 16
+  LINE LH2
+  Bb  0  4
+  Bb  0  4
+  Bb  0  4
+
+MEASURE 16
+  LINE LH4
+  Eb  1  4
+  Eb  1  4
+  D   1  4
+
+# kr2l tmp soler_R88_Db.mus 17 48 4 0 88 /tmp/kr2l
+
+MEASURE 17
+  LINE LH2
+  Eb  0  4
+  REST   4
+  G   0  4
+
+MEASURE 17
+  LINE LH4
+  Eb  1  4
+  REST   4
+  Bb  0  4
+
+MEASURE 18
+  LINE LH2
+  REST 4
+  REST   4
+  C   0  4
+
+MEASURE 18
+  LINE LH4
+  Ab  0  4
+  REST   4
+  Eb  0  4
+
+MEASURE 19
+  LINE LH2
+  Db  0  4
+  REST   4
+  D   0  4
+
+MEASURE 19
+  LINE LH4
+  REST  4
+  REST   4
+  F   0  4
+
+MEASURE 20
+  LINE LH2
+  Eb  0  4
+  Eb -1  4
+  Eb -2  4
+
+# kr2l tmp soler_R88_Db.mus 21 48 4 0 88 /tmp/kr2l
+
+MEASURE 21
+  LINE LH2
+  Ab  0 12
+  REST   6
+  Eb  1 12
+  REST   6
+  Ab  1 12
+  REST   6
+
+MEASURE 22
+  LINE LH2
+  Db  1  4
+  Bb  0  4
+  G   0  4
+
+MEASURE 23
+  LINE LH2
+  Ab  0 12
+  REST   6   
+  Eb  1 12
+  REST   6   
+  Ab  1 12
+  REST   6   
+
+MEASURE 24
+  LINE LH2
+  Db  1  4
+  Bb  0  4
+  G   0  4
+
+MEASURE 25
+  LINE LH2
+  Ab  0  4
+  Bb  0  4
+  C   1  4
+
+MEASURE 26
+  LINE LH2
+  Db  1  4
+  C   1  4
+  Bb  0  4
+
+MEASURE 27
+  LINE LH2
+  Eb  1  4
+  Db  1  4
+  C   1  4
+
+MEASURE 28
+  LINE LH2
+  F   1  4
+  Eb  1  4
+  Db  1  4
+
+MEASURE 29
+  LINE LH2
+  G   1  4
+  F   1  4
+  Eb  1  4
+
+MEASURE 30
+  LINE LH2
+  Ab  1  4
+  Db  1  4
+  Eb  1  4
+
+MEASURE 31
+  LINE LH2
+  Ab -1 12
+  REST   6
+  Eb  0 12
+  REST   6
+  Ab  0 12
+  REST   6
+
+MEASURE 32
+  LINE LH2
+  Db  0  4
+  Bb -1  4
+  G  -1  4
+
+MEASURE 33
+  LINE LH2
+  Ab -1 12
+  REST   6
+  Eb  0 12
+  REST   6
+  Ab  0 12
+  REST   6
+
+MEASURE 34
+  LINE LH2
+  Db  0  4
+  Bb -1  4
+  G  -1  4
+
+MEASURE 35
+  LINE LH2
+  Ab -2  4
+  Bb -2  4
+  C  -1  4
+
+MEASURE 35
+  LINE LH4
+  Ab -1  4
+  Bb -1  4
+  C   0  4
+
+MEASURE 36
+  LINE LH2
+  Db -1  4
+  C  -1  4
+  Bb -2  4
+
+MEASURE 36
+  LINE LH4
+  Db  0  4
+  C   0  4
+  Bb -1  4
+
+MEASURE 37
+  LINE LH2
+  Eb -1  4
+  Db -1  4
+  C  -1  4
+
+MEASURE 37
+  LINE LH4
+  Eb  0  4
+  Db  0  4
+  C   0  4
+
+MEASURE 38
+  LINE LH2
+  F  -1  4
+  Eb -1  4
+  Db -1  4
+
+MEASURE 38
+  LINE LH4
+  F   0  4
+  Eb  0  4
+  Db  0  4
+
+MEASURE 39
+  LINE LH2
+  G  -1  4
+  F  -1  4
+  Eb -1  4
+
+MEASURE 39
+  LINE LH4
+  G   0  4
+  F   0  4
+  Eb  0  4
+
+MEASURE 40
+  LINE LH2
+  Ab -1  4
+  Db -1  4
+  Eb -1  4
+
+MEASURE 40
+  LINE LH4
+  Ab  0  4
+  Db  0  4
+  Eb  0  4
+# kr2l tmp soler_R88_Db.mus 41 48 4 0 88 /tmp/kr2l
+
+MEASURE 41
+  LINE LH2
+  Ab  0  4
+  Bb  0  4
+  G   0  4
+
+MEASURE 42
+  LINE LH2
+  Ab  0 12
+  REST   6
+  Bb  0 12
+  REST   6
+  C   1 12
+  REST   6
+
+MEASURE 43
+  LINE LH2
+  F   1 12
+  REST   6
+  Eb  1 12
+  REST   6
+  Db  1 12
+  REST   6
+
+MEASURE 44
+  LINE LH2
+  Ab -1  4
+  Bb -1  4
+  G  -1  4
+
+MEASURE 45
+  LINE LH2
+  Ab -1 12
+  REST   6
+  Bb -1 12
+  REST   6
+  C   0 12
+  REST   6
+
+# kr2l tmp soler_R88_Db.mus 46 48 4 0 88 /tmp/kr2l
+
+MEASURE 46
+  LINE LH2
+  F   0 12
+  REST   6
+  Eb  0 12
+  REST   6
+  Db  0 12
+  REST   6
+
+MEASURE 47
+  LINE LH2
+  F   1 12
+  REST   6
+  Eb  1 12
+  REST   6
+  Db  1 12
+  REST   6
+
+MEASURE 48
+  LINE LH2
+  F   0 12
+  REST   6
+  Eb  0 12
+  REST   6
+  Db  0 12
+  REST   6
+
+MEASURE 49
+  LINE LH2
+  Ab -1 12
+  REST   6
+  Eb -1 12
+  REST   6
+  C  -1 12
+  REST   6
+
+MEASURE 50
+  LINE LH2
+  Ab -2 12
+  REST   6
+  Eb -2 12
+  REST   6
+  C  -2 12
+  REST   6
+
+MEASURE 51
+  LINE LH2
+  Ab -3  4  3
+
+MEASURE 51
+  LINE LH4
+  Eb -2  4  3
+
+MEASURE 51
+  LINE LH5
+  Ab -2  4  3
+# kr2l tmp soler_R88_Db.mus 50 48 4 0 88 /tmp/kr2l
+
+MEASURE 51
+  LINE RH8
+  Eb -1  4  3
+  RIPPLE
+
+MEASURE 51
+  LINE RH9
+  Ab -1  4  3
+# kr2l tmp soler_R88_Db.mus 40 48 4 0 88 /tmp/kr2l
+
+MEASURE 41
+  LINE TLLH2a
+  TIELINE LH2 100
+  Ab  0  2
+  REST   4
+# kr2l tmp soler_R88_Db.mus 44 48 4 0 88 /tmp/kr2l
+
+MEASURE 44
+  LINE TLLH2a
+  TIELINE LH2 100
+  Ab -1  2
+  REST   4
+# kr2l tmp soler_R88_Db.mus 41 48 4 0 88 /tmp/kr2l
+
+MEASURE 41
+  LINE TLLH2b
+  TIELINE LH2 100
+  REST   4
+  Bb  0  2
+# kr2l tmp soler_R88_Db.mus 44 48 4 0 88 /tmp/kr2l
+
+MEASURE 44
+  LINE TLLH2b
+  TIELINE LH2 100
+  REST   4
+  Bb -1  2
+
+REPEAT 1 51 52
+
+MEASURE 52
+  MARK First-Repeat
+# kr2l tmp soler_R88_Db.mus 103 48 4 0 88 /tmp/kr2l
+
+MEASURE 103
+  MARK Part-Two
+  LINE RH9
+  A  -1  3
+  TRILL Bb -1
+  G  -1 12
+  A  -1 12
+  Bb -1 12
+  A  -1 12
+  G  -1 12
+
+MEASURE 104
+  LINE RH9
+  A  -1  3
+  TRILL Bb -1
+  G  -1 12
+  A  -1 12
+  Bb -1 12
+  A  -1 12
+  G  -1 12
+
+MEASURE 105
+  LINE RH9
+  A  -1 12
+  Bb -1 12
+  C   0 12
+  D   0 12
+  E   0 12
+  F   0 12
+  G   0 12
+  A   0 12
+  Bb  0 12
+
+MEASURE 106
+  LINE RH9
+  A   0 12
+  G   0 12
+  F   0 12
+  F   0  4
+  TRILL G   0
+  E   0  4
+
+MEASURE 107
+  LINE RH9
+  A   0  3
+  TRILL Bb 0
+  G   0 12
+  A   0 12
+  Bb  0 12
+  A   0 12
+  G   0 12
+
+MEASURE 108
+  LINE RH9
+  A   0  3
+  TRILL Bb 0
+  G   0 12
+  A   0 12
+  Bb  0 12
+  A   0 12
+  G   0 12
+
+MEASURE 109
+  LINE RH9
+  A   0 12
+  Bb  0 12
+  C   1 12
+  D   1 12
+  E   1 12
+  F   1 12
+  G   1 12
+  A   1 12
+  Bb  1 12
+
+MEASURE 110
+  LINE RH9
+  A   1 12
+  G   1 12
+  F   1 12
+  F   1  4
+  TRILL G   1
+  E   1  4
+
+MEASURE 111
+  APART
+  MARK Long-runs
+  LINE RH9
+  G   1  64 0
+  F   1  64 0
+  G   1  64 0
+  F   1  3
+  C   2 12
+  Bb  1 12
+  A   1 12
+  G   1 12
+  F   1 12
+
+MEASURE 112
+  TOGETHER
+  LINE RH9
+  Eb  1 12
+  D   1 12
+  Eb  1 12
+  G   1 12
+  F   1 12
+  Eb  1 12
+  Eb  1 12
+  D   1 12
+  C   1 12
+
+MEASURE 113
+  LINE RH9
+  D   1 12
+  Eb  1 12
+  D   1 12
+  C   1 12
+  Bb  0 12
+  A   0 12
+  G   0 12
+  F   0 12
+  Eb  0 12
+
+MEASURE 114
+  LINE RH9
+  D   0 12
+  C   0 12
+  Bb -1 12
+  A  -1 12
+  G  -1 12
+  F  -1 12
+  Eb -1 12
+  D  -1 12
+  C  -1 12
+
+MEASURE 115
+  LINE RH9
+  Bb -2 12
+  A  -2 12
+  G  -2 12
+  F  -2 12
+  Eb -2 12
+  D  -2 12
+  REST   4
+
+
+MEASURE 121
+  APART
+  MARK Segue
+  LINE RH9
+  B   1 64 0
+  A   1 64 0
+  B   1 64 0
+  A   1  3
+  E   1 12
+  F   1 12
+  G   1 12
+  A   1 12
+  G   1 12
+
+MEASURE 122
+  TOGETHER
+  LINE RH8
+  E   1  4
+  D   1  2
+
+MEASURE 122
+  LINE RH9
+  G   1  4
+  F   1  2
+
+MEASURE 123
+  APART
+  LINE RH9
+  A   1 64 0
+  G   1 64 0
+  A   1 64 0
+  G   1  3
+  D   1 12
+  Eb  1 12
+  F   1 12
+  G   1 12
+  F   1 12
+
+MEASURE 124
+  TOGETHER
+  LINE RH8
+  D   1  4
+  C   1  2
+
+MEASURE 124
+  LINE RH9
+  F   1  4
+  Eb  1  2
+
+MEASURE 125
+  APART
+  LINE RH9
+  G   1 64 0
+  F   1 64 0
+  G   1 64 0
+  F   1  3
+  C   1 12
+  D   1 12
+  Eb  1 12
+  F   1 12
+  Eb  1 12
+# kr2l tmp soler_R88_Db.mus 116 48 4 0 88 /tmp/kr2l
+
+MEASURE 116
+  APART
+  LINE RH9
+  A   1 64 0
+  G   1 64 0
+  A   1 64 0
+  G   1  3
+  D   2 12
+  C   2 12
+  B   1 12
+  A   1 12
+  G   1 12
+
+MEASURE 117
+  TOGETHER
+  LINE RH9
+  F   1 12
+  E   1 12
+  F   1 12
+  A   1 12
+  G   1 12
+  F   1 12
+  F   1 12
+  E   1 12
+  D   1 12
+
+MEASURE 118
+  LINE RH9
+  E   1 12
+  F   1 12
+  E   1 12
+  D   1 12
+  C   1 12
+  B   0 12
+  A   0 12
+  G   0 12
+  F   0 12
+
+MEASURE 119
+  LINE RH9
+  E   0 12
+  D   0 12
+  C   0 12
+  B  -1 12
+  A  -1 12
+  G  -1 12
+  F  -1 12
+  E  -1 12
+  D  -1 12
+
+MEASURE 120
+  LINE RH9
+  C  -1 12
+  B  -2 12
+  A  -2 12
+  G  -2 12
+  F  -2 12
+  E  -2 12
+  REST   4
+# kr2l tmp soler_R88_Db.mus 103 48 4 0 88 /tmp/kr2l
+
+MEASURE 103
+  LINE LH2
+  F  -3  4  3
+  RIPPLE
+
+MEASURE 103
+  LINE LH4
+  C  -2  4  3
+
+MEASURE 103
+  LINE LH5
+  F  -2  4  3
+
+MEASURE 104
+  LINE LH2
+  F  -3  4  3
+  RIPPLE
+
+MEASURE 104
+  LINE LH4
+  C  -2  4  3
+
+MEASURE 104
+  LINE LH5
+  F  -2  4  3
+
+MEASURE 105
+  LINE LH2
+  F  -3  2
+  RIPPLE
+  REST   4
+
+MEASURE 105
+  LINE LH4
+  C  -2  2
+  REST   4
+
+MEASURE 105
+  LINE LH5
+  F  -2  2
+  Bb -2  4
+
+MEASURE 106
+  LINE LH5
+  C  -1  4
+  C  -2  2
+
+MEASURE 107
+  LINE LH2
+  F  -2  4  3
+  RIPPLE
+
+MEASURE 107
+  LINE LH4
+  C  -1  4  3
+
+MEASURE 107
+  LINE LH5
+  F  -1  4  3
+
+MEASURE 108
+  LINE LH2
+  F  -2  4  3
+  RIPPLE
+
+MEASURE 108
+  LINE LH4
+  C  -1  4  3
+
+MEASURE 108
+  LINE LH5
+  F  -1  4  3
+
+MEASURE 109
+  LINE LH4
+  F  -2  2
+  RIPPLE
+  REST   4
+
+MEASURE 109
+  LINE LH5
+  F  -1  2
+  Bb -2  4
+
+MEASURE 110
+  LINE LH5
+  C  -1  4
+  C  -2  2
+
+MEASURE 111
+  LINE LH4
+  REST   4
+  F   0  4
+  F   0  4
+
+MEASURE 111
+  LINE LH5
+  F  -2  4
+  A   0  4
+  A   0  4
+
+MEASURE 112
+  LINE LH4
+  F   0  4
+  F   0  4
+  F   0  4
+
+MEASURE 112
+  LINE LH5
+  A   0  4
+  A   0  4
+  A   0  4
+
+MEASURE 113
+  LINE LH4
+  Bb -1  2
+  REST   4
+
+MEASURE 113
+  LINE LH5
+  Bb  0  2
+  REST   4
+
+MEASURE 114
+  LINE LH5
+  REST   4  3
+
+MEASURE 115
+  LINE LH5
+  REST   2
+  C  -2 12
+  Bb -3 12
+  Ab -3 12
+
+# kr2l tmp soler_R88_Db.mus 116 48 4 0 88 /tmp/kr2l
+
+MEASURE 116
+  LINE LH4
+  REST   4
+  G   0  4
+  G   0  4
+
+MEASURE 116
+  LINE LH5
+  G  -3  4
+  B   0  4
+  B   0  4
+
+MEASURE 117
+  LINE LH4
+  G   0  4
+  G   0  4
+  G   0  4
+
+MEASURE 117
+  LINE LH5
+  B   0  4
+  B   0  4
+  B   0  4
+
+MEASURE 118
+  LINE LH4
+  C   0  4
+  REST   2
+
+MEASURE 118
+  LINE LH5
+  C   1  4
+  REST   2
+
+MEASURE 119
+  LINE LH5
+  REST   4  3
+
+MEASURE 120
+  LINE LH5
+  REST   2
+  D  -2 12
+  C  -2 12
+  Bb -3 12
+
+MEASURE 121
+  LINE LH4
+  REST   4
+  A   0  4
+  A   0  4
+
+MEASURE 121
+  LINE LH5
+  A  -3  4
+  Db  1  4
+  Db  1  4
+
+MEASURE 122
+  LINE LH5
+  D   0 12
+  A   0 12
+  G   0 12
+  F   0 12
+  E   0 12
+  D   0 12
+  C   0 12
+  B  -1 12
+  A  -1 12
+
+MEASURE 123
+  LINE LH4
+  REST   4
+  G   0  4
+  G   0  4
+
+MEASURE 123
+  LINE LH5
+  G  -1  4
+  B   0  4
+  B   0  4
+
+MEASURE 124
+  LINE LH5
+  C   0 12
+  G   0 12
+  F   0 12
+  Eb  0 12
+  D   0 12
+  C   0 12
+  Bb -1 12
+  A  -1 12
+  G  -1 12
+
+MEASURE 125
+  LINE LH4
+  REST   4
+  F   0  4
+  F   0  4
+
+MEASURE 125
+  LINE LH5
+  F  -1  4
+  A   0  4
+  A   0  4
+
+MEASURE 126
+  TOGETHER
+  MARK Transition
+# kr2l tmp soler_R88_Db.mus 126 48 4 0 88 /tmp/kr2l
+
+MEASURE 126
+  LINE RH8
+  REST  12
+  Bb  0 12
+  F   0 12
+  REST  12
+  Bb  0 12
+  F   0 12
+  REST  12
+  Bb  0 12
+  F   0 12
+
+MEASURE 127
+  LINE RH8
+  REST  12
+  A   0 12
+  F   0 12
+  REST  12
+  A   0 12
+  F   0 12
+  REST  12
+  C   1 12
+  F   0 12
+
+MEASURE 128
+  LINE RH8
+  REST  12
+  Bb  0 12
+  F   0 12
+  REST  12
+  Bb  0 12
+  F   0 12
+  REST  12
+  Bb  0 12
+  F   0 12
+
+MEASURE 129
+  LINE RH8
+  REST  12
+  A   0 12
+  F   0 12
+  REST  12
+  A   0 12
+  F   0 12
+  REST  12
+  C   1 12
+  F   0 12
+
+MEASURE 130
+  LINE RH8
+  REST  12
+  Bb  0 12
+  F   0 12
+  REST  12
+  Bb  0 12
+  F   0 12
+  REST  12
+  Bb  0 12
+  F   0 12
+
+MEASURE 131
+  LINE RH8
+  REST  12
+  G   0 12
+  E   0 12
+  REST  12
+  G   0 12
+  E   0 12
+  REST  12
+  G   0 12
+  E   0 12
+
+MEASURE 132
+  LINE RH8
+  REST  12
+  F   0 12
+  C   1 12
+  REST  12
+  G   0 12
+  C   1 12
+  REST  12
+  Ab  0 12
+  C   1 12
+
+MEASURE 133
+  LINE RH8
+  REST  12
+  G   0 12
+  E   0 12
+  REST  12
+  G   0 12
+  E   0 12
+  REST  12
+  G   0 12
+  E   0 12
+
+MEASURE 134
+  LINE RH8
+  REST  12
+  F   0 12
+  C   1 12
+  REST  12
+  G   0 12
+  C   1 12
+  REST  12
+  Ab  0 12
+  C   1 12
+
+# kr2l tmp soler_R88_Db.mus 135 48 4 0 88 /tmp/kr2l
+
+MEASURE 135
+  LINE RH8
+  REST  12
+  Ab  0 12
+  F   0 12
+  REST  12
+  Ab  0 12
+  F   0 12
+  REST  12
+  Ab  0 12
+  F   0 12
+
+MEASURE 136
+  LINE RH8
+  REST  12
+  Gb  0 12
+  Db  1 12
+  REST  12
+  Ab  0 12
+  Db  1 12
+  REST  12
+  Bb  0 12
+  Db  1 12
+
+MEASURE 137
+  LINE RH8
+  REST  12
+  Ab  0 12
+  F   0 12
+  REST  12
+  Ab  0 12
+  F   0 12
+  REST  12
+  Ab  0 12
+  F   0 12
+
+MEASURE 138
+  LINE RH8
+  REST  12
+  Gb  0 12
+  Db  1 12
+  REST  12
+  Ab  0 12
+  Db  1 12
+  REST  12
+  Bb  0 12
+  Db  1 12
+# kr2l tmp soler_R88_Db.mus 126 48 4 0 88 /tmp/kr2l
+
+MEASURE 126
+  LINE TLRH9
+  TIELINE RH8 86
+  REST  12
+  D   1  6
+  REST  12
+  D   1  6
+  REST  12
+  D   1  6
+
+MEASURE 127
+  LINE TLRH9
+  TIELINE RH8 86
+  REST  12
+  C   1  6
+  REST  12
+  C   1  6
+  REST  12
+  Eb  1  6
+
+MEASURE 128
+  LINE TLRH9
+  TIELINE RH8 86
+  REST  12
+  D   1  6
+  REST  12
+  D   1  6
+  REST  12
+  D   1  6
+
+MEASURE 129
+  LINE TLRH9
+  TIELINE RH8 86
+  REST  12
+  C   1  6
+  REST  12
+  C   1  6
+  REST  12
+  Eb  1  6
+
+MEASURE 130
+  LINE TLRH9
+  TIELINE RH8 86
+  REST  12
+  Db  1  6
+  REST  12
+  Db  1  6
+  REST  12
+  Db  1  6
+
+MEASURE 131
+  LINE TLRH9
+  TIELINE RH8 86
+  REST  12
+  C   1  6
+  REST  12
+  C   1  6
+  REST  12
+  C   1  6
+
+MEASURE 132
+  LINE TLRH9
+  TIELINE RH8 86
+  REST   4  3
+
+MEASURE 133
+  LINE TLRH9
+  TIELINE RH8 86
+  REST  12
+  C   1  6
+  REST  12
+  C   1  6
+  REST  12
+  C   1  6
+
+MEASURE 134
+  LINE TLRH9
+  TIELINE RH8 86
+  REST   4  3
+
+MEASURE 135
+  LINE TLRH9
+  TIELINE RH8 86
+  REST  12
+  Db  1  6
+  REST  12
+  Db  1  6
+  REST  12
+  Db  1  6
+
+MEASURE 136
+  LINE TLRH9
+  TIELINE RH8 86
+  REST   4  3
+
+MEASURE 137
+  LINE TLRH9
+  TIELINE RH8 86
+  REST  12
+  Db  1  6
+  REST  12
+  Db  1  6
+  REST  12
+  Db  1  6
+
+
+MEASURE 139
+  APART
+  LINE RH9
+  Bb  1  64 0
+  Ab  1  64 0
+  Bb  1  64 0
+  Ab  1  3
+  Gb  1 12
+  F   1 12
+  Eb  1 12
+  Db  1 12
+  B   0 12
+
+MEASURE 140
+  LINE RH9
+  TOGETHER
+  Bb  0 12
+  Bb  1 12
+  Ab  1 12
+  Gb  1 12
+  F   1 12
+  Eb  1 12
+  Db  1 12
+  C   1 12
+  Db  1 12
+
+MEASURE 141
+  LINE RH9
+  APART
+  Eb  1  64 0
+  Db  1  8 3
+  TRILL Eb  1
+  C   1 16
+  Bb  0 16
+  Ab  0  4
+# kr2l tmp soler_R88_Db.mus 126 48 4 0 88 /tmp/kr2l
+
+MEASURE 126
+  LINE LH5
+  Bb -1  4
+  F   1  4
+  D   0  4
+
+MEASURE 127
+  LINE LH5
+  Eb  0  4
+  Eb  1  4
+  A  -1  4
+
+MEASURE 128
+  LINE LH5
+  Bb -1  4
+  F   1  4
+  D   0  4
+
+MEASURE 129
+  LINE LH5
+  Eb  0  4
+  Eb  1  4
+  A  -1  4
+
+MEASURE 130
+  LINE LH5
+  Bb -1  4
+  F   1  4
+  Bb -1  4
+
+MEASURE 131
+  LINE LH5
+  C   0  4
+  G   1  4
+  Bb  0  4
+
+MEASURE 132
+  LINE LH5
+  Ab  0  4
+  G   0  4
+  F   0  4
+
+MEASURE 133
+  LINE LH5
+  C   0  4
+  G   1  4
+  Bb  0  4
+
+MEASURE 134
+  LINE LH5
+  Ab  0  4
+  G   0  4
+  F   0  4
+
+MEASURE 135
+  LINE LH5
+  Db  0  4
+  Ab  1  4
+  B   0  4
+
+MEASURE 136
+  LINE LH5
+  Bb  0  4
+  Ab  0  4
+  Gb  0  4
+
+MEASURE 137
+  LINE LH5
+  Db  0  4
+  Ab  1  4
+  B   0  4
+
+MEASURE 138
+  LINE LH5
+  Bb  0  4
+  Ab  0  4
+  Gb  0  4
+
+MEASURE 139
+  LINE LH4
+  F   0  4
+  F   0  4
+  F   0  4
+
+MEASURE 139
+  LINE LH5
+  Ab  0  4
+  Ab  0  4
+  Ab  0  4
+
+MEASURE 140
+  LINE LH4
+  Gb  0  4
+  Gb  0  4
+  G   0  4
+
+MEASURE 140
+  LINE LH5
+  PHANTOM 4
+  Bb  0  4
+  Bb  0  4
+
+MEASURE 141
+  LINE LH5
+  Ab  0  4
+  Ab -1  4
+  Ab -2  4
+
+MEASURE 142
+  TOGETHER
+  MARK Recap
+  TEMPO RESET
+# kr2l tmp soler_R88_Db.mus 142 48 4 0 88 /tmp/kr2l
+
+MEASURE 142
+  LINE RH9
+  REST  12
+  F   1 12
+  F   2 12
+  REST  12
+  F   1 12
+  F   2 12
+  REST  12
+  F   1 12
+  F   2 12
+
+MEASURE 143
+  LINE RH9
+  Eb  2 12
+  Ab  1 12
+  Ab  1 12
+  Ab  1 12
+  Ab  1 12
+  Ab  1 12
+  Ab  1 12
+  Ab  1 12
+  Ab  1 12
+
+MEASURE 144
+  LINE RH9
+  Ab  1 12
+  F   1 12
+  F   2 12
+  REST  12
+  F   1 12
+  F   2 12
+  REST  12
+  F   1 12
+  F   2 12
+
+MEASURE 145
+  LINE RH9
+  Eb  2 12
+  Ab  1 12
+  Ab  1 12
+  Ab  1 12
+  Ab  1 12
+  Ab  1 12
+  Ab  1 12
+  Ab  1 12
+  Ab  1 12
+
+MEASURE 146
+  LINE RH9
+  Ab  1 12
+  F   1 12
+  Db  2 12
+  Db  2 12
+  Db  2 12
+  Db  2 12
+  Db  2 12
+  Db  2 12
+  Db  2 12
+
+MEASURE 147
+  LINE RH9
+  Db  2 12
+  Bb  1 12
+  Eb  2 12
+  Eb  2 12
+  Eb  2 12
+  Eb  2 12
+  Eb  2 12
+  Eb  2 12
+  Eb  2 12
+
+MEASURE 148
+  LINE RH9
+  Eb  2 12
+  C   2 12
+  F   2 12
+  F   2 12
+  F   2 12
+  F   2 12
+  F   2 12
+  F   2 12
+  F   2 12
+
+MEASURE 149
+  LINE RH9
+  F   2 12
+  Db  2 12
+  Gb  2 12
+  Gb  2 12
+  Gb  2 12
+  Gb  2 12
+  Gb  2 12
+  Gb  2 12
+  Gb  2 12
+
+MEASURE 150
+  LINE RH9
+  Eb  2 64 0
+  F   2 64 0
+  Eb  2  3
+  Db  2 12
+  Eb  2 12
+  Gb  2 12
+  F   2 12
+  Eb  2 12
+
+MEASURE 151
+  LINE RH9
+  F   2 12
+  Eb  2 12
+  F   2 12
+  Gb  2 12
+  F   2 12
+  Eb  2 12
+  Db  2  8
+  TRILL Eb 2
+  C   2  8
+
+MEASURE 152
+  TEMPO RESET
+
+# kr2l tmp soler_R88_Db.mus 152 48 4 0 88 /tmp/kr2l
+
+MEASURE 152
+  LINE RH9
+  REST  12
+  F   0 12
+  F   1 12
+  REST  12
+  F   0 12
+  F   1 12
+  REST  12
+  F   0 12
+  F   1 12
+
+MEASURE 153
+  LINE RH9
+  Eb  1 12
+  Ab  0 12
+  Ab  0 12
+  Ab  0 12
+  Ab  0 12
+  Ab  0 12
+  Ab  0 12
+  Ab  0 12
+  Ab  0 12
+
+MEASURE 154
+  LINE RH9
+  Ab  0 12
+  F   0 12
+  F   1 12
+  REST  12
+  F   0 12
+  F   1 12
+  REST  12
+  F   0 12
+  F   1 12
+
+MEASURE 155
+  LINE RH9
+  Eb  1 12
+  Ab  0 12
+  Ab  0 12
+  Ab  0 12
+  Ab  0 12
+  Ab  0 12
+  Ab  0 12
+  Ab  0 12
+  Ab  0 12
+
+MEASURE 156
+  LINE RH9
+  Ab  0 12
+  F   0 12
+  Db  1 12
+  Db  1 12
+  Db  1 12
+  Db  1 12
+  Db  1 12
+  Db  1 12
+  Db  1 12
+
+MEASURE 157
+  LINE RH9
+  Db  1 12
+  Bb  0 12
+  Eb  1 12
+  Eb  1 12
+  Eb  1 12
+  Eb  1 12
+  Eb  1 12
+  Eb  1 12
+  Eb  1 12
+
+MEASURE 158
+  LINE RH9
+  Eb  1 12
+  C   1 12
+  F   1 12
+  F   1 12
+  F   1 12
+  F   1 12
+  F   1 12
+  F   1 12
+  F   1 12
+
+MEASURE 159
+  LINE RH9
+  F   1 12
+  Db  1 12
+  Gb  1 12
+  Gb  1 12
+  Gb  1 12
+  Gb  1 12
+  Gb  1 12
+  Gb  1 12
+  Gb  1 12
+
+MEASURE 160
+  LINE RH9
+  Eb  1 64 0
+  F   1 64 0
+  Eb  1  3
+  Db  1 12
+  Eb  1 12
+  Gb  1 12
+  F   1 12
+  Eb  1 12
+
+MEASURE 161
+  LINE RH9
+  F   1 12
+  Eb  1 12
+  F   1 12
+  Gb  1 12
+  F   1 12
+  Eb  1 12
+  Db  1  16 3
+  TRILL Eb 1
+  C   1  16
+
+MEASURE 162
+  TEMPO RESET
+  MARK Coda
+# kr2l tmp soler_R88_Db.mus 162 48 4 0 88 /tmp/kr2l
+
+MEASURE 162
+  LINE RH9
+  REST  12
+  F   1 12
+  F   2  3
+  REST  12
+  Gb  1 12
+  Gb  2 12
+
+MEASURE 163
+  LINE RH9
+  REST  12
+  F   1 12
+  F   2 12
+  REST  12
+  Eb  1 12
+  Eb  2 12
+  REST  12
+  Db  1 12
+  Db  2 12
+
+MEASURE 164
+  LINE RH9
+  REST  12
+  Gb  1 12
+  Gb  0 12
+  REST  12
+  F   1 12
+  Ab  0 12
+  REST  12
+  Eb  1 12
+  Ab  0 12
+
+MEASURE 165
+  LINE RH9
+  REST  12
+  F   0 12
+  F   1  3
+  REST  12
+  Gb  0 12
+  Gb  1 12
+
+MEASURE 166
+  LINE RH9
+  REST  12
+  F   0 12
+  F   1 12
+  REST  12
+  Eb  0 12
+  Eb  1 12
+  REST  12
+  Db  0 12
+  Db  1 12
+
+MEASURE 167
+  LINE RH9
+  REST  12
+  Gb  0 12
+  Gb -1 12
+  REST  12
+  F   0 12
+  Ab -1 12
+  REST  12
+  Eb  0 12
+  Ab -1 12
+
+MEASURE 168
+  LINE RH9
+  REST  12
+  Gb  1 12
+  Gb  0 12
+  REST  12
+  F   1 12
+  Ab  0 12
+  REST  12
+  Eb  1 12
+  Ab  0 12
+
+MEASURE 169
+  LINE RH9
+  REST  12
+  Gb  0 12
+  Gb -1 12
+  REST  12
+  F   0 12
+  Ab -1 12
+  REST  12
+  Eb  0 12
+  Ab -1 12
+
+MEASURE 170
+  LINE RH9
+  REST  12
+  Db  0 12
+  F   0 12
+  REST  12
+  Ab -1 12
+  Db  0 12
+  REST  12
+  F  -1 12
+  Ab -1 12
+
+MEASURE 171
+  LINE RH9
+  REST  12
+  Db -1 12
+  F  -1 12
+  REST  12
+  Ab -2 12
+  Db -1 12
+  REST  12
+  F  -2 12
+  Ab -2 12
+# kr2l tmp soler_R88_Db.mus 172 48 4 0 88 /tmp/kr2l
+
+MEASURE 172
+  LINE RH8
+  Ab -1  4  3
+  RIPPLE
+
+MEASURE 172
+  LINE RH9
+  Db  0  4  3
+# kr2l tmp soler_R88_Db.mus 142 48 4 0 88 /tmp/kr2l
+
+MEASURE 142
+  LINE LH4
+  Db  1  4
+  Ab  1  4
+  Db  2  4
+
+MEASURE 143
+  LINE LH4
+  Gb  1  4
+  Eb  1  4
+  C   1  4
+
+MEASURE 144
+  LINE LH4
+  Db  1  4
+  Ab  1  4
+  Db  2  4
+
+MEASURE 145
+  LINE LH4
+  Gb  1  4
+  Eb  1  4
+  C   1  4
+
+MEASURE 146
+  LINE LH4
+  Db  1  4
+  Eb  1  4
+  F   1  4
+
+MEASURE 147
+  LINE LH4
+  Gb  1  4
+  F   1  4
+  Eb  1  4
+
+MEASURE 148
+  LINE LH4
+  Ab  1  4
+  Gb  1  4
+  F   1  4
+
+MEASURE 149
+  LINE LH4
+  Bb  1  4
+  Ab  1  4
+  Gb  1  4
+
+MEASURE 150
+  LINE LH4
+  C   2  4
+  Bb  1  4
+  Ab  1  4
+
+MEASURE 151
+  LINE LH4
+  Db  1  4
+  Gb  1  4
+  Ab  1  4
+
+MEASURE 152
+  LINE LH4
+  Db  0  4
+  Ab  0  4
+  Db  1  4
+# kr2l tmp soler_R88_Db.mus 153 48 4 0 88 /tmp/kr2l
+
+MEASURE 153
+  LINE LH4
+  Gb  0  4
+  Eb  0  4
+  C   0  4
+
+MEASURE 154
+  LINE LH4
+  Db  0  4
+  Ab  0  4
+  Db  1  4
+
+MEASURE 155
+  LINE LH4
+  Gb  0  4
+  Eb  0  4
+  C   0  4
+
+MEASURE 156
+  LINE LH4
+  Db -1  4
+  Eb -1  4
+  F  -1  4
+
+MEASURE 156
+  LINE LH5
+  Db  0  4
+  Eb  0  4
+  F   0  4
+
+MEASURE 157
+  LINE LH4
+  Gb -1  4
+  F  -1  4
+  Eb -1  4
+
+MEASURE 157
+  LINE LH5
+  Gb  0  4
+  F   0  4
+  Eb  0  4
+
+MEASURE 158
+  LINE LH4
+  Ab -1  4
+  Gb -1  4
+  F  -1  4
+
+MEASURE 158
+  LINE LH5
+  Ab  0  4
+  Gb  0  4
+  F   0  4
+
+MEASURE 159
+  LINE LH4
+  Bb -1  4
+  Ab -1  4
+  Gb -1  4
+
+MEASURE 159
+  LINE LH5
+  Bb  0  4
+  Ab  0  4
+  Gb  0  4
+
+MEASURE 160
+  LINE LH4
+  C   0  4
+  Bb -1  4
+  Ab -1  4
+
+MEASURE 160
+  LINE LH5
+  C   1  4
+  Bb  0  4
+  Ab  0  4
+
+MEASURE 161
+  LINE LH4
+  Db -1  4
+  Gb -1  4
+  Ab -1  4
+
+MEASURE 161
+  LINE LH5
+  Db  0  4
+  Gb  0  4
+  Ab  0  4
+
+MEASURE 162
+  LINE LH4
+  Db  1  4
+  Eb  1  4
+  C   1  4
+
+MEASURE 163
+  LINE LH4
+  Db  1 12
+  REST   6
+  Eb  1 12
+  REST   6
+  F   1 12
+  REST   6
+
+MEASURE 164
+  LINE LH4
+  Bb  1 12
+  REST   6
+  Ab  1 12
+  REST   6
+  Gb  1 12
+  REST   6
+
+# kr2l tmp soler_R88_Db.mus 165 48 4 0 88 /tmp/kr2l
+
+MEASURE 165
+  LINE LH4
+  Db  0  4
+  Eb  0  4
+  C   0  4
+
+MEASURE 166
+  LINE LH4
+  Db  0 12
+  REST   6
+  Eb  0 12
+  REST   6
+  F   0 12
+  REST   6
+
+MEASURE 167
+  LINE LH4
+  Bb  0 12
+  REST   6
+  Ab  0 12
+  REST   6
+  Gb  0 12
+  REST   6
+
+MEASURE 168
+  LINE LH4
+  Bb  1 12
+  REST   6
+  Ab  1 12
+  REST   6
+  Gb  1 12
+  REST   6
+
+MEASURE 169
+  LINE LH4
+  Bb  0 12
+  REST   6
+  Ab  0 12
+  REST   6
+  Gb  0 12
+  REST   6
+
+MEASURE 170
+  LINE LH4
+  Db  0 12
+  REST   6
+  Ab -1 12
+  REST   6
+  F  -1 12
+  REST   6
+
+MEASURE 171
+  LINE LH4
+  Db -1 12
+  REST   6
+  Ab -2 12
+  REST   6
+  F  -2 12
+  REST   6
+
+MEASURE 172
+  LINE LH2
+  Db -2  4  3
+  RIPPLE
+
+MEASURE 172
+  LINE LH4
+  Ab -2  4  3
+
+MEASURE 172
+  LINE LH5
+  Db -1  4  3
+# kr2l tmp soler_R88_Db.mus 162 48 4 0 88 /tmp/kr2l
+
+MEASURE 162
+  LINE TLLH2a
+  TIELINE LH4 100
+  Db  1  2
+  REST   4
+
+MEASURE 165
+  LINE TLLH2a
+  TIELINE LH4 100
+  Db  0  2
+  REST   4
+# kr2l tmp soler_R88_Db.mus 162 48 4 0 88 /tmp/kr2l
+
+MEASURE 162
+  LINE TLLH2b
+  TIELINE LH4 100
+  REST   4
+  Eb  1  2
+
+MEASURE 165
+  LINE TLLH2b
+  TIELINE LH4 100
+  REST   4
+  Eb  0  2
+
+REPEAT 103 172 173
+MEASURE 173
+  MARK Part-Two-Repeat

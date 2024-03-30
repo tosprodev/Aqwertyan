@@ -1,0 +1,445 @@
+NAME Scriabin: Prelude, Opus 17, Number 11: Allegretto
+
+MEASURE 1
+  METER 6 4
+  TEMPO 4 92.000000
+  KEY 4b
+
+# kr2l scr11-17.mus 1 120 4
+
+MEASURE 1
+  LINE RH5
+  Eb  1  4
+  F   1  4
+  Ab  1  4
+  Ab  0  4
+  Bb  0  4
+  Db  1  4
+
+MEASURE 2
+  LINE RH5
+  REST   4
+  Eb  1  4
+  REST   1
+# kr2l scr11-17.mus 3 120 4
+
+MEASURE 3
+  LINE RH5
+  C   1  4
+  Db  1  4
+  F   1  4
+  F   0  4
+  Gb  0  4
+  Bb  0  4
+
+MEASURE 4
+  LINE RH5
+  REST   4
+  Db  1  4
+  REST   1
+
+MEASURE 5
+  LINE RH5
+  REST   4
+  Ab  0  4
+  F   0  4
+  REST   4
+  E   0  4
+  Bb  0  4
+
+MEASURE 6
+  LINE RH5
+  REST   4
+  C   1  4
+  Eb  0  4
+  REST   4
+  Db  0  4
+  F   1  4
+
+MEASURE 7
+  LINE RH5
+  Eb  1  4
+  F   1  4
+  Ab  1  4
+  Ab  0  4
+  Bb  0  4
+  Db  1  4
+
+MEASURE 8
+  LINE RH5
+  REST   4
+  Eb  1  4
+  REST   1
+
+MEASURE 9
+  LINE RH5
+  REST   4
+  Ab  0  4
+  F   0  4
+  REST   4
+  E   0  4
+  Bb  0  4
+
+MEASURE 10
+  LINE RH5
+  REST   4
+  C   1  4
+  Eb  0  4
+  REST   4
+  Db  0  4
+  F   1  4
+
+MEASURE 11
+  LINE RH5
+  Eb  1  4
+  F   1  4
+  Ab  1  4
+  Ab  0  4
+  Bb  0  4
+  Db  1  16 3
+  REST   16
+# kr2l scr11-17.mus 12 120 4
+
+MEASURE 12
+  LINE RH5
+  REST   4
+  Eb  1  4
+  REST   1
+# kr2l scr11-17.mus 2 120 4
+
+MEASURE 2
+  LINE RH4
+  REST   4
+  G   0  4
+  Ab  0  4
+  REST   4  3
+
+MEASURE 3
+  LINE RH4
+  REST   2  3
+
+MEASURE 4
+  LINE RH4
+  REST   4
+  E   0  4
+  F   0  4
+  REST   4  3
+# kr2l scr11-17.mus 8 120 4
+
+MEASURE 8
+  LINE RH4
+  REST   4
+  G   0  4
+  Ab  0  4
+  REST   4  3
+# kr2l scr11-17.mus 12 120 4
+
+MEASURE 12
+  LINE RH4
+  REST   4
+  G   0  4
+  Ab  0  4
+  REST   4  3
+# kr2l scr11-17.mus 1 60 4
+
+
+# kr2l scr11-17.mus 1 60 4
+
+MEASURE 1
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4  5
+  F  -1  4
+
+MEASURE 1
+  LINE TLLH3
+  TIELINE LH4 92
+  Eb  0  4
+  D   0  4
+  Db  0  4
+  C   0  4
+  Ab -1  4
+  Bb -1  4
+
+MEASURE 1
+  LINE LH4
+  Ab  0  4
+  Ab  0  4
+  Ab  0  4
+  Eb  0  4
+  Db  0  4
+  Db  0  4
+
+MEASURE 1
+  LINE LH5
+  C   1  4
+  B   0  4
+  Bb  0  4
+  Ab  0  4
+  E   0  4
+  Ab  0  4
+# kr2l scr11-17.mus 7 60 4
+
+MEASURE 7
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4  5
+  F  -1  4
+
+MEASURE 7
+  LINE TLLH3
+  TIELINE LH4 92
+  Eb  0  4
+  D   0  4
+  Db  0  4
+  C   0  4
+  Ab -1  4
+  Bb -1  4
+
+MEASURE 7
+  LINE LH4
+  Ab  0  4
+  Ab  0  4
+  Ab  0  4
+  Eb  0  4
+  Db  0  4
+  Db  0  4
+
+MEASURE 7
+  LINE LH5
+  C   1  4
+  B   0  4
+  Bb  0  4
+  Ab  0  4
+  E   0  4
+  Ab  0  4
+# kr2l scr11-17.mus 11 60 4
+
+MEASURE 11
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4  5
+  F  -1  16 3
+  REST   16
+
+MEASURE 11
+  LINE TLLH3
+  TIELINE LH4 92
+  Eb  0  4
+  D   0  4
+  Db  0  4
+  C   0  4
+  Ab -1  4
+  Bb -1  16 3
+  REST   16
+
+MEASURE 11
+  LINE LH4
+  Ab  0  4
+  Ab  0  4
+  Ab  0  4
+  Eb  0  4
+  Db  0  4
+  Db  0  16 3
+  REST   16
+
+MEASURE 11
+  LINE LH5
+  C   1  4
+  B   0  4
+  Bb  0  4
+  Ab  0  4
+  E   0  4
+  Ab  0  16 3
+  REST   16
+# kr2l scr11-17.mus 2 120 4
+
+MEASURE 2
+  LINE LH5
+  REST   4
+  Db  0  4
+  C   0  4
+  REST   4
+  Db  0  4
+  C   0  4
+# kr2l scr11-17.mus 8 120 4
+
+MEASURE 8
+  LINE LH5
+  REST   4
+  Db  0  4
+  C   0  4
+  REST   4
+  Db  0  4
+  C   0  4
+# kr2l scr11-17.mus 12 120 4
+
+MEASURE 12
+  LINE LH5
+  REST   4
+  Db  0  4
+  C   0  4
+  REST   4
+  Db  0  4
+  C   0  4
+# kr2l scr11-17.mus 4 120 4
+
+MEASURE 4
+  LINE LH5
+  REST   4
+  Bb -1  4
+  Ab -1  4
+  REST   4
+  Bb -1  4
+  Ab -1  4
+# kr2l scr11-17.mus 5 120 4
+
+MEASURE 5
+  LINE LH5
+  REST   4
+  Ab -1  2
+  REST   4
+  Ab -1  2
+
+MEASURE 6
+  LINE LH5
+  REST   4
+  Ab -1  2
+  REST   4
+  Ab  -1  4
+  Db  1  4
+# kr2l scr11-17.mus 9 120 4
+
+MEASURE 9
+  LINE LH5
+  REST   4
+  Ab -1  2
+  REST   4
+  Ab -1  2
+
+MEASURE 10
+  LINE LH5
+  REST   4
+  Ab -1  2
+  REST   4
+  Ab  -1  4
+  Db  1  4
+# kr2l scr11-17.mus 2 120 4
+
+MEASURE 2
+  LINE LH4
+  Eb -2  4
+  Eb -1  2
+  Ab -2  4
+  Eb -1  2
+# kr2l scr11-17.mus 8 120 4
+
+MEASURE 8
+  LINE LH4
+  Eb -2  4
+  Eb -1  2
+  Ab -2  4
+  Eb -1  2
+# kr2l scr11-17.mus 4 120 4
+
+MEASURE 4
+  LINE LH4
+  C  -2  4
+  C  -1  2
+  F  -2  4
+  C  -1  2
+# kr2l scr11-17.mus 5 120 4
+
+MEASURE 5
+  LINE LH4
+  Db -2  4
+  Ab -2  4
+  Db -1  4
+  Db -2  4
+  Ab -2  4
+  Db -1  4
+# kr2l scr11-17.mus 6 120 4
+
+MEASURE 6
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4  5
+  Bb -1  4
+
+MEASURE 6
+  LINE LH4
+  C  -2  4
+  Ab -2  4
+  Eb -1  4
+  Bb -3  4
+  Bb -2  4
+  Ab  0  4
+# kr2l scr11-17.mus 9 120 4
+
+MEASURE 9
+  LINE LH4
+  Db -2  4
+  Ab -2  4
+  Db -1  4
+  Db -2  4
+  Ab -2  4
+  Db -1  4
+
+MEASURE 10
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4  5
+  Bb -1  4
+
+MEASURE 10
+  LINE LH4
+  C  -2  4
+  Ab -2  4
+  Eb -1  4
+  Bb -3  4
+  Bb -2  4
+  Ab  0  4
+# kr2l scr11-17.mus 12 120 4
+
+MEASURE 12
+  LINE LH4
+  Eb -2  4
+  Eb -1  2
+  Ab -2  4
+  Eb -1  4
+  Ab -1  4
+# kr2l scr11-17.mus 3 60 4
+
+MEASURE 3
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4  5
+  Db -1  4
+
+MEASURE 3
+  LINE TLLH3
+  TIELINE LH4 92
+  C   0  4
+  B  -1  4
+  Bb -1  4
+  Ab -1  4
+  F  -1  4
+  G  -1  4
+
+MEASURE 3
+  LINE LH4
+  F   0  4
+  F   0  4
+  F   0  4
+  C   0  4
+  Bb -1  4
+  Bb -1  4
+
+MEASURE 3
+  LINE LH5
+  Ab  0  4
+  Ab  0  4
+  G   0  4
+  F   0  4
+  Db  0  4
+  F   0  4

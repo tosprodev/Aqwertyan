@@ -1,0 +1,9 @@
+M 1 Line LH1: Changed lcm from 4 to 8
+M 4 Line LH1: Changed lcm from 8 to 24
+M 5 Line LH1: Changed lcm from 24 to 48
+M 25 Line LH1: Changed lcm from 48 to 96
+M 33 Line RH5: Changed lcm from 96 to 288
+M 113 Line RH9: Changed lcm from 288 to 576
+M 170 Line RH8: Changed lcm from 576 to 2880
+M 245 Line RH8: Changed lcm from 2880 to 20160
+M 247 Line RH8: Changed lcm from 20160 to 262080

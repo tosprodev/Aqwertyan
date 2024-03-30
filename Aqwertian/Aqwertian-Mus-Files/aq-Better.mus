@@ -1,0 +1,196 @@
+NAME Auto-gen
+
+MEASURE 1
+  KEY 0
+  TEMPO 1 1666.000000
+  METER 128 1
+  LH SKIP
+  LH IGNORE
+  LH CHORDIG
+  RH SKIP
+  RH IGNORE
+  RH CHORDIG
+
+MEASURE 1
+  LINE LH0001
+    CHANNEL 10
+    REST 1 9
+    D -2 1 1
+    VOLPERC 78.378400
+    EXMATCH S Q
+    # From first keys list.
+    CARRY 1 19
+    D -2 1 1
+    VOLPERC 83.783800
+    EXMATCH S Q
+    # Previously mapped.
+    CARRY 1 19
+    D -2 1 1
+    VOLPERC 78.378400
+    EXMATCH S Q
+    # Previously mapped.
+    CARRY 1 19
+    D -2 1 1
+    VOLPERC 81.982000
+    EXMATCH S Q
+    # Previously mapped.
+    CARRY 1 14
+    B -3 1 1
+    VOLPERC 76.576600
+    EXMATCH F Q
+    # From first keys list.
+    CARRY 1 9
+    B -3 1 1
+    VOLPERC 74.774800
+    EXMATCH A Q
+    # From first keys list.
+    CARRY 1 4
+    A# -2 1 1
+    VOLPERC 66.666700
+    EXMATCH G Q
+    # Previously mapped.
+    CARRY 1 4
+    B -3 1 1
+    VOLPERC 76.576600
+    EXMATCH A Q
+    # Previously mapped.
+    CARRY 1 9
+    B -3 1 1
+    VOLPERC 31.531500
+    EXMATCH A Q
+    # Previously mapped.
+    CARRY 1 4
+    B -3 1 1
+    VOLPERC 83.783800
+    EXMATCH A Q
+    # Previously mapped.
+    CARRY 1 8
+    # Previously mapped.
+  LINE LH0002
+    CHANNEL 10
+    REST 1 89
+    A# -2 1 1
+    VOLPERC 68.468500
+    EXMATCH G Q
+    # From first keys list.
+    CARRY 1 8
+    REST 1 11
+    A# -2 1 1
+    EXMATCH G Q
+    # Previously mapped.
+    CARRY 1 9
+    A# -2 1 1
+    VOLPERC 72.072100
+    EXMATCH G Q
+    # Previously mapped.
+    CARRY 1 8
+    # Previously mapped.
+  LINE RH0001
+    CHANNEL 10
+    B -3 1 1
+    VOLPERC 90.991000
+    EXMATCH ; Q
+    # From first keys list.
+    CARRY 1 13
+    B -3 1 1
+    VOLPERC 74.774800
+    EXMATCH ; Q
+    # Previously mapped.
+    CARRY 1 4
+    A# -2 1 1
+    VOLPERC 75.675700
+    EXMATCH K Q
+    # Previously mapped.
+    CARRY 1 4
+    B -3 1 1
+    VOLPERC 66.666700
+    EXMATCH ; Q
+    # Previously mapped.
+    CARRY 1 14
+    B -3 1 1
+    VOLPERC 80.180200
+    EXMATCH ; Q
+    # Previously mapped.
+    CARRY 1 14
+    B -3 1 1
+    VOLPERC 76.576600
+    EXMATCH ; Q
+    # Previously mapped.
+    CARRY 1 4
+    A# -2 1 1
+    VOLPERC 68.468500
+    EXMATCH K Q
+    # Previously mapped.
+    CARRY 1 4
+    B -3 1 1
+    VOLPERC 71.171200
+    EXMATCH ; Q
+    # Previously mapped.
+    CARRY 1 9
+    B -3 1 1
+    VOLPERC 42.342300
+    EXMATCH ; Q
+    # Previously mapped.
+    CARRY 1 4
+    B -3 1 1
+    VOLPERC 83.783800
+    EXMATCH ; Q
+    # Previously mapped.
+    CARRY 1 9
+    D -2 1 1
+    VOLPERC 74.774800
+    EXMATCH J Q
+    # From first keys list.
+    CARRY 1 19
+    D -2 1 1
+    VOLPERC 81.982000
+    EXMATCH J Q
+    # Previously mapped.
+    CARRY 1 14
+    B -3 1 1
+    VOLPERC 72.973000
+    EXMATCH L Q
+    # From first keys list.
+    CARRY 1 3
+    # From first keys list.
+  LINE RH0002
+    CHANNEL 10
+    A# -2 1 1
+    VOLPERC 68.468500
+    EXMATCH K Q
+    # From first keys list.
+    CARRY 1 8
+    A# -2 1 1
+    VOLPERC 77.477500
+    EXMATCH K Q
+    # Previously mapped.
+    CARRY 1 8
+    REST 1 11
+    A# -2 1 1
+    VOLPERC 68.468500
+    EXMATCH K Q
+    # Previously mapped.
+    CARRY 1 9
+    A# -2 1 1
+    VOLPERC 66.666700
+    EXMATCH K Q
+    # Previously mapped.
+    CARRY 1 9
+    A# -2 1 1
+    EXMATCH K Q
+    # Previously mapped.
+    CARRY 1 8
+    REST 1 11
+    A# -2 1 1
+    VOLPERC 68.468500
+    EXMATCH K Q
+    # Previously mapped.
+    CARRY 1 9
+    A# -2 1 1
+    VOLPERC 70.270300
+    EXMATCH K Q
+    # Previously mapped.
+    CARRY 1 8
+    REST 1 40
+    # Previously mapped.
+

@@ -1,0 +1,1845 @@
+NAME Scriabin: Prelude, Opus 11, Number 16
+
+MEASURE 1
+  METER 4 8
+  TEMPO 8 160.000000
+  KEY 5b
+MEASURE 2
+  METER 5 8
+MEASURE 3
+  METER 4 8
+MEASURE 4
+  METER 5 8 
+MEASURE 5
+  METER 4 8
+MEASURE 6
+  METER 5 8
+MEASURE 9
+  METER 4 8
+MEASURE 10
+  METER 5 8 
+MEASURE 11
+  METER 4 8
+MEASURE 12
+  METER 5 8 
+MEASURE 13
+  METER 4 8
+MEASURE 14
+  METER 5 8
+MEASURE 17
+  METER 4 8
+MEASURE 18
+  METER 5 8 
+MEASURE 21
+  METER 4 8
+MEASURE 22
+  METER 5 8 
+MEASURE 25
+  METER 4 8
+MEASURE 26
+  METER 5 8 
+MEASURE 35
+  METER 4 8
+MEASURE 36
+  METER 5 8 
+MEASURE 37
+  METER 4 8
+MEASURE 38
+  METER 5 8 
+MEASURE 41
+  METER 4 8
+MEASURE 42
+  METER 5 8 
+MEASURE 43
+  METER 4 8
+MEASURE 44
+  METER 5 8 
+MEASURE 45
+  METER 4 8
+MEASURE 46
+  METER 5 8 
+MEASURE 47
+  METER 4 8
+MEASURE 48
+  METER 5 8 
+MEASURE 49
+  METER 4 8 
+MEASURE 50
+  METER 5 8
+MEASURE 54
+  METER 4 8
+
+
+
+
+
+
+
+
+
+
+# kr2l scr11-16.mus 1 120 24
+
+MEASURE 1
+  LINE LH4
+  REST   8  3
+  Bb -3 24
+  C  -2 24
+  Eb -2 24
+
+MEASURE 1
+  LINE LH5
+  REST   8  3
+  REST   8
+  LINE RH4
+  REST 8 3
+  Bb -2 24
+  C  -1 24
+  Eb -1 24
+# kr2l scr11-16.mus 2 120 24
+
+MEASURE 2
+  LINE LH4
+  PHANTOM 8
+  Ab -2  8
+  Eb -2  8
+  Gb -2  8
+  Db -2  8
+
+MEASURE 2
+  LINE LH5
+  PHANTOM 8
+  Ab -1  8
+  Eb -1  8
+  Gb -1  8
+  Db -1  8
+
+MEASURE 3
+  LINE LH4
+  F  -2  8
+  C  -2  8
+  Db -2  8
+  Bb -3 24
+  Db -2 24
+  Gb -2 24
+
+MEASURE 3
+  LINE LH5
+  F  -1  8
+  C  -1  8
+  Db -1  8
+  REST   8
+  LINE RH4
+  REST 8 3
+  Bb -2 24
+  Db -1 24
+  Gb -1 24
+
+MEASURE 4
+  LINE LH4
+  PHANTOM 8
+  C  -1  8
+  Gb -2  8
+  Bb -2  8
+  F  -2  8
+
+MEASURE 4
+  LINE LH5
+  PHANTOM 8
+  C   0  8
+  Gb -1  8
+  Bb -1  8
+  F  -1  8
+
+MEASURE 5
+  LINE LH4
+  REST 8
+  Eb -2  8
+  Db -2  8
+  Db -2 24
+  Gb -2 24
+  Bb -2 24
+
+MEASURE 5
+  LINE LH5
+  REST 8
+  Eb -1  8
+  Db -1  8
+  REST   8
+  LINE RH4
+  REST 8 3
+  Db -1 24
+  Gb -1 24
+  Bb -1 24
+# kr2l scr11-16.mus 6 120 24
+
+MEASURE 6
+  LINE LH4
+  PHANTOM 8
+  Eb -1  8
+  Bb -2  8
+  Db -1  8
+  C  -2 24
+  Gb -2 24
+  Bb -2 24
+
+MEASURE 6
+  LINE LH5
+  PHANTOM 8
+  Eb  0  8
+  Bb -1  8
+  Db  0  8
+  REST   8
+  LINE RH4
+  REST 2
+  C  -1 24
+  Gb -1 24
+  Bb -1 24
+
+MEASURE 7
+  LINE LH4
+  PHANTOM 8
+  Db -1  8
+  Bb -2  8
+  C  -1  8
+  F  -2 24
+  A  -2 24
+  Db -1 24
+
+MEASURE 7
+  LINE LH5
+  PHANTOM 8
+  Db  0  8
+  Bb -1  8
+  C   0  8
+  REST   8
+  LINE RH4
+  REST 2
+  F  -1 24
+  A  -1 24
+  Db  0 24
+
+MEASURE 8
+  LINE LH4
+  PHANTOM 8
+  Eb -1  8
+  C  -1  8
+  Db -1  8
+  Bb -2  8
+
+MEASURE 8
+  LINE LH5
+  PHANTOM 8
+  Eb  0  8
+  C   0  8
+  Db  0  8
+  Bb -1  8
+
+MEASURE 9
+  LINE LH4
+  C  -1  8
+  Gb -2  8
+  F  -2  8
+  F  -2 24
+  G  -2 24
+  Bb -2 24
+
+MEASURE 9
+  LINE LH5
+  C   0  8
+  Gb -1  8
+  F  -1  8
+  REST   8
+  LINE RH4
+  REST 8 3
+  F  -1 24
+  G  -1 24
+  Bb -1 24
+
+MEASURE 10
+  LINE LH4
+  PHANTOM 8
+  Eb -1  8
+  Bb -2  8
+  Db -1  8
+  Ab -2  8
+
+MEASURE 10
+  LINE LH5
+  PHANTOM 8
+  Eb  0  8
+  Bb -1  8
+  Db  0  8
+  Ab -1  8
+# kr2l scr11-16.mus 11 120 24
+
+MEASURE 11
+  LINE LH4
+  C  -1  8
+  G  -2  8
+  Ab -2  8
+  D  -2 24
+  Bb -2 24
+  F  -1 24
+
+MEASURE 11
+  LINE LH5
+  C   0  8
+  G  -1  8
+  Ab -1  8
+  REST   8
+  LINE RH4
+  REST 8 3
+  D  -1 24
+  Bb -1 24
+  F   0 24
+# kr2l scr11-16.mus 12 120 24
+
+MEASURE 12
+  LINE LH4
+  PHANTOM 8
+  Gb -1  8
+  F  -1  8
+  PHANTOM  8
+  Bb -2  8
+
+MEASURE 12
+  LINE LH5
+  PHANTOM 8
+  Gb  0  8
+  F   0  8
+  PHANTOM  8
+  Bb -1  8
+# kr2l scr11-16.mus 13 120 24
+
+MEASURE 13
+  LINE LH4
+  B  -2  8
+  Ab -2  8
+  Bb -2  8
+  Eb -2 24
+  Bb -2 24
+  Eb -1 24
+
+MEASURE 13
+  LINE LH5
+  B  -1  8
+  Ab -1  8
+  Bb -1  8
+  REST   8
+  LINE RH4
+  REST 8 3
+  Eb -1 24
+  Bb -1 24
+  Eb  0 24
+
+MEASURE 14
+  LINE LH4
+  PHANTOM 8
+  F  -1  8
+  Db -1  8
+  Eb -1  8
+  Ab -2 24
+  Bb -2 24
+  C  -1 24
+
+MEASURE 14
+  LINE LH5
+  PHANTOM 8
+  F   0  8
+  Db  0  8
+  Eb  0  8
+  REST   8
+  LINE RH4
+  REST 2
+  Ab -1 24
+  Bb -1 24
+  C   0 24
+# kr2l scr11-16.mus 15 120 24
+
+MEASURE 15
+  LINE LH4
+  PHANTOM 8
+  Db -1  8
+  Bb -2  8
+  C  -1  8
+  Db -2 24
+  Ab -2 24
+  Db -1 24
+
+MEASURE 15
+  LINE LH5
+  PHANTOM 8
+  Db  0  8
+  Bb -1  8
+  C   0  8
+  REST   8
+  LINE RH4
+  REST 2
+  Db -1 24
+  Ab -1 24
+  Db  0 24
+
+MEASURE 16
+  LINE LH4
+  PHANTOM 8
+  Gb -1  8
+  Eb -1  8
+  F  -1  8
+  Ab -1  8
+
+MEASURE 16
+  LINE LH5
+  PHANTOM 8
+  Gb  0  8
+  Eb  0  8
+  F   0  8
+  Ab  0  8
+
+MEASURE 17
+  LINE LH4
+  Db  0  8
+  F  -1  8
+  Ab -2  8
+  Bb -2 24
+  Db -1 24
+  Gb -1 24
+
+MEASURE 17
+  LINE LH5
+  Db  1  8
+  F   0  8
+  Ab -1  8
+  REST   8
+  LINE RH4
+  REST 8 3
+  Bb -1 24
+  Db  0 24
+  Gb  0 24
+
+MEASURE 18
+  LINE LH4
+  PHANTOM 8
+  C   0  8
+  Gb -1  8
+  Bb -1  8
+  Db -1  8
+
+MEASURE 18
+  LINE LH5
+  PHANTOM 8
+  C   1  8
+  Gb  0  8
+  Bb  0  8
+  Db  0  8
+
+MEASURE 19
+  LINE LH4
+  REST   8
+  C   0  8
+  Gb -1  8
+  Bb -1  8
+  Bb -2 24
+  Eb -1 24
+  Gb -1 24
+
+MEASURE 19
+  LINE LH5
+  REST   8
+  C   1  8
+  Gb  0  8
+  Bb  0  8
+  REST   8
+  LINE RH4
+  REST 2
+  Bb -1 24
+  Eb  0 24
+  Gb  0 24
+
+MEASURE 20
+  LINE LH4
+  PHANTOM 8
+  Bb -1  8
+  F  -1  8
+  Ab -1  8
+  Eb -1  8
+
+MEASURE 20
+  LINE LH5
+  PHANTOM 8
+  Bb  0  8
+  F   0  8
+  Ab  0  8
+  Eb  0  8
+
+MEASURE 21
+  LINE LH4
+  Gb -1  8
+  F  -1  8
+  Eb -1  8
+  Ab -2 24
+  B  -2 24
+  E  -1 24
+
+MEASURE 21
+  LINE LH5
+  Gb  0  8
+  F   0  8
+  Eb  0  8
+  REST   8
+  LINE RH4
+  REST 8 3
+  Ab -1 24
+  B  -1 24
+  E   0 24
+# kr2l scr11-16.mus 22 120 24
+
+MEASURE 22
+  LINE LH4
+  PHANTOM 8
+  Bb -1  8
+  E  -1  8
+  Ab -1  8
+  B  -2  8
+
+MEASURE 22
+  LINE LH5
+  PHANTOM 8
+  Bb  0  8
+  E   0  8
+  Ab  0  8
+  B  -1  8
+
+# kr2l scr11-16.mus 23 120 24
+
+MEASURE 23
+  LINE LH4
+  REST   8
+  Bb -1  8
+  E  -1  8
+  Ab -1  8
+  Ab -2 24
+  D  -1 24
+  F  -1 24
+
+MEASURE 23
+  LINE LH5
+  REST   8
+  Bb  0  8
+  E   0  8
+  Ab  0  8
+  REST   8
+  LINE RH4
+  REST 2
+  Ab -1 24
+  D   0 24
+  F   0 24
+
+MEASURE 24
+  LINE LH4
+  PHANTOM 8
+  Ab -1  8
+  F  -1  8
+  Gb -1  8
+  Eb -1  8
+
+MEASURE 24
+  LINE LH5
+  PHANTOM 8
+  Ab  0  8
+  F   0  8
+  Gb  0  8
+  Eb  0  8
+
+MEASURE 25
+  LINE LH4
+  REST   8
+  B  -2  8
+  Bb -2  8
+  Gb -2 24
+  Bb -2 24
+  Eb -1 24
+
+MEASURE 25
+  LINE LH5
+  REST   8
+  B  -1  8
+  Bb -1  8
+  REST   8
+  LINE RH4
+  REST 8 3
+  Gb -1 24
+  Bb -1 24
+  Eb  0 24
+
+MEASURE 26
+  LINE LH4
+  PHANTOM 8
+  F  -1  8
+  D  -1  8
+  Eb -1  8
+  Bb -2  8
+
+MEASURE 26
+  LINE LH5
+  PHANTOM 8
+  F   0  8
+  D   0  8
+  Eb  0  8
+  Bb -1  8
+
+MEASURE 27
+  LINE LH4
+  REST   8
+  F  -1  8
+  D  -1  8
+  Eb -1  8
+  Ab -2 24
+  Db -1 24
+  E  -1 24
+
+MEASURE 27
+  LINE LH5
+  REST   8
+  F   0  8
+  D   0  8
+  Eb  0  8
+  REST   8
+  LINE RH4
+  REST 2
+  Ab -1 24
+  Db  0 24
+  E   0 24
+
+MEASURE 28
+  LINE LH4
+  PHANTOM 8
+  Gb -1  8
+  Eb -1  8
+  E  -1  8
+  C  -1  8
+
+MEASURE 28
+  LINE LH5
+  PHANTOM 8
+  Gb  0  8
+  Eb  0  8
+  E   0  8
+  C   0  8
+# kr2l scr11-16.mus 29 120 24
+
+MEASURE 29
+  LINE LH4
+  REST   8
+  Gb -1  8
+  Eb -1  8
+  E  -1  8
+  F  -2 24
+  A  -2 24
+  Db -1 24
+
+MEASURE 29
+  LINE LH5
+  REST   8
+  Gb  0  8
+  Eb  0  8
+  E   0  8
+  REST   8
+  LINE RH4
+  REST 2
+  F  -1 24
+  A  -1 24
+  Db  0 24
+# kr2l scr11-16.mus 30 120 24
+
+MEASURE 30
+  LINE LH3
+  F  -2  8
+  G  -3  8
+  A  -3  8
+  Gb -3  8
+  Ab -3  8
+
+MEASURE 30
+  LINE LH4
+  F  -1  8
+  G  -2  8
+  A  -2  8
+  Gb -2  8
+  Ab -2  8
+
+MEASURE 30
+  LINE RH3
+  PHANTOM 8
+  REST 2
+
+MEASURE 30
+  LINE RH4
+  F   0  8
+  G  -1  8
+  A  -1  8
+  Gb -1  8
+  Ab -1  8
+
+MEASURE 31
+  LINE LH3
+  G  -3  8
+  A  -3  8
+  B  -3  8
+  Ab -3  8
+  Bb -3  8
+
+MEASURE 31
+  LINE LH4
+  G  -2  8
+  A  -2  8
+  B  -2  8
+  Ab -2  8
+  Bb -2  8
+
+MEASURE 31
+  LINE RH4
+  G  -1  8
+  A  -1  8
+  B  -1  8
+  Ab -1  8
+  Bb -1  8
+# kr2l scr11-16.mus 32 120 24
+
+MEASURE 32
+  LINE LH3
+  A  -3  8
+  B  -3  8
+  Db -2  8
+  A  -3  8
+  B  -3  8
+
+MEASURE 32
+  LINE LH4
+  A  -2  8
+  B  -2  8
+  Db -1  8
+  A  -2  8
+  B  -2  8
+
+MEASURE 32
+  LINE RH4
+  A  -1  8
+  B  -1  8
+  Db  0  8
+  A  -1  8
+  B  -1  8
+
+MEASURE 33
+  LINE LH3
+  Db -2  8
+  A  -3  8
+  B  -3  8
+  Db -2  8
+  REST   8
+
+MEASURE 33
+  LINE LH5
+  Db -1  8
+  A  -2  8
+  B  -2  8
+  Db -1  8
+  REST   8
+
+MEASURE 33
+  LINE RH5
+  Db  0  8
+  A  -1  8
+  B  -1  8
+  Db  0  8
+  REST   8
+
+# kr2l scr11-16.mus 34 120 24
+MEASURE 42
+  LINE LH4
+  PHANTOM 8
+  F  -1  8
+  B  -2  8
+  Eb -1  8
+  Bb -2  8
+
+MEASURE 42
+  LINE LH5
+  PHANTOM 8
+  F   0  8
+  B  -1  8
+  Eb  0  8
+  Bb -1  8
+
+MEASURE 43
+  LINE LH4
+  Db -1  8
+  Gb -2  8
+  E  -2  8
+  Eb -2 24
+  Gb -2 24
+  B  -2 24
+
+MEASURE 43
+  LINE LH5
+  Db  0  8
+  Gb -1  8
+  E  -1  8
+  REST   8
+  LINE RH4
+  REST 8 3
+  Eb -1 24
+  Gb -1 24
+  B  -1 24
+
+MEASURE 44
+  LINE LH4
+  PHANTOM 8
+  F  -1  8
+  B  -2  8
+  Eb -1  8
+  Bb -2  8
+
+MEASURE 44
+  LINE LH5
+  PHANTOM 8
+  F   0  8
+  B  -1  8
+  Eb  0  8
+  Bb -1  8
+
+MEASURE 45
+  LINE LH4
+  Db -1  8
+  Gb -2  8
+  D  -2  8
+  F  -2 24
+  Bb -2 24
+  C  -1 24
+
+MEASURE 45
+  LINE LH5
+  Db  0  8
+  Gb -1  8
+  D  -1  8
+  REST   8
+  LINE RH4
+  REST 8 3
+  F  -1 24
+  Bb -1 24
+  C   0 24
+# kr2l scr11-16.mus 46 120 24
+
+MEASURE 46
+  LINE LH4
+  PHANTOM 8
+  C  -1  8
+  A  -2  8
+  Bb -2  8
+  C  -1  8
+
+MEASURE 46
+  LINE LH5
+  PHANTOM 8
+  C   0  8
+  A  -1  8
+  Bb -1  8
+  C   0  8
+# kr2l scr11-16.mus 47 120 24
+
+MEASURE 47
+  LINE LH4
+  Eb -1  8
+  C  -1  8
+  Bb -2  8
+  F  -2 24
+  A  -2 24
+  Db -1 24
+
+MEASURE 47
+  LINE LH5
+  Eb  0  8
+  C   0  8
+  Bb -1  8
+  REST   8
+  LINE RH4
+  REST 8 3
+  F  -1 24
+  A  -1 24
+  Db  0 24
+# kr2l scr11-16.mus 48 120 24
+
+MEASURE 48
+  LINE LH4
+  PHANTOM 8
+  Eb -1  8
+  A  -2  8
+  Eb -1  8
+  Db -1  8
+
+MEASURE 48
+  LINE LH5
+  PHANTOM 8
+  Eb  0  8
+  A  -1  8
+  Eb  0  8
+  Db  0  8
+
+MEASURE 49
+  LINE LH4
+  REST   8
+  Gb -2  8
+  F  -2  8
+  Bb -3 24
+  C  -2 24
+  Eb -2 24
+
+MEASURE 49
+  LINE LH5
+  REST   8
+  Gb -1  8
+  F  -1  8
+  REST   8
+  LINE RH4
+  REST 8 3
+  Bb -2 24
+  C  -1 24
+  Eb -1 24
+
+MEASURE 50
+  LINE LH4
+  PHANTOM 8
+  Ab -2  8
+  Eb -2  8
+  Gb -2  8
+  Db -2  8
+
+MEASURE 50
+  LINE LH5
+  PHANTOM 8
+  Ab -1  8
+  Eb -1  8
+  Gb -1  8
+  Db -1  8
+
+MEASURE 51
+  LINE LH4
+  F  -2  8
+  C  -2  8
+  Db -2  8
+  Gb -2  8
+  Db -2  8
+
+MEASURE 51
+  LINE LH5
+  F  -1  8
+  C  -1  8
+  Db -1  8
+  Gb -1  8
+  Db -1  8
+
+MEASURE 52
+  LINE LH4
+  F  -2  8
+  C  -2  8
+  Db -2  8
+  Bb -2  8
+  F  -2  8
+
+MEASURE 52
+  LINE LH5
+  F  -1  8
+  C  -1  8
+  Db -1  8
+  Bb -1  8
+  F  -1  8
+
+MEASURE 53
+  LINE LH4
+  Gb -2  8
+  Eb -2  8
+  Db -2  8
+  REST   4
+
+MEASURE 53
+  LINE LH5
+  Gb -1  8
+  Eb -1  8
+  Db -1  8
+  REST   4
+# kr2l scr11-16.mus 2 120 8
+
+# kr2l scr11-16.mus 2 72 8
+
+MEASURE 2
+  LINE RH3
+  Bb -2  8  3
+  Bb -2 16  3
+  Bb -2 16
+
+MEASURE 2
+  LINE RH5
+  Bb -1  8  3
+  Bb -1 16  3
+  Bb -1 16
+
+MEASURE 3
+  LINE RH3
+  Bb -2  8  3
+  REST   8
+
+MEASURE 3
+  LINE RH5
+  Bb -1  8  3
+  REST   8
+# kr2l scr11-16.mus 4 72 8
+
+MEASURE 4
+  LINE RH3
+  Db -1  8  3
+  Db -1 16  3
+  Db -1 16
+
+MEASURE 4
+  LINE RH5
+  Db  0  8  3
+  Db  0 16  3
+  Db  0 16
+
+MEASURE 5
+  LINE RH3
+  Db -1  8  3
+  REST   8
+
+MEASURE 5
+  LINE RH5
+  Db  0  8  3
+  REST   8
+
+MEASURE 6
+  LINE RH3
+  F  -1  2
+  REST   8
+
+MEASURE 6
+  LINE RH5
+  F   0  2
+  REST   8
+
+MEASURE 7
+  LINE RH3
+  E  -1  2
+  REST   8
+
+MEASURE 7
+  LINE RH5
+  E   0  2
+  REST   8
+
+MEASURE 8
+  LINE RH3
+  F  -1  8  3
+  REST   4
+
+MEASURE 8
+  LINE RH5
+  F   0  8  3
+  REST   4
+
+MEASURE 9
+  LINE RH5
+  REST   2
+
+
+# kr2l scr11-16.mus 10 72 8
+
+MEASURE 10
+  LINE RH3
+  F  -1  8  3
+  F  -1 16  3
+  F  -1 16
+
+MEASURE 10
+  LINE RH5
+  F   0  8  3
+  F   0 16  3
+  F   0 16
+
+MEASURE 11
+  LINE RH3
+  F  -1  8  3
+  REST   8
+
+MEASURE 11
+  LINE RH5
+  F   0  8  3
+  REST   8
+
+MEASURE 12
+  LINE RH3
+  Ab -1  8  3
+  Ab -1 16  3
+  Ab -1 16
+
+MEASURE 12
+  LINE RH5
+  Ab  0  8  3
+  Ab  0 16  3
+  Ab  0 16
+
+MEASURE 13
+  LINE RH3
+  Ab -1  8  3
+  REST   8
+
+MEASURE 13
+  LINE RH5
+  Ab  0  8  3
+  REST   8
+
+MEASURE 14
+  LINE RH3
+  Gb -1  2
+  REST   8
+
+MEASURE 14
+  LINE RH5
+  Gb  0  2
+  REST   8
+
+MEASURE 15
+  LINE RH3
+  F  -1  2
+  REST   8
+
+MEASURE 15
+  LINE RH5
+  F   0  2
+  REST   8
+
+MEASURE 16
+  LINE RH3
+  Ab -1  8  3
+  REST   4
+
+MEASURE 16
+  LINE RH5
+  Ab  0  8  3
+  REST   4
+
+MEASURE 17
+  LINE RH5
+  REST   2
+
+MEASURE 18
+  LINE RH3
+  Db  0  8  3
+  Db  0 16  3
+  Db  0 16
+
+MEASURE 18
+  LINE RH5
+  Db  1  8  3
+  Db  1 16  3
+  Db  1 16
+
+MEASURE 19
+  LINE RH3
+  Db  0  8  3
+  Db  0  4
+
+MEASURE 19
+  LINE RH5
+  Db  1  8  3
+  Db  1  4
+
+MEASURE 20
+  LINE RH3
+  B  -1  8  5
+
+MEASURE 20
+  LINE RH5
+  B   0  8  5
+
+MEASURE 21
+  LINE RH3
+  CARRY  8  3
+  REST   8
+
+MEASURE 21
+  LINE RH5
+  CARRY  8  3
+  REST   8
+# kr2l scr11-16.mus 22 72 8
+
+MEASURE 22
+  LINE RH3
+  B  -1  8  3
+  B  -1 16  3
+  B  -1 16
+
+MEASURE 22
+  LINE RH5
+  B   0  8  3
+  B   0 16  3
+  B   0 16
+
+MEASURE 23
+  LINE RH3
+  B  -1  8  3
+  B  -1  4
+
+MEASURE 23
+  LINE RH5
+  B   0  8  3
+  B   0  4
+
+MEASURE 24
+  LINE RH3
+  Bb -1  8  5
+
+MEASURE 24
+  LINE RH5
+  Bb  0  8  5
+
+MEASURE 25
+  LINE RH3
+  F  -1  8  3
+  REST   8
+
+MEASURE 25
+  LINE RH5
+  F   0  8  3
+  REST   8
+
+MEASURE 26
+  LINE RH3
+  Bb -1  8  3
+  Bb -1 16  3
+  Bb -1 16
+
+MEASURE 26
+  LINE RH5
+  Bb  0  8  3
+  Bb  0 16  3
+  Bb  0 16
+
+MEASURE 27
+  LINE RH3
+  Bb -1  2
+  REST   8
+
+MEASURE 27
+  LINE RH5
+  Bb  0  2
+  REST   8
+
+
+
+# kr2l scr11-16.mus 28 72 8
+
+MEASURE 28
+  LINE RH3
+  C   0  8  3
+  C   0 16  3
+  C   0 16
+
+MEASURE 28
+  LINE RH5
+  C   1  8  3
+  C   1 16  3
+  C   1 16
+
+MEASURE 29
+  LINE RH3
+  C   0  2
+  REST   8
+
+MEASURE 29
+  LINE RH5
+  C   1  2
+  REST   8
+# kr2l D:\musfiles\scr11-16.mus 34 100 8
+
+MEASURE 34
+  LINE TLLH3
+  TIELINE LH3 90
+  REST   8
+  Ab -2  8
+  Eb -2  8
+  Gb -2  8
+  Db -2  8
+
+MEASURE 34
+  LINE LH3
+  Bb -2  8
+  Ab -1  8
+  Eb -1  8
+  Gb -1  8
+  Db -1  8
+
+MEASURE 34
+  LINE LH5
+  PHANTOM  8
+  Ab  0  8
+  Eb  0  8
+  Gb  0  8
+  Db  0  8
+# kr2l D:\musfiles\scr11-16.mus 35 100 8
+
+MEASURE 35
+  LINE TLLH3
+  TIELINE LH3 90
+  F  -2  8
+  C -2  8
+  Db -2  8
+  REST   8
+
+MEASURE 35
+  LINE LH3
+  F  -1  8
+  C -1  8
+  Db -1  8
+  REST   8
+
+MEASURE 35
+  LINE LH5
+  F   0  8
+  C   0  8
+  Db  0  8
+  REST   8
+# kr2l D:\musfiles\scr11-16.mus 36 100 8
+
+MEASURE 36
+  LINE TLLH3
+  TIELINE LH3 90
+  REST   8
+  C  -1  8
+  Gb -2  8
+  Bb -2  8
+  F  -2  8
+
+MEASURE 36
+  LINE LH3
+  Db -1  8
+  C   0  8
+  Gb -1  8
+  Bb -1  8
+  F  -1  8
+
+MEASURE 36
+  LINE LH5
+  PHANTOM 8
+  C   1  8
+  Gb  0  8
+  Bb  0  8
+  F   0  8
+
+MEASURE 37
+  LINE TLLH3
+  TIELINE LH3 90
+  Gb -2  8
+  Eb -2  8
+  Db -2  8
+  REST   8
+
+MEASURE 37
+  LINE LH3
+  Gb -1  8
+  Eb -1  8
+  Db -1  8
+  REST   8
+
+MEASURE 37
+  LINE LH5
+  Gb  0  8
+  Eb  0  8
+  Db  0  8
+  REST   8
+# kr2l D:\musfiles\scr11-16.mus 38 100 8
+
+MEASURE 38
+  LINE TLLH3
+  TIELINE LH3 90
+  REST   8
+  Eb -1  8
+  Bb -2  8
+  Db -1  8
+  REST   8
+
+MEASURE 38
+  LINE LH3
+  F  -1  8
+  Eb  0  8
+  Bb -1  8
+  Db  0  8
+  REST   8
+
+MEASURE 38
+  LINE LH5
+  PHANTOM 8
+  Eb  1  8
+  Bb  0  8
+  Db  1  8
+  REST   8
+# kr2l D:\musfiles\scr11-16.mus 39 100 8
+
+MEASURE 39
+  LINE TLLH3
+  TIELINE LH3 90
+  REST   8
+  Db -1  8
+  Bb -2  8
+  B  -2  8
+  REST   8
+
+MEASURE 39
+  LINE LH3
+  F  -1  8
+  Db  0  8
+  Bb -1  8
+  B  -1  8
+  REST   8
+
+MEASURE 39
+  LINE LH5
+  PHANTOM 8
+  Db  1  8
+  Bb  0  8
+  B   0  8
+  REST   8
+# kr2l D:\musfiles\scr11-16.mus 40 100 8
+
+MEASURE 40
+  LINE TLLH3
+  TIELINE LH3 90
+  REST   8
+  F  -1  8
+  B  -2  8
+  Eb -1  8
+  Bb -2  8
+
+MEASURE 40
+  LINE LH3
+  Gb -1  8
+  F   0  8
+  B  -1  8
+  Eb  0  8
+  Bb -1  8
+
+MEASURE 40
+  LINE LH5
+  PHANTOM 8
+  F   1  8
+  B   0  8
+  Eb  1  8
+  Bb  0  8
+# kr2l D:\musfiles\scr11-16.mus 41 100 8
+
+MEASURE 41
+  LINE TLLH3
+  TIELINE LH3 90
+  B  -2  8
+  Ab -2  8
+  Gb -2  8
+  REST   8
+
+MEASURE 41
+  LINE LH3
+  B  -1  8
+  Ab -1  8
+  Gb -1  8
+  REST   8
+
+MEASURE 41
+  LINE LH5
+  B   0  8
+  Ab  0  8
+  Gb  0  8
+  REST   8
+# kr2l D:\musfiles\scr11-16.mus 33 144 24
+
+MEASURE 33
+  LINE TLLH3
+  TIELINE LH4 90
+  REST   2
+  Bb -3 24
+  REST  12
+
+MEASURE 33
+  LINE LH4
+  REST   2
+  Bb -2 24
+  C  -1 24
+  Eb -1 24
+
+MEASURE 33
+  LINE RH4
+  REST   2
+  Bb -1 24
+  C   0 24
+  Eb  0 24
+# kr2l D:\musfiles\scr11-16.mus 35 144 24
+
+MEASURE 35
+  LINE TLLH4
+  TIELINE LH4 90
+  REST   8  3
+  Bb -3 24
+  REST  12
+
+MEASURE 35
+  LINE LH4
+  REST   8  3
+  Bb -2 24
+  Db -1 24
+  Gb -1 24
+
+MEASURE 35
+  LINE RH4
+  REST   8  3
+  Bb -1 24
+  Db  0 24
+  Gb  0 24
+# kr2l D:\musfiles\scr11-16.mus 37 144 24
+
+MEASURE 37
+  LINE TLLH4
+  TIELINE LH4 92
+  REST   8  3
+  Db -2 24
+  REST  12
+
+MEASURE 37
+  LINE LH4
+  REST   8  3
+  Db -1 24
+  Gb -1 24
+  Bb -1 24
+
+MEASURE 37
+  LINE RH4
+  REST   8  3
+  Db  0 24
+  Gb  0 24
+  Bb  0 24
+# kr2l D:\musfiles\scr11-16.mus 38 144 24
+
+MEASURE 38
+  LINE TLLH4
+  TIELINE LH4 92
+  REST   2
+  D  -2 24
+  REST  12
+
+MEASURE 38
+  LINE LH4
+  REST   2
+  D  -1 24
+  Ab -1 24
+  B  -1 24
+
+MEASURE 38
+  LINE RH4
+  REST   2
+  D   0 24
+  Ab  0 24
+  B   0 24
+
+MEASURE 39
+  LINE TLLH4
+  TIELINE LH4 92
+  REST   2
+  Eb -2 24
+  REST  12
+
+MEASURE 39
+  LINE LH4
+  REST   2
+  Eb -1 24
+  Gb -1 24
+  Cb   0 24
+
+MEASURE 39
+  LINE RH4
+  REST   2
+  Eb  0 24
+  Gb  0 24
+  Cb  1 24
+# kr2l D:\musfiles\scr11-16.mus 41 144 24
+
+MEASURE 41
+  LINE LH4
+  REST   8  3
+  Eb -2 24
+  Gb -2 24
+  B  -2 24
+
+MEASURE 41
+  LINE RH4
+  REST   8  3
+  Eb -1 24
+  Gb -1 24
+  B  -1 24
+# kr2l D:\musfiles\scr11-16.mus 34 72 8
+
+MEASURE 34
+  LINE RH3
+  Bb -1  8  3
+  Bb -1 16  3
+  Bb -1 16
+
+MEASURE 34
+  LINE RH5
+  Bb  0  8  3
+  Bb  0 16  3
+  Bb  0 16
+
+MEASURE 35
+  LINE RH3
+  Bb -1  8  3
+  REST   8
+
+MEASURE 35
+  LINE RH5
+  Bb  0  8  3
+  REST   8
+
+MEASURE 36
+  LINE RH3
+  Db  0  8  3
+  Db  0 16  3
+  Db  0 16
+
+MEASURE 36
+  LINE RH5
+  Db  1  8  3
+  Db  1 16  3
+  Db  1 16
+
+MEASURE 37
+  LINE RH3
+  Db  0  8  3
+  REST   8
+
+MEASURE 37
+  LINE RH5
+  Db  1  8  3
+  REST   8
+# kr2l D:\musfiles\scr11-16.mus 38 72 8
+
+MEASURE 38
+  LINE RH3
+  F   0  2
+  REST   8
+
+MEASURE 38
+  LINE RH5
+  F   1  2
+  REST   8
+
+MEASURE 39
+  LINE RH3
+  F   0  2
+  REST   8
+
+MEASURE 39
+  LINE RH5
+  F   1  2
+  REST   8
+
+MEASURE 40
+  LINE RH3
+  Gb  0  8  3
+  REST   4
+
+MEASURE 40
+  LINE RH5
+  Gb  1  8  3
+  REST   4
+# kr2l D:\musfiles\scr11-16.mus 42 72 8
+
+MEASURE 42
+  LINE RH3
+  Gb -1  8  3
+  Gb -1 16  3
+  Gb -1 16
+
+MEASURE 42
+  LINE RH5
+  Gb  0  8  3
+  Gb  0 16  3
+  Gb  0 16
+
+MEASURE 43
+  LINE RH3
+  Gb -1  8  3
+  REST   8
+
+MEASURE 43
+  LINE RH5
+  Gb  0  8  3
+  REST   8
+
+MEASURE 44
+  LINE RH3
+  Gb -1  8  3
+  Gb -1 16  3
+  Gb -1 16
+
+MEASURE 44
+  LINE RH5
+  Gb  0  8  3
+  Gb  0 16  3
+  Gb  0 16
+
+MEASURE 45
+  LINE RH3
+  Gb -1  8  3
+  REST   8
+
+MEASURE 45
+  LINE RH5
+  Gb  0  8  3
+  REST   8
+
+MEASURE 46
+  LINE RH3
+  F  -1  8  5
+
+MEASURE 46
+  LINE RH5
+  F   0  8  5
+
+MEASURE 47
+  LINE RH3
+  CARRY  8  3
+  REST   8
+
+MEASURE 47
+  LINE RH5
+  CARRY  8  3
+  REST   8
+
+MEASURE 48
+  LINE RH3
+  F  -1  8  5
+
+MEASURE 48
+  LINE RH5
+  F   0  8  5
+# kr2l D:\musfiles\scr11-16.mus 49 72 8
+
+MEASURE 49
+  LINE RH3
+  A  -2  8  3
+  REST   8
+
+MEASURE 49
+  LINE RH5
+  A  -1  8  3
+  REST   8
+
+MEASURE 50
+  LINE RH3
+  Bb -2  8  3
+  Bb -2 16  3
+  Bb -2 16
+
+MEASURE 50
+  LINE RH5
+  Bb -1  8  3
+  Bb -1 16  3
+  Bb -1 16
+
+MEASURE 51
+  LINE RH3
+  Bb -2  8  3
+  Bb -2 16  3
+  Bb -2 16
+
+MEASURE 51
+  LINE RH5
+  Bb -1  8  3
+  Bb -1 16  3
+  Bb -1 16
+
+MEASURE 52
+  LINE RH3
+  Bb -2  8  3
+  Db -1 16  3
+  Db -1 16
+
+MEASURE 52
+  LINE RH5
+  Bb -1  8  3
+  Db  0 16  3
+  Db  0 16
+
+MEASURE 53
+  LINE TLRH3
+  TIELINE RH3 92
+  REST   8  3
+  F  -1 16  3
+  F  -1 16
+
+MEASURE 53
+  LINE RH3
+  Db -1  8  3
+  Bb -1 16  3
+  Bb -1 16
+
+MEASURE 53
+  LINE RH5
+  Db  0  8  3
+  F  0 16  3
+  F  0 16
+# kr2l D:\musfiles\scr11-16.mus 54 72 8
+
+MEASURE 54
+  LINE TLRH3
+  TIELINE RH3 92
+  F  -1  2
+
+MEASURE 54
+  LINE RH3
+  Bb -1  2
+
+MEASURE 54
+  LINE RH5
+  F   0  2
+# kr2l D:\musfiles\scr11-16.mus 54 72 8
+
+# kr2l D:\musfiles\scr11-16.mus 53 72 8
+
+MEASURE 53
+  LINE TLLH3a
+  TIELINE LH4a 92
+  REST   8  3
+  Bb -3 16  3
+  Bb -3 16
+
+MEASURE 53
+  LINE LH4a
+  REST   8  3
+  F  -2 16  3
+  F  -2 16
+
+MEASURE 53
+  LINE LH5a
+  REST   8  3
+  Bb -2 16  3
+  Bb -2 16
+
+MEASURE 54
+  LINE TLLH3a
+  TIELINE LH4a 92
+  Bb -3  2
+
+MEASURE 54
+  LINE LH4a
+  F  -2  2
+
+MEASURE 54
+  LINE LH5a
+  Bb -2  2

@@ -1,0 +1,171 @@
+NAME Brother John
+
+MEASURE 1
+METER 4 4
+TEMPO 4 80
+KEY 1b
+
+# kr2l tmp brother-john.mus 1 100 4 0 88 /tmp/kr2l
+
+MEASURE 1
+  LINE RH8
+  F   0  4
+  G   0  4
+  A   0  4
+  F   0  4
+  LYRIC 4 % Are
+  LYRIC 4 % You
+  LYRIC 4 % Slee-
+  LYRIC 4 % ping
+
+MEASURE 2
+  LINE RH8
+  F   0  4
+  G   0  4
+  A   0  4
+  F   0  4
+  LYRIC 4 % Are
+  LYRIC 4 % You
+  LYRIC 4 % Slee-
+  LYRIC 4 % ping
+
+MEASURE 3
+  LINE RH8
+  A   0  4
+  Bb  0  4
+  C   1  2
+  LYRIC 4 % Bro-
+  LYRIC 4 % ther
+  LYRIC 2 % John?
+
+MEASURE 4
+  LINE RH8
+  A   0  4
+  Bb  0  4
+  C   1  2
+  LYRIC 4 % Bro-
+  LYRIC 4 % ther
+  LYRIC 2 % John?
+
+MEASURE 5
+  LINE RH8
+  C   1  8
+  D   1  8
+  C   1  8
+  Bb  0  8
+  A   0  4
+  F   0  4
+  LYRIC 8 % Mor-
+  LYRIC 8 % ning
+  LYRIC 8 % bells
+  LYRIC 8 % are
+  LYRIC 4 % ring-
+  LYRIC 4 % ing
+
+MEASURE 6
+  LINE RH8
+  C   1  8
+  D   1  8
+  C   1  8
+  Bb  0  8
+  A   0  4
+  F   0  4
+  LYRIC 8 % Mor-
+  LYRIC 8 % ning
+  LYRIC 8 % bells
+  LYRIC 8 % are
+  LYRIC 4 % ring-
+  LYRIC 4 % ing
+
+MEASURE 7
+  LINE RH8
+  F   0  4
+  C   0  4
+  F   0  2
+  LYRIC 4 % Ding
+  LYRIC 4 % Dong
+  LYRIC 2 % Ding
+
+MEASURE 8
+  LINE RH8
+  F   0  4
+  C   0  4
+  F   0  2
+  LYRIC 4 % Ding
+  LYRIC 4 % Dong
+  LYRIC 2 % Ding
+# kr2l tmp brother-john.mus 3 100 4 0 88 /tmp/kr2l
+
+MEASURE 3
+  LINE TLRH7
+  TIELINE RH8 70
+  F   0  4
+  G   0  4
+  A   0  2
+
+MEASURE 4
+  LINE TLRH7
+  TIELINE RH8 70
+  F   0  4
+  G   0  4
+  A   0  2
+
+MEASURE 5
+  LINE TLRH6
+  TIELINE RH8 70
+  F  -1  4
+  G  -1  4
+  A  -1  4
+  REST   4
+
+MEASURE 5
+  LINE TLRH7
+  TIELINE RH8 70
+  A   0  4
+  Bb  0  4
+  C   1  4
+  F  -1  4
+
+MEASURE 6
+  LINE TLRH6
+  TIELINE RH8 70
+  F  -1  4
+  G  -1  4
+  A  -1  4
+  REST   4
+
+MEASURE 6
+  LINE TLRH7
+  TIELINE RH8 70
+  A   0  4
+  Bb  0  4
+  C   1  4
+  F  -1  4
+
+MEASURE 7
+  LINE TLRH6
+  TIELINE RH8 70
+  F  -1  4
+  C  -1  4
+  F  -1  2
+
+MEASURE 7
+  LINE TLRH7
+  TIELINE RH8 70
+  A  -1  4
+  Bb -1  4
+  A  -1  2
+
+MEASURE 8
+  LINE TLRH6
+  TIELINE RH8 70
+  F  -1  4
+  C  -1  4
+  F  -1  2
+
+MEASURE 8
+  LINE TLRH7
+  TIELINE RH8 70
+  A  -1  4
+  Bb -1  4
+  A  -1  2

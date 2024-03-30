@@ -1,0 +1,2137 @@
+NAME Prokofiev: Toccata, Opus 11
+
+MEASURE 1
+  METER 2 4
+  TEMPO 4 60.000000
+  KEY 1b
+
+# kr2l prok-toccata 1 60 8
+
+MEASURE 1
+  LINE RH4
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+# kr2l prok-toccata 2 60 8
+
+MEASURE 2
+  LINE RH4
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+# kr2l prok-toccata 3 60 8
+
+MEASURE 3
+  LINE RH4
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+# kr2l prok-toccata 4 60 8
+
+MEASURE 4
+  LINE RH4
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+# kr2l prok-toccata 5 60 8
+
+MEASURE 5
+  LINE TLRH3
+  TIELINE RH4 80
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16
+
+MEASURE 5
+  LINE RH4
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+
+MEASURE 6
+  LINE TLRH3
+  TIELINE RH4 80
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16
+
+MEASURE 6
+  LINE RH4
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+# kr2l prok-toccata 7 60 8
+
+MEASURE 7
+  LINE RH4
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+
+MEASURE 8
+  LINE RH4
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+
+MEASURE 9
+  LINE TLRH3
+  TIELINE RH4 80
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16
+
+MEASURE 9
+  LINE RH4
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+
+MEASURE 10
+  LINE TLRH2
+  TIELINE RH4 75
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16  3
+
+MEASURE 10
+  LINE TLRH3
+  TIELINE RH4 80
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+
+MEASURE 10
+  LINE RH4
+  G  -1 16
+  REST  16
+  G  -1 16
+  REST  16
+  G  -1 16
+  REST  16
+  F  -1 16
+  E  -1 16
+
+MEASURE 11
+  LINE RH4
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+
+MEASURE 12
+  LINE RH4
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  Eb  0 16
+  REST  16
+# kr2l prok-toccata 13 60 8
+
+MEASURE 13
+  LINE RH4
+  Eb -2 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+# kr2l prok-toccata 14 60 8
+
+MEASURE 14
+  LINE TLRH2
+  TIELINE RH4 75
+  C  -1 16
+  REST  16  7
+
+MEASURE 14
+  LINE TLRH3
+  TIELINE RH4 80
+  Eb -1 16
+  REST  16  7
+
+MEASURE 14
+  LINE RH4
+  F# -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+
+MEASURE 15
+  LINE RH4
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+
+MEASURE 16
+  LINE TLRH3
+  TIELINE RH4 80
+  REST   8  3
+  C# -1 16
+  REST  16
+
+MEASURE 16
+  LINE RH4
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  Eb -1 16
+  REST  16
+
+MEASURE 17
+  LINE TLRH3
+  TIELINE RH4 80
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16
+
+MEASURE 17
+  LINE RH4
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+# kr2l prok-toccata 18 60 8
+
+MEASURE 18
+  LINE TLRH3
+  TIELINE RH4 80
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16
+
+MEASURE 18
+  LINE RH4
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+
+MEASURE 19
+  LINE TLRH2
+  TIELINE RH4 75
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16
+
+MEASURE 19
+  LINE TLRH3
+  TIELINE RH4 80
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+
+MEASURE 19
+  LINE RH4
+  G  -1 16
+  REST  16
+  G  -1 16
+  REST  16
+  G  -1 16
+  REST  16
+  G  -1 16
+  REST  16
+
+MEASURE 20
+  LINE TLRH2
+  TIELINE RH4 75
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16
+  C  -1 16
+  REST  16  3
+
+MEASURE 20
+  LINE TLRH3
+  TIELINE RH4 80
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+
+MEASURE 20
+  LINE RH4
+  G  -1 16
+  REST  16
+  G  -1 16
+  REST  16
+  G  -1 16
+  REST  16
+  F  -1 16
+  E  -1 16
+
+MEASURE 21
+  LINE RH4
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+
+MEASURE 22
+  LINE RH4
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+
+MEASURE 23
+  LINE RH4
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+# kr2l prok-toccata 1 60 8
+
+MEASURE 1
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 1
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 2 60 8
+
+MEASURE 2
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 2
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 3 60 8
+
+MEASURE 3
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 3
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 4 60 8
+
+MEASURE 4
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 4
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 5 60 8
+
+MEASURE 5
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 5
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 6 60 8
+
+MEASURE 6
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 6
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 7 60 8
+
+MEASURE 7
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 7
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 8 60 8
+
+MEASURE 8
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 8
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 9 60 8
+
+MEASURE 9
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 9
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 10 60 8
+
+MEASURE 10
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 10
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 11 60 8
+
+MEASURE 11
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 11
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 12 60 8
+
+MEASURE 12
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 12
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 14 60 8
+
+MEASURE 14
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 14
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 15 60 8
+
+MEASURE 15
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 15
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 16 60 8
+
+MEASURE 16
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 16
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 17 60 8
+
+MEASURE 17
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 17
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 18 60 8
+
+MEASURE 18
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 18
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 19 60 8
+
+MEASURE 19
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 19
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 20 60 8
+
+MEASURE 20
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 20
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 21 60 8
+
+MEASURE 21
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 21
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 22 60 8
+
+MEASURE 22
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 22
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 23 60 8
+
+MEASURE 23
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 23
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+# kr2l prok-toccata 13 60 8
+
+MEASURE 13
+  LINE LH3
+  
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+
+MEASURE 13
+  LINE LH4
+  REST  16
+  Eb -1 16
+  REST  16
+  E  -1 16
+  REST  16
+  E  -1 16
+  REST  16
+  E  -1 16
+# kr2l D:\musfiles\prok-toccata.mus 24 60 8
+
+MEASURE 24
+  LINE RH4
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  F  -1 16
+# kr2l D:\musfiles\prok-toccata.mus 24 60 8
+
+MEASURE 24
+  LINE LH3
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST  16
+  D  -2 16
+  REST   8
+
+MEASURE 24
+  LINE LH4
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST  16
+  D  -1 16
+  REST   8
+# kr2l D:\musfiles\prok-toccata.mus 25 60 8
+
+MEASURE 25
+  LINE RH4
+  A  -1 16
+  A  -1 16
+  F  -1 16
+  A  -1 16
+  D  -1 16
+  D  -1 16
+  D  -1 16
+  F  -1 16
+
+MEASURE 26
+  LINE RH4
+  A  -1 16
+  A  -1 16
+  F  -1 16
+  A  -1 16
+  D  -1 16
+  D  -1 16
+  D  -1 16
+  F  -1 16
+
+MEASURE 27
+  LINE RH4
+  A  -1 16
+  A  -1 16
+  F  -1 16
+  A  -1 16
+  D  -1 16
+  D  -1 16
+  D  -1 16
+  F  -1 16
+
+MEASURE 28
+  LINE RH4
+  A  -1 16
+  A  -1 16
+  F  -1 16
+  A  -1 16
+  D  -1 16
+  D  -1 16
+  G  -1 16
+  Bb -1 16
+
+MEASURE 29
+  LINE RH4
+  D   0 16
+  D   0 16
+  Bb -1 16
+  D   0 16
+  G  -1 16
+  G  -1 16
+  G  -1 16
+  Bb -1 16
+
+MEASURE 30
+  LINE RH4
+  D   0 16
+  D   0 16
+  Bb -1 16
+  D   0 16
+  G  -1 16
+  G  -1 16
+  G  -1 16
+  Bb -1 16
+
+MEASURE 31
+  LINE RH4
+  D   0 16
+  D   0 16
+  Bb -1 16
+  D   0 16
+  G  -1 16
+  G  -1 16
+  G  -1 16
+  Bb -1 16
+
+MEASURE 32
+  LINE RH4
+  D   0 16
+  D   0 16
+  Bb -1 16
+  D   0 16
+  G  -1 16
+  G  -1 16
+  G  -1 16
+  Ab -1 16
+
+MEASURE 33
+  LINE RH4
+  Bb -1 64 0
+  A  -1 16
+  Ab -1 16
+  A  -1 16
+  Bb -1 16
+  B  -1 16
+  Bb -1 16
+  B  -1 16
+  C   0 16
+# kr2l D:\musfiles\prok-toccata.mus 34 60 8
+
+MEASURE 34
+  LINE RH4
+  D   0 64 0
+  C#  0 16
+  C   0 16
+  C#  0 16
+  D   0 16
+  Eb  0 16
+  E   0 16
+  F   0 16
+  F#  0 16
+# kr2l D:\musfiles\prok-toccata.mus 35 60 8
+
+MEASURE 35
+  LINE RH4
+  G   0 16
+  F#  0 16
+  F#  0 16
+  F   0 16
+  F   0 16
+  E   0 16
+  E   0 16
+  Eb  0 16
+# kr2l D:\musfiles\prok-toccata.mus 36 60 8
+
+MEASURE 36
+  LINE RH4
+  Eb  0 16
+  D   0 16
+  D   0 16
+  C#  0 16
+  C#  0 16
+  C   0 16
+  Bb -1 16
+  B  -1 16
+
+MEASURE 37
+  LINE RH4
+  Db  0 64 0
+  C   0 16
+  B  -1 16
+  C   0 16
+  C#  0 16
+  D   0 16
+  C#  0 16
+  D   0 16
+  Eb  0 16
+
+MEASURE 38
+  LINE RH4
+  F   0 64 0
+  E   0 16
+  Eb  0 16
+  E   0 16
+  F   0 16
+  F#  0 16
+  G   0 16
+  Ab  0 16
+  A   0 16
+
+MEASURE 39
+  LINE RH4
+  Bb  0 16
+  A   0 16
+  A   0 16
+  Ab  0 16
+  Ab  0 16
+  G   0 16
+  G   0 16
+  F#  0 16
+
+MEASURE 40
+  LINE TLRH1
+  TIELINE RH4 80
+  REST   8  3
+  G  -1 16
+  REST  16
+
+MEASURE 40
+  LINE RH4
+  F#  0 16
+  F   0 16
+  F   0 16
+  E   0 16
+  E   0 16
+  Eb  0 16
+  D   0 16
+  Bb -1 16
+  LINE TLRH4
+  TIELINE RH4 100
+  REST 8 3
+  D  0 8
+
+MEASURE 41
+  LINE RH4
+  D   0 16
+  D   0 16
+  Bb -1 16
+  D   0 16
+  G  -1 16
+  G  -1 16
+  G  -1 16
+  Bb -1 16
+
+MEASURE 42
+  LINE RH4
+  D   0 16
+  D   0 16
+  Bb -1 16
+  D   0 16
+  G  -1 16
+  G  -1 16
+  G  -1 16
+  Bb -1 16
+
+MEASURE 43
+  LINE RH4
+  D   0 16
+  D   0 16
+  Bb -1 16
+  D   0 16
+  G  -1 16
+  G  -1 16
+  G  -1 16
+  Bb -1 16
+
+MEASURE 44
+  LINE RH4
+  D   0 16
+  D   0 16
+  Bb -1 16
+  D   0 16
+  G  -1 16
+  G  -1 16
+  C   0 16
+  Eb  0 16
+
+MEASURE 45
+  LINE RH4
+  G   0 16
+  G   0 16
+  Eb  0 16
+  G   0 16
+  C   0 16
+  C   0 16
+  C   0 16
+  Eb  0 16
+
+MEASURE 46
+  LINE RH4
+  G   0 16
+  G   0 16
+  Eb  0 16
+  G   0 16
+  C   0 16
+  C   0 16
+  C   0 16
+  Eb  0 16
+
+MEASURE 47
+  LINE RH4
+  G   0 16
+  G   0 16
+  Eb  0 16
+  G   0 16
+  C   0 16
+  C   0 16
+  C   0 16
+  Eb  0 16
+
+MEASURE 48
+  LINE RH4
+  G   0 16
+  G   0 16
+  Eb  0 16
+  G   0 16
+  C   0 16
+  C   0 16
+  G   0 16
+  Bb  0 16
+# kr2l D:\musfiles\prok-toccata.mus 49 60 8
+
+MEASURE 49
+  LINE RH4
+  D   1 16
+  D   1 16
+  Bb  0 16
+  D   1 16
+  G   0 16
+  G   0 16
+  G   0 16
+  Bb  0 16
+
+MEASURE 50
+  LINE RH4
+  D   1 16
+  D   1 16
+  G   1  8
+  C#  1 16
+  A   1 16
+  A   1 16
+  Ab  1 16
+# kr2l D:\musfiles\prok-toccata.mus 25 60 8
+
+MEASURE 25
+  LINE LH5
+  Bb -1  8
+  B  -1  8
+  C# -1  8
+  C  -1  8
+
+MEASURE 26
+  LINE LH5
+  B  -1  8
+  C   0  8
+  B  -2  8
+  C#  0  8
+
+MEASURE 27
+  LINE LH5
+  D   0  8
+  Bb -2  8
+  A  -2  8
+  Eb  0  8
+
+MEASURE 28
+  LINE LH5
+  Ab -2  8
+  E   0  8
+  G  -2  4
+
+MEASURE 29
+  LINE LH5
+  Eb  0  8
+  E   0  8
+  F# -1  8
+  F  -1  8
+
+MEASURE 30
+  LINE LH5
+  E   0  8
+  F   0  8
+  E  -1  8
+  F#  0  8
+
+MEASURE 31
+  LINE LH5
+  G   0  8
+  Eb -1  8
+  D  -1  8
+  Ab  0  8
+
+MEASURE 32
+  LINE LH5
+  C# -1  8
+  A   0  8
+  C  -1  4
+
+MEASURE 33
+  LINE LH5
+  Eb  0  8
+  G  -2  8
+  A   0  8
+  C# -2  8
+
+MEASURE 34
+  LINE LH5
+  E   0  8
+  G  -2  8
+  A   0  8
+  C# -2  8
+MEASURE 1
+  MARK Beginning
+
+MEASURE 24
+  MARK Change-I
+
+# kr2l D:\musfiles\prok-toccata.mus 35 60 8
+
+
+# kr2l D:\musfiles\prok-toccata.mus 35 60 8
+
+MEASURE 35
+  LINE TLLH2
+  TIELINE LH4 77
+  Ab  0  8
+  Ab  0 16  3
+  Ab  0 16
+  Ab  0  8
+
+MEASURE 35
+  LINE TLLH3
+  TIELINE LH4 80
+  A   0  8
+  E   1 16  3
+  Eb  1 16
+  D   1  8
+
+MEASURE 35
+  LINE LH4
+  C   1  8
+  Ab  1 16  3
+  G   1 16
+  F#  1  8
+# kr2l D:\musfiles\prok-toccata.mus 36 60 8
+
+MEASURE 36
+  LINE TLLH2
+  TIELINE LH4 77
+  Ab  0  8
+  Ab  0  8
+  Ab  0  8
+  Ab  0  8
+
+MEASURE 36
+  LINE TLLH3
+  TIELINE LH4 80
+  C   1  8
+  B   0  8
+  B   0  8
+  B   0  8
+
+MEASURE 36
+  LINE LH4
+  Ab  1  8
+  E   1  8
+  Eb  1  8
+  D   1  8
+# kr2l D:\musfiles\prok-toccata.mus 37 60 8
+
+MEASURE 37
+  LINE LH4
+  F#  0  8
+  Bb -2  8
+  C   1  8
+  E  -2  8
+
+MEASURE 38
+  LINE LH4
+  G   0  8
+  Bb -2  8
+  C   1  8
+  E  -2  8
+# kr2l D:\musfiles\prok-toccata.mus 39 60 8
+
+MEASURE 39
+  LINE TLLH2
+  TIELINE LH4 77
+  B   0  8
+  B   0 16  3
+  B   0 16
+  B   0  8
+
+MEASURE 39
+  LINE TLLH3
+  TIELINE LH4 80
+  C   1  8
+  G   1 16  3
+  F#  1 16
+  F   1  8
+
+MEASURE 39
+  LINE LH4
+  Eb  1  8
+  B   1 16  3
+  Bb  1 16
+  A   1  8
+
+MEASURE 40
+  LINE TLLH2
+  TIELINE LH4 77
+  B   0  8
+  B   0  8
+  B   0  8
+  Bb  0  8
+
+MEASURE 40
+  LINE TLLH3
+  TIELINE LH4 80
+  Eb  1  8
+  C#  1  8
+  C#  1  8
+  D   1  8
+
+MEASURE 40
+  LINE LH4
+  B   1  8
+  G   1  8
+  F#  1  8
+  G   1  8
+# kr2l D:\musfiles\prok-toccata.mus 41 60 8
+
+MEASURE 41
+  LINE TLLH3
+  TIELINE LH4 80
+  G  -1  8
+  F# -1  8
+  F# -2  8
+  F  -2  8
+
+MEASURE 41
+  LINE LH4
+  Eb  0  8
+  E   0  8
+  F# -1  8
+  F  -1  8
+# kr2l D:\musfiles\prok-toccata.mus 42 60 8
+
+MEASURE 42
+  LINE TLLH2
+  TIELINE LH4 77
+  REST   8  3
+  C   0  8
+
+MEASURE 42
+  LINE TLLH3
+  TIELINE LH4 80
+  F# -1  8
+  F  -1  8
+  E  -2  8
+  Eb  0  8
+
+MEASURE 42
+  LINE LH4
+  E   0  8
+  F   0  8
+  E  -1  8
+  F#  0  8
+# kr2l D:\musfiles\prok-toccata.mus 43 60 8
+
+MEASURE 43
+  LINE TLLH2
+  TIELINE LH4 77
+  A  -1  8
+  REST   4
+  C   0  8
+
+MEASURE 43
+  LINE TLLH3
+  TIELINE LH4 80
+  Eb  0  8
+  Eb -2  8
+  D  -2  8
+  Eb  0  8
+
+MEASURE 43
+  LINE LH4
+  G   0  8
+  Eb -1  8
+  D  -1  8
+  Ab  0  8
+
+MEASURE 44
+  LINE TLLH2
+  TIELINE LH4 77
+  REST   8
+  C#  0  8
+  REST   4
+
+MEASURE 44
+  LINE TLLH3
+  TIELINE LH4 80
+  C# -2  8
+  E   0  8
+  C  -2  4
+
+MEASURE 44
+  LINE LH4
+  C# -1  8
+  A   0  8
+  C  -1  4
+
+MEASURE 45
+  LINE TLLH3
+  TIELINE LH4 80
+  C   0  8
+  B  -1  8
+  B  -2  8
+  Bb -2  8
+
+MEASURE 45
+  LINE LH4
+  Ab  0  8
+  A   0  8
+  B  -1  8
+  Bb -1  8
+# kr2l D:\musfiles\prok-toccata.mus 46 60 8
+
+MEASURE 46
+  LINE TLLH2
+  TIELINE LH4 77
+  REST   8  3
+  F   0  8
+
+MEASURE 46
+  LINE TLLH3
+  TIELINE LH4 80
+  B  -1  8
+  Bb -1  8
+  A  -2  8
+  Ab  0  8
+
+MEASURE 46
+  LINE LH4
+  A   0  8
+  Bb  0  8
+  A  -1  8
+  B   0  8
+# kr2l D:\musfiles\prok-toccata.mus 47 60 8
+
+MEASURE 47
+  LINE TLLH2
+  TIELINE LH4 77
+  D   0  8
+  REST   4
+  F   0  8
+
+MEASURE 47
+  LINE TLLH3
+  TIELINE LH4 80
+  Ab  0  8
+  Ab -2  8
+  G  -2  8
+  Ab  0  8
+
+MEASURE 47
+  LINE LH4
+  C   1  8
+  Ab -1  8
+  G  -1  8
+  C#  1  8
+# kr2l D:\musfiles\prok-toccata.mus 51 60 8
+
+MEASURE 51
+  LINE TLRH2
+  TIELINE RH4 77
+  REST  16
+  G   1 16
+  G   1 16
+  F#  1 16
+  F#  1 16
+  F   1 16
+  F   1 16
+  E   1 16
+
+MEASURE 51
+  LINE TLRH3
+  TIELINE RH4 80
+  REST  16
+  Bb  1 16
+  Bb  1 16
+  A   1 16
+  A   1 16
+  Ab  1 16
+  Ab  1 16
+  G   1 16
+
+MEASURE 51
+  LINE RH4
+  Ab  1 16
+  D   2 16
+  D   2 16
+  D   2 16
+  D   2 16
+  D   2 16
+  D   2 16
+  D   2 16
+# kr2l D:\musfiles\prok-toccata.mus 52 60 8
+
+MEASURE 52
+  LINE TLRH3
+  TIELINE RH4 80
+  REST   4
+  D   2 16
+  Eb  2 16
+  REST   8
+
+MEASURE 52
+  LINE RH4
+  D   2 16
+  Eb  1 16
+  A   2 16
+  Bb  2 16
+  D   3 16
+  Eb  3 16
+  A   0 16
+  C   1 16
+
+MEASURE 53
+  LINE RH4
+  E   1 16
+  E   1 16
+  C   1 16
+  E   1 16
+  A   0 16
+  A   0 16
+  A   0 16
+  C   1 16
+# kr2l D:\musfiles\prok-toccata.mus 54 60 8
+
+MEASURE 54
+  LINE RH4
+  E   1 16
+  E   1 16
+  A   1  8
+  Eb  1 16
+  B   1 16
+  B   1 16
+  Bb  1 16
+
+MEASURE 55
+  LINE TLRH2
+  TIELINE RH4 77
+  REST  16
+  A   1 16
+  A   1 16
+  Ab  1 16
+  Ab  1 16
+  G   1 16
+  G   1 16
+  F#  1 16
+
+MEASURE 55
+  LINE TLRH3
+  TIELINE RH4 80
+  REST  16
+  C   2 16
+  C   2 16
+  B   1 16
+  B   1 16
+  Bb  1 16
+  Bb  1 16
+  A   1 16
+
+MEASURE 55
+  LINE RH4
+  Bb  1 16
+  E   2 16
+  E   2 16
+  E   2 16
+  E   2 16
+  E   2 16
+  E   2 16
+  E   2 16
+# kr2l D:\musfiles\prok-toccata.mus 56 60 8
+
+MEASURE 56
+  LINE TLRH3
+  TIELINE RH4 80
+  REST   4
+  E   2 16
+  F   2 16
+  REST   8
+
+MEASURE 56
+  LINE RH4
+  E   2 16
+  F   1 16
+  B   2 16
+  C   3 16
+  E   3 16
+  F   3 16
+  D  -1 16
+  E  -1 16
+# kr2l D:\musfiles\prok-toccata.mus 57 60 8
+
+MEASURE 57
+  LINE TLRH3
+  TIELINE RH4 80
+  REST  16
+  F# -1 16
+  REST  16
+  G  -1 16
+  REST  16
+  Ab -1 16
+  REST   8
+
+MEASURE 57
+  LINE RH4
+  F  -1 16
+  A  -1 16
+  F# -1 16
+  B  -1 16
+  G  -1 16
+  B  -1 16
+  Ab -1 24
+  A  -1 48
+  C   0 16
+
+MEASURE 58
+  LINE TLRH3
+  TIELINE RH4 80
+  REST  16
+  Bb -1 16
+  REST  16
+  B  -1 16
+  REST  16
+  C   0 16
+  REST  16
+  C#  0 16
+
+MEASURE 58
+  LINE RH4
+  A  -1 16
+  D   0 16
+  Bb -1 16
+  D   0 16
+  B  -1 16
+  Eb  0 16
+  C   0 16
+  E   0 16
+# kr2l D:\musfiles\prok-toccata.mus 59 60 8
+
+MEASURE 59
+  LINE TLRH2
+  TIELINE RH4 77
+  REST   8
+  E   0 16
+  REST  16
+  Eb  0 24
+  REST  12
+  D   0 24
+  REST  12
+
+MEASURE 59
+  LINE TLRH3
+  TIELINE RH4 80
+  REST  16
+  E   0 16
+  G   0 16
+  Eb  0 16
+  F#  0 24
+  D   0 12
+  F   0 24
+  C#  0 12
+
+MEASURE 59
+  LINE RH4
+  Ab  0 16
+  G   0 16
+  Ab  0 16
+  F#  0 16
+  Ab  0 24
+  F   0 12
+  Ab  0 24
+  E   0 12
+# kr2l D:\musfiles\prok-toccata.mus 60 60 8
+
+MEASURE 60
+  LINE TLRH2
+  TIELINE RH4 77
+  C#  0 16
+  REST  16
+  C   0 16
+  REST  16
+  B  -1 16
+  REST  16
+  Bb -1 16
+  REST  16
+
+MEASURE 60
+  LINE TLRH3
+  TIELINE RH4 80
+  E   0 16
+  C   0 16
+  Eb  0 16
+  B  -1 16
+  D   0 16
+  Bb -1 16
+  C#  0 16
+  A  -1 16
+
+MEASURE 60
+  LINE RH4
+  Ab  0 16
+  Eb  0 16
+  Ab  0 16
+  D   0 16
+  Ab  0 16
+  C#  0 16
+  Ab  0 16
+  C   0 16
+# kr2l D:\musfiles\prok-toccata.mus 61 60 8
+
+MEASURE 61
+  LINE TLRH3
+  TIELINE RH4 80
+  REST  16
+  A  -1 16
+  REST  16
+  Bb -1 16
+  REST  16
+  B  -1 16
+  REST  16
+  C   0 16
+
+MEASURE 61
+  LINE RH4
+  Ab -1 16
+  C   0 16
+  A  -1 16
+  C#  0 16
+  Bb -1 16
+  D   0 16
+  B  -1 16
+  Eb  0 16
+# kr2l D:\musfiles\prok-toccata.mus 62 60 8
+
+MEASURE 62
+  LINE TLRH3
+  TIELINE RH4 80
+  REST  16
+  C#  0 16
+  REST  16
+  D   0 16
+  REST  16
+  Eb  0 16
+  REST  16
+  E   0 16
+
+MEASURE 62
+  LINE RH4
+  C   0 16
+  E   0 16
+  C#  0 16
+  F   0 16
+  D   0 16
+  F#  0 16
+  Eb  0 16
+  G   0 16
+# kr2l D:\musfiles\prok-toccata.mus 63 60 8
+
+MEASURE 63
+  LINE TLRH2
+  TIELINE RH4 77
+  REST   8
+  G   0 16
+  REST  16
+  F#  0 16
+  REST  16
+  F   0 16
+  REST  16
+
+MEASURE 63
+  LINE TLRH3
+  TIELINE RH4 80
+  REST  16
+  G   0 16
+  Bb  0 16
+  F#  0 16
+  A   0 16
+  F   0 16
+  Ab  0 16
+  E   0 16
+
+MEASURE 63
+  LINE RH4
+  B   0 16
+  Bb  0 16
+  B   0 16
+  A   0 16
+  B   0 16
+  Ab  0 16
+  B   0 16
+  G   0 16
+
+MEASURE 64
+  LINE TLRH2
+  TIELINE RH4 77
+  E   0 24
+  REST  12
+  Eb  0 16
+  REST  16
+  D   0 16
+  REST  16
+  C#  0 16
+  REST  16
+
+MEASURE 64
+  LINE TLRH3
+  TIELINE RH4 80
+  G   0 24
+  Eb  0 12
+  F#  0 16
+  D   0 16
+  F   0 16
+  C#  0 16
+  E   0 16
+  C   0 16
+
+MEASURE 64
+  LINE RH4
+  B   0 24
+  F#  0 12
+  B   0 16
+  F   0 16
+  B   0 16
+  E   0 16
+  B   0 16
+  Eb  0 16
+# kr2l D:\musfiles\prok-toccata.mus 65 60 8
+
+MEASURE 65
+  LINE RH4
+  E  -1 16
+  E   0 16
+  E   1  8
+  F   1  8
+  F  -1  8
+
+MEASURE 66
+  LINE RH4
+  F  -1  8
+  F   0  8
+  TRILL Gb 0
+  F#  1  8
+  F# -1  8
+# kr2l D:\musfiles\prok-toccata.mus 48 60 8
+
+MEASURE 48
+  LINE TLLH2
+  TIELINE LH4 77
+  REST   8
+  F#  0  8
+  REST   4
+
+MEASURE 48
+  LINE TLLH3
+  TIELINE LH4 80
+  F# -2  8
+  A   0  8
+  F  -2  8
+  Bb -1 16
+  REST  16
+
+MEASURE 48
+  LINE LH4
+  F# -1  8
+  D   1  8
+  F  -1  8
+  F#  0 16
+  D   0 16
+# kr2l D:\musfiles\prok-toccata.mus 49 60 8
+
+MEASURE 49
+  LINE TLLH3
+  TIELINE LH4 80
+  E  -1 16
+  REST  16
+  Bb -1 16
+  REST  16
+  E  -1 16
+  REST  16
+  Bb -1 16
+  REST  16
+
+MEASURE 49
+  LINE LH4
+  A  -1 16
+  Bb -1 16
+  F   0 16
+  D   0 16
+  A  -1 16
+  Bb -1 16
+  E   0 16
+  D   0 16
+# kr2l D:\musfiles\prok-toccata.mus 50 60 8
+
+MEASURE 50
+  LINE TLLH3
+  TIELINE LH4 80
+  E  -1 16
+  REST  16
+  Bb -1 16
+  REST  16
+  E  -1 16
+  REST  16
+  G  -1 16
+  REST  16
+
+MEASURE 50
+  LINE LH4
+  A  -1 16
+  Bb -1 16
+  Eb  0 16
+  D   0 16
+  A  -1 16
+  Bb -1 16
+  B  -1 16
+  C   0 16
+# kr2l D:\musfiles\prok-toccata.mus 51 60 8
+
+MEASURE 51
+  LINE LH4
+  C   0 16
+  C#  0 16
+  C#  0 16
+  D   0 16
+  D   0 16
+  Eb  0 16
+  Eb  0 16
+  E   0 16
+# kr2l D:\musfiles\prok-toccata.mus 52 60 8
+
+MEASURE 52
+  LINE LH4
+  E   0 16
+  F   0 16
+  F   0 16
+  F#  0 16
+  F#  0 16
+  G   0 16
+  Ab  0 16
+  E   0 16
+# kr2l D:\musfiles\prok-toccata.mus 51 60 8
+
+MEASURE 51
+  LINE TLLH3
+  TIELINE LH4 80
+  E  -1  8
+  G  -1  8
+  E  -1  8
+  G  -1  8
+# kr2l D:\musfiles\prok-toccata.mus 52 60 8
+
+MEASURE 52
+  LINE TLLH3
+  TIELINE LH4 80
+  E  -1  8
+  G  -1  8
+  Bb -1  8
+  C   0 16
+  REST  16

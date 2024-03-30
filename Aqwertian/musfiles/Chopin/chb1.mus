@@ -1,0 +1,10808 @@
+NAME Chopin's 1st Ballade
+
+MEASURE 1
+MARK Introduction
+METER 4 4
+TEMPO 4 80
+KEY 2b
+
+
+MEASURE 1
+  LINE RH5
+  C  -1  8  5
+  Eb -1  8
+  Ab -1  8
+  Bb -1  8
+
+MEASURE 1
+  LINE LH1
+  C  -2  8  5
+  Eb -2  8
+  Ab -2  8
+  Bb -2  8
+
+MEASURE 2
+  LINE RH5
+  C   0  8
+  Ab -1  8
+  Eb  0  8
+  Bb  0  8
+  C   1  8
+  Ab  0  8
+  Eb  1  8
+  Bb  1  8
+
+MEASURE 2
+  LINE LH1
+  C  -1  8
+  Ab -2  8
+  Eb -1  8
+  Bb -1  8
+  C   0  8
+  Ab -1  8
+  Eb  0  8
+  Bb  0  8
+
+MEASURE 3
+  LINE RH5
+  C   2  8
+  G   1  8
+  Bb  1  8
+  Ab  1  8
+  G   1  4
+  Gb  1  8
+  REST   8
+
+MEASURE 3
+  LINE LH1
+  C   1  8
+  G   0  8
+  Bb  0  8
+  Ab  0  8
+  G   0  4
+  Gb  0  8
+  REST   8
+
+MEASURE 4
+  LINE RH5
+  REST   8
+  Gb  1  8
+  G   1  8
+  Gb  1  8
+  F   1  8
+  Gb  1  8
+  A   1 12
+  G   1 12
+  Eb  1 12
+
+MEASURE 4
+  LINE LH1
+  REST   8
+  Gb  0  8
+  G   0  8
+  Gb  0  8
+  F   0  8
+  Gb  0  8
+  A   0 12
+  G   0 12
+  Eb  0 12
+
+MEASURE 5
+  LINE RH5
+  Eb  1 16  3
+  D   1 16
+  F   1 12
+  Eb  1 12
+  D   1 12
+  D   1  4
+  REST   4
+
+MEASURE 5
+  LINE LH1
+  Eb  0 16  3
+  D   0 16
+  F   0 12
+  Eb  0 12
+  D   0 12
+  D   0  4
+  REST   4
+
+
+
+MEASURE 6
+  LINE RH5
+  REST   2
+  C   1  8  3
+  G   0  8
+
+MEASURE 6
+  LINE LH3
+  REST   2
+  C   0  2
+
+MEASURE 6
+  LINE LH2
+  REST   2
+  G  -1  2
+
+MEASURE 6
+  LINE LH1
+  REST   2
+  Eb -1  2
+
+MEASURE 7
+  LINE RH5
+  Bb  0  1
+
+
+MEASURE 7
+  RH NOSKIP
+  LINE LH3
+  Eb  0  1
+  RIPPLE
+
+MEASURE 7
+  LINE LH2
+  G  -1  1
+
+MEASURE 7
+  LINE LH1
+  D  -1  1
+
+
+MEASURE 8
+   MARK Main-theme-I
+   METER 6 4
+   RH SKIPIG
+
+MEASURE 8
+  LINE RH5
+  CARRY  4  3
+  REST   8
+  C   0  8
+  D   0  8
+  F#  0  8
+  Bb  0  8
+  A   0  8
+
+MEASURE 8
+  LINE LH1
+  REST   4  3
+  D  -2  4
+  REST   4
+  REST   4
+
+MEASURE 9
+  LINE RH5
+  G   0  4  3
+  D   1  4  3
+
+MEASURE 9
+  LINE LH1
+  REST   4
+  G  -2  4
+  G  -2  4
+  REST   4
+  Bb -1  4
+  Bb -1  4
+
+MEASURE 9
+  LINE RH1
+  REST   4
+  Bb -1  4
+  Bb -1  4
+  REST   4
+  D   0  4
+  D   0  4
+
+MEASURE 9
+  LINE RH2
+  REST   4
+  D   0  4
+  D   0  4
+  REST   4
+  G   0  4
+  G   0  4
+
+MEASURE 10
+  LINE RH5
+  C   1  4  3
+  REST   8
+  C   0  8
+  D   0  8
+  F#  0  8
+  Bb  0  8
+  A   0  8
+
+MEASURE 10
+  LINE LH1
+  REST   4
+  A  -1  4
+  A  -1  4
+  REST   4
+  D  -2  4
+  D  -2  4
+
+MEASURE 10
+  LINE RH1
+  REST   4
+  C   0  4
+  C   0  4
+  REST   4  3
+
+MEASURE 10
+  LINE RH2
+  REST   4
+  G   0  4
+  G   0  4
+  REST   4  3
+
+MEASURE 10
+  LINE TL2
+  TIELINE RH2 95
+  REST   4
+  Eb  0  4
+  Eb  0  4
+  REST   4  3
+
+MEASURE 11
+  LINE RH5
+  G   0  4  3
+  E   0  4  3
+
+MEASURE 11
+  LINE LH1
+  REST   4
+  G  -2  4
+  G  -2  4
+  REST   4
+  A  -2  4
+  A  -2  4
+
+MEASURE 11
+  LINE RH1
+  REST   4
+  Bb -1  4
+  Bb -1  4
+  REST   4
+  G  -1  4
+  G  -1  4
+
+MEASURE 11
+  LINE RH2
+  REST   4
+  D   0  4
+  D   0  4
+  REST   4
+  C#  0  4
+  C#  0  4
+
+MEASURE 11
+  LINE TL2
+  REST   1
+  A  -1  4
+  A  -1  4
+
+MEASURE 12
+  LINE RH5
+  F#  0  4  3
+  REST   8
+  C   0  8
+  D   0  8
+  F#  0  8
+  Bb  0  8
+  A   0  8
+
+MEASURE 12
+  LINE LH1
+  REST   4
+  D  -2  4
+  D  -2  4
+  REST   4
+  D  -1  4
+  D  -1  4
+
+MEASURE 12
+  LINE RH1
+  REST   4
+  F# -1  4
+  F# -1  4
+  REST   4  3
+
+MEASURE 12
+  LINE RH2
+  REST   4
+  D   0  4
+  D   0  4
+  REST   4  3
+
+MEASURE 12
+  LINE TL2
+  REST   4
+  A  -1  4
+  A  -1  4
+  REST   4  3
+
+MEASURE 13
+  LINE RH5
+  G   0  4  3
+  G   1  4  3
+
+MEASURE 13
+  LINE LH1
+  REST   4
+  G  -2  4
+  G  -2  4
+  REST   4
+  E   0  4
+  E   0  4
+
+MEASURE 13
+  LINE RH1
+  REST   4
+  Bb -1  4
+  Bb -1  4
+  REST   4
+  G   0  4
+  G   0  4
+
+MEASURE 13
+  LINE RH2
+  REST   4
+  D   0  4
+  D   0  4
+  REST   4
+  C#  1  4
+  C#  1  4
+
+MEASURE 13
+  LINE TL2
+  REST   1
+  Bb  0  4
+  Bb  0  4
+
+MEASURE 14
+  LINE RH5
+  F   1  4  3
+  Eb  0  8
+  F   0  8
+  A   0  8
+  Eb  1  8
+  D   1  8
+  REST  16
+  Db  1 16
+
+MEASURE 14
+  LINE LH1
+  REST   4
+  F   0  4
+  F   0  4
+  REST   4
+  F  -2  4
+  F  -2  4
+
+MEASURE 14
+  LINE RH1
+  REST   4
+  Bb  0  4
+  Bb  0  4
+  REST   4  3
+
+MEASURE 14
+  LINE RH2
+  REST   4
+  C  1  4
+  C  1  4
+  REST   4  3
+
+MEASURE 14
+  LINE TL2
+  REST   2  3
+
+MEASURE 15
+  LINE RH5
+  Db  1  4  3
+  D   1  4  3
+
+
+MEASURE 15
+  LINE LH1
+  REST   4
+  Bb -2  4
+  Bb -2  4
+  REST   4
+  Bb -1  4
+  Bb -1  4
+
+MEASURE 15
+  LINE RH1
+  REST   4
+  Eb  0  4
+  Eb  0  4
+  REST   4
+  D   0  4
+  D   0  4
+
+MEASURE 15
+  LINE TL2
+  REST   4
+  F   0  4
+  F   0  4
+  REST   4
+  F   0  4
+  F   0  4
+
+MEASURE 15
+  LINE RH2
+  REST   4
+  A   0  4
+  A   0  4
+  REST   4
+  Bb  0  4
+  Bb  0  4
+
+MEASURE 16
+  LINE LH1
+  REST   4
+  A  -1  4
+  A  -1  4
+  REST   4
+  D  -2  4
+  D  -2  4
+
+MEASURE 16
+  LINE RH1
+  REST   4
+  Eb  0  4
+  Eb  0  4
+  REST   4  3
+
+MEASURE 16
+  LINE RH5
+  C   1  4  3
+  REST   8
+  C   0  8
+  D   0  8
+  F#  0  8
+  Bb  0  8
+  A   0  8
+
+MEASURE 16
+  LINE RH2
+  REST   4
+  G   0  4
+  G   0  4
+  REST   4  3
+
+MEASURE 16
+  LINE TL2
+  REST   2  3
+
+MEASURE 17
+  LINE LH1
+  REST   4
+  G  -2  4
+  G  -2  4
+  REST   4
+  Bb -1  4
+  Bb -1  4
+
+MEASURE 17
+  LINE RH1
+  REST   4
+  Bb -1  4
+  Bb -1  4
+  REST   4
+  D   0  4
+  D   0  4
+
+MEASURE 17
+  LINE RH5
+  G   0  4  3
+  D   1  4  3
+
+MEASURE 17
+  LINE RH2
+  REST   4
+  D   0  4
+  D   0  4
+  REST   4
+  G   0  4
+  G   0  4
+
+MEASURE 17
+  LINE TL2
+  REST   2  3
+
+
+MEASURE 18
+  LINE LH1
+  REST   4
+  A  -1  4
+  A  -1  4
+  REST   4
+  D  -2  4
+  D  -2  4
+
+MEASURE 18
+  LINE RH1
+  REST   4
+  C   0  4
+  C   0  4
+  REST   4  3
+
+MEASURE 18
+  LINE RH5
+  C   1  4  3
+  REST   8
+  C   0  8
+  D   0  8
+  F#  0  8
+  Bb  0  8
+  A   0  8
+
+MEASURE 18
+  LINE TL2
+  REST   4
+  Eb  0  4
+  Eb  0  4
+  REST   4  3
+
+MEASURE 18
+  LINE RH2
+  REST   4
+  G   0  4
+  G   0  4
+  REST   4  3
+
+MEASURE 19
+  LINE LH1
+  REST   4
+  G  -2  4
+  G  -2  4
+  REST   4
+  A  -2  4
+  A  -2  4
+
+MEASURE 19
+  LINE RH1
+  REST   4
+  Bb -1  4
+  Bb -1  4
+  REST   4
+  G  -1  4
+  G  -1  4
+
+MEASURE 19
+  LINE RH5
+  G   0  4  3
+  E   0  4  3
+
+MEASURE 19
+  LINE RH2
+  REST   4
+  D   0  4
+  D   0  4
+  REST   4
+  C#  0  4
+  C#  0  4
+
+MEASURE 19
+  LINE TL2
+  REST   1
+  A  -1  4
+  A  -1  4
+
+MEASURE 20
+  LINE LH1
+  REST   4
+  D  -2  4
+  D  -2  4
+  REST   4
+  D  -1  4
+  D  -1  4
+
+MEASURE 20
+  LINE RH1
+  REST   4
+  F# -1  4
+  F# -1  4
+  REST   4  3
+
+MEASURE 20
+  LINE RH5
+  F#  0  4  3
+  REST   8
+  C   0  8
+  D   0  8
+  F#  0  8
+  Bb  0  8
+  A   0  8
+
+MEASURE 20
+  LINE TL2
+  REST   4
+  A  -1  4
+  A  -1  4
+  REST   4  3
+
+MEASURE 20
+  LINE RH2
+  REST   4
+  D   0  4
+  D   0  4
+  REST   4  3
+
+MEASURE 21
+  LINE LH1
+  REST   4
+  G  -1  4
+  G  -1  4
+  REST   4
+  G  -2  4
+  G  -2  4
+
+MEASURE 21
+  LINE RH1
+  REST   4
+  B  -1  4
+  B  -1  4
+  REST   4
+  F   0  4
+  F   0  4
+
+MEASURE 21
+  LINE RH5
+  G   0  4  3
+  G   1  4  3
+
+MEASURE 21
+  LINE RH2
+  REST   4
+  F   0  4
+  F   0  4
+  REST   4
+  D   1  4
+  D   1  4
+
+MEASURE 21
+  LINE TL2
+  REST   4
+  D   0  4
+  D   0  4
+  REST   4
+  B   0  4
+  B   0  4
+
+MEASURE 21
+  LINE TL3
+  TIELINE RH1 95
+  REST   1
+  G   0  4
+  G   0  4
+
+MEASURE 22
+  LINE LH1
+  REST   4
+  C  -2  4
+  REST   2
+  D  -2  4
+  REST   4
+
+MEASURE 22
+  LINE LH3
+  REST   2
+  G  -1  4
+  REST   2
+  G  -1  4
+
+MEASURE 22
+  LINE RH1
+  REST   4
+  G   0  4
+  G   0  4
+  REST   4
+  D   0  4
+  D   0  4
+
+MEASURE 22
+  LINE RH5
+  G   1  4  3
+  D   1  4  3
+
+MEASURE 22
+  LINE RH2
+  REST   4
+  Eb  1  4
+  Eb  1  4
+  REST   4
+  G   0  4
+  G   0  4
+
+MEASURE 22
+  LINE TL2
+  REST   4
+  C   1  4
+  C   1  4
+  REST   4  3
+
+MEASURE 22
+  LINE LH2
+  REST   4
+  C  -1  2
+  REST   4
+  D  -1  2
+
+MEASURE 23
+  LINE LH1
+  REST   4
+  Eb -2  4
+  REST   2
+  D  -2  4
+  REST   4
+
+MEASURE 23
+  LINE LH3
+  REST   2
+  G  -1  4
+  REST   2
+  G  -1  4
+
+MEASURE 23
+  LINE RH1
+  REST   4
+  C   0  4
+  C   0  4
+  REST   4
+  Bb -1  4
+  Bb -1  4
+
+MEASURE 23
+  LINE RH5
+  C   1  4  3
+  G   0  4  3
+
+MEASURE 23
+  LINE RH2
+  REST   4
+  G   0  4
+  G   0  4
+  REST   4
+  D   0  4
+  D   0  4
+
+MEASURE 23
+  LINE TL2
+  REST   2  3
+
+MEASURE 23
+  LINE LH2
+  REST   4
+  Eb -1  2
+  REST   4
+  D  -1  2
+
+MEASURE 24
+  LINE LH1
+  B  -2  8
+  C  -1  8
+  D  -1  8
+  C  -1  8
+  G  -1  4
+  Db -1  8
+  D  -1  8
+  Eb -1  8
+  D  -1  8
+  G  -1  4
+
+MEASURE 24
+  LINE RH1
+  REST   4
+  G   0  4
+  G   0  4
+  REST   4
+  D   0  4
+  D   0  4
+
+MEASURE 24
+  LINE RH5
+  G   1  4  3
+  D   1  4  3
+
+MEASURE 24
+  LINE RH2
+  REST   4
+  Eb  1  4
+  Eb  1  4
+  REST   4
+  G   0  4
+  G   0  4
+
+MEASURE 24
+  LINE TL2
+  REST   4
+  C   1  4
+  C   1  4
+  REST   4  3
+
+MEASURE 25
+  LINE LH1
+  D  -1  8
+  Eb -1  8
+  F  -1  8
+  Eb -1  8
+  G  -1  4
+  D# -1  32 0
+  E  -1  32 0
+  E  -1  4  3
+  TRILL F -1
+
+MEASURE 25
+  LINE RH1
+  REST   4
+  C   0  4
+  C   0  4
+  REST   4
+  Bb -1  4
+  Bb -1  4
+
+MEASURE 25
+  LINE RH5
+  C   1  4  3
+  G   0  4  3
+
+MEASURE 25
+  LINE RH2
+  REST   4
+  G   0  4
+  G   0  4
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 25
+  LINE TL2
+  REST   2  3
+
+MEASURE 26
+  LINE LH1
+  D# -1  32 0
+  E  -1  32 0
+  F  -1  1
+  E  -2  4
+  F  -2  4
+
+MEASURE 26
+  LINE RH1
+  REST   4
+  Bb -1  4
+  Bb -1  4
+  REST   4  3
+
+MEASURE 26
+  LINE LH8
+  REST   4 3
+  REST   4
+  D   0  4
+  D   0  4
+
+MEASURE 26
+  LINE RH5
+  F   0  4  3
+  D   1  4  3
+
+
+MEASURE 26
+  LINE RH2
+  REST   4
+  D   0  4
+  D   0  4
+  REST   4 3
+
+MEASURE 26
+  LINE LH9
+  REST   4 3
+  REST   4
+  Bb  0  4
+  Bb  0  4
+
+MEASURE 26
+  LINE TL2
+  TIELINE LH8 90
+  REST   1
+  F   0  4
+  F   0  4
+
+MEASURE 26
+  LINE LH2
+  REST   1
+  E  -1  4
+  F  -1  4
+
+MEASURE 27
+  LINE LH1
+  F# -2  1
+  F  -2  4
+  F# -2  4
+
+MEASURE 27
+  LINE LH8
+  Eb  0  4
+  Eb  0  4
+  Eb  0  4
+  Eb  0  4
+  Eb  0  4
+  Eb  0  4
+
+MEASURE 27
+  LINE LH9
+  A   0  4
+  A   0  4
+  A   0  4
+  A   0  4
+  A   0  4
+  A   0  4
+
+
+MEASURE 27
+  LINE LH2
+  F# -1  1
+  F  -1  4
+  F# -1  4
+
+MEASURE 27
+  LINE RH5
+  CARRY  4
+  D   1 32  0
+  C   1  4
+  B   0  4
+  C   1  4
+  D   1  4
+  Eb  1  4
+
+
+MEASURE 28
+  LINE LH1
+  G  -2  2  3
+
+MEASURE 28
+  LINE LH8
+  REST   4
+  Eb  0  4
+  Eb  0  4
+  D   0  4
+  D   0  4
+  D   0  4
+
+MEASURE 28
+  LINE LH9
+  REST   4
+  Bb  0  4
+  Bb  0  4
+  Bb  0  4
+  Bb  0  4
+  Bb  0  4
+
+MEASURE 28
+  LINE RH5
+  Eb  1  4  3
+  D   1  4  3
+
+MEASURE 28
+  LINE LH2
+  G  -1  2  3
+
+MEASURE 29
+  LINE LH1
+  D  -2  2  3
+
+MEASURE 29
+  LINE LH8
+  C   0  4
+  C   0  4
+  C   0  4
+  C   0  4
+  C   0  4
+  C   0  4
+
+MEASURE 29
+  LINE LH9
+  F#  0  4
+  F#  0  4
+  F#  0  4
+  F#  0  4
+  F#  0  4
+  F#  0  4
+
+MEASURE 29
+  LINE RH5
+  REST   4
+  Bb  0  32 0
+  A   0  4
+  Ab  0  4
+  A   0  4
+  Bb  0  4
+  C   1  4
+
+MEASURE 29
+  LINE LH2
+  D  -1  2  3
+
+MEASURE 30
+  LINE LH1
+  Eb -2  2  3
+
+MEASURE 30
+  LINE LH8
+  REST   4
+  C   0  4
+  C   0  4
+  Bb -1  4
+  Bb -1  4
+  Bb -1  4
+
+MEASURE 30
+  LINE LH9
+  REST   4
+  G   0  4
+  G   0  4
+  G   0  4
+  G   0  4
+  G   0  4
+
+MEASURE 30
+  LINE RH5
+  C   1  4  3
+  Bb  0  4  3
+
+MEASURE 30
+  LINE LH2
+  Eb -1  2  3
+
+MEASURE 31
+  LINE RH5
+  A   0  4  3
+  A   0  8  5
+  A   0  8
+
+MEASURE 31
+  LINE LH9
+  G   0  4
+  G   0  4
+  G   0  4
+  F#  0  4
+  F#  0  4
+  F#  0  4
+
+MEASURE 31
+  LINE LH8
+  Eb  0  4
+  Eb  0  4
+  Eb  0  4
+  D   0  4
+  D   0  4
+  D   0  4
+
+MEASURE 31
+  LINE LH2
+  C  -1  4  3
+  D  -1  4  3
+
+MEASURE 31
+  LINE LH1
+  C  -2  4  3
+  D  -2  4  3
+
+MEASURE 32
+  LINE RH5
+  A   0  4 5
+  A   0  4
+
+MEASURE 32
+  LINE RH2
+  E   0  4
+  REST   4  5
+
+MEASURE 32
+  LINE RH1
+  A  -1  4
+  RIPPLE
+  REST   4  5
+
+MEASURE 32
+  LINE LH2
+  C# -1  4
+  E   0  4
+  E   0  4
+  E   0  4
+  E   0  4
+  E   0  4
+
+MEASURE 32
+  LINE LH1
+  C# -2  4
+  E  -1  4
+  E  -1  4
+  E  -1  4
+  E  -1  4
+  E  -1  4
+
+MEASURE 32
+  LINE TL4
+  TIELINE LH1 85
+  REST   4
+  A  -1  4
+  A  -1  4
+  A  -1  4
+  A  -1  4
+  A  -1  4
+
+
+MEASURE 33
+  APART
+  LINE LH2
+  C  -1  4
+  F   0  4
+  F   0  4
+  F   0  4
+  F   0  4
+  F   0  4
+
+MEASURE 33
+  LINE LH1
+  C  -2  4
+  F  -1  4
+  F  -1  4
+  F  -1  4
+  F  -1  4
+  F  -1  4
+
+MEASURE 33
+  LINE TL4
+  REST   4
+  A  -1  4
+  A  -1  4
+  A  -1  4
+  A  -1  4
+  A  -1  4
+
+MEASURE 33
+  LINE TL5
+  TIELINE LH1 85
+  REST   4
+  Eb  0  4
+  Eb  0  4
+  Eb  0  4
+  Eb  0  4
+  Eb  0  4
+
+MEASURE 33
+  LINE RH5
+  APART
+  RH NOSKIPIG
+  CARRY 16
+  Bb  0 16
+  A   0 16
+  Ab  0 16
+  A   0 16
+  G   1 16
+  E   1 16
+  F   1 16
+  F   1 16
+  G   2 16
+  F   2 16
+  E   2 16
+  Eb  2 4 3 18
+  C   2 4 3 18
+  A   1 4 3 18
+  Bb  1 4 3 18
+  D   2 4 3 18
+  C   2 4 3 18
+  Bb  1 4 3 18
+  G   1 4 3 18
+  F   1 4 3 18
+  D   1 4 3 18
+  Eb  1 4 3 18
+  E   1 4 3 18
+  F   1 4 3 18
+  F#  1 4 3 18
+  A   1 4 3 18
+  G   1 4 3 18
+  F   1 4 3 18
+  Eb  1 4 3 18
+
+MEASURE 34
+  LINE RH5
+  RH SKIPIG
+  C#  1  8
+  REST   8
+  D   1  4  3
+  C   1  4
+  G   0  4
+
+MEASURE 34
+  LINE TLLH2a
+  TIELINE LH2 95
+  Bb -3  4
+  REST   4  5
+
+MEASURE 34
+  LINE LH2
+  Bb -2  4
+  REST   2
+  Eb -2  4
+  REST   2
+
+MEASURE 34
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   4
+  D  -1  4
+  F  -1  4
+  REST   4
+  Eb -1  4
+  G  -1  4
+
+MEASURE 34
+  LINE LH4
+  REST   4
+  F  -1  4
+  Bb -1  4
+  REST   4
+  G  -1  4
+  C   0  4
+
+MEASURE 34
+  LINE LH5
+  REST   4
+  Bb -1  4
+  D   0  4
+  REST   4
+  C   0  4
+  Eb  0  4
+
+
+MEASURE 35
+  LINE RH5
+  TOGETHER
+  Bb  0  4  3
+  F#  0  4  3
+
+
+MEASURE 35
+  LINE LH2
+  D  -2  4
+  REST   2
+  D  -1  4  3
+
+
+MEASURE 35
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   4
+  G  -1  4
+  G  -1  2
+  REST   2
+
+MEASURE 35
+  LINE LH4
+  REST   4
+  Bb -1  4
+  Bb -1  2
+  Bb -1  4
+  A  -1  4
+
+MEASURE 35
+  LINE LH5
+  REST   4
+  Eb  0  4
+  D   0  2
+  C#  0  4
+  C   0  4
+
+MEASURE 36
+  MARK Build-I-I
+  LINE RH8
+  REST   4
+  Bb  0  8
+  REST   8  5
+  A   0  8
+  REST   8  3
+
+MEASURE 36
+  LINE RH9
+  G   0  4
+  Bb  1  8
+  D   1  8
+  F   1  8
+  Eb  1  8  3
+  A   1  8
+  C#  1  8
+  Eb  1  8
+  D   1  8
+
+MEASURE 36
+  LINE TLLH2a
+  TIELINE LH2 95
+  REST   4
+  G  -1  2
+  REST   4
+  F# -1  2
+
+MEASURE 36
+  LINE LH2
+  G  -2  4
+  Bb -1  2
+  F# -2  4
+  A  -1  2
+
+MEASURE 36
+  LINE LH4
+  REST   4
+  F   0  4
+  Eb  0  4
+  REST   4
+  Eb  0  4
+  D   0  4
+
+MEASURE 37
+  LINE RH8
+  REST   4
+  Bb  0  8
+  REST   8  5
+  Ab  0  8
+  REST   8  3
+
+MEASURE 37
+  LINE RH9
+  CARRY  4
+  Bb  1  8
+  D   1  8
+  F   1  8
+  Eb  1  8  3
+  Ab  1  8
+  C#  1  8
+  Eb  1  8
+  D   1  8
+
+MEASURE 37
+  LINE TLLH1a
+  TIELINE LH2 92
+  REST   1
+  F  -1  2
+
+MEASURE 37
+  LINE TLLH2a
+  TIELINE LH2 95
+  REST   4
+  G  -1  2
+  REST   4
+  Ab -1  2
+
+MEASURE 37
+  LINE LH2
+  G  -2  4
+  Bb -1  2
+  F  -2  4
+  B  -1  2
+
+MEASURE 37
+  LINE LH4
+  REST   4
+  F   0  4
+  Eb  0  4
+  REST   4
+  Eb  0  4
+  D   0  4
+
+MEASURE 38
+  LINE RH8
+  REST   4
+  G   0  8
+  REST   8  5
+  C   0  8
+  REST   8  3
+
+MEASURE 38
+  LINE RH9
+  CARRY  4
+  G   1  8
+  B   0  8
+  D   1  8
+  C   1  8  3
+  C   1  8
+  G#  0  8
+  Bb  0  8
+  A   0  8
+
+
+MEASURE 38
+  LINE TLLH2a
+  TIELINE LH2 95
+  REST   4
+  Eb -1  2
+  REST   4  3
+
+MEASURE 38
+  LINE LH2
+  Eb -2  4
+  G  -1  2
+  C  -2  4
+  Eb -1  2
+
+MEASURE 38
+  LINE LH4
+  REST   4
+  D   0  4
+  C   0  4
+  REST   4
+  Bb -1  4
+  A  -1  4
+
+MEASURE 39
+  LINE RH8
+  REST   4
+  Eb  0  8
+  REST   8  5
+  Eb  0  8
+  REST   8
+  C#  0  8
+  REST   8
+
+MEASURE 39
+  LINE TLRH7
+  TIELINE RH9 92
+  REST   4  5
+  F#  0  8
+  REST   8
+
+MEASURE 39
+  LINE RH9
+  CARRY  4
+  Eb  1  8
+  B   0  8
+  D   1  8
+  C   1  8  3
+  G   0  8
+  D   0  8
+  A   0  8
+  C   0  8
+
+MEASURE 39
+  LINE TLLH2a
+  TIELINE LH2 95
+  REST   4
+  D  -1  2
+  REST   4  3
+
+MEASURE 39
+  LINE LH2
+  D  -2  4
+  C   0  2
+  D  -2  4
+  PHANTOM 2
+
+
+MEASURE 39
+  LINE LH4
+  REST   4
+  G  -1  4
+  F# -1  4
+  REST   4
+  A  -1  4
+  D  -1  4
+
+MEASURE 40
+  LINE RH7
+  Bb -1  4
+  Bb  0  2
+  REST   4
+  A   0  2
+
+MEASURE 40
+  LINE TLRH7
+  TIELINE RH7 95
+  G   0  4
+  REST   4  5
+
+MEASURE 40
+  LINE RH9
+  Bb  0  4
+  Bb  1  2
+  REST   4
+  A   1  2
+
+MEASURE 40
+  LINE RH8
+  REST   8  3
+  D   1  8
+  F   1  8
+  Eb  1  8
+  REST   8  3
+  C#  1  8
+  Eb  1  8
+  D   1  8
+
+MEASURE 40
+  LINE TLLH2a
+  TIELINE LH2 95
+  G  -2  4
+  REST   2
+  F# -2  4
+  REST   2
+
+MEASURE 40
+  LINE LH2
+  G  -1  4
+  G  -1  2
+  F# -1  4
+  F# -1  2
+
+MEASURE 40
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   2
+  Bb -1  4
+  REST   2
+  A  -1  4
+
+MEASURE 40
+  LINE LH4
+  REST   4
+  F   0  4
+  Eb  0  4
+  REST   4
+  Eb  0  4
+  D   0  4
+
+
+MEASURE 41
+  LINE RH7
+  REST   4
+  Bb  0  2
+  REST   4
+  Ab  0  2
+
+MEASURE 41
+  LINE RH9
+  REST   4
+  Bb  1  2
+  REST   4
+  Ab  1  2
+
+MEASURE 41
+  LINE RH8
+  REST   8  3
+  D   1  8
+  F   1  8
+  Eb  1  8
+  REST   8  3
+  C#  1  8
+  Eb  1  8
+  D   1  8
+
+MEASURE 41
+  LINE TLLH2a
+  TIELINE LH2 95
+  G  -2  4
+  REST   2
+  F  -2  4
+  REST   2
+
+MEASURE 41
+  LINE LH2
+  G  -1  4
+  G  -1  2
+  F  -1  4
+  F  -1  2
+
+MEASURE 41
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   2
+  Bb -1  4
+  REST   2
+  Ab -1  4
+
+MEASURE 41
+  LINE TLLH3
+  TIELINE LH4 93
+  REST   4  5
+  B  -1  4
+
+MEASURE 41
+  LINE LH4
+  REST   4
+  F   0  4
+  Eb  0  4
+  REST   4
+  Eb  0  4
+  D   0  4
+
+MEASURE 42
+  LINE RH7
+  REST   4
+  G   0  2
+  REST   4
+  C   0  2
+
+MEASURE 42
+  LINE RH9
+  REST   4
+  G   1  2
+  REST   4
+  C   1  2
+
+MEASURE 42
+  LINE RH8
+  REST   8  3
+  B   0  8
+  D   1  8
+  C   1  8
+  REST   8  3
+  G#  0  8
+  Bb  0  8
+  A   0  8
+
+MEASURE 42
+  LINE TLLH2a
+  TIELINE LH2 95
+  Eb -2  4
+  REST   2
+  C  -2  4
+  REST   2
+
+MEASURE 42
+  LINE LH2
+  Eb -1  4
+  Eb -1  2
+  C  -1  4
+  C  -1  2
+
+MEASURE 42
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   2
+  G  -1  4
+  REST   2
+  Eb -1  4
+
+MEASURE 42
+  LINE LH4
+  REST   4
+  D   0  4
+  C   0  4
+  REST   4
+  Bb -1  4
+  A  -1  4
+
+
+MEASURE 43
+  LINE RH7
+  REST   4
+  Eb  0  2
+  REST   4
+  F# -1  2
+
+MEASURE 43
+  LINE RH9
+  REST   4
+  Eb  1  2
+  REST   4
+  F#  0  2
+
+MEASURE 43
+  LINE RH8
+  REST   8  3
+  B   0  8
+  D   1  8
+  C   1  8
+  REST   8  3
+  C#  0  8
+  Eb  0  8
+  D   0  8
+
+MEASURE 43
+  LINE LH2
+  D  -2  4
+  PHANTOM 2
+  D  -2  4
+  PHANTOM 2
+
+MEASURE 43
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   4
+  A  -2  4
+  C  -1  4
+  REST   4
+  A  -2  4
+  C  -1  4
+
+MEASURE 43
+  LINE LH4
+  REST   4
+  G  -1  4
+  F# -1  4
+  REST   4
+  Eb -1  4
+  D  -1  4
+
+MEASURE 44
+  MARK Build-I-II
+  LINE RH8
+  Bb -1  4
+  G  -1  8
+  REST   8  3
+  Bb -1  4
+  G  -1  8
+  REST   8  3
+
+MEASURE 44
+  LINE RH9
+  APART
+  G   0  4
+  C   0  8
+  Bb -1  8
+  A  -1  8
+  G  -1  8
+  G   0  4
+  C   0  8
+  Bb -1  8
+  A  -1  8
+  G  -1  8
+
+
+MEASURE 44
+  LINE TLLH5
+  TIELINE RH9 80
+  REST   1
+  Eb -1  8
+  D  -1  8
+  REST   4
+
+MEASURE 44
+  LINE TLLH2
+  TIELINE LH4 95
+  G  -2  4
+  G  -3  4
+  REST   4
+  G  -2  4
+  REST   2
+
+MEASURE 44
+  LINE LH4
+  D  -1  4
+  G  -2  4
+  REST   4
+  D  -1  4
+  G  -2  2
+
+MEASURE 45
+  LINE RH9
+  F   0  8
+  C   0  8
+  Eb  0  8
+  F# -1  8
+  C   0  8
+  Eb  0  8
+  F#  0  8
+  C   1  8
+  F   1  8
+  Eb  1  8
+  D   1  8
+  C   1  8
+
+
+MEASURE 45
+  LINE TLLH2
+  TIELINE LH4 95
+  G  -2  1
+  G  -2  4
+  Eb -1  4
+
+MEASURE 45
+  LINE TLLH3
+  TIELINE LH4 93
+  C  -1  1
+  REST   2
+
+MEASURE 45
+  LINE LH4
+  Eb -1  1
+  G  -1  4
+  Eb  0  4
+
+MEASURE 45
+  LINE LH5
+  REST   4
+  A  -1  4  3
+  REST   2
+
+MEASURE 46
+  LINE RH8
+  Bb  0  4
+  G   0  8
+  REST   8  3
+  Bb  0  4
+  G   0  8
+  REST   8  3
+
+MEASURE 46
+  LINE RH9
+  G   1  4
+  C   1  8
+  Bb  0  8
+  A   0  8
+  G   0  8
+  G   1  4
+  C   1  8
+  Bb  0  8
+  A   0  8
+  G   0  8
+
+MEASURE 46
+  LINE TLLH5
+  TIELINE RH9 90
+  REST   1
+  Eb  0  8
+  D   0  8
+  REST   4
+
+
+MEASURE 46
+  LINE TLLH2
+  TIELINE LH4 95
+  D  -1  4
+  G  -2  2
+  G  -1  4
+  REST   2
+
+MEASURE 46
+  LINE LH4
+  D   0  4
+  G  -1  2
+  D   0  4
+  G  -1  2
+
+MEASURE 46
+  LINE LH5
+  REST   2  3
+
+MEASURE 47
+  LINE RH9
+  F   1  8
+  C   1  8
+  Eb  1  8
+  F#  0  8
+  C   1  8
+  Eb  1  8
+  F#  1  8
+  C   2  8
+  F   2  8
+  Eb  2  8
+  D   2  8
+  C   2  8
+
+
+MEASURE 47
+  LINE TLLH2
+  TIELINE LH4 95
+  G  -1  1
+  G  -1  4
+  Eb  0  4
+
+MEASURE 47
+  LINE TLLH3
+  TIELINE LH4 93
+  C   0  1
+  REST   2
+
+MEASURE 47
+  LINE LH4
+  Eb  0  1
+  G   0  4
+  Eb  1  4
+
+
+MEASURE 47
+  LINE LH5
+  REST   4
+  A   0  4  3
+  REST   2
+
+
+
+MEASURE 48
+  MARK Build-I-Runs
+  LINE RH8
+  Bb  1  4
+  REST   4  5
+
+MEASURE 48
+  LINE TLRH9
+  TIELINE RH9 95
+  REST   4
+  REST   8
+  G   2  8
+  REST   4
+  F#  2  8
+  REST   4
+  F#  1  8
+  REST   4
+
+MEASURE 48
+  LINE RH9
+  G   2  4
+  REST   8
+  C   3  8
+  Bb  2  8
+  D   2  8
+  Bb  2  8
+  A   2  8
+  D   2  8
+  Bb  1  8
+  A   1  8
+  D   1  8
+
+MEASURE 48
+  LINE TLLH1
+  TIELINE LH4 92
+  REST   4  3
+  Eb  0  4
+  REST   2
+
+MEASURE 48
+  LINE TLLH2
+  TIELINE LH4 95
+  G   0  4
+  REST   2
+  F#  0  4
+  REST   2
+
+MEASURE 48
+  LINE TLLH3
+  TIELINE LH4 93
+  REST   4  3
+  A   0  4
+  REST   2
+
+MEASURE 48
+  LINE LH4
+  D   1  4
+  REST   2
+  Eb  1  4
+  D   1  4
+  D   0  4
+
+
+MEASURE 49
+  LINE TLRH9
+  TIELINE RH9 95
+  G   1  8
+  REST   4
+  G   2  8
+  REST   4
+  F#  2  8
+  REST   4
+  F#  1  8
+  REST   4
+
+MEASURE 49
+  LINE RH9
+  C   2  8
+  Bb  1  8
+  D   2  8
+  C   3  8
+  Bb  2  8
+  D   2  8
+  Bb  2  8
+  A   2  8
+  D   2  8
+  Bb  1  8
+  A   1  8
+  D   1  8
+
+MEASURE 49
+  LINE TLLH1
+  TIELINE LH4 92
+  REST   4  3
+  Eb  0  4
+  REST   2
+
+MEASURE 49
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   4  3
+  F#  0  4
+  REST   2
+
+MEASURE 49
+  LINE TLLH3
+  TIELINE LH4 93
+  REST   4  3
+  A   0  4
+  REST   2
+
+MEASURE 49
+  LINE LH4
+  G  -1  4
+  D   0  4
+  D   1  4
+  Eb  1  4
+  D   1  4
+  D   0  4
+
+MEASURE 49
+  LINE TLCARRY
+  TIELINE LH4 100
+  REST 4
+  D 0 2
+  REST 4 3
+
+MEASURE 50
+  LINE TLRH9
+  G   1  8
+  REST   4
+  G   2  8
+  REST   4
+  F#  2  8
+  REST   4
+  F#  1  8
+  REST   4
+
+MEASURE 50
+  LINE RH9
+  C   2  8
+  Bb  1  8
+  D   2  8
+  C   3  8
+  Bb  2  8
+  D   2  8
+  Bb  2  8
+  A   2  8
+  D   2  8
+  Bb  1  8
+  A   1  8
+  D   1  8
+
+MEASURE 50
+  LINE TLLH1
+  TIELINE LH4 92
+  REST   4  3
+  Eb -1  4
+  REST   2
+
+MEASURE 50
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   4  3
+  F# -1  4
+  REST   2
+
+MEASURE 50
+  LINE TLLH3
+  TIELINE LH4 93
+  REST   4  3
+  A  -1  4
+  REST   2
+
+MEASURE 50
+  LINE LH4
+  G  -1  4
+  REST   4
+  D  -1  4
+  Eb  0  4
+  D   0  4
+  D  -1  4
+
+MEASURE 51
+  LINE TLRH9
+  G   0  8
+  REST   4
+  G   1  8
+  REST   4
+  F#  1  8
+  REST   4
+  F#  0  8
+  REST   4
+
+MEASURE 51
+  LINE RH9
+  C   1  8
+  Bb  0  8
+  D   1  8
+  C   2  8
+  Bb  1  8
+  D   1  8
+  Bb  1  8
+  A   1  8
+  D   1  8
+  Bb  0  8
+  A   0  8
+  D   0  8
+
+MEASURE 51
+  LINE TLLH1
+  TIELINE LH4 92
+  REST   4  3
+  Eb -1  4
+  REST   2
+
+MEASURE 51
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   4  3
+  F# -1  4
+  REST   2
+
+MEASURE 51
+  LINE TLLH3
+  TIELINE LH4 93
+  REST   4  3
+  A  -1  4
+  REST   2
+
+MEASURE 51
+  LINE LH4
+  G  -2  4
+  D  -1  4
+  D   0  4
+  Eb  0  4
+  D   0  4
+  D  -1  4
+
+MEASURE 51
+  LINE TLCARRY
+  TIELINE LH4 100
+  REST 4
+  D -1 2
+  REST 4 3
+
+  
+
+MEASURE 52
+  LINE TLRH9
+  G   0  8
+  REST   4
+  G   1  8
+  REST   4
+  D   1  8
+  REST   4
+  Bb  0  8
+  REST   4
+
+MEASURE 52
+  LINE RH9
+  C   1  8
+  Bb  0  8
+  D   1  8
+  C   2  8
+  Bb  1  8
+  D   1  8
+  A   1  8
+  G   1  8
+  Bb  0  8
+  Eb  1  8
+  D   1  8
+  G   0  8
+
+MEASURE 52
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   4
+  D  -1  4
+  REST   4
+  C# -2  4
+  D  -2  4
+  REST   4
+
+MEASURE 52
+  LINE LH4
+  G  -2  4
+  Bb -1  4
+  REST   4
+  C# -1  4
+  D  -1  4
+  REST   4
+
+MEASURE 53
+  LINE TLRH9
+  G   0  8
+  REST   4
+  D   0  8
+  REST   4
+  Bb -1  8
+  REST   4
+  G  -1  8
+  REST   4
+
+MEASURE 53
+  LINE RH9
+  C   1  8
+  Bb  0  8
+  D   0  8
+  A   0  8
+  G   0  8
+  Bb -1  8
+  Eb  0  8
+  D   0  8
+  G  -1  8
+  C   0  8
+  Bb -1  8
+  D  -1  8
+
+MEASURE 53
+  LINE TLLH2
+  TIELINE LH4 95
+  G  -3  4
+  REST   4  5
+
+MEASURE 53
+  LINE LH4
+  G  -2  4
+  D  -1  4
+  REST   4
+  C# -2  4
+  D  -2  4
+  REST   4
+
+MEASURE 54
+  LINE TLRH9
+  G  -1  8
+  REST   4
+  G  -1  8
+  REST   4
+  G  -1  8
+  REST   4
+  G  -1  8
+  REST   4
+
+MEASURE 54
+  LINE RH9
+  C   0  8
+  Bb -1  8
+  D  -1  8
+  D   0  8
+  C   0  8
+  Eb -1  8
+  C   0  8
+  Bb -1  8
+  D  -1  8
+  D   0  8
+  C   0  8
+  Eb -1  8
+
+MEASURE 54
+  LINE LH3
+  G  -3  4
+  REST   2
+  G  -3  4
+  REST   2
+
+MEASURE 54
+  LINE LH4
+  G  -2  4
+  REST   4
+  C  -2  4
+  G  -2  4
+  REST   4
+  C  -2  4
+
+MEASURE 55
+  LINE TLRH9
+  G  -1  8
+  REST   4
+  G  -1  8
+  REST   4
+  G  -1  8
+  REST   4
+  G  -1  8
+  REST   4
+
+MEASURE 55
+  LINE RH9
+  C   0  8
+  Bb -1  8
+  D  -1  8
+  D   0  8
+  C   0  8
+  Eb -1  8
+  C   0  8
+  Bb -1  8
+  D  -1  8
+  D   0  8
+  C   0  8
+  Eb -1  8
+
+MEASURE 55
+  LINE LH3
+  G  -3  4
+  REST   2
+  G  -3  4
+  REST   2
+
+MEASURE 55
+  LINE LH4
+  G  -2  4
+  REST   4
+  C  -2  4
+  G  -2  4
+  REST   4
+  C  -2  4
+
+
+MEASURE 56
+  LINE RH9
+  G  -1  8
+  D   0  8
+  Bb -1  8
+  D   0  8
+  G   0  8
+  Bb  0  8
+  D   1  8
+  G   1  8
+  Bb  1  8
+  D   2  8
+  G   2  8
+  D   3  8
+
+MEASURE 56
+  LINE LH4
+  G  -3  4  3
+  REST   4
+  D   0  4
+  G  -1  4
+
+MEASURE 56
+  LINE LH5
+  G  -2  4  3
+  REST   4
+  G   0  4
+  D   0  4
+
+MEASURE 57
+  LINE RH9
+  Bb  2  8
+  D   3  8
+  G   2  8
+  D   2  8
+  Bb  1  8
+  G   1  8
+  D   1  8
+  Bb  0  8
+  G   0  8
+  D   0  8
+  Bb -1  8
+  D  -1  8
+
+MEASURE 57
+  LINE LH4
+  D   0  2
+  REST   1
+
+MEASURE 57
+  LINE LH5
+  G   0  2
+  REST   4  3
+  D  -2  4
+
+MEASURE 58
+  LINE RH9
+  G  -1  8
+  D   0  8
+  Bb -1  8
+  D   0  8
+  G   0  8
+  D   1  8
+  Bb  0  8
+  D   1  8
+  G   0  8
+  D   0  8
+  Bb -1  8
+  D  -1  8
+
+MEASURE 58
+  LINE LH4
+  G  -3  4  5
+  REST   4
+
+MEASURE 58
+  LINE LH5
+  G  -2  4  5
+  D  -2  4
+
+MEASURE 59
+  LINE RH9
+  F# -1  8
+  D   0  8
+  Bb -1  8
+  D   0  8
+  F#  0  8
+  D   1  8
+  Bb  0  8
+  D   1  8
+  F#  0  8
+  D   0  8
+  Bb -1  8
+  D  -1  8
+
+MEASURE 59
+  LINE LH4
+  F# -3  4  5
+  REST   4
+
+MEASURE 59
+  LINE LH5
+  F# -2  4  5
+  D  -2  4
+
+MEASURE 60
+  LINE RH9
+  G  -1  8
+  D   0  8
+  Bb -1  8
+  D   0  8
+  G   0  8
+  Bb  0  8
+  D   1  8
+  G   1  8
+  Bb  1  8
+  D   2  8
+  G   2  8
+  D   3  8
+
+MEASURE 60
+  LINE LH4
+  G  -3  4  3
+  REST   4
+  D  -1  4
+  G  -2  4
+
+MEASURE 60
+  LINE LH5
+  G  -2  4  3
+  REST   4
+  G  -1  4
+  D  -1  4
+
+MEASURE 61
+  LINE RH9
+  Bb  2  8
+  D   3  8
+  G   2  8
+  D   2  8
+  Bb  1  8
+  G   1  8
+  D   1  8
+  Bb  0  8
+  G   0  8
+  D   0  8
+  Bb -1  8
+  D  -1  8
+
+MEASURE 61
+  LINE LH4
+  D  -1  2
+  REST   1
+
+MEASURE 61
+  LINE LH5
+  G  -1  2
+  REST   4  3
+  D  -2  4
+
+MEASURE 62
+  LINE RH9
+  F# -1  8
+  D   0  8
+  Bb -1  8
+  D   0  8
+  F#  0  8
+  D   1  8
+  Bb  0  8
+  D   1  8
+  F#  0  8
+  D   0  8
+  Bb -1  8
+  D  -1  8
+
+MEASURE 62
+  LINE LH4
+  F# -3  4  5
+  REST   4
+
+MEASURE 62
+  LINE LH5
+  F# -2  4  5
+  D  -2  4
+
+MEASURE 63
+  LINE RH9
+  F  -1  8
+  D   0  8
+  Bb -1  8
+  D   0  8
+  F   0  8
+  D   1  8
+  Bb  0  8
+  D   1  8
+  F   0  8
+  D   0  8
+  Bb -1  8
+  D  -1  8
+
+MEASURE 63
+  LINE LH4
+  F  -3  2  3
+
+MEASURE 63
+  LINE LH5
+  F  -2  4  5
+  G  -2  4
+
+MEASURE 64
+  LINE RH9
+  F  -1  8
+  C   0  8
+  A  -1  8
+  C   0  8
+  F   0  8
+  A   0  8
+  C   1  8
+  F   1  8
+  A   1  8
+  C   2  8
+  F   2  8
+  A   2  8
+
+MEASURE 64
+  LINE LH4
+  CARRY  2
+  REST   2
+  C   0  4
+  F  -1  4
+
+MEASURE 64
+  LINE LH5
+  A  -2  2
+  REST   2
+  F   0  4
+  C   0  4
+
+MEASURE 65
+  LINE RH9
+  F   3  4
+  REST   4  5
+
+
+
+MEASURE 65
+  LINE LH4
+  C   0  4  5
+  F  -1  4
+
+MEASURE 65
+  LINE LH5
+  F   0  4  5
+  C   0  4
+
+MEASURE 66
+  LINE LH4
+  C   0  4  5
+  F  -1  4
+
+MEASURE 66
+  LINE LH5
+  F   0  4  5
+  C   0  4
+
+MEASURE 67
+  LINE LH4
+  C   0  2
+  F  -1  4
+  C   0  4
+  F  -1  4
+  REST   4
+
+MEASURE 67
+  LINE LH5
+  F   0  2
+  C   0  4
+  F   0  4
+  C   0  4
+  REST   4
+
+MEASURE 67
+  LINE RH8
+  REST   4  5
+  C   0  4
+
+MEASURE 67
+  LINE RH9
+  REST   4  5
+  F   0  4
+
+MEASURE 68
+  MARK Mushy-Theme-I
+  LINE LH5
+  Bb -3  4
+  Bb -2  4
+  Bb -1  4
+  F  -1  4
+  C   0  4
+  Bb -1  4
+
+MEASURE 68
+  LINE RH8
+  CARRY  4  3
+  D   0  4  3
+
+MEASURE 68
+  LINE RH9
+  CARRY  4  3
+  G   0  2
+  G   0  4
+
+MEASURE 69
+  LINE LH5
+  Eb -2  4
+  Bb -2  4
+  Eb -1  4
+  G  -1  4
+  Bb -1  4
+  Eb  0  4
+
+MEASURE 69
+  LINE RH9
+  Eb  0  1   
+  Eb  1  8  3
+  D   1  8
+
+
+MEASURE 70
+  LINE LH5
+  C   0  4
+  Eb  0  4
+  F  -1  4
+  Eb  0  4
+  G   0  4
+  F   0  4
+
+MEASURE 70
+  LINE RH8
+  G   0  4  3
+  A   0  4  3
+
+MEASURE 70
+  LINE RH9
+  C   1  4  3
+  D   1  2
+  D   1  4
+
+MEASURE 71
+  LINE LH5
+  Bb -2  4
+  F  -1  4
+  Bb -1  4
+  D   0  4
+  F   0  4
+  Bb  0  4
+
+MEASURE 71
+  LINE RH9
+  Bb  0  4  3
+  Bb  1  2
+  Bb  1  4
+
+MEASURE 72
+  LINE LH5
+  C   0  4
+  Eb  0  4
+  F  -1  4
+  Bb -1  4
+  D   0  4
+  Ab  0  4
+
+MEASURE 72
+  LINE RH9
+  Bb  1  2
+  Ab  1  4
+  Ab  1  4
+  G   1  4
+  F#  1  4
+
+MEASURE 73
+  LINE LH5
+  Bb -1  4
+  D   0  4
+  Eb -1  4
+  Ab -1  4
+  C   0  4
+  G   0  4
+
+MEASURE 73
+  LINE RH9
+  F#  1  2
+  G   1  2
+  Ab  1  8  3
+  Eb  1  8
+
+MEASURE 74
+  LINE LH5
+  Ab -1  4
+  C   0  4
+  D  -1  4
+  G  -1  4
+  B  -1  4
+  F   0  4
+
+MEASURE 74
+  LINE RH9
+  G   1  2
+  F   1  2
+  G   1  8  3
+  D   1  8
+
+MEASURE 75
+  LINE LH5
+  G  -1  4
+  C   0  4
+  C  -1  4
+  F  -1  4
+  A  -1  4
+  Eb  0  4
+
+MEASURE 75
+  LINE RH9
+  F   1  4
+  Eb  1  4
+  D   1  4
+  C   1 12
+  D   1 12   
+  C   1 12   
+  B   0  8
+  C   1  8
+  D   1  8
+  Eb  1  8
+
+MEASURE 76
+  LINE LH5
+  F  -1  4
+  Ab -1  4
+  Bb -2  4
+  Ab -1  4
+  C   0  4
+  Bb -1  4
+
+MEASURE 76
+  LINE RH8
+  C   0  4  3
+  D   0  4  3
+
+MEASURE 76
+  LINE RH9
+  F   0  4  3
+  RIPPLE
+  G   0  2
+  G   0  4
+
+MEASURE 77
+  LINE LH5
+  Eb -2  4
+  Bb -2  4
+  Eb -1  4
+  G  -1  4
+  Bb -1  4
+  Eb  0  4
+
+MEASURE 77
+  LINE RH9
+  Eb  0  1
+  Eb  1  8  3
+  D   1  8
+
+MEASURE 78
+  LINE LH5
+  C   0  4
+  Eb  0  4
+  F  -1  4
+  Eb  0  4
+  G   0  4
+  F   0  4
+
+MEASURE 78
+  LINE RH8
+  G   0  4  3
+  A   0  2
+  REST   4
+
+MEASURE 78
+  LINE RH9
+  C   1  4  3
+  D   1  2
+  D   1  4
+
+MEASURE 79
+  LINE LH5
+  Bb -2  4
+  F  -1  4
+  Bb -1  4
+  D   0  4
+  F   0  4
+  Bb  0  4
+
+MEASURE 79
+  LINE RH9
+  Bb  0  4  3
+  Bb  1  2
+  Bb  1  4
+
+MEASURE 80
+  LINE LH5
+  C  -2  4
+  E   0  4
+  Bb -1  4
+  G  -1  4
+  E   0  4
+  Bb -1  4
+
+MEASURE 80
+  LINE RH9
+  Bb  1  4  3
+  C   1  2
+  D   1  4
+
+MEASURE 81
+  LINE LH5
+  F  -1  4
+  Eb  0  4
+  A  -1  4
+  Bb -2  4
+  D   0  4
+  Ab -1  4
+
+MEASURE 81
+  LINE RH9
+  Eb  1 4 1 3
+  F   1 4 1 3
+  Eb  1 4 1 3
+  D   1  4
+  Eb  1  4
+  G   1  4
+  G   1  4
+  CARRY 4 1 3
+  F   1 4 1 3
+  Eb  1 4 1 3
+
+MEASURE 82
+  LINE LH5
+  Eb -2  8
+  Bb -2  8
+  G  -1  8
+  Eb -1  8
+  Bb -1  8
+  G  -1  8
+  Eb  0  4
+  REST   2
+
+MEASURE 82
+  LINE RH9
+  Eb  1  4 3
+  REST   4
+  G   0  8
+  Ab  0  8
+  Bb  0 4 1 3
+  D   1 4 1 3
+  C   1 4 1 3
+
+
+MEASURE 83
+  LINE LH2
+  Eb -2  8
+  Bb -2  8
+  G  -1  8
+  Eb -1  8
+  Bb -1  8
+  G  -1  8
+  Eb  0  4
+  REST   2
+
+
+MEASURE 83
+  LINE RH9
+  Bb  0  1
+  G   0  8
+  Ab  0  8
+  Bb  0 12
+  D   1 12
+  C   1 12
+
+MEASURE 84
+  LINE LH2
+  Eb -2  8
+  Bb -2  8
+  Ab -1  8
+  F  -1  8
+  Bb -1  8
+  Ab -1  8
+  D   0  4
+  REST   2
+
+MEASURE 84
+  LINE RH9
+  Bb  0  1
+  F   0  8
+  Ab  0  8
+  Bb  0 12
+  D   1 12
+  C   1 12
+
+MEASURE 85
+  LINE LH2
+  Eb -2  8
+  Bb -2  8
+  G  -1  4
+  REST   4
+  Eb -2  8
+  B  -2  8
+  Ab -1  4
+  REST   4
+
+MEASURE 85
+  LINE RH9
+  Bb  0  3
+  Db  0 12
+  Eb  0 12
+  G   0 12
+  C   1 12
+  Bb  0 12
+  Ab  0  8 3
+  B  -1  8
+  Eb  0  8
+  F   0  8
+
+
+MEASURE 86
+  LINE LH2
+  Eb -2  8
+  Bb -2  8
+  G  -1  8
+  Eb -1  8
+  Bb -1  8
+  G  -1  8
+  Eb  0  4
+  REST   2
+
+MEASURE 86
+  LINE RH9
+  G   0  2
+  REST   2
+  G   0  8
+  Ab  0  8
+  Bb  0 12
+  D   1 12
+  C   1 12
+
+MEASURE 87
+  LINE LH2
+  Eb -2  8
+  Bb -2  8
+  G  -1  8
+  Eb -1  8
+  Bb -1  8
+  G  -1  8
+  Eb  0  4
+  REST   2
+
+MEASURE 87
+  LINE RH9
+  Bb  0  4
+  Bb  1  4 3
+  REST  12
+  G   0 12
+  Ab  0 12
+  Bb  0 12
+  D   1 12
+  C   1 12
+
+MEASURE 88
+  LINE LH2
+  Eb -2  8
+  Bb -2  8
+  Ab -1  8
+  F  -1  8
+  Bb -1  8
+  Ab -1  8
+  D   0  4
+  REST   2
+
+MEASURE 88
+  LINE RH9
+  Bb  0  4
+  Bb  1  4  3
+  REST  12
+  F   0 12
+  Ab  0 12
+  Bb  0 12
+  D   1 12
+  C   1 12
+
+MEASURE 89
+  LINE LH2
+  Eb -2  8
+  Bb -2  8
+  G  -1  4
+  REST   4
+  Eb -2  8
+  B  -2  8
+  Ab -1  4
+  REST   4
+
+MEASURE 89
+  LINE RH9
+  Bb  0  3
+  Db  0 12
+  Eb  0 12
+  G   0 12
+  C   1 12
+  Bb  0 12
+  Ab  0  8 3
+  B  -1  8
+  Eb  0  8
+  F   0  8
+
+
+MEASURE 90
+  LINE LH2
+  Eb -2  8
+  Bb -2  8
+  G  -1  8
+  Eb -1  8
+  Bb -1  8
+  G  -1  8
+  Eb  0  4
+  REST   2
+
+MEASURE 90
+  LINE RH9
+  G   0  8  7
+  G   0  8
+  Bb  0  8
+  G   1  8
+  F   1  8
+  Eb  1  8
+
+MEASURE 91
+  LINE LH2
+  G  -2  8
+  D  -1  8
+  Bb -1  8
+  G  -1  8
+  D   0  8
+  Bb -1  8
+  G   0  4
+  REST   2
+
+
+MEASURE 91
+  LINE RH9
+  D   1  8  7
+  Bb  0  8
+  D   1  8
+  Bb  1  8
+  D   1  8
+  Eb  1  8
+
+MEASURE 92
+  LINE LH2
+  Bb -2  8
+  F  -1  8
+  D   0  8
+  Bb -1  8
+  F   0  8
+  D   0  8
+  Bb  0  4
+  REST   2
+
+MEASURE 92
+  LINE RH9
+  E   1  4
+  F   1  8  5
+  D   1  8
+  F   1  8
+  D   2  8
+  C   2  8
+  Bb  1  8
+
+MEASURE 93
+  LINE LH2
+  D  -1  8
+  A  -1  8
+  F   0  8
+  D   0  8
+  A   0  8
+  F   0  8
+  REST   4  3
+
+MEASURE 93
+  LINE RH9
+  Ab  1  8
+  A   1  8
+  F   2  8
+  E   2  8
+  D   2  8
+  A   1  8
+  D   1  8
+  A   0  8
+  F   0  8
+  D   0  8
+  E   0  8
+  G   0  32 0
+  F   0  8
+
+
+MEASURE 94
+  TOGETHER
+  MARK Main-theme-II
+
+MEASURE 94
+  LINE LH4
+  REST   4
+  E  -2  4
+  E  -2  4
+  REST   4
+  E  -2  4
+  E  -2  4
+
+MEASURE 94
+  LINE RH9
+  E  -1  4  3
+  REST   8
+  D   0  8
+  E   0  8
+  Ab  0  8
+  C   1  8
+  B   0  8
+
+MEASURE 95
+  LINE LH4
+  REST   4
+  E  -2  4
+  E  -2  4
+  REST   4
+  E  -1  4
+  E  -1  4
+
+MEASURE 95
+  LINE RH6
+  REST   4  3
+  E   0  4  3
+
+MEASURE 95
+  LINE RH9
+  A   0  4  3
+  E   1  4  3
+
+MEASURE 95
+  LINE RH7
+  REST   4
+  C   0  4
+  C   0  4
+  REST   4
+  A  -1  4
+  A  -1  4
+
+MEASURE 95
+  LINE RH8
+  REST   4
+  E   0  4
+  E   0  4
+  REST   4
+  A   0  4
+  A   0  4
+
+MEASURE 96
+  LINE LH4
+  REST   4
+  E  -1  4
+  E  -1  4
+  REST   4
+  E  -2  4
+  E  -2  4
+
+MEASURE 96
+  LINE RH6
+  D   0  4  3
+  REST   4  3
+
+MEASURE 96
+  LINE RH9
+  D   1  4  3
+  REST   8
+  D   0  8
+  E   0  8
+  Ab  0  8
+  C   1  8
+  B   0  8
+
+MEASURE 96
+  LINE TLRH6
+  TIELINE RH7 90
+  REST   4
+  A  -1  4
+  A  -1  4
+  REST   4  3
+
+MEASURE 96
+  LINE RH7
+  REST   4
+  F   0  4
+  F   0  4
+  REST   4  3
+
+MEASURE 96
+  LINE RH8
+  REST   4
+  A   0  4
+  A   0  4
+  REST   4  3
+
+MEASURE 97
+  LINE LH4
+  REST   4
+  E  -2  4
+  E  -2  4
+  REST   4
+  E  -2  4
+  E  -2  4
+
+MEASURE 97
+  LINE RH6
+  REST   4  3
+  F# -1  4  3
+
+MEASURE 97
+  LINE RH9
+  A   0  4  3
+  F#  0  4  3
+
+
+MEASURE 97
+  LINE TLRH6
+  TIELINE RH7 90
+  REST   1
+  A  -1  4
+  A  -1  4
+
+MEASURE 97
+  LINE RH7
+  REST   4
+  C   0  4
+  C   0  4
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 97
+  LINE RH8
+  REST   4
+  E   0  4
+  E   0  4
+  REST   4
+  E   0  4
+  E   0  4
+
+MEASURE 98
+  LINE LH4
+  REST   4
+  E  -2  4
+  E  -2  4
+  REST   4
+  E  -2  4
+  E  -2  4
+
+MEASURE 98
+  LINE RH6
+  Ab -1  4  3
+  REST   4  3
+
+MEASURE 98
+  LINE RH9
+  Ab  0  4  3
+  REST   8
+  D   0  8
+  E   0  8
+  Ab  0  8
+  C   1  8
+  B   0  8
+
+MEASURE 98
+  LINE RH7
+  REST   4
+  B  -1  4
+  B  -1  4
+  REST   4  3
+
+MEASURE 98
+  LINE RH8
+  REST   4
+  E   0  4
+  E   0  4
+  REST   4  3
+
+
+MEASURE 99
+  LINE LH2
+  REST   1
+  E  -1  4
+  E  -1  4
+
+MEASURE 99
+  LINE LH3
+  REST   1
+  A  -1  4
+  A  -1  4
+
+MEASURE 99
+  LINE LH4
+  REST   4
+  E  -2  4
+  E  -2  4
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 99
+  LINE RH6
+  REST   4  3
+  E   0  4  3
+
+MEASURE 99
+  LINE RH9
+  A   0  4  3
+  E   1  4  3
+
+MEASURE 99
+  LINE RH7
+  REST   4
+  C   0  4
+  C   0  4
+  REST   4
+  A   0  4
+  A   0  4
+
+MEASURE 99
+  LINE RH8
+  REST   4
+  E   0  4
+  E   0  4
+  REST   4
+  C   1  4
+  C   1  4
+
+MEASURE 100
+  LINE LH2
+  REST   4
+  E  -1  4
+  E  -1  4
+  REST   4  3
+
+MEASURE 100
+  LINE LH3
+  REST   4
+  A  -1  4
+  A  -1  4
+  REST   4  3
+
+MEASURE 100
+  LINE LH4
+  REST   4
+  C   0  4
+  C   0  4
+  REST   4
+  E  -2  4
+  E  -2  4
+
+MEASURE 100
+  LINE RH6
+  F#  0  4  3
+  REST   4  3
+
+MEASURE 100
+  LINE RH9
+  F#  1  4  3
+  REST   8
+  C   0  8
+  E   0  8
+  Ab  0  8
+  B   0  8
+  A   0  8
+
+MEASURE 100
+  LINE TLRH6
+  TIELINE RH7 90
+  REST   4
+  E   0  4
+  E   0  4
+  REST   4  3
+
+MEASURE 100
+  LINE RH7
+  REST   4
+  A   0  4
+  A   0  4
+  REST   4  3
+
+MEASURE 100
+  LINE RH8
+  REST   4
+  C   1  4
+  C   1  4
+  REST   4  3
+
+MEASURE 101
+  LINE LH2
+  REST   1
+  E  -1  4
+  E  -1  4
+
+MEASURE 101
+  LINE LH3
+  REST   1
+  A  -1  4
+  A  -1  4
+
+MEASURE 101
+  LINE LH4
+  REST   4
+  E  -2  4
+  E  -2  4
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 101
+  LINE RH6  
+  REST   4  3
+  F#  0  4  3
+
+MEASURE 101
+  LINE RH9
+  A   0  4  3
+  F#  1  4  3
+
+MEASURE 101
+  LINE TLRH6
+  TIELINE RH7 90
+  REST   1
+  E   0  4
+  E   0  4
+
+MEASURE 101
+  LINE RH7
+  REST   4
+  C   0  4
+  C   0  4
+  REST   4
+  A   0  4
+  A   0  4
+
+MEASURE 101
+  LINE RH8
+  REST   4
+  E   0  4
+  E   0  4
+  REST   4
+  C   1  4
+  C   1  4
+
+
+MEASURE 102
+  LINE LH2
+  REST   4
+  E  -1  4
+  E  -1  4
+  REST   4
+  E  -1  4
+  REST   4
+
+MEASURE 102
+  LINE LH3
+  REST   4
+  A  -1  4
+  A  -1  4
+  REST   4
+  A  -1  4
+  REST   4
+
+MEASURE 102
+  LINE LH4
+  REST   4
+  C   0  4
+  C   0  4
+  REST   4
+  C   0  4
+  REST   4
+
+MEASURE 102
+  LINE RH6  
+  Ab  0  4  3
+  F#  0  2
+  REST   8
+  Ab  0  8
+
+MEASURE 102
+  LINE RH9
+  Ab  1  4  3
+  F#  1  2
+  REST   8
+  Ab  1  8
+
+MEASURE 102
+  LINE TLRH6
+  TIELINE RH7 90
+  REST   4
+  A   0  4
+  A   0  4
+  REST   4
+  A   0  4
+  REST   4
+
+MEASURE 102
+  LINE RH7
+  REST   4
+  C   1  4
+  C   1  4
+  REST   4
+  C   1  4
+  REST   4
+
+MEASURE 102
+  LINE RH8
+  REST   4
+  Eb  1  4
+  Eb  1  4
+  REST   4
+  Eb  1  4
+  REST   4
+
+MEASURE 103
+  LINE LH2
+  REST   4
+  E  -1  4
+  E  -1  4
+  REST   4
+  E  -1  4
+  REST   4
+
+MEASURE 103
+  LINE LH3
+  REST   4
+  A  -1  4
+  A  -1  4
+  REST   4
+  A  -1  4
+  REST   4
+
+MEASURE 103
+  LINE LH4
+  REST   4
+  C   0  4
+  C   0  4
+  REST   4
+  C   0  4
+  REST   4
+
+MEASURE 103
+  LINE RH6  
+  Ab  0  4  3
+  F#  0  2
+  REST   8
+  Ab  0  8
+
+MEASURE 103
+  LINE RH9
+  Ab  1  4  3
+  F#  1  2
+  REST   8
+  Ab  1  8
+
+MEASURE 103
+  LINE TLRH6
+  TIELINE RH7 90
+  REST   4
+  A   0  4
+  A   0  4
+  REST   4
+  A   0  4
+  REST   4
+
+MEASURE 103
+  LINE RH7
+  REST   4
+  C   1  4
+  C   1  4
+  REST   4
+  C   1  4
+  REST   4
+
+MEASURE 103
+  LINE RH8
+  REST   4
+  Eb  1  4
+  Eb  1  4
+  REST   4
+  Eb  1  4
+  REST   4
+
+MEASURE 104
+  LINE LH2
+  REST   4
+  E  -1  4
+  E  -1  4
+  REST   4
+  E  -1  4
+  REST   4
+
+MEASURE 104
+  LINE LH3
+  REST   4
+  A  -1  4
+  A  -1  4
+  REST   4
+  A  -1  4
+  REST   4
+
+MEASURE 104
+  LINE LH4
+  REST   4
+  C   0  4
+  C   0  4
+  REST   4
+  C   0  4
+  REST   4
+
+MEASURE 104
+  LINE RH6
+  Ab  0  4  3
+  F#  0  2
+  REST   8
+  Ab  0  8
+
+MEASURE 104
+  LINE RH9
+  Ab  1  4  3
+  F#  1  2
+  REST   8
+  Ab  1  8
+
+MEASURE 104
+  LINE TLRH6
+  TIELINE RH7 90
+  REST   4
+  A   0  4
+  A   0  4
+  REST   4
+  A   0  4
+  REST   4
+
+MEASURE 104
+  LINE RH7
+  REST   4
+  C   1  4
+  C   1  4
+  REST   4
+  C   1  4
+  REST   4
+
+MEASURE 104
+  LINE RH8
+  REST   4
+  Eb  1  4
+  Eb  1  4
+  REST   4
+  Eb  1  4
+  REST   4
+
+
+MEASURE 105
+  LINE LH2
+  REST   4
+  E  -1  4
+  E  -1  4
+  REST   4
+  E  -1  4
+  E  -1  4
+  RIPPLE
+
+MEASURE 105
+  LINE LH3
+  REST   4
+  A  -1  4
+  A  -1  4
+  REST   4
+  A  -1  4
+  A  -1  4
+
+MEASURE 105
+  LINE LH4
+  REST   4
+  C   0  4
+  C   0  4
+  REST   4
+  C   0  4
+  C   0  4
+
+MEASURE 105
+  LINE RH6
+  A   0  4  3
+  Ab  0  2
+  A   0  4
+
+MEASURE 105
+  LINE RH9
+  A   1  4  3
+  Ab  1  2
+  A   1  4
+
+MEASURE 105
+  LINE TLRH6
+  TIELINE RH7 90
+  REST   4
+  C   1  4
+  C   1  4
+  REST   4
+  C   1  4
+  C   1  4
+
+MEASURE 105
+  LINE RH7
+  REST   4
+  Eb  1  4
+  Eb  1  4
+  REST   4
+  Eb  1  4
+  Eb  1  4
+
+MEASURE 105
+  LINE RH8
+  REST   4
+  F#  1  4
+  F#  1  4
+  REST   4
+  F#  1  4
+  F#  1  4
+
+MEASURE 106
+  MARK Mushy-theme-II
+  LINE TLRH5
+  TIELINE RH8 88
+  B   0  4  3
+  REST   4  3
+
+MEASURE 106
+  LINE TLRH6
+  TIELINE RH8 90
+  D   1  4  3
+  D   1  2
+  D   1  4
+
+MEASURE 106
+  LINE TLRH7
+  TIELINE RH8 92
+  E   1  4  3
+  E   1  2
+  E   1  4
+
+MEASURE 106
+  LINE RH8
+  Ab  1  4  3
+  Ab  1  2
+  Ab  1  4
+
+MEASURE 106
+  LINE RH9
+  B   1  4  3
+  C#  2  2
+  C#  2  4
+
+MEASURE 106
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   4
+  E  -1  4
+  Ab -1  4
+  B  -1  4
+  Ab -1  4
+  E  -1  4
+
+MEASURE 106
+  LINE LH4
+  E  -3  4
+  Ab -1  4
+  D   0  4
+  D   0  4
+  D   0  4
+  Ab -1  4
+
+MEASURE 106
+  LINE LH5
+  E  -2  4
+  D   0  4
+  E   0  4
+  Ab  0  4
+  E   0  4
+  D   0  4
+
+MEASURE 107
+  LINE TLRH7
+  TIELINE RH8 92
+  A   0  4  3
+  A   1  2
+  Ab  1  4
+
+MEASURE 107
+  LINE RH8
+  C#  1  4  3
+  C#  2  2
+  C#  2  4
+
+MEASURE 107
+  LINE RH9
+  A   1  4  3
+  A   2  2
+  Ab  2  4
+
+MEASURE 107
+  LINE LH4
+  A  -3  4
+  E  -1  4
+  A  -1  4
+  C#  0  4
+  A  -1  4
+  E  -1  4
+
+MEASURE 107
+  LINE LH5
+  A  -2  4
+  C#  0  4
+  E   0  4
+  A   0  4
+  E   0  4
+  C#  0  4
+
+MEASURE 108
+  LINE TLRH7
+  TIELINE RH8 92
+  F#  1  4  3
+  B   1  2
+  B   1  4
+
+MEASURE 108
+  LINE RH8
+  C#  2  4  3
+  Eb  2  2
+  Eb  2  4
+
+MEASURE 108
+  LINE RH9
+  F#  2  4  3
+  Ab  2  2
+  Ab  2  4
+
+MEASURE 108
+  LINE LH4
+  B  -3  4
+  F# -1  4
+  A  -1  4
+  B  -1  4
+  A  -1  4
+  F# -1  4
+
+MEASURE 108
+  LINE LH5
+  B  -2  4
+  B  -1  4
+  Eb  0  4
+  F#  0  4
+  Eb  0  4
+  B  -1  4
+
+MEASURE 109
+  LINE TLRH7
+  TIELINE RH8 92
+  E   1  4  3
+  REST   4  3
+
+MEASURE 109
+  LINE RH8
+  Ab  1  4  3
+  E   1  2
+  E   1  4
+
+MEASURE 109
+  LINE RH9
+  E   2  4  3
+  E   2  2
+  E   2  4
+
+
+MEASURE 109
+  LINE LH4
+  E  -2  4
+  E  -1  4
+  Ab -1  4
+  B  -1  4
+  Ab -1  4
+  E  -1  4
+
+MEASURE 109
+  LINE LH5
+  E  -1  4
+  B  -1  4
+  E   0  4
+  Ab  0  4
+  E   0  4
+  B  -1  4
+
+MEASURE 110
+  LINE TLRH7
+  TIELINE RH9 92
+  E   1  2
+  D   1  4
+  D   1  4 1 3
+  E   1  4 1 3
+  D   1  4 1 3
+  C#  1  8
+  D   1  8
+  F#  1  8
+  E   1  8
+
+MEASURE 110
+  LINE RH9
+  E   2  2
+  D   2  4
+  D   2  4 1 3
+  E   2  4 1 3
+  D   2  4 1 3
+  C#  2  8
+  D   2  8
+  F#  2  8
+  E   2  8
+
+
+MEASURE 110
+  LINE TLRH8
+  TIELINE RH9 92
+  A   1  2  3
+
+MEASURE 110
+  LINE LH4
+  F# -2  4
+  F# -1  4
+  A  -1  4
+  B  -3  4
+  F# -1  4
+  B  -1  4
+
+MEASURE 110
+  LINE LH5
+  F# -1  4
+  D   0  4
+  A   0  4
+  B  -2  4
+  D   0  4
+  A   0  4
+
+MEASURE 111
+  LINE TLRH7
+  TIELINE RH9 92
+  D   1  2
+  C#  1  4
+  C#  1  4 1 3
+  D   1  4 1 3
+  C#  1  4 1 3
+  C   1  8
+  C#  1  8
+  E   1  8
+  D   1  8
+
+MEASURE 111
+  LINE RH9
+  D   2  2
+  C#  2  4
+  C#  2  4 1 3
+  D   2  4 1 3
+  C#  2  4 1 3
+  C   2  8
+  C#  2  8
+  E   2  8
+  D   2  8
+
+MEASURE 111
+  LINE TLRH8
+  TIELINE RH9 92
+  Ab  1  2  3
+
+MEASURE 111
+  LINE LH4
+  E  -2  4
+  E  -1  4
+  Ab -1  4
+  A  -3  4
+  E  -1  4
+  A  -1  4
+
+MEASURE 111
+  LINE LH5
+  E  -1  4
+  C#  0  4
+  Ab  0  4
+  A  -2  4
+  C#  0  4
+  Ab  0  4
+
+MEASURE 112
+  LINE TLRH7
+  TIELINE RH9 92
+  C#  1  4
+  B   0  8  3
+  Bb  0  8
+  B   0  4 3 4
+  C   1  4 3 4
+  C#  1  4 3 4
+  Ab  0  4 3 4
+
+MEASURE 112
+  APART
+  LINE RH9
+  C#  2  4
+  B   1  8  3
+  Bb  1  8
+  B   1  4 3 4
+  C   2  4 3 4
+  C#  2  4 3 4
+  Ab  1  4 3 4
+
+
+MEASURE 112
+  LINE TLRH8
+  TIELINE RH9 92
+  F#  1  4  3
+  F   1  4  3
+
+MEASURE 112
+  LINE LH4
+  D  -2  4
+  D  -1  4
+  F# -1  4
+  C# -2  4
+  Ab -1  4
+  B  -1  4
+
+MEASURE 112
+  LINE LH5
+  D  -1  4
+  B  -1  4
+  F#  0  4
+  C# -1  4
+  C#  0  4
+  F   0  4
+
+MEASURE 113
+  LINE RH9
+  B   1  4
+  A   1  8  3
+  Ab  1  8
+  F#  1  64 0
+  G#  1  64 0
+  F#  1  4
+  F   1  8
+  F#  1  8
+  Ab  1  8
+  A   1  8
+
+MEASURE 113
+  LINE TLRH5a
+  TIELINE RH9 88
+  REST   4  3
+  A   0  4
+  REST   2
+
+MEASURE 113
+  LINE TLRH6a
+  TIELINE RH9 90
+  REST   4  3
+  B   0  4
+  REST   2
+
+MEASURE 113
+  LINE TLRH7a
+  TIELINE RH9 92
+  B   0  4
+  A   0  2
+  Eb  1  4
+  REST   2
+
+MEASURE 113
+  LINE TLRH6
+  TIELINE RH9 88
+  REST   1
+  A   0  8
+  A   0  8
+  A   0  8
+  A   0  8
+
+MEASURE 113
+  LINE TLRH7
+  TIELINE RH9 90
+  REST   1
+  B   0  8
+  B   0  8
+  B   0  8
+  B   0  8
+
+MEASURE 113
+  LINE TLRH8b
+  TIELINE RH9 92
+  REST   1
+  Eb  1  8
+  Eb  1  8
+  Eb  1  8
+  Eb  1  8
+
+MEASURE 113
+  LINE TLRH8a
+  TIELINE RH9 90
+  C#  1  4  3
+  REST   4  3
+
+MEASURE 113
+  LINE TLRH8
+  TIELINE RH9 92
+  F#  1  4  3
+  REST   4  3
+
+MEASURE 113
+  LINE LH4
+  F# -3  4
+  F# -1  4
+  A  -1  4
+  B  -3  4
+  F# -1  4
+  A  -1  4
+
+MEASURE 113
+  LINE LH5
+  F# -2  4
+  C#  0  4
+  F#  0  4
+  B  -2  4
+  B  -1  4
+  D#  0  4
+
+MEASURE 113
+  LINE TLLH2a
+  TIELINE LH4 100
+  REST   4
+  F# -1  2
+  REST   4
+  F# -1  2
+
+MEASURE 114
+  TOGETHER
+  LINE TLRH5
+  TIELINE RH8 88
+  REST   4  5
+  D   0  4
+
+MEASURE 114
+  LINE TLRH6
+  TIELINE RH8 90
+  D   0  4  3
+  E   0  2
+  E   0  4
+
+MEASURE 114
+  LINE TLRH7
+  TIELINE RH8 92
+  E   0  4  3
+  Ab  0  2
+  Ab  0  4
+
+MEASURE 114
+  LINE RH8
+  Ab  0  4  3
+  C#  1  2
+  C#  1  4
+
+MEASURE 114
+  LINE RH9
+  B   0  4  3
+  E   1  2
+  E   1  4
+
+MEASURE 114
+  LINE LH4
+  E  -3  4
+  B  -2  4
+  E  -1  4
+  Ab -1  4
+  E  -1  4
+  B  -2  4
+
+MEASURE 114
+  LINE LH5
+  E  -2  4
+  Ab -1  4
+  B  -1  4
+  D   0  4
+  B  -1  4
+  Ab -1  4
+
+MEASURE 115
+  LINE TLRH7
+  TIELINE RH8 92
+  A  -1  4
+  REST   4
+  A   0  4
+  A   1  2
+  Ab  1  4
+
+MEASURE 115
+  LINE RH8
+  C#  0  4
+  REST   4
+  C#  1  4
+  C#  2  2
+  C#  2  4
+
+MEASURE 115
+  LINE RH9
+  A   0  4
+  REST   4
+  A   1  4
+  A   2  2
+  Ab  2  4
+
+MEASURE 115
+  LINE LH4
+  A  -3  4
+  E  -1  4
+  A  -1  4
+  C#  0  4
+  A  -1  4
+  E  -1  4
+
+MEASURE 115
+  LINE LH5
+  A  -2  4
+  C#  0  4
+  E   0  4
+  A   0  4
+  E   0  4
+  C#  0  4
+
+
+MEASURE 116
+  LINE TLRH7
+  TIELINE RH8 92
+  F#  1  4  3
+  B   1  2
+  B   1  4
+
+MEASURE 116
+  LINE RH8
+  C#  2  4  3
+  Eb  2  2
+  Eb  2  4
+
+MEASURE 116
+  LINE RH9
+  F#  2  4  3
+  Ab  2  2
+  Ab  2  4
+
+MEASURE 116
+  LINE LH4
+  B  -3  4
+  F# -1  4
+  A  -1  4
+  B  -1  4
+  A  -1  4
+  F# -1  4
+
+MEASURE 116
+  LINE LH5
+  B  -2  4
+  B  -1  4
+  Eb  0  4
+  F#  0  4
+  Eb  0  4
+  B  -1  4
+
+MEASURE 117
+  LINE TLRH7
+  TIELINE RH8 92
+  E   1  2
+  REST   1
+
+MEASURE 117
+  LINE RH8
+  Ab  1  2
+  REST   4
+  E   2 16 11
+  E   2 16
+
+MEASURE 117
+  LINE RH9
+  E   2  2
+  REST   4
+  E   3 16 11
+  E   3 16
+
+
+MEASURE 117
+  LINE LH4
+  E  -2  4
+  E  -1  4
+  Ab -1  4
+  B  -1  4
+  Ab -1  4
+  E  -1  4
+
+MEASURE 117
+  LINE LH5
+  E  -1  4
+  B  -1  4
+  E   0  4
+  Ab  0  4
+  E   0  4
+  B  -1  4
+
+
+MEASURE 118
+  LINE RH8
+  E   2  4
+  REST   2
+  F#  0  4  3
+
+MEASURE 118
+  LINE RH9
+  E   3  4
+  REST   2
+  F#  1  4  3
+
+MEASURE 118
+  LINE LH4
+  E  -2  4
+  E  -1  4
+  F# -1  4
+  Bb -1  4
+  F# -1  4
+  E  -1  4
+
+MEASURE 118
+  LINE LH5
+  E  -1  4
+  Bb -1  4
+  C#  0  4
+  E   0  4
+  C#  0  4
+  Bb -1  4
+
+MEASURE 119
+  LINE RH8
+  CARRY  4
+  REST   4 5
+
+MEASURE 119
+  LINE TLRH8 
+  TIELINE RH9 92
+  REST   4
+  F#  0  4
+  F   0  8
+  F#  0  8
+  Ab  0  8
+  Bb  0  8
+  B   0  8
+  C#  1  8
+  D   1  8
+  E   1  8
+
+MEASURE 119
+  LINE RH9
+  CARRY  4
+  F#  1  64 0
+  G#  1  64 0
+  F#  1  4
+  F   1  8
+  F#  1  8
+  Ab  1  8
+  Bb  1  8
+  B   1  8
+  C#  2  8
+  D   2  8
+  E   2  8
+
+MEASURE 119
+  LINE LH4
+  E  -3  4
+  E  -1  4
+  F# -1  4
+  Bb -1  4
+  F# -1  4
+  E  -1  4
+
+MEASURE 119
+  LINE LH5
+  E  -2  4
+  Bb -1  4
+  C#  0  4
+  E   0  4
+  C#  0  4
+  Bb -1  4
+
+
+MEASURE 120
+  LINE TLRH8
+  F#  1  4
+  REST   2
+  Ab  0  2
+  Ab  0  4
+
+MEASURE 120
+  LINE RH9
+  F#  2  4
+  REST   2
+  Ab  1  2
+  Ab  1  4
+
+MEASURE 120
+  LINE LH4
+  E  -2  4
+  E  -1  4
+  Ab -1  4
+  C   0  4
+  Ab -1  4
+  E  -1  4
+
+MEASURE 120
+  LINE LH5
+  E  -1  4
+  C   0  4
+  Eb  0  4
+  F#  0  4
+  Eb  0  4
+  C   0  4
+
+MEASURE 121
+  LINE TLRH8
+  REST   2
+  G   0  8
+  Ab  0  8
+  Bb  0  8
+  C   1  8
+  C#  1  8
+  Eb  1  8
+  E   1  8
+  F#  1  8
+
+MEASURE 121
+  LINE RH9
+  Ab  0  8
+  Ab  1  8
+  A   1  8
+  Ab  1  8
+  G   1  8
+  Ab  1  8
+  Bb  1  8
+  C   2  8
+  C#  2  8
+  Eb  2  8
+  E   2  8
+  F#  2  8
+
+MEASURE 121
+  LINE LH4
+  E  -3  4
+  E  -1  4
+  Ab -1  4
+  C   0  4
+  Ab -1  4
+  E  -1  4
+
+MEASURE 121
+  LINE LH5
+  E  -2  4
+  C   0  4
+  Eb  0  4
+  F#  0  4
+  Eb  0  4
+  C   0  4
+
+MEASURE 122
+  LINE TLRH8
+  Ab  1  4
+  REST   2
+  Ab  0  2
+  Ab  0  4
+
+MEASURE 122
+  LINE RH9
+  Ab  2  4
+  REST   2
+  Ab  1  2
+  Ab  1  4
+
+
+MEASURE 122
+  LINE LH4
+  E  -2  4
+  E  -1  4
+  Ab -1  4
+  Eb -2  4
+  Eb -1  4
+  G# -1  4
+
+MEASURE 122
+  LINE LH5
+  E  -1  4
+  C#  0  4
+  E   0  4
+  Eb -1  4
+  B  -1  4
+  Eb  0  4
+
+MEASURE 123
+  LINE TLRH8
+  Ab  0  4
+  G   0  8
+  Ab  0  8
+  Bb  0  8
+  B   0  8
+  C#  1  8
+  Eb  1  8
+  F   1  8
+  G   1  8
+  Ab  1  8
+  Bb  1  8
+
+MEASURE 123
+  LINE RH9
+  Ab  1  64 0
+  A   1  64 0
+  Ab  1  4
+  G   1  8
+  Ab  1  8
+  Bb  1  8
+  B   1  8
+  C#  2  8
+  Eb  2  8
+  F   2  8
+  G   2  8
+  Ab  2  8
+  Bb  2  8
+
+
+MEASURE 123
+  LINE LH4
+  C# -2  4
+  C# -1  4
+  E  -1  4
+  Ab -3  4
+  B  -2  4
+  Eb -1  4
+
+MEASURE 123
+  LINE LH5
+  C# -1  4
+  Ab -1  4
+  C#  0  4
+  Ab -2  4
+  Ab -1  4
+  B  -1  4
+
+
+MEASURE 124
+  MARK Fast-section-II
+  APART
+  LINE TLRH7
+  TIELINE RH8 92
+  B   1  4
+  Ab  2  8
+  REST   8  3
+  Ab  1  8
+  REST   8  3
+  Ab  0  8
+  REST   8
+
+MEASURE 124
+  LINE RH8
+  B   2  4
+  B   2  8
+  F   2  8
+  Eb  2  8
+  B   1  8
+  B   1  8
+  F   1  8
+  Eb  1  8
+  B   0  8
+  B   0  8
+  F   0  8
+
+MEASURE 124
+  LINE LH2
+  REST   4  3
+  F  -1  2
+  RIPPLE
+  REST   4
+
+MEASURE 124
+  LINE LH3
+  REST   4  3
+  B  -1  2
+  REST   4
+
+MEASURE 124
+  LINE LH4
+  F  -3  4
+  REST   2
+  Eb  0  2
+  REST   4
+
+MEASURE 124
+  LINE LH5
+  F  -2  4
+  REST   2
+  Ab  0  2
+  REST   4
+
+MEASURE 125
+  LINE TLRH7
+  TIELINE RH8 92
+  REST   4
+  Ab -1  8
+  REST   8  3
+  Ab -1  8
+  REST   8  3
+  Ab -1  8
+  REST   8
+
+MEASURE 125
+  LINE RH8
+  Eb  0  8
+  B  -1  8
+  B  -1  8
+  F  -1  8
+  Eb -1  8
+  B  -2  8
+  B  -1  8
+  F  -1  8
+  Eb -1  8
+  B  -2  8
+  B  -1  8
+  F  -1  8
+
+MEASURE 126
+  LINE RH8
+  Bb -1  8
+  Ab -1  8
+  B  -1  8
+  F  -1  8
+  Bb -1  8
+  Ab -1  8
+  B  -1  8
+  F  -1  8
+  Bb -1  8
+  Ab -1  8
+  B  -1  8
+  F  -1  8
+
+MEASURE 126
+  LINE TLRH7
+  TIELINE RH8 92
+  Bb -3  4
+  D  -1  4
+  REST   4
+  Bb -3  4
+  D  -1  4
+  REST   4
+
+MEASURE 127
+  LINE RH8
+  Bb -1  8
+  Ab -1  8
+  B  -1  8
+  F  -1  8
+  Bb -1  8
+  Ab -1  8
+  B  -1  8
+  F  -1  8
+  Bb -1  8
+  Ab -1  8
+  B  -1  8
+  F  -1  8
+
+MEASURE 127
+  LINE TLRH7
+  TIELINE RH8 92
+  Bb -3  4
+  D  -1  4
+  REST   4
+  Bb -3  4
+  D  -1  4
+  REST   4
+
+MEASURE 128
+  LINE RH8
+  Bb -1  8
+  Ab -1  8
+  B  -1  8
+  F  -1  8
+  Bb -1  8
+  Ab -1  8
+  B  -1  8
+  F  -1  8
+  Bb -1  8
+  Ab -1  8
+  B  -1  8
+  F  -1  8
+
+MEASURE 128
+  LINE TLLH5
+  TIELINE RH8 100
+  D  -1  4
+  F   0  4
+  REST   4
+  D  -1  4
+  F   0  4
+  REST   4
+
+MEASURE 129
+  LINE RH8
+  Bb -1  8
+  Ab -1  8
+  B  -1  8
+  F  -1  8
+  Bb -1  8
+  Ab -1  8
+  B  -1  8
+  F  -1  8
+  Bb -1  8
+  Ab -1  8
+  B  -1  8
+  F  -1  8
+
+MEASURE 129
+  LINE TLLH5
+  TIELINE RH8 100
+  D  -1  4
+  F   0  4
+  REST   4
+  D  -1  4
+  F   0  2
+
+MEASURE 130
+  LINE RH8
+  Bb -1  4
+  TEMPO RESET
+  Bb -1  8
+  D   0  8
+  C   0  8
+  D   0  8
+  C#  0  8
+  F   0  8
+  D   0  8
+  Ab  0  8
+  E   0  8
+  Ab  0  8
+
+MEASURE 130
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   4  3
+  Bb -2  4
+  REST   2
+
+MEASURE 130
+  LINE LH4
+  REST   4  3
+  F  -1  4
+  REST   2
+
+MEASURE 130
+  LINE LH5
+  REST   4
+  REST   2
+  Ab -1  4
+  REST   2
+
+MEASURE 130
+  LINE TLLH5
+  TIELINE RH8 100
+  Bb -3  4
+  REST   2
+  REST   4 3
+
+MEASURE 131
+  LINE RH8
+  F   0  8
+  B   0  8
+  G   0  8
+  B   0  8
+  Ab  0  8
+  D   1  8
+  Bb  0  8
+  D   1  8
+  Cb  1  8
+  D   1  8
+  C#  1  8
+  F   1  8
+
+MEASURE 131
+  LINE TLLH2
+  TIELINE LH4 95
+  F  -1  4
+  REST   2
+  Ab -1  4
+  REST   2
+
+MEASURE 131
+  LINE LH4
+  Ab -1  4
+  REST   2
+  D   0  4
+  REST   2
+
+MEASURE 131
+  LINE LH5
+  D   0  4
+  REST   2
+  F   0  4
+  REST   2
+
+MEASURE 132
+  LINE RH8
+  D   1  8
+  Ab  1  8
+  E   1  8
+  Ab  1  8
+  F   1  8
+  B   1  8
+  G   1  8
+  B   1  8
+  Ab  1  8
+  D   2  8
+  Bb  1  8
+  D   2  8
+
+
+MEASURE 132
+  LINE TLLH2
+  TIELINE LH4 95
+  Bb -1  4
+  REST   2
+  F   0  4
+  REST   2
+
+MEASURE 132
+  LINE LH4
+  F   0  4
+  REST   2
+  Ab  0  4
+  REST   2
+
+MEASURE 132
+  LINE LH5
+  Ab  0  4
+  REST   2
+  D   1  4
+  REST   2
+
+MEASURE 133
+  LINE RH8
+  B   1  8
+  D   2  8
+  C#  2  8
+  F   2  8
+  D   2  8
+  Ab  2  8
+  E   2  8
+  Ab  2  8
+  F   2  8
+  B   2  8
+  G   2  8
+  B   2  8
+
+MEASURE 133
+  LINE TLLH2
+  TIELINE LH4 95
+  Ab  0  4
+  REST   2
+  Bb  0  4
+  REST   2
+
+MEASURE 133
+  LINE LH4
+  D   1  4
+  REST   2
+  F   1  4
+  REST   2
+
+MEASURE 133
+  LINE LH5
+  F   1  4
+  REST   2
+  Ab  1  4
+  REST   2
+
+MEASURE 134
+  LINE RH8
+  Bb  2  8
+  Ab  2  8
+  B   2  8
+  F   2  8
+  Bb  2  8
+  Ab  2  8
+  C   3  8
+  F   2  8
+  Bb  2  8
+  Ab  2  8
+  C#  3  8
+  F   2  8
+
+MEASURE 134
+  LINE TLLH2
+  TIELINE LH4 95
+  F   1  2  3
+
+MEASURE 134
+  LINE LH4
+  Ab  1  2  3
+
+MEASURE 134
+  LINE LH5
+  D   2  2  3
+
+MEASURE 135
+  LINE RH8
+  Bb  2  8
+  Ab  2  8
+  D   3  8
+  F   2  8
+  Bb  2  8
+  Ab  2  8
+  Eb  3  8
+  F   2  8
+  Bb  2  8
+  Ab  2  8
+  E   3  8
+  F   2  8
+
+
+MEASURE 135
+  LINE TLLH2
+  TIELINE LH4 95
+  CARRY  4  3
+  Eb  1  4  3
+
+MEASURE 135
+  LINE LH4
+  CARRY  4  3
+  Ab  1  4  3
+
+MEASURE 135
+  LINE LH5
+  CARRY  4  3
+  C   2  4  3
+
+MEASURE 136
+  LINE RH8
+  F   3  8
+  D   3  8
+  C#  3  8
+  E   3  8
+  Eb  3  8
+  C   3  8
+  B   2  8
+  D   3  8
+  C#  3  8
+  Bb  2  8
+  A   2  8
+  C   3  8
+
+
+MEASURE 136
+  LINE TLLH2
+  TIELINE LH4 95
+  Eb  1  4  3
+  D   1  4
+  REST   2
+
+MEASURE 136
+  LINE LH4
+  Ab  1  4  3
+  Ab  1  4
+  REST   2
+
+MEASURE 136
+  LINE LH5
+  C   2  4  3
+  Bb  1  4
+  REST   2
+
+MEASURE 137
+  LINE RH8
+  B   2  8
+  Ab  2  8
+  G   2  8
+  Bb  2  8
+  Ab  2  8
+  F   2  8
+  D   2  8
+  Bb  1  8
+  A   1  8
+  Bb  1  8
+  Ab  1  8
+  Bb  1  8
+  TEMPO RESET
+
+MEASURE 138
+  MARK Way-Fast-Waltz
+  LINE RH8
+  TEMPO RESET
+  F#  1  8
+  TEMPO RESET
+  G   1  8
+  G   2  8
+  D   2  8
+  Eb  2  8
+  B   1  8
+  C   2  8
+  G   1  8
+  Bb  1  8
+  Ab  1  8
+  G   1  8
+  F   1  8
+
+MEASURE 138
+  LINE LH2
+  Eb -1  4
+  REST   4
+  REST   4
+  Bb -2  4
+  REST   4
+  REST   4
+
+MEASURE 138
+  LINE TLLH4 
+  TIELINE RH8 80
+  REST   4
+  C   1  4
+  Bb  0  4
+  REST   4
+  A  -1  4
+  Bb -1  4
+
+MEASURE 138
+  LINE LH3
+  REST   4
+  Eb  0  2
+  REST   4
+  D   0  2
+
+MEASURE 138
+  LINE LH4
+  REST   4
+  G   0  2
+  REST   4
+  Ab  0  2
+
+MEASURE 139
+  LINE RH8
+  F#  1  8
+  G   1  8
+  G   2  8
+  D   2  8
+  Eb  2  8
+  B   1  8
+  C   2  8
+  G   1  8
+  Bb  1  8
+  Ab  1  8
+  G   1  8
+  F   1  8
+
+MEASURE 139
+  LINE LH2
+  Eb -1  4
+  REST   4
+  REST   4
+  Bb -2  4
+  REST   4
+  REST   4
+
+MEASURE 139
+  LINE TLLH4
+  REST   4
+  C   1  4
+  Bb  0  4
+  REST   4
+  A  -1  4
+  Bb -1  4
+
+MEASURE 139
+  LINE LH3
+  REST   4
+  Eb  0  2
+  REST   4
+  D   0  2
+
+MEASURE 139
+  LINE LH4
+  REST   4
+  G   0  2
+  REST   4
+  Ab  0  2
+
+MEASURE 140
+  LINE RH8
+  F#  1  8
+  G   1  8
+  G   2  8
+  D   2  8
+  Eb  2  8
+  B   1  8
+  C   2  8
+  G   1  8
+  Bb  1  8
+  Ab  1  8
+  G   1  8
+  F   1  8
+
+MEASURE 140
+  LINE LH2
+  Eb -1  4
+  REST   4
+  REST   4
+  Ab -2  4
+  REST   4
+  REST   4
+
+MEASURE 140
+  LINE TLLH4
+  REST   4
+  Ab  0  4
+  G   0  4
+  REST   4
+  G   0  4
+  F   0  4
+
+MEASURE 140
+  LINE LH3
+  REST   4
+  Bb -1  2
+  REST   4
+  Ab -1  2
+
+MEASURE 140
+  LINE LH4
+  REST   4
+  Eb  0  2
+  REST   4
+  C   0  2
+
+MEASURE 141
+  LINE RH8
+  Eb  1  8
+  Ab  1  8
+  F   1  8
+  D   1  8
+  Ab  1  8
+  F   1  8
+  C   1  8
+  Ab  1  8
+  F   1  8
+  Bb  0  8
+  Ab  1  8
+  F   1  8
+
+MEASURE 141
+  LINE LH2
+  Bb -2  4
+  REST   4
+  REST   4
+  Bb -2  4
+  REST   4
+  REST   4
+
+MEASURE 141
+  LINE TLLH4
+  REST   4
+  Eb  0  4
+  D   0  4
+  REST   4
+  C   0  4
+  Bb -1  4
+
+MEASURE 141
+  LINE LH3
+  REST   4
+  F  -1  2
+  REST   4
+  F  -1  2
+
+MEASURE 141
+  LINE LH4
+  REST   4
+  Ab -1  2
+  REST   4
+  Ab -1  2
+
+REPEAT 138 139 142
+
+MEASURE 144
+  LINE RH8
+  F#  1  8
+  G   1  8
+  G   2  8
+  D   2  8
+  Eb  2  8
+  B   1  8
+  C   2  8
+  G   1  8
+  Bb  1  8
+  Ab  1  8
+  G   1  8
+  F   1  8
+
+MEASURE 144
+  LINE LH2
+  Eb -1  4
+  REST   4
+  REST   4
+  Ab -2  4
+  REST   4
+  REST   4
+
+MEASURE 144
+  LINE TLLH4
+  REST   4
+  F   1  4
+  Eb  1  4
+  REST   4
+  G   0  4
+  F   0  4
+
+MEASURE 144
+  LINE LH3
+  REST   4
+  G   0  2
+  REST   4
+  Ab -1  2
+
+MEASURE 144
+  LINE LH4
+  REST   4
+  Bb  0  2
+  REST   4
+  C   0  2
+
+MEASURE 145
+  LINE RH8
+  E   1  8
+  Eb  1  8
+  D   1  8
+  C#  1  8
+  C   1  8
+  B   0  8
+  Bb  0  8
+  A   0  8
+  C   1  8
+  Bb  0  8
+  A   0  8
+  Ab  0  8
+
+MEASURE 145
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   2
+  F  -1  4
+  F  -1  4
+  F  -1  4
+  F  -1  4
+
+MEASURE 145
+  LINE TLLH3
+  TIELINE LH4 90
+  REST   2
+  Ab -1  4
+  Ab -1  4
+  Ab -1  4
+  Ab -1  4
+
+MEASURE 145
+  LINE LH4
+  Bb -2  4
+  REST   4
+  D   0  4
+  D   0  4
+  D   0  4
+  D   0  4
+
+
+MEASURE 145
+  LINE TLLH2a
+  TIELINE TLLH4 92
+  REST   2
+  REST   4
+  REST   4
+  REST   4
+  REST   4
+
+MEASURE 145
+  LINE TLLH3a
+  TIELINE TLLH4 90
+  REST   2
+  REST   4
+  REST   4
+  REST   4
+  REST   4
+
+MEASURE 145
+  LINE TLLH4
+  REST   4
+  REST   4
+  REST   4
+  REST   4
+  REST   4
+  REST   4
+
+
+MEASURE 146
+  LINE RH8
+  G   0  8
+  Ab  0  8
+  A   0  8
+  Bb  0  8
+  C   1  8
+  Bb  0  8
+  Ab  0  8
+  Bb  0  8
+  B   0  8
+  C   1  8
+  C#  1  8
+  C   1  8
+
+MEASURE 146
+  LINE TLLH2
+  TIELINE LH4 92
+  Eb -1  4
+  REST   8
+  REST   8
+  Eb -2  4
+  Ab -1  4
+  G  -2  4
+  F# -2  4
+
+MEASURE 146
+  LINE TLLH3
+  TIELINE LH4 90
+  Bb -1  4
+  REST   4  5
+
+MEASURE 146
+  LINE LH4
+  C#  0  4
+  REST   8
+  REST   8
+  Eb -1  4
+  C   0  4
+  G  -1  4
+  F# -1  4
+
+MEASURE 146
+  LINE TLLH2a
+  TIELINE TLLH4 92
+  REST   4
+  REST   8
+  Eb -2  8
+  REST   4
+  REST   4
+  REST   4
+  REST   4
+
+MEASURE 146
+  LINE TLLH4
+  REST   4
+  REST   8
+  Eb -1  8
+  REST   4
+  REST   4
+  REST   4
+  REST   4
+
+MEASURE 147
+  LINE RH8
+  A   0  8
+  Bb  0  8
+  B   0  8
+  C   1  8
+  D   1  8
+  C   1  8
+  Bb  0  8
+  C   1  8
+  C#  1  8
+  D   1  8
+  Eb  1  8
+  D   1  8
+
+MEASURE 147
+  LINE TLLH2
+  TIELINE LH4 92
+  A  -1  4
+  REST   8
+  REST   8
+  F  -2  4
+  Bb -1  4
+  A  -2  4
+  Ab -2  4
+
+MEASURE 147
+  LINE LH4
+  Eb  0  4
+  REST   8
+  REST   8
+  F  -1  4
+  D   0  4
+  A  -1  4
+  Ab -1  4
+
+MEASURE 147
+  LINE TLLH2a
+  TIELINE TLLH4 92
+  REST   4
+  REST   8
+  F  -2  8
+  REST   4
+  REST   4
+  REST   4
+  REST   4
+
+MEASURE 147
+  LINE TLLH4
+  REST   4
+  REST   8
+  F  -1  8
+  REST   4
+  REST   4
+  REST   4
+  REST   4
+
+
+MEASURE 148
+  LINE RH8
+  B   0  8
+  C   1  8
+  C#  1  8
+  D   1  8
+  Eb  1  8
+  D   1  8
+  C   1  8
+  C#  1  8
+  D   1  8
+  Eb  1  8
+  E   1  8
+  F   1  8
+
+MEASURE 148
+  LINE TLLH2
+  TIELINE LH4 92
+  B  -1  4
+  REST   8
+  REST   8
+  G  -2  4
+  C   0  4
+  C  -2  4
+  REST   4
+
+MEASURE 148
+  LINE LH4
+  F   0  4
+  REST   8
+  REST   8
+  G  -1  4
+  Eb  0  4
+  C  -1  4
+  REST   4
+
+MEASURE 148
+  LINE TLLH2a
+  TIELINE TLLH4 92
+  REST   4
+  REST   8
+  G  -2  8
+  REST   1
+
+MEASURE 148
+  LINE TLLH4
+  REST   4
+  REST   8
+  G  -1  8
+  REST   1
+
+MEASURE 149
+  LINE RH8
+  G   1  8
+  F   1  8
+  E   1  8
+  Eb  1  8
+  D   1  8
+  C#  1  8
+  C   1  8
+  B   0  8
+  Bb  0  8
+  A   0  8
+  Bb  0  8
+  Ab  0  8
+
+MEASURE 149
+  LINE TLLH2
+  TIELINE LH4 92
+  Ab -1  4
+  REST   2
+  Ab -1  4
+  REST   2
+
+MEASURE 149
+  LINE LH4
+  Eb  0  4
+  B  -2  4
+  REST   4
+  D   0  4
+  Bb -2  4
+  REST   4
+
+MEASURE 150
+  MARK More-building
+  LINE RH8
+  TEMPO RESET
+  G   0  4
+  TEMPO RESET
+  Bb -1  8
+  G   0  8
+  D   0  8
+  B   0  8
+  Bb -1  8
+  Bb  0  8
+  Eb  0  8
+  G   0  8
+  E   0  8
+  C#  1  8
+
+MEASURE 150
+  LINE TLLH2
+  TIELINE LH4 92
+  Eb -2  4
+  G  -2  4
+  Ab -2  4
+  G  -2  4
+  Eb -2  4
+  Bb -2  4
+
+MEASURE 150
+  LINE LH4
+  Eb -1  4
+  TEMPO RESET
+  G  -1  4
+  Ab -1  4
+  G  -1  4
+  Eb -1  4
+  Bb -1  4
+
+MEASURE 151
+  LINE RH8
+  C   0  8
+  C   1  8
+  F   0  8
+  A   0  8
+  E   0  8
+  C#  1  8
+  C   0  8
+  C   1  8
+  F   0  8
+  A   0  8
+  F#  0  8
+  Eb  1  8
+
+
+MEASURE 151
+  LINE TLLH2
+  TIELINE LH4 92
+  A  -2  4
+  F  -2  4
+  Bb -2  4
+  A  -2  4
+  F  -2  4
+  C  -1  4
+
+MEASURE 151
+  LINE LH4
+  A  -1  4
+  F  -1  4
+  Bb -1  4
+  A  -1  4
+  F  -1  4
+  C   0  4
+
+MEASURE 152
+  LINE RH8
+  D   0  8
+  D   1  8
+  G   0  8
+  B   0  8
+  F#  0  8
+  Eb  1  8
+  D   0  8
+  D   1  8
+  G   0  8
+  B   0  8
+  G#  0  8
+  F   1  8
+
+MEASURE 152
+  LINE TLLH2
+  TIELINE LH4 92
+  B  -2  4
+  G  -2  4
+  C  -1  4
+  B  -2  4
+  G  -2  4
+  D  -1  4
+
+MEASURE 152
+  LINE LH4
+  B  -1  4
+  G  -1  4
+  C   0  4
+  B  -1  4
+  G  -1  4
+  D   0  4
+
+MEASURE 153
+
+
+MEASURE 153
+  LINE RH8
+  E   0  8
+  E   1  8
+  A   0  8
+  C#  1  8
+  A#  0  8
+  G   1  8
+  F#  0  8
+  F#  1  8
+  B   0  8
+  Eb  1  8
+  C   1  8
+  A   1  8
+
+MEASURE 153
+  LINE TLLH2
+  TIELINE LH4 92
+  C# -1  4
+  A  -2  4
+  E  -1  4
+  Eb -1  4
+  B  -2  4
+  D  -1  4
+
+MEASURE 153
+  LINE LH4
+  C#  0  4
+  A  -1  4
+  E   0  4
+  Eb  0  4
+  B  -1  4
+  D   0  4
+
+MEASURE 154
+  LINE TLRH5
+  TIELINE RH8 88
+  C#  1  4
+  REST   4  5
+
+MEASURE 154
+  LINE TLRH6
+  TIELINE RH8 90
+  F#  1  4
+  REST   4  5
+
+MEASURE 154
+  LINE TLRH7
+  TIELINE RH8 92
+  A   1  4
+  REST   4  5
+
+MEASURE 154
+  LINE RH8
+  C#  2  4
+  TEMPO RESET
+  C   1  8
+  C#  1  8
+  Eb  1  8
+  F   1  8
+  F#  1  8
+  Ab  1  8
+  A   1  8
+  B   1  8
+  C#  2  8
+  Eb  2  8
+
+MEASURE 154
+  LINE TLLH1
+  TIELINE LH4 88
+  REST   8  3
+  REST   8
+  A  -1  4
+  A  -1  4
+  A  -1  4
+  A  -1  4
+
+MEASURE 154
+  LINE TLLH2
+  TIELINE LH4 92
+  C# -2  4
+  REST   8
+  REST   8
+  C#  0  4
+  C#  0  4
+  C#  0  4
+  C#  0  4
+
+MEASURE 154
+  LINE TLLH3
+  TIELINE LH4 90
+  REST   8  3
+  REST   8
+  F#  0  4
+  F#  0  4
+  F#  0  4
+  F#  0  4
+
+MEASURE 154
+  LINE LH4
+  C# -1  4
+  REST   8
+  REST   8
+  A   0  4
+  A   0  4
+  A   0  4
+  A   0  4
+
+MEASURE 154
+  LINE TLLH1a
+  TIELINE TLLH4 88
+  REST   8  3
+  A  -1  8
+  REST   1
+
+MEASURE 154
+  LINE TLLH2a
+  TIELINE TLLH4 92
+  REST   4
+  REST   8
+  C#  0  8
+  REST   1
+
+MEASURE 154
+  LINE TLLH3a
+  TIELINE TLLH4 90
+  REST   8  3
+  F#  0  8
+  REST   1
+
+MEASURE 154
+  LINE TLLH4
+  TIELINE RH8 80
+  REST   4
+  REST   8
+  A   0  8
+  REST   1
+
+MEASURE 155
+  LINE RH8
+  F   2  8
+  F#  2  8
+  Ab  2  8
+  A   2  8
+  F#  2  8
+  C#  2  8
+  A   1  8
+  F#  1  8
+  C#  1  8
+  A   0  8
+  F#  0  8
+  C#  0  8
+
+MEASURE 155
+  LINE TLLH1
+  TIELINE LH4 88
+  A  -1  4  3
+  REST   4  3
+
+MEASURE 155
+  LINE TLLH2
+  TIELINE LH4 92
+  C#  0  4  3
+  REST   2
+  C# -2  4
+
+MEASURE 155
+  LINE TLLH3
+  TIELINE LH4 90
+  F#  0  4  3
+  REST   4  3
+
+MEASURE 155
+  LINE LH4
+  A   0  4  3
+  REST   2
+  C# -1  4
+
+MEASURE 156
+  LINE RH8
+  A  -1  8
+  F#  0  8
+  Eb  0  8
+  A   0  8
+  A   0  8
+  F#  1  8
+  Eb  1  8
+  A   1  8
+  A   1  8
+  F#  2  8
+  Eb  2  8
+  A   2  8
+
+MEASURE 156
+  LINE TLLH2
+  TIELINE LH4 92
+  C  -2  4
+  REST   8
+  REST   8
+  F# -1  4
+  F# -1  4
+  REST   4
+  C  -2  4
+
+MEASURE 156
+  LINE TLLH3
+  TIELINE LH4 90
+  REST   8  3
+  REST   8
+  A  -1  4
+  A  -1  4
+  REST   2
+
+MEASURE 156
+  LINE LH4
+  C  -1  4
+  REST   8
+  REST   8
+  Eb  0  4
+  Eb  0  4
+  REST   4
+  C  -1  4
+
+MEASURE 156
+  LINE TLLH2a
+  TIELINE TLLH4 92
+  REST   4
+  REST   8
+  F# -1  8
+  REST   4
+  REST   4
+  REST   4
+  REST   4
+
+MEASURE 156
+  LINE TLLH3a
+  TIELINE TLLH4 90
+  REST   8  3
+  A  -1  8
+  REST   4
+  REST   4
+  REST   2
+
+MEASURE 156
+  LINE TLLH4
+  TIELINE RH8 80
+  REST   4
+  REST   8
+  Eb  0  8
+  REST   4
+  REST   4
+  REST   4
+  REST   4
+
+
+MEASURE 157
+  LINE RH8
+  F#  2  8
+  A   2  8
+  Eb  2  8
+  A   1  8
+  F#  1  8
+  A   1  8
+  Eb  1  8
+  A   0  8
+  F#  0  8
+  A   0  8
+  Eb  0  8
+  A  -1  8
+
+MEASURE 157
+  LINE TLLH2
+  TIELINE LH4 92
+  B  -3  4
+  REST   8
+  REST   8
+  F# -1  4
+  F# -1  4
+  REST   4
+  B  -3  4
+
+MEASURE 157
+  LINE TLLH3
+  TIELINE LH4 90
+  REST   8  3
+  REST   8
+  A  -1  4
+  A  -1  4
+  REST   2
+
+MEASURE 157
+  LINE LH4
+  B  -2  4
+  REST   8
+  REST   8
+  Eb  0  4
+  Eb  0  4
+  REST   4
+  B  -2  4
+
+MEASURE 157
+  LINE TLLH2a
+  TIELINE TLLH4 92
+  REST   4
+  REST   8
+  F# -1  8
+  REST   4
+  REST   4
+  REST   4
+  REST   4
+
+MEASURE 157
+  LINE TLLH3a
+  TIELINE TLLH4 90
+  REST   8  3
+  A  -1  8
+  REST   4
+  REST   4
+  REST   2
+
+MEASURE 157
+  LINE TLLH4
+  REST   4
+  REST   8
+  Eb  0  8
+  REST   4
+  REST   4
+  REST   4
+  REST   4
+
+MEASURE 158
+  LINE TLRH5
+  TIELINE RH8 88
+  Bb -1  4
+  REST   4  5
+
+MEASURE 158
+  LINE TLRH6
+  TIELINE RH8 90
+  Eb  0  4
+  REST   4  5
+
+MEASURE 158
+  LINE TLRH7
+  TIELINE RH8 92
+  G   0  4
+  REST   4  5
+
+MEASURE 158
+  LINE RH8
+  Bb  0  4
+  A  -1  8
+  Bb -1  8
+  C   0  8
+  D   0  8
+  Eb  0  8
+  E   0  8
+  G   0  8
+  F   0  8
+  G   0  8
+  F   0  8
+
+MEASURE 158
+  LINE TLLH2
+  TIELINE LH4 92
+  Bb -3  4
+  REST   4  3
+  A  -1  4
+  Ab -1  4
+
+MEASURE 158
+  LINE TLLH3
+  TIELINE LH4 90
+  REST   1
+  C   0  4
+  Bb -1  4
+
+MEASURE 158
+  LINE LH4
+  Bb -2  4
+  REST   4  3
+  Eb  0  4
+  D   0  4
+
+MEASURE 159
+  LINE RH8
+  C   1  8
+  Bb  0  8
+  A   0  8
+  Bb  0  8
+  C   1  8
+  D   1  8
+  Eb  1  8
+  E   1  8
+  G   1  8
+  F   1  8
+  G   1  8
+  F   1  8
+
+MEASURE 159
+  LINE TLLH2
+  TIELINE LH4 92
+  G  -1  4
+  REST   4  3
+  A   0  4
+  Ab  0  4
+
+MEASURE 159
+  LINE TLLH3
+  TIELINE LH4 90
+  Bb -1  4
+  REST   4  3
+  C   1  4
+  Bb  0  4
+
+MEASURE 159
+  LINE LH4
+  Eb  0  4
+  REST   4  3
+  Eb  1  4
+  D   1  4
+
+MEASURE 160
+  LINE RH8
+  C   2  8
+  Bb  1  8
+  A   1  8
+  Bb  1  8
+  C   2  8
+  D   2  8
+  Eb  2  8
+  E   2  8
+  G   2  8
+  F   2  8
+  G   2  8
+  F   2  8
+
+
+MEASURE 160
+  LINE TLLH2
+  TIELINE LH4 92
+  G   0  4
+  REST   4  3
+  A   1  4
+  Ab  1  4
+
+MEASURE 160
+  LINE TLLH3
+  TIELINE LH4 90
+  Bb  0  4
+  REST   4  3
+  C   2  4
+  Bb  1  4
+
+MEASURE 160
+  LINE LH4
+  Eb  1  4
+  REST   4  3
+  Eb  2  4
+  D   2  4
+
+MEASURE 161
+  LINE RH8
+  Bb  2  4
+  A   1  8
+  Bb  1  8
+  C   2  8
+  D   2  8
+  Eb  2  8
+  E   2  8
+  G   2  8
+  F   2  8
+  G   2  8
+  F   2  8
+
+MEASURE 161
+  LINE TLLH2
+  TIELINE LH4 92
+  G   1  4
+  REST   4  3
+  A   1  4
+  Ab  1  4
+
+MEASURE 161
+  LINE TLLH3
+  TIELINE LH4 90
+  Bb  1  4
+  REST   4  3
+  C   2  4
+  Bb  1  4
+
+MEASURE 161
+  LINE LH4
+  Eb  2  4
+  REST   4  3
+  Eb  2  4
+  D   2  4
+
+
+MEASURE 162
+  LINE RH8
+  Bb  2  4
+  TEMPO RESET
+  REST   2
+  F   2  64 0
+  F   3  8
+  E   3  8
+  Eb  3  8
+  D   3  8
+  C   3  8
+  Bb  2  8
+
+MEASURE 162
+  LINE TLLH1
+  TIELINE LH4 88
+  REST   4  3
+  C   0  4
+  REST   2
+
+MEASURE 162
+  LINE TLLH2
+  TIELINE LH4 92
+  G   1  4
+  REST   2
+  Eb  0  4
+  REST   2
+
+MEASURE 162
+  LINE TLLH3
+  TIELINE LH4 90
+  Bb  1  4
+  REST   2
+  F   0  4
+  REST   2
+
+MEASURE 162
+  LINE LH4
+  Eb  2  4
+  REST   2
+  A   0  4
+  REST   2
+
+MEASURE 163
+  METER 3 4
+  LINE RH8
+  A   2  8
+  G   2  8
+  F   2  8
+  E   2  8
+  Eb  2  8
+  D   2  8
+
+MEASURE 164
+  METER 9 4
+  LINE RH8
+  C   2  8
+  Bb  1  8
+  A   1  8
+  G   1  8
+  F   1  8
+  E   1  8
+  Eb  1  8
+  C#  1  8
+  B   0  8
+  Bb  0  8
+  Ab  0  8
+  F#  0  8
+  F   0  8
+  Eb  0  8
+  C#  0  8
+  B  -1  8
+  Bb -1  8
+  Ab -1  8
+
+
+MEASURE 164
+  LINE LH1
+  REST   4 3
+  B  -2  4
+  RIPPLE
+  REST   4  5
+
+MEASURE 164
+  LINE LH2
+  REST   4 3
+  Eb -1  4
+  REST   4  5
+
+MEASURE 164
+  LINE LH3
+  REST   4 3
+  Ab -1  4
+  REST   4  5
+
+MEASURE 164
+  LINE LH4
+  REST   4 3
+  Eb  0  4
+  REST   4  5
+
+MEASURE 165
+  METER 6 4
+  LINE RH8
+  F# -1  8
+  F  -1  8
+  Eb -1  8
+  C# -1  8
+  B  -2  8
+  Bb -2  8
+  Ab -2  8
+  F# -2  8
+  F  -2  8
+  Eb -2  8
+  C# -2  8
+  B  -3  8
+
+MEASURE 165
+  LINE LH4
+  B  -3  4
+  REST   4  5
+
+MEASURE 166
+  MARK Mushy-Theme-III
+  LH NOSKIPIG
+  TOGETHER
+  LINE LH4
+  Bb -3  8
+  F  -2  8
+  Bb -2  8
+  D  -1  8
+  Bb -2  8
+  F  -2  8
+  Bb -3  8
+  VOLPERC 90
+  F  -2  8
+  Bb -2  8
+  F  -1  8
+  Bb -2  8
+  F  -2  8
+
+
+MEASURE 166
+  LINE TLRH7
+  TIELINE RH8 92
+  REST   4  3
+  Bb -1  2
+  Ab -1  4
+
+MEASURE 166
+  LINE RH8
+  REST   4  3
+  D   0  2
+  D   0  4
+
+MEASURE 166
+  LINE RH9
+  REST   4  3
+  G   0  2
+  G   0  4
+
+
+MEASURE 167
+  LH SKIPIG
+  APART
+  LINE LH4
+  Eb -2  8
+  VOLPERC 80
+  Bb -2  8
+  Eb -1  8
+  G  -1  8
+  Eb -1  8
+  Bb -2  8
+  Eb -2  8
+  C  -1  8
+  Eb -1  8
+  Bb -1  8
+  Eb -1  8
+  C  -1  8
+
+MEASURE 167
+  LINE TLRH7
+  TIELINE RH8 92
+  REST   2
+  Eb  0  4  3
+  Eb  0  4
+
+MEASURE 167
+  LINE RH8
+  G  -1  4
+  REST   4
+  G   0  4  3
+  Bb  0  4
+
+MEASURE 167
+  LINE RH9
+  Eb  0  4
+  REST   4
+  Eb  1  4  3
+  D   1  4
+
+MEASURE 168
+  LINE LH4
+  F  -2  8
+  C  -1  8
+  Eb -1  8
+  Bb -1  8
+  Eb -1  8
+  C  -1  8
+  F  -2  8
+  C  -1  8
+  Eb -1  8
+  A  -1  8
+  Eb -1  8
+  C  -1  8
+
+MEASURE 168
+  LINE TLRH7
+  TIELINE RH8 92
+  Eb  0  4  3
+  F   0  2
+  Eb  0  4
+
+MEASURE 168
+  LINE RH8
+  Bb  0  4  3
+  A   0  2
+  A   0  4
+
+MEASURE 168
+  LINE RH9
+  C   1  4  3
+  D   1  2
+  D   1  4
+
+MEASURE 169
+  LINE LH4
+  Bb -2  8
+  F  -1  8
+  Bb -1  8
+  D   0  8
+  Bb -1  8
+  F  -1  8
+  Bb -2  8
+  F  -1  8
+  Bb -1  8
+  F   0  8
+  Bb -1  8
+  F  -1  8
+
+MEASURE 169
+  LINE RH9
+  Bb  0  4
+  REST   4  5
+
+MEASURE 169
+  LINE TLRH7
+  TIELINE RH8 92
+  REST   4  3
+  Bb  0  2
+  B   0  4
+
+MEASURE 169
+  LINE RH8
+  D   0  4
+  REST   2
+  Bb  1  2
+  B   1  4
+
+
+MEASURE 170
+  LINE LH4
+  Bb -2  8
+  G  -1  8
+  C   0  8
+  E   0  8
+  C   0  8
+  G  -1  8
+  Bb -2  8
+  Ab -1  8
+  C   0  8
+  F   0  8
+  C   0  8
+  Ab -1  8
+
+MEASURE 170
+  LINE TLRH7
+  TIELINE RH8 92
+  C   1  4 3 5
+  Bb  1  4 3 5
+  E   1  4 3 5
+  Bb  1  4 3 5
+  E   1  4 3 5
+  Ab  1  64 0
+  Ab  1  4
+  REST   8 3
+  Eb  1  8
+
+MEASURE 170
+  LINE RH8
+  C   2  4 3 5
+  C#  2  4 3 5
+  C   2  4 3 5
+  B   1  4 3 5
+  C   2  4 3 5
+  C   2  64 0
+  Ab  2  4
+  REST   8 3
+  C   2  8
+
+MEASURE 171
+  LINE TLRH7
+  TIELINE RH8 92
+  D   1  4 3 5
+  Ab  1  4 3 5
+  D   1  4 3 5
+  D   1  4 3 5
+  Ab  1  4 3 5
+  G   1  64 0
+  G   1  4
+  REST   8  3
+  D   1  8
+
+MEASURE 171
+  LINE RH8
+  Bb  1  4 3 5
+  C   2  4 3 5
+  Bb  1  4 3 5
+  A   1  4 3 5
+  Bb  1  4 3 5
+  Bb  1  64 0
+  G   2  4
+  REST   8  3
+  Bb  1  8
+
+MEASURE 171
+  LINE LH4
+  Bb -2  8
+  F  -1  8
+  Ab -1  8
+  D   0  8
+  Ab -1  8
+  F  -1  8
+  Bb -2  8
+  Eb -1  8
+  G  -1  8
+  Eb  0  8
+  G  -1  8
+  Eb -1  8
+
+MEASURE 172
+  LINE TLRH7
+  TIELINE RH8 92
+  C   1  4 3 5
+  Eb  1  4 3 5
+  C   1  4 3 5
+  Eb  1  4 3 5
+  C   1  4 3 5
+  F   1  64 0
+  F   1  4
+  REST   4
+  F   1  4
+
+MEASURE 172
+  LINE RH8
+  Ab  1  4 3 5
+  Bb  1  4 3 5
+  Ab  1  4 3 5
+  G   1  4 3 5
+  Ab  1  4 3 5
+  Ab  1  64 0
+  F   2  4
+  REST   4
+  Ab  1  4
+
+MEASURE 172
+  LINE LH4
+  Bb -2  8
+  Eb -1  8
+  Ab -1  8
+  C   0  8
+  Ab -1  8
+  Eb -1  8
+  Bb -2  8
+  F  -1  8
+  Ab -1  8
+  D   0  8
+  Ab -1  8
+  F  -1  8
+
+MEASURE 173
+  LINE TLRH7
+  TIELINE RH8 92
+  F   1  4
+  F   1  8  3
+  F   1  8
+  REST   4  3
+
+MEASURE 173
+  LINE RH8
+  G   1  4
+  Ab  1  64 0
+  Bb  1  64 0
+  Ab  1  8  3
+  G   1  8
+  Eb  1  4
+  Eb  1  4
+  Eb  1  4
+
+
+MEASURE 173
+  LINE LH4
+  B  -2  8
+  F  -1  8
+  G  -1  8
+  D   0  8
+  G  -1  8
+  F  -1  8
+  C  -1  8
+  Eb -1  8
+  G  -1  8
+  Eb  0  8
+  F# -1  8
+  Eb -1  8
+
+MEASURE 173
+  LINE RH9
+  REST   4  3
+  G   1  4
+  Ab  1  4
+  A   1  4
+
+MEASURE 174
+  LINE TLRH5
+  TIELINE RH8 88
+  REST   4  3
+  Ab  0  2
+  Ab  0  4
+
+MEASURE 174
+  LINE TLRH6
+  TIELINE RH8 90
+  Ab  0  4  3
+  Bb  0  2
+  Bb  0  4
+
+MEASURE 174
+  LINE TLRH7
+  TIELINE RH8 92
+  Bb  0  4  3
+  D   1  2
+  D   1  4
+
+MEASURE 174
+  LINE RH8
+  F   1  4  3
+  G   1  2
+  G   1  4
+
+MEASURE 174
+  LINE RH9
+  Bb  1  4  3
+  Bb  1  2
+  Bb  1  4
+
+MEASURE 174
+  LINE LH4
+  D  -1  8
+  Ab -1  8
+  Bb -1  8
+  F   0  8
+  Bb -1  8
+  Ab -1  8
+  Bb -2  8
+  F  -1  8
+  Bb -1  8
+  D   0  8
+  Bb -1  8
+  F  -1  8
+
+MEASURE 175
+  LINE TLRH7
+  TIELINE RH8 92
+  REST   4  3
+  Eb  1  2
+  Eb  1  4
+
+MEASURE 175
+  LINE RH8
+  G   0  4
+  REST   2
+  G   1  2
+  Bb  1  4
+
+MEASURE 175
+  LINE RH9
+  Eb  1  4
+  REST   2
+  Eb  2  2
+  D   2  4
+
+MEASURE 175
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Eb -1  8
+  G  -1  8
+  Bb -1  8
+  Eb  0  8
+  G   0  8
+  Eb  0  8
+  Bb -1  8
+  G  -1  8
+  Eb -1  8
+  Bb -2  8
+
+MEASURE 176
+  LINE TLRH7
+  TIELINE RH8 92
+  Eb  1  4  3
+  F   1  2
+  Eb  1  4
+
+MEASURE 176
+  LINE RH8
+  Bb  1  4  3
+  A   1  2
+  A   1  4
+
+MEASURE 176
+  LINE RH9
+  C   2  4  3
+  D   2  2
+  D   2  4
+
+MEASURE 176
+  LINE LH4
+  F  -2  8
+  C  -1  8
+  Eb -1  8
+  Bb -1  8
+  Eb -1  8
+  C  -1  8
+  F  -2  8
+  C  -1  8
+  Eb -1  8
+  A  -1  8
+  Eb -1  8
+  C  -1  8
+
+MEASURE 177
+  LINE RH8
+  D   1  4
+  REST   2
+  Bb  1  2
+  REST   8
+  Bb  1  8
+
+MEASURE 177
+  LINE RH9
+  Bb  1  4
+  REST   2
+  Bb  2  2
+  REST   8
+  Bb  2  8
+
+MEASURE 177
+  LINE LH4
+  Bb -3  8
+  Bb -2  8
+  F  -1  8
+  Bb -1  8
+  D   0  8
+  F   0  8
+  D   1  8
+  Bb  0  8
+  F   0  8
+  D   0  8
+  Bb -1  8
+  F  -1  8
+
+MEASURE 178
+  LINE RH8
+  Bb  1  2
+  REST   1
+
+MEASURE 178
+  LINE RH9
+  Bb  2  2
+  REST   4
+  C   1  2
+  D   1  4
+
+MEASURE 178
+  LINE TLRH9
+  TIELINE RH9 90
+  REST   4  3
+  C   0  4
+  TIENOTE RH9 LH4
+  REST   4
+  D   0  4
+  TIENOTE RH9 
+
+MEASURE 178
+  LINE LH4
+  Bb -2  8
+  E  -1  8
+  G  -1  8
+  C   0  8
+  G  -1  8
+  E  -1  8
+  Bb -2  8
+  E  -1  8
+  G  -1  8
+  C   0  8
+  G  -1  8
+  E  -1  8
+
+MEASURE 179
+  LINE RH9
+  Eb  1  4
+  TRILL F 1
+  D   1  4
+  Eb  1  4
+  G   1  4
+  G   1  4
+  CARRY 4 1 3
+  F   1 4 1 3
+  Eb  1 4 1 3
+
+
+MEASURE 179
+  LINE TLRH9
+  TIELINE RH9 90
+  Eb  0  4
+  TIENOTE LH4 
+  D   0  4
+  Eb  0  4
+  TIENOTE RH9
+  D   1  4
+  D   1  2
+
+MEASURE 179
+  LINE RH8
+  REST 4 3
+  G  0 4 3 4
+  Ab 0 4 3 4
+  Bb 0 4 3 4
+  Ab 0 4 3 4
+
+
+MEASURE 179
+  LINE LH4
+  Bb -2  8
+  F  -1  8
+  A  -1  8
+  C   0  8
+  A  -1  8
+  F  -1  8
+  Bb -2  8
+  F  -1  8
+  Ab -1  8
+  D   0  8
+  Ab -1  8
+  F  -1  8
+
+MEASURE 180
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Eb -1  8
+  G  -1  8
+  Eb -1  8
+  Bb -2  8
+  Eb -2  8
+  Bb -2  8
+  Eb -1  8
+  Bb -1  8
+  Eb -1  8
+  Bb -2  8
+
+MEASURE 180
+  LINE TLRH7
+  TIELINE RH8 92
+  G   0  2
+  REST   1
+
+MEASURE 180
+  LINE RH8
+  Eb  1  2
+  REST   1
+
+MEASURE 180
+  LINE RH9
+  REST   1
+  G   0  8
+  Ab  0  8
+  Bb  0  4 1 3
+  D   1  4 1 3
+  C   1  4 1 3
+
+MEASURE 181
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Eb -1  8
+  G  -1  8
+  Eb -1  8
+  Bb -2  8
+  Eb -2  8
+  Bb -2  8
+  Eb -1  8
+  Bb -1  8
+  Eb -1  8
+  Bb -2  8
+
+MEASURE 181
+  LINE RH9
+  Bb 0   2
+  REST   2
+  REST   4 1 3
+  G   0  4 1 3
+  Ab  0  4 1 3
+  Bb  0  4 1 3
+  D   1  4 1 3
+  C   1  4 1 3
+
+MEASURE 182
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  D  -1  8
+  Ab -1  8
+  D  -1  8
+  Bb -2  8
+  Eb -2  8
+  Bb -2  8
+  D  -1  8
+  Bb -1  8
+  D  -1  8
+  Bb -2  8
+
+MEASURE 182
+  LINE RH9
+  Bb 0   2
+  REST   2
+  REST   4 1 3
+  F   0  4 1 3
+  Ab  0  4 1 3
+  Bb  0  4 1 3
+  D   1  4 1 3
+  C   1  4 1 3
+
+MEASURE 183
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Eb -1  8
+  G  -1  8
+  Eb -1  8
+  Bb -2  8
+  Eb -2  8
+  B  -2  8
+  Eb -1  8
+  Ab -1  8
+  Eb -1  8
+  B  -2  8
+
+MEASURE 183
+  LINE RH9
+  Bb 0   4
+  REST   4 1 3
+  Db  0  4 1 3
+  Eb  0  4 1 3
+  G   0  4 1 3
+  C   1  4 1 3
+  Bb  0  4 1 3
+  Ab 0   8 3
+  Cb  0  8
+  Eb  0  8
+  F   0  8
+
+MEASURE 184
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Eb -1  8
+  G  -1  8
+  Eb -1  8
+  Bb -2  8
+  Eb -2  8
+  Bb -2  8
+  Eb -1  8
+  Bb -1  8
+  Eb -1  8
+  Bb -2  8
+
+MEASURE 184
+  LINE RH9
+  G   0  4
+  REST   2
+  REST   4
+  REST   4 1 3
+  G   0  4 1 3
+  Ab  0  4 1 3
+  Bb  0  4 1 3
+  D   1  4 1 3
+  C   1  4 1 3
+
+MEASURE 185
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Eb -1  8
+  G  -1  8
+  Eb -1  8
+  Bb -2  8
+  Eb -2  8
+  Bb -2  8
+  Eb -1  8
+  Bb -1  8
+  Eb -1  8
+  Bb -2  8
+
+MEASURE 185
+  LINE RH9
+  Bb 0   8
+  Bb 1   8
+  Bb 2   4
+  REST   2
+  REST   4 1 3
+  G   0  4 1 3
+  Ab  0  4 1 3
+  Bb  0  4 1 3
+  D   1  4 1 3
+  C   1  4 1 3
+
+MEASURE 186
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  D  -1  8
+  Ab -1  8
+  D  -1  8
+  Bb -2  8
+  Eb -2  8
+  Bb -2  8
+  D  -1  8
+  Bb -1  8
+  D  -1  8
+  Bb -2  8
+
+MEASURE 186
+  LINE RH9
+  Bb 0   8
+  Bb 1   8
+  Bb 2   2
+  REST   4
+  REST   4 1 3
+  F   0  4 1 3
+  Ab  0  4 1 3
+  Bb  0  4 1 3
+  D   1  4 1 3
+  C   1  4 1 3
+
+MEASURE 187
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Eb -1  8
+  G  -1  8
+  Eb -1  8
+  Bb -2  8
+  Eb -2  8
+  B  -2  8
+  Eb -1  8
+  Ab -1  8
+  Eb -1  8
+  B  -2  8
+
+MEASURE 187
+  LINE RH9
+  Bb 0   4
+  REST   4 1 3
+  Db  0  4 1 3
+  Eb  0  4 1 3
+  G   0  4 1 3
+  C   1  4 1 3
+  Bb  0  4 1 3
+  Ab 0   8 3
+  Cb  0  8
+  Eb  0  8
+  F   0  8
+
+
+
+MEASURE 188
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Eb -1  8
+  G  -1  8
+  Eb -1  8
+  Bb -2  8
+  Eb -2  8
+  Bb -2  8
+  Eb -1  8
+  Bb -1  8
+  Eb -1  8
+  Bb -2  8
+
+MEASURE 188
+  LINE RH9
+  G   0  8  7
+  G   0  8
+  Bb  0  8
+  G   1  8
+  F   1  8
+  Eb  1  8
+
+MEASURE 189
+  LINE LH4
+  Eb -2  8
+  Bb -2  8
+  Eb -1  8
+  G  -1  8
+  Eb -1  8
+  Bb -2  8
+  Eb -2  8
+  Bb -2  8
+  Eb -1  8
+  Bb -1  8
+  Eb -1  8
+  Bb -2  8
+
+MEASURE 189
+  LINE RH9
+  Bb  0  8  7
+  G   0  8
+  Bb  0  8
+  G   1  8
+  F   1  8
+  Eb  1  8
+
+MEASURE 190
+  LINE LH4
+  G  -2  8
+  D  -1  8
+  G  -1  8
+  Bb -1  8
+  D   0  8
+  Bb -1  8
+  G   0  8
+  D   0  8
+  Bb -1  8
+  G  -1  8
+  D  -1  8
+  G  -2  8
+
+MEASURE 190
+  LINE RH9
+  D   1  8  7
+  Bb  0  8
+  D   1  8
+  Bb  1  8
+  A   1  8
+  G   1  8
+
+MEASURE 191
+  LINE LH4
+  G  -3  8
+  G  -2  8
+  D  -1  8
+  G  -1  8
+  Bb -1  8
+  D   0  8
+  Bb  0  8
+  G   0  8
+  D   0  8
+  Bb -1  8
+  G  -1  8
+  D  -1  8
+
+
+MEASURE 191
+  LINE RH9
+  D   1  8  7
+  Bb  0  8
+  D   1  8
+  Bb  1  8
+  A   1  8
+  G   1  8
+
+MEASURE 192
+  LINE LH4
+  G  -2  8
+  D  -1  8
+  D   0  4
+  REST   1
+
+MEASURE 192
+  LINE RH9
+  D   1  8
+  Bb  0  8
+  D   1  8
+  Bb  1  8
+  A   1  8
+  G   1  8
+  D   1  8
+  Bb  0  8
+  D   1  8
+  Bb  1  8
+  A   1  8
+  G   1  8
+
+
+MEASURE 193
+  LINE RH9
+  D   1  8
+  A   1  8
+  C   2  8
+  Bb  1  8
+  G   1  8
+  Eb  1  8
+  Bb  0  8
+  G   0  8
+  C   0  8
+  D   0  8
+  F   0  8
+  Eb  0  8
+
+MEASURE 194
+  LINE RH9
+  D  -1  4  3
+  REST   8
+  C   0  8
+  D   0  8
+  F#  0  8
+  Bb  0  8
+  A   0  8
+
+MEASURE 194
+  TOGETHER
+  MARK Main-Theme-III
+  LINE LH3
+  REST   4
+  D  -2  4
+  VOLPERC 100
+  D  -2  4
+  REST   4
+  D  -2  4
+  D  -2  4
+
+MEASURE 195
+  LINE RH9
+  G   0  4  3
+  D   1  4  3
+
+MEASURE 195
+  LINE RH6
+  REST   4  3
+  D   0  4  3
+
+MEASURE 195
+  LINE RH7
+  REST   4
+  Bb -1  4
+  Bb -1  4
+  REST   4
+  G  -1  4
+  G  -1  4
+
+MEASURE 195
+  LINE RH8
+  REST   4
+  D   0  4
+  D   0  4
+  REST   4
+  G   0  4
+  G   0  4
+
+MEASURE 195
+  LINE LH3
+  REST   4
+  D  -2  4
+  D  -2  4
+  REST   4
+  D  -1  4
+  D  -1  4
+
+MEASURE 196
+  LINE RH9
+  C   1  4  3
+  REST   8
+  C   0  8
+  D   0  8
+  F#  0  8
+  Bb  0  8
+  A   0  8
+
+MEASURE 196
+  LINE RH6
+  C   0  4  3
+  REST   4  3
+
+MEASURE 196
+  LINE TLRH7
+  TIELINE RH7 92
+  REST   4
+  G  -1  4
+  G  -1  4
+  REST   4  3
+
+MEASURE 196
+  LINE RH7
+  REST   4
+  Eb  0  4
+  Eb  0  4
+  REST   4  3
+
+MEASURE 196
+  LINE RH8
+  REST   4
+  G   0  4
+  G   0  4
+  REST   4  3
+
+MEASURE 196
+  LINE LH3
+  REST   4
+  D  -1  4
+  D  -1  4
+  REST   4
+  D  -2  4
+  D  -2  4
+
+MEASURE 197
+  LINE RH9
+  G   0  4  3
+  E   0  4  3
+
+MEASURE 197
+  LINE TLRH7
+  TIELINE RH7 92
+  REST   1
+  G  -1  4
+  G  -1  4
+
+MEASURE 197
+  LINE RH7
+  REST   4
+  Bb -1  4
+  Bb -1  4
+  REST   4
+  Bb -1  4
+  Bb -1  4
+
+MEASURE 197
+  LINE RH8
+  REST   4
+  D   0  4
+  D   0  4
+  REST   4
+  C#  0  4
+  C#  0  4
+
+MEASURE 197
+  LINE LH3
+  REST   4
+  D  -2  4
+  D  -2  4
+  REST   4
+  D  -2  4
+  D  -2  4
+
+MEASURE 198
+  LINE RH9
+  F#  0  4  3
+  REST   8
+  C   0  8
+  D   0  8
+  F#  0  8
+  Bb  0  8
+  A   0  8
+
+MEASURE 198
+  LINE TLRH7
+  TIELINE RH7 92
+  REST   4
+  F# -1  4
+  F# -1  4
+  REST   4  3
+
+MEASURE 198
+  LINE RH7
+  REST   4
+  A  -1  4
+  A  -1  4
+  REST   4  3
+
+MEASURE 198
+  LINE RH8
+  REST   4
+  D   0  4
+  D   0  4
+  REST   4  3
+
+MEASURE 198
+  LINE LH3
+  REST   4
+  D  -2  4
+  D  -2  4
+  REST   4
+  D  -2  4
+  D  -2  4
+
+MEASURE 199
+  LINE RH6
+  REST   4  3
+  D   0  4  3
+
+MEASURE 199
+  LINE RH9
+  G   0  4  3
+  D   1  4  3
+
+MEASURE 199
+  LINE RH7
+  REST   4
+  Bb -1  4
+  Bb -1  4
+  REST   4
+  G   0  4
+  G   0  4
+
+MEASURE 199
+  LINE RH8
+  REST   4
+  D   0  4
+  D   0  4
+  REST   4
+  Bb  0  4
+  Bb  0  4
+
+MEASURE 199
+  LINE LH3
+  REST   4
+  D  -2  4
+  D  -2  4
+  REST   4
+  D  -1  4
+  D  -1  4
+
+MEASURE 199
+  LINE LH4
+  REST   1
+  G  -1  4
+  G  -1  4
+
+MEASURE 199
+  LINE LH5
+  REST   1
+  Bb -1  4
+  Bb -1  4
+
+MEASURE 200
+  LINE RH6
+  E   0  4  3
+  REST   4  3
+
+MEASURE 200
+  LINE RH9
+  E   1  4  3
+  REST   8
+  Bb -1  8
+  C#  0  8
+  E   0  8
+  A   0  8
+  G   0  8
+
+MEASURE 200
+  LINE RH7
+  REST   4
+  G   0  4
+  G   0  4
+  REST   4  3
+
+MEASURE 200
+  LINE RH8
+  REST   4
+  Bb  0  4
+  Bb  0  4
+  REST   4  3
+
+MEASURE 200
+  LINE LH3
+  REST   4
+  D  -1  4
+  D  -1  4
+  REST   4
+  D  -2  4
+  D  -2  4
+
+MEASURE 200
+  LINE LH4
+  REST   4
+  G  -1  4
+  G  -1  4
+  REST   4  3
+
+MEASURE 200
+  LINE LH5
+  REST   4
+  Bb -1  4
+  Bb -1  4
+  REST   4  3
+
+MEASURE 201
+  LINE RH6
+  REST   4  3
+  E   0  4  3
+
+MEASURE 201
+  LINE RH9
+  G   0  4  3
+  E   1  4  3
+
+MEASURE 201
+  LINE TLRH7
+  TIELINE RH7 92
+  REST   4
+  Bb -1  4
+  Bb -1  4
+  REST   4
+  G   0  4
+  G   0  4
+
+MEASURE 201
+  LINE RH7
+  REST   4
+  C#  0  4
+  C#  0  4
+  REST   4
+  Bb  0  4
+  Bb  0  4
+
+MEASURE 201
+  LINE RH8
+  REST   4
+  E   0  4
+  E   0  4
+  REST   4
+  C#  1  4
+  C#  1  4
+
+MEASURE 201
+  LINE LH3
+  REST   4
+  D  -2  4
+  D  -2  4
+  REST   4
+  D  -1  4
+  D  -1  4
+
+MEASURE 201
+  LINE LH4
+  REST   1
+  G  -1  4
+  G  -1  4
+
+MEASURE 201
+  LINE LH5
+  REST   1
+  Bb -1  4
+  Bb -1  4
+
+MEASURE 202
+  LINE RH6
+  F#  0  4  3
+  E   0  2
+  REST   8
+  F#  0  8
+
+MEASURE 202
+  LINE RH9
+  F#  1  4  3
+  E   1  2
+  REST   8
+  F#  1  8
+
+
+MEASURE 202
+  LINE TLRH7
+  TIELINE RH7 92
+  REST   4
+  G   0  4
+  G   0  4
+  REST   4
+  G   0  4
+  REST   4
+
+MEASURE 202
+  LINE RH7
+  REST   4
+  Bb  0  4
+  Bb  0  4
+  REST   4
+  Bb  0  4
+  REST   4
+
+MEASURE 202
+  LINE RH8
+  REST   4
+  C#  1  4
+  C#  1  4
+  REST   4
+  C#  1  4
+  REST   4
+
+MEASURE 202
+  LINE LH3
+  REST   4
+  D  -1  4
+  D  -1  4
+  REST   4
+  D  -1  4
+  REST   4
+
+MEASURE 202
+  LINE LH4
+  REST   4
+  G  -1  4
+  G  -1  4
+  REST   4
+  G  -1  4
+  REST   4
+
+MEASURE 202
+  LINE LH5
+  REST   4
+  Bb -1  4
+  Bb -1  4
+  REST   4
+  Bb -1  4
+  REST   4
+
+MEASURE 203
+  LINE RH6
+  F#  0  4  3
+  E   0  2
+  REST   8
+  F#  0  8
+
+MEASURE 203
+  LINE RH9
+  F#  1  4  3
+  E   1  2
+  REST   8
+  F#  1  8
+
+MEASURE 203
+  LINE TLRH7
+  TIELINE RH7 92
+  REST   4
+  G   0  4
+  G   0  4
+  REST   4
+  G   0  4
+  REST   4
+
+MEASURE 203
+  LINE RH7
+  REST   4
+  Bb  0  4
+  Bb  0  4
+  REST   4
+  Bb  0  4
+  REST   4
+
+MEASURE 203
+  LINE RH8
+  REST   4
+  C#  1  4
+  C#  1  4
+  REST   4
+  C#  1  4
+  REST   4
+
+MEASURE 203
+  LINE LH3
+  REST   4
+  D  -1  4
+  D  -1  4
+  REST   4
+  D  -1  4
+  REST   4
+
+MEASURE 203
+  LINE LH4
+  REST   4
+  G  -1  4
+  G  -1  4
+  REST   4
+  G  -1  4
+  REST   4
+
+MEASURE 203
+  LINE LH5
+  REST   4
+  Bb -1  4
+  Bb -1  4
+  REST   4
+  Bb -1  4
+  REST   4
+
+MEASURE 204
+  LINE RH6
+  F#  0  4  3
+  E   0  2
+  REST   8
+  F#  0  8
+
+MEASURE 204
+  LINE RH9
+  F#  1  4  3
+  E   1  2
+  REST   8
+  F#  1  8
+
+MEASURE 204
+  LINE TLRH7
+  TIELINE RH7 92
+  REST   4
+  G   0  4
+  G   0  4
+  REST   4
+  G   0  4
+  REST   4
+
+MEASURE 204
+  LINE RH7
+  REST   4
+  Bb  0  4
+  Bb  0  4
+  REST   4
+  Bb  0  4
+  REST   4
+
+MEASURE 204
+  LINE RH8
+  REST   4
+  C#  1  4
+  C#  1  4
+  REST   4
+  C#  1  4
+  REST   4
+
+MEASURE 204
+  LINE LH3
+  REST   4
+  D  -1  4
+  D  -1  4
+  REST   4
+  D  -1  4
+  REST   4
+
+MEASURE 204
+  LINE LH4
+  REST   4
+  G  -1  4
+  G  -1  4
+  REST   4
+  G  -1  4
+  REST   4
+
+MEASURE 204
+  LINE LH5
+  REST   4
+  Bb -1  4
+  Bb -1  4
+  REST   4
+  Bb -1  4
+  REST   4
+
+MEASURE 205
+  LINE RH6
+  A   0  4  3
+  G   0  2
+  A   0  4
+
+MEASURE 205
+  LINE RH9
+  A   1  4  3
+  G   1  2
+  A   1  4
+
+MEASURE 205
+  LINE TLRH7
+  TIELINE RH7 92
+  REST   4
+  Bb  0  4
+  Bb  0  4
+  REST   4
+  Bb  0  4
+  REST   4
+
+MEASURE 205
+  LINE RH7
+  REST   4
+  C#  1  4
+  C#  1  4
+  REST   4
+  C#  1  4
+  REST   4
+
+MEASURE 205
+  LINE RH8
+  REST   4
+  E   1  4
+  E   1  4
+  REST   4
+  E   1  4
+  REST   4
+
+MEASURE 205
+  LINE LH3
+  REST   4
+  Bb -1  4
+  Bb -1  4
+  REST   4
+  Bb -1  4
+  REST   4
+
+MEASURE 205
+  LINE LH4
+  REST   4
+  C#  0  4
+  C#  0  4
+  REST   4
+  C#  0  4
+  REST   4
+
+MEASURE 205
+  LINE LH5
+  REST   4
+  E   0  4
+  E   0  4
+  REST   4
+  E   0  4
+  REST   4
+
+MEASURE 206
+  LINE TLRH7
+  TIELINE RH6 92
+  Bb  0  4
+  REST   4  5
+
+MEASURE 206
+  LINE RH6
+  D   1  4
+  REST   8
+  D   2  8
+  Eb  2  8
+  D   2  8
+  C   2  8
+  Bb  1  8
+  A   1  8
+  Bb  1  8
+  A   1  8
+  REST  16
+  G   1 16
+
+MEASURE 206
+  LINE RH9
+  Bb  1  4
+  REST   8
+  Bb  2  8
+  C   3  8
+  Bb  2  8
+  A   2  8
+  G   2  8
+  F#  2  8
+  G   2  8
+  F   2  8
+  REST  16
+  Eb  2 16
+
+MEASURE 206
+  LINE LH3
+  D  -3  4
+  D  -1  4
+  G  -1  4
+  Bb -1  4
+  G  -1  4
+  D  -1  4
+
+MEASURE 206
+  LINE LH4
+  D  -2  4
+  Bb -1  4
+  D   0  4
+  G   0  4
+  D   0  4
+  Bb -1  4
+
+
+MEASURE 207
+  LINE RH6
+  G   1  8
+  F#  1  8
+  Eb  1  8
+  D   1  8
+  C   1  8
+  Bb  0  8
+  A   0  4 1 3
+  C   1  4 1 3
+  C   1  4 1 3
+  B   0  4 1 5
+  Bb  0  4 1 5
+  A   0  4 1 5
+  G#  0  4 1 5
+  A   0  4 1 5
+  Bb  0  16
+  A   0  16
+  C   1  16
+  Bb  0  16
+
+MEASURE 207
+  LINE RH9
+  Eb  2  8
+  D   2  8
+  C   2  8
+  Bb  1  8
+  A   1  8
+  G   1  8  
+  F#  1  4 1 3
+  Eb  1  4 1 3
+  D   1  4 1 3
+  D   1  4 1 5
+  D   1  4 1 5
+  D   1  4 1 5
+  D   1  4 1 5
+  D   1  4 1 5
+  D   1  16
+  D   1  16
+  D   1  16
+  D   1  16
+
+MEASURE 207
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   4
+  D  -1  4
+  F# -1  4
+  REST   4
+  F# -1  4
+  D  -1  4
+
+MEASURE 207
+  LINE LH4
+  D  -3  4
+  F# -1  4
+  C   0  4
+  C   0  4
+  C   0  4
+  F# -1  4
+
+MEASURE 207
+  LINE LH5
+  D  -2  4
+  C   0  4
+  D   0  4
+  F#  0  4
+  D   0  4
+  C   0  4
+
+MEASURE 208
+  MARK Coda
+  METER 4 4
+
+
+MEASURE 208
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   2
+  Bb -1  4
+  REST   4
+
+MEASURE 208
+  LINE LH4
+  G  -3  4
+  REST   4
+  D   0  4
+  REST   4
+
+MEASURE 208
+  LINE LH5
+  G  -2  4
+  REST   4
+  G   0  4
+  REST   4
+
+MEASURE 208
+  LINE LH2
+  REST   4  3
+  Bb -2  4
+
+MEASURE 208
+  LINE TLRH6
+  TIELINE RH8 80
+  REST   4
+  D   2  8
+  REST   4
+  Bb  1  8
+  Bb  1  8
+  REST   8
+
+MEASURE 208
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   4
+  G   2  8
+  REST   4
+  D   2  8
+  D   2  8
+  REST   8
+
+MEASURE 208
+  LINE RH8
+  G   0  8
+  REST   8
+  Bb  2  8
+  A   1  8
+  REST   8
+  G   2  8
+  G   2  8
+  F#  1  8
+
+MEASURE 208
+  LINE RH9
+  D   1  8
+  REST   8  7
+
+MEASURE 209
+  LINE TLLH2
+  TIELINE LH4 95
+  Bb -1  4
+  REST   4
+  Bb -1  4
+  REST   4
+
+MEASURE 209
+  LINE LH4
+  D   0  4
+  REST   4
+  D   0  4
+  REST   4
+
+MEASURE 209
+  LINE LH5
+  G   0  4
+  REST   4
+  G   0  4
+  REST   4
+
+MEASURE 209
+  LINE LH2
+  REST   4
+  D  -1  4
+  REST   4
+  G  -1  4
+
+MEASURE 209
+  LINE TLRH6
+  TIELINE RH8 80
+  REST   8
+  G   1  8
+  G   1  8
+  REST   4
+  D   1  8
+  D   1  8
+  REST   8
+
+MEASURE 209
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  Bb  1  8
+  Bb  1  8
+  REST   4
+  G   1  8
+  G   1  8
+  REST   8
+
+MEASURE 209
+  LINE RH8
+  REST   8
+  D   2  8
+  D   2  8
+  C#  1  8
+  REST   8
+  Bb  1  8
+  Bb  1  8
+  Bb  0  8
+
+MEASURE 210
+  LINE TLLH2
+  TIELINE LH4 95
+  A  -1  4
+  REST   4
+  C   0  4
+  REST   4
+
+MEASURE 210
+  LINE TLLH3
+  TIELINE LH4 93
+  C   0  4
+  REST   4  3
+
+MEASURE 210
+  LINE LH4
+  Eb  0  4
+  REST   4
+  Eb  0  4
+  REST   4
+
+MEASURE 210
+  LINE LH5
+  G   0  4
+  REST   4
+  G   0  4
+  REST   4
+
+MEASURE 210
+  LINE LH2
+  REST   4
+  A  -2  4
+  REST   4
+  A  -1  4
+
+MEASURE 210
+  LINE TLRH6
+  TIELINE RH8 80
+  REST   8
+  Eb  1  8
+  Eb  1  8
+  REST   8  3
+  Eb  1  8
+  REST   8
+
+MEASURE 210
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  G   1  8
+  G   1  8
+  REST   8  3
+  G   1  8
+  REST   8
+
+MEASURE 210
+  LINE RH8
+  REST   8
+  C   2  8
+  C   2  8
+  D   1  8
+  C#  1  8
+  C   1  8
+  C   2  8
+  D   1  8
+
+MEASURE 211
+  LINE TLLH2
+  TIELINE LH4 95
+  C   0  4
+  REST   4
+  C   0  4
+  REST   4
+
+MEASURE 211
+  LINE LH4
+  D   0  4
+  REST   4
+  D   0  4
+  REST   4
+
+MEASURE 211
+  LINE LH5
+  F#  0  4
+  REST   4
+  F#  0  4
+  REST   4
+
+MEASURE 211
+  LINE LH2
+  REST   4
+  D  -1  4
+  REST   4
+  A  -1  4
+
+MEASURE 211
+  LINE TLRH6
+  TIELINE RH8 80
+  REST   4
+  Eb  1  8
+  REST   8  3
+  D   1  8
+  REST   8
+
+MEASURE 211
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   4
+  F#  1  8
+  REST   8  3
+  F#  1  8
+  REST   8
+
+MEASURE 211
+  LINE RH8
+  C#  1  8
+  C   1  8
+  C   2  8
+  D   1  8
+  C#  1  8
+  C   1  8
+  A   1  8
+  C   1  8
+
+MEASURE 212
+  LINE TLLH2
+  TIELINE LH4 95
+  G  -1  4
+  REST   4
+  Bb -1  4
+  REST   4
+
+MEASURE 212
+  LINE LH4
+  D   0  4
+  REST   4
+  D   0  4
+  REST   4
+
+MEASURE 212
+  LINE LH5
+  G   0  4
+  REST   4
+  G   0  4
+  REST   4
+
+MEASURE 212
+  LINE LH2
+  REST   4
+  G  -2  4
+  REST   4
+  Bb -2  4
+
+MEASURE 212
+  LINE TLRH5
+  TIELINE RH8 78
+  Bb  0  4
+  REST   4  3
+
+MEASURE 212
+  LINE TLRH6
+  TIELINE RH8 80
+  D   1  4
+  D   2  8
+  REST   4
+  Bb  1  8
+  Bb  1  8
+  REST   8
+
+MEASURE 212
+  LINE TLRH7
+  TIELINE RH8 82
+  G   1  4
+  G   2  8
+  REST   4
+  D   2  8
+  D   2  8
+  REST   8
+
+MEASURE 212
+  LINE RH8
+  Bb  1  4
+  Bb  2  8
+  A   1  8
+  REST   8
+  G   2  8
+  G   2  8
+  F#  1  8
+
+MEASURE 213
+  LINE TLLH2
+  TIELINE LH4 95
+  Bb -1  4
+  REST   4
+  Bb -1  4
+  REST   4
+
+MEASURE 213
+  LINE LH4
+  D   0  4
+  REST   4
+  D   0  4
+  REST   4
+
+MEASURE 213
+  LINE LH5
+  G   0  4
+  REST   4
+  G   0  4
+  REST   4
+
+MEASURE 213
+  LINE LH2
+  REST   4
+  D  -1  4
+  REST   4
+  G  -1  4
+
+MEASURE 213
+  LINE TLRH6
+  TIELINE RH8 80
+  REST   8
+  G   1  8
+  G   1  8
+  REST   4
+  D   1  8
+  D   1  8
+  REST   8
+
+MEASURE 213
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  Bb  1  8
+  Bb  1  8
+  REST   4
+  G   1  8
+  G   1  8
+  REST   8
+
+MEASURE 213
+  LINE RH8
+  REST   8
+  D   2  8
+  D   2  8
+  C#  1  8
+  REST   8
+  Bb  1  8
+  Bb  1  8
+  Bb  0  8
+
+MEASURE 214
+  LINE TLLH2
+  TIELINE LH4 95
+  A  -1  4
+  REST   4
+  C   0  4
+  REST   4
+
+MEASURE 214
+  LINE TLLH3
+  TIELINE LH4 93
+  C   0  4
+  REST   4  3
+
+MEASURE 214
+  LINE LH4
+  Eb  0  4
+  REST   4
+  Eb  0  4
+  REST   4
+
+MEASURE 214
+  LINE LH5
+  G   0  4
+  REST   4
+  G   0  4
+  REST   4
+
+MEASURE 214
+  LINE LH2
+  REST   4
+  A  -2  4
+  REST   4
+  A  -1  4
+
+MEASURE 214
+  LINE TLRH6
+  TIELINE RH8 80
+  REST   8
+  Eb  1  8
+  Eb  1  8
+  REST   8  3
+  Eb  1  8
+  REST   8
+
+MEASURE 214
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  G   1  8
+  G   1  8
+  REST   8  3
+  G   1  8
+  REST   8
+
+MEASURE 214
+  LINE RH8
+  REST   8
+  C   2  8
+  C   2  8
+  D   1  8
+  C#  1  8
+  C   1  8
+  C   2  8
+  D   1  8
+
+MEASURE 215
+  LINE TLLH2
+  TIELINE LH4 95
+  C   0  4
+  REST   4
+  C   0  4
+  REST   4
+
+MEASURE 215
+  LINE LH4
+  D   0  4
+  REST   4
+  D   0  4
+  REST   4
+
+MEASURE 215
+  LINE LH5
+  F#  0  4
+  REST   4
+  F#  0  4
+  REST   4
+
+MEASURE 215
+  LINE LH2
+  REST   4
+  D  -1  4
+  REST   4
+  A  -1  4
+
+MEASURE 215
+  LINE TLRH6
+  TIELINE RH8 80
+  REST   4
+  Eb  1  8
+  REST   8  3
+  D   1  8
+  REST   8
+
+MEASURE 215
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   4
+  F#  1  8
+  REST   8  3
+  F#  1  8
+  REST   8
+
+MEASURE 215
+  LINE RH8
+  C#  1  8
+  C   1  8
+  C   2  8
+  D   1  8
+  C#  1  8
+  C   1  8
+  A   1  8
+  C   1  8
+
+
+MEASURE 216
+  APART
+  LINE TLLH2
+  TIELINE LH4 95
+  G  -1  4
+  REST   4  3
+
+MEASURE 216
+  LINE LH4
+  D   0  4
+  REST   2
+  Ab -1  4
+
+MEASURE 216
+  LINE LH5
+  G   0  4
+  REST   2
+  Eb  0  4
+
+MEASURE 216
+  LINE LH2
+  REST   4
+  C  -1  4  3
+
+MEASURE 216
+  LINE TLRH5
+  TIELINE RH8 78
+  Bb  0  4
+  REST   4  3
+
+MEASURE 216
+  LINE TLRH6
+  TIELINE RH8 80
+  D   1  4
+  REST   4  3
+
+MEASURE 216
+  LINE TLRH7
+  TIELINE RH8 82
+  G   1  4
+  REST   8
+  Eb  2  8
+  REST   8
+  Eb  1  8
+  REST   8
+  Eb  1  8
+
+MEASURE 216
+  LINE RH8
+  Bb  1  4
+  Ab  1  8
+  Ab  2  8
+  Ab  1  8
+  Ab  1  8
+  G   0  8
+  G   1  8
+
+MEASURE 217
+  LINE TLLH2
+  TIELINE LH4 95
+  REST   4
+  A  -1  4
+  REST   4
+  G  -1  4
+
+MEASURE 217
+  LINE LH4
+  REST   4
+  C   0  4
+  REST   4
+  Bb -1  4
+
+MEASURE 217
+  LINE LH5
+  REST   4
+  D   0  4
+  REST   4
+  D   0  4
+
+MEASURE 217
+  LINE LH2
+  D  -1  4
+  REST   4
+  G  -2  4
+  REST   4
+
+MEASURE 217
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  A   0  8
+  REST   8
+  A   1  8
+  REST   8
+  Bb  1  8
+  REST   8
+  Bb  0  8
+
+MEASURE 217
+  LINE RH8
+  F#  0  8
+  F#  1  8
+  F#  1  8
+  F#  2  8
+  G   1  8
+  G   2  8
+  G   1  8
+  G   1  8
+
+MEASURE 218
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  Eb  1  8
+  REST   8
+  Eb  2  8
+  REST   8
+  Eb  1  8
+  REST   8
+  Eb  1  8
+
+MEASURE 218
+  LINE RH8
+  Ab  0  8
+  Ab  1  8
+  Ab  1  8
+  Ab  2  8
+  Ab  1  8
+  Ab  1  8
+  G   0  8
+  G   1  8
+
+MEASURE 218
+  LINE LH2
+  C  -1  1
+
+MEASURE 218
+  LINE LH4
+  REST   4
+  Ab -1  2
+  Ab -1  4
+
+MEASURE 218
+  LINE LH5
+  REST   4
+  Eb  0  2
+  Eb  0  4
+
+MEASURE 219
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  A   0  8
+  REST   8
+  A   1  8
+  REST   8
+  Bb  1  8
+  REST   8
+  Bb  0  8
+
+MEASURE 219
+  LINE RH8
+  F#  0  8
+  F#  1  8
+  F#  1  8
+  F#  2  8
+  G   1  8
+  G   2  8
+  G   1  8
+  G   1  8
+
+
+MEASURE 219
+  LINE LH2
+  D  -1  4
+  REST   4
+  G  -2  4
+  REST   4
+
+MEASURE 219
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   4
+  A  -1  4
+  REST   4
+  G  -1  4
+
+MEASURE 219
+  LINE LH4
+  REST   4
+  C   0  4
+  REST   4
+  Bb -1  4
+
+MEASURE 219
+  LINE LH5
+  REST   4
+  D   0  4
+  REST   4
+  D   0  4
+
+MEASURE 220
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  Ab  0  8
+  REST   8
+  Ab  1  8
+  REST   8
+  A   0  8
+  REST   8
+  A   0  8
+
+MEASURE 220
+  LINE RH8
+  F   0  8
+  F   1  8
+  F   1  8
+  F   2  8
+  F   1  8
+  Eb  1  8
+  Eb  0  8
+  Eb  1  8
+
+MEASURE 220
+  LINE LH2
+  B  -2  4
+  REST   4
+  C  -1  2
+
+MEASURE 220
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   4
+  F  -1  4
+  REST   4
+  Eb -1  4
+
+MEASURE 220
+  LINE LH4
+  REST   4
+  Ab -1  4
+  REST   4
+  Ab -1  4
+
+MEASURE 220
+  LINE LH5
+  REST   4
+  D   0  4
+  REST   4
+  C   0  4
+
+MEASURE 221
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  Ab  0  8
+  REST   8
+  Ab  1  8
+  REST   8
+  Ab  0  8
+  REST   8
+  Ab  0  8
+
+MEASURE 221
+  LINE RH8
+  D   0  8
+  D   1  8
+  D   1  8
+  D   2  8
+  D   1  8
+  C   1  8
+  C   0  8
+  C   1  8
+
+MEASURE 221
+  LINE LH2
+  D  -1  2
+  Eb -1  2
+
+MEASURE 221
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   4
+  F  -1  4
+  REST   2
+
+MEASURE 221
+  LINE LH4
+  REST   4
+  Ab -1  4
+  REST   4
+  PHANTOM 4
+
+MEASURE 221
+  LINE LH5
+  REST   4
+  B  -1  4
+  REST   4
+  Ab -1  4
+
+
+MEASURE 222
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  Eb  0  8
+  REST   8
+  Eb  1  8
+  REST   8
+  Eb  1  8
+  REST   8
+  D   1  8
+
+MEASURE 222
+  LINE RH8
+  C   0  8
+  C   1  8
+  C   1  8
+  C   2  8
+  C   1  8
+  C   2  8
+  Bb  0  8
+  Bb  1  8
+
+MEASURE 222
+  LINE LH2
+  F# -2  4
+  REST   2
+  G  -2  4
+
+MEASURE 222
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   4
+  F# -1  4
+  G  -1  4
+  REST   4
+
+MEASURE 222
+  LINE LH4
+  REST   4
+  C   0  4
+  Bb -1  4
+  REST   4
+
+MEASURE 222
+  LINE LH5
+  REST   4
+  Eb  0  4
+  D   0  4
+  REST   4
+
+
+MEASURE 223
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  D   1  8
+  REST   8
+  C   1  8
+  REST   8
+  Bb  0  8
+  REST   8
+  A   0  8
+
+MEASURE 223
+  LINE RH8
+  Bb  0  8
+  Bb  1  8
+  A   0  8
+  A   1  8
+  G   0  8
+  G   1  8
+  F#  0  8
+  F#  1  8
+
+
+MEASURE 223
+  LINE LH2
+  C  -1  4
+  REST   4
+  D  -1  2
+
+
+MEASURE 223
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   4
+  A  -1  4
+  REST   4
+  A  -1  4
+
+MEASURE 223
+  LINE LH4
+  REST   4
+  Eb  0  4
+  REST   4
+  C   0  4
+
+MEASURE 223
+  LINE LH5
+  REST   4
+  G   0  4
+  REST   4
+  D   0  4
+
+MEASURE 224
+  LINE TLRH6
+  TIELINE RH8 80
+  G   0  4
+  REST   4  3
+
+MEASURE 224
+  LINE TLRH7
+  TIELINE RH8 82
+  Bb  0  4
+  REST   8
+  Eb  2  8
+  REST   8
+  Eb  1  8
+  REST   8
+  Eb  1  8
+
+MEASURE 224
+  LINE RH8
+  G   1  4
+  Ab  1  8
+  Ab  2  8
+  Ab  1  8
+  Ab  1  8
+  G   0  8
+  G   1  8
+
+MEASURE 224
+  LINE LH2
+  REST   4
+  C  -1  4  3
+
+MEASURE 224
+  LINE TLLH2
+  TIELINE LH4 92
+  G  -1  4
+  REST   4  3
+
+MEASURE 224
+  LINE LH4
+  Bb -1  4
+  REST   2
+  Ab -1  4
+
+MEASURE 224
+  LINE LH5
+  D   0  4
+  REST   2
+  Eb  0  4
+
+MEASURE 225
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  A   0  8
+  REST   8
+  A   1  8
+  REST   8
+  Bb  1  8
+  REST   8
+  Bb  0  8
+
+MEASURE 225
+  LINE RH8
+  F#  0  8
+  F#  1  8
+  F#  1  8
+  F#  2  8
+  G   1  8
+  G   2  8
+  G   1  8
+  G   1  8
+
+MEASURE 225
+  LINE LH2
+  D  -1  4
+  REST   4
+  G  -2  4
+  REST   4
+
+MEASURE 225
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   4
+  A  -1  4
+  REST   4
+  G  -1  4
+
+MEASURE 225
+  LINE LH4
+  REST   4
+  C   0  4
+  REST   4
+  Bb -1  4
+
+MEASURE 225
+  LINE LH5
+  REST   4
+  D   0  4
+  REST   4
+  D   0  4
+
+MEASURE 226
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  Eb  1  8
+  REST   8
+  Eb  2  8
+  REST   8
+  Eb  1  8
+  REST   8
+  C   1  8
+
+MEASURE 226
+  LINE RH8
+  Ab  0  8
+  Ab  1  8
+  Ab  1  8
+  Ab  2  8
+  Ab  1  8
+  Ab  1  8
+  G   0  8
+  G   1  8
+
+MEASURE 226
+  LINE LH2
+  C  -1  2
+  D  -1  4
+  REST   4
+
+MEASURE 226
+  LINE LH4
+  REST   4
+  Ab -1  4  3
+
+MEASURE 226
+  LINE LH4a
+  REST   4  3
+  Eb -1  4
+
+MEASURE 226
+  LINE LH5
+  REST   4
+  Eb  0  4  3
+
+MEASURE 226
+  LINE LH5a
+  REST   4  3
+  PHANTOM 4
+
+MEASURE 227
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  A   0  8
+  REST   8
+  A   1  8
+  REST   8
+  Bb  1  8
+  REST   8
+  Bb  0  8
+
+MEASURE 227
+  LINE RH8
+  F#  0  8
+  F#  1  8
+  F#  1  8
+  F#  2  8
+  G   1  8
+  G   2  8
+  G   1  8
+  G   1  8
+
+MEASURE 227
+  LINE LH2
+  D  -1  4
+  REST   4
+  G  -2  4
+  REST   4
+
+MEASURE 227
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   4
+  A  -1  4
+  REST   4
+  G  -1  4
+
+MEASURE 227
+  LINE LH4
+  REST   4
+  C   0  4
+  REST   4
+  Bb -1  4
+
+MEASURE 227
+  LINE LH5
+  REST   4
+  D   0  4
+  REST   4
+  D   0  4
+
+MEASURE 228
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  Ab  0  8
+  REST   8
+  Ab  1  8
+  REST   8
+  G   0  8
+  REST   8
+  G   0  8
+
+MEASURE 228
+  LINE RH8
+  F   0  8
+  F   1  8
+  F   1  8
+  F   2  8
+  F   1  8
+  Eb  1  8
+  Eb  0  8
+  Eb  1  8
+
+MEASURE 228
+  LINE TLLH2a
+  TIELINE LH2 92
+  B  -3  4
+  REST   4
+  C  -2  4
+  REST   4
+
+MEASURE 228
+  LINE LH2
+  B  -2  4
+  REST   4
+  C  -1  4
+  REST   4
+
+MEASURE 228
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   4
+  F  -1  4
+  REST   4
+  Eb -1  4
+
+MEASURE 228
+  LINE LH4
+  REST   4
+  Ab -1  4
+  REST   4
+  G  -1  4
+
+MEASURE 228
+  LINE LH5
+  REST   4
+  D   0  4
+  REST   4
+  C   0  4
+
+MEASURE 229
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  F#  0  8
+  REST   8
+  F#  1  8
+  REST   8
+  E   0  8
+  REST   8
+  E   0  8
+
+MEASURE 229
+  LINE RH8
+  D   0  8
+  D   1  8
+  D   1  8
+  D   2  8
+  D   1  8
+  C#  1  8
+  C#  0  8
+  C#  1  8
+
+MEASURE 229
+  LINE TLLH2a
+  TIELINE LH2 92
+  D  -2  4
+  REST   4
+  E  -2  4
+  REST   4
+
+MEASURE 229
+  LINE LH2
+  D  -1  4
+  REST   4
+  E  -1  4
+  REST   4
+
+MEASURE 229
+  LINE LH4
+  REST   4
+  F# -1  4
+  REST   4
+  PHANTOM 4
+
+MEASURE 229
+  LINE LH5
+  REST   4
+  A  -1  4
+  REST   4
+  G  -1  4
+
+MEASURE 230
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  Eb  0  8
+  REST   8
+  Eb  1  8
+  REST   8
+  Eb  1  8
+  REST   8
+  Eb  1  8
+
+MEASURE 230
+  LINE RH8
+  C   0  8
+  C   1  8
+  C   1  8
+  C   2  8
+  B   0  8
+  B   1  8
+  C   1  8
+  C   2  8
+
+MEASURE 230
+  LINE TLLH2a
+  TIELINE LH2 92
+  F# -2  4
+  REST   2
+  G  -2  4
+
+MEASURE 230
+  LINE LH2
+  F# -1  4
+  REST   2
+  G  -1  4
+
+MEASURE 230
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   4
+  F  -1  4
+  G  -1  4
+  REST   4
+
+MEASURE 230
+  LINE LH4
+  REST   4
+  C   0  4
+  C   0  4
+  REST   4
+
+MEASURE 230
+  LINE LH5
+  REST   4
+  Eb  0  4
+  Eb  0  4
+  REST   4
+
+MEASURE 231
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  Eb  1  8
+  REST   8
+  F#  1  8
+  REST   8
+  F#  1  8
+  REST   8
+  F#  1  8
+
+MEASURE 231
+  LINE RH8
+  C   1  8
+  C   2  8
+  Eb  1  8
+  Eb  2  8
+  D   1  8
+  D   2  8
+  Eb  1  8
+  Eb  2  8
+
+MEASURE 231
+  LINE TLLH2a
+  TIELINE LH2 92
+  Ab -2  4
+  REST   2
+  A  -2  4
+
+MEASURE 231
+  LINE LH2
+  Ab -1  4
+  REST   2
+  A  -1  4
+
+MEASURE 231
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   4
+  Ab -1  4
+  A  -1  4
+  REST   4
+
+MEASURE 231
+  LINE LH4
+  REST   4
+  Eb  0  4
+  Eb  0  4
+  REST   4
+
+MEASURE 231
+  LINE LH5
+  REST   4
+  F#  0  4
+  F#  0  4
+  REST   4
+
+
+MEASURE 232
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  F#  1  8
+  REST   8
+  Bb  1  8
+  REST   8
+  Ab  1  8
+  REST   8
+  A   1  8
+
+MEASURE 232
+  LINE RH8
+  Eb  1  8
+  Eb  2  8
+  F#  1  8
+  F#  2  8
+  F   1  8
+  F   2  8
+  F#  1  8
+  F#  2  8
+
+MEASURE 232
+  LINE TLLH2a
+  TIELINE LH2 92
+  Bb -2  4
+  REST   2
+  B  -2  4
+
+MEASURE 232
+  LINE LH2
+  Bb -1  4
+  REST   2
+  B  -1  4
+
+MEASURE 232
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   4
+  Bb -1  4
+  B  -1  4
+  REST   4
+
+MEASURE 232
+  LINE LH4
+  REST   4
+  Eb  0  4
+  Eb  0  4
+  REST   4
+
+MEASURE 232
+  LINE LH5
+  REST   4
+  F#  0  4
+  A   0  4
+  REST   4
+
+MEASURE 233
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  A   1  8
+  REST   8
+  C   2  8
+  REST   8
+  D   2  8
+  REST   8
+  Eb  2  8
+
+MEASURE 233
+  LINE RH8
+  F#  1  8
+  F#  2  8
+  A   1  8
+  A   2  8
+  Bb  1  8
+  Bb  2  8
+  C   2  8
+  C   3  8
+
+MEASURE 233
+  LINE TLLH2a
+  TIELINE LH2 92
+  C  -1  4
+  REST   4  3
+
+MEASURE 233
+  LINE LH2
+  C   0  4
+  REST   4  3
+
+MEASURE 233
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   4
+  C   0  2
+  C   0  4
+
+MEASURE 233
+  LINE TLLH3
+  TIELINE LH4 90
+  REST   4
+  D   0  2
+  D   0  4
+
+MEASURE 233
+  LINE LH4
+  REST   4
+  F#  0  2
+  F#  0  4
+
+MEASURE 233
+  LINE LH5
+  REST   4
+  A   0  2
+  A   0  4
+
+MEASURE 234
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  Eb  2  8
+  REST   8
+  D   2  8
+  REST   8
+  D   2  8
+  REST   8
+  C   2  8
+
+MEASURE 234
+  LINE RH8
+  C   2  8
+  C   3  8
+  Bb  1  8
+  Bb  2  8
+  Bb  1  8
+  Bb  2  8
+  A   1  8
+  A   2  8
+
+MEASURE 234
+  LINE TLLH2a
+  TIELINE LH2 90
+  Bb -2  4
+  REST   4
+  C  -1  4
+  REST   4
+
+MEASURE 234
+  LINE LH2
+  Bb -1  4
+  REST   4
+  C   0  4
+  REST   4
+
+MEASURE 234
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   4
+  G  -1  4
+  REST   4
+  A  -1  4
+
+MEASURE 234
+  LINE LH4
+  REST   4
+  D   0  4
+  REST   4
+  Eb  0  4
+
+MEASURE 234
+  LINE LH5
+  REST   4
+  G   0  4
+  REST   4
+  G   0  4
+
+MEASURE 235
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   8
+  C   2  8
+  REST   8
+  Bb  1  8
+  REST   8
+  Bb  1  8
+  REST   8
+  F#  1  8
+
+MEASURE 235
+  LINE RH8
+  A   1  8
+  A   2  8
+  G   1  8
+  G   2  8
+  G   1  8
+  G   2  8
+  D   1  8
+  D   2  8
+
+MEASURE 235
+  LINE TLLH2a
+  TIELINE LH2 90
+  D  -1  4
+  REST   4
+  C  -1  4
+  REST   4
+
+MEASURE 235
+  LINE LH2
+  D   0  4
+  REST   4
+  C   0  4
+  REST   4
+
+MEASURE 235
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   4
+  D   0  4
+  REST   4
+  C   0  4
+
+MEASURE 235
+  LINE TLLH3
+  TIELINE LH4 90
+  REST   4  3
+  D   0  4
+
+MEASURE 235
+  LINE LH4
+  REST   4
+  G   0  4
+  REST   4
+  F#  0  4
+
+MEASURE 235
+  LINE LH5
+  REST   4
+  Bb  0  4
+  REST   4
+  A   0  4
+
+MEASURE 236
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   4
+  D   2  8
+  REST   8
+  C#  2  8
+  REST   8
+  C   2  8
+  REST   8
+
+MEASURE 236
+  LINE RH8
+  REST   8
+  Bb  1  8
+  Bb  2  8
+  Bb  1  8
+  Bb  2  8
+  Bb  1  8
+  A   2  8
+  A   1  8
+
+MEASURE 236
+  LINE TLLH2a
+  TIELINE LH2 90
+  Bb -2  4
+  REST   4
+  C  -1  4
+  REST   4
+
+MEASURE 236
+  LINE LH2
+  Bb -1  4
+  REST   4
+  C   0  4
+  REST   4
+
+MEASURE 236
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   4
+  G  -1  4
+  REST   4
+  A  -1  4
+
+MEASURE 236
+  LINE LH4
+  REST   4
+  D   0  4
+  REST   4
+  Eb  0  4
+
+MEASURE 236
+  LINE LH5
+  REST   4
+  G   0  4
+  REST   4
+  G   0  4
+
+MEASURE 237
+  LINE TLRH7
+  TIELINE RH8 82
+  C   2  8
+  REST   8
+  Bb  1  8
+  REST   8
+  Bb  1  8
+  REST   8
+  F#  1  8
+  REST   8
+
+MEASURE 237
+  LINE RH8
+  A   2  8
+  A   1  8
+  G   2  8
+  G   1  8
+  G   2  8
+  G   1  8
+  D   2  8
+  D   1  8
+
+
+MEASURE 237
+  LINE TLLH2a
+  TIELINE LH2 90
+  D  -1  4
+  REST   4
+  C  -1  4
+  REST   4
+
+MEASURE 237
+  LINE LH2
+  D   0  4
+  REST   4
+  C   0  4
+  REST   4
+
+MEASURE 237
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   4
+  D   0  4
+  REST   4
+  C   0  4
+
+MEASURE 237
+  LINE TLLH3
+  TIELINE LH4 90
+  REST   4  3
+  D   0  4
+
+MEASURE 237
+  LINE LH4
+  REST   4
+  G   0  4
+  REST   4
+  F#  0  4
+
+MEASURE 237
+  LINE LH5
+  REST   4
+  Bb  0  4
+  REST   4
+  A   0  4
+
+MEASURE 238
+  LINE TLRH6
+  TIELINE RH8 80
+  REST   4
+  G   2  8
+  REST   8  3
+  G   1  8
+  REST   8
+
+MEASURE 238
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   4
+  Bb  2  8
+  REST   8  3
+  Bb  1  8
+  REST   8
+
+MEASURE 238
+  LINE RH8
+  REST   8
+  D   2  8
+  D   3  8
+  D   2  8
+  REST   4
+  D   2  8
+  D   1  8
+
+MEASURE 238
+  LINE TLLH2a
+  TIELINE LH2 90
+  Bb -2  4
+  REST   4  3
+
+MEASURE 238
+  LINE LH2
+  Bb -1  4
+  REST   4  3
+
+MEASURE 238
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   2
+  G   1  8
+  REST   8  3
+
+MEASURE 238
+  LINE TLLH3
+  TIELINE LH4 90
+  REST   2
+  Bb  1  8
+  REST   8  3
+
+MEASURE 238
+  LINE LH4
+  REST   2
+  D   2  8
+  D   1  8
+  REST   4
+
+MEASURE 239
+  LINE TLRH6
+  TIELINE RH8 80
+  REST   4
+  G   0  8
+  REST   8  3
+  G  -1  8
+  REST   8
+
+MEASURE 239
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   4
+  Bb  0  8
+  REST   8  3
+  Bb -1  8
+  REST   8
+
+MEASURE 239
+  LINE RH8
+  REST   4
+  D   1  8
+  D   0  8
+  REST   4
+  D   0  8
+  D  -1  8
+
+
+MEASURE 239
+  LINE TLLH2
+  TIELINE LH4 92
+  G   0  8
+  REST   8  3
+  G  -1  8
+  REST   8  3
+
+MEASURE 239
+  LINE TLLH3
+  TIELINE LH4 90
+  Bb  0  8
+  REST   8  3
+  Bb -1  8
+  REST   8  3
+
+MEASURE 239
+  LINE LH4
+  D   1  8
+  D   0  8
+  REST   4
+  D   0  8
+  D  -1  8
+  REST   4
+
+MEASURE 240
+  LINE TLRH6
+  TIELINE RH8 80
+  REST   4
+  G  -1  8
+  REST   8  3
+  G  -1  8
+  REST   8
+
+MEASURE 240
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   4
+  Bb -1  8
+  REST   8  3
+  Bb -1  8
+  REST   8
+
+MEASURE 240
+  LINE RH8
+  REST   4
+  E   0  8
+  D  -1  8
+  REST   4
+  E   0  8
+  D  -1  8
+
+MEASURE 240
+  LINE TLLH2
+  TIELINE LH4 92
+  F# -3  8
+  G  -3  8
+  REST   4
+  C# -2  8
+  D  -2  8
+  REST   4
+
+MEASURE 240
+  LINE LH4
+  F# -2  8
+  G  -2  8
+  REST   4
+  C# -1  8
+  D  -1  8
+  REST   4
+
+MEASURE 241
+  LINE TLRH6
+  TIELINE RH8 80
+  REST   4
+  G  -1  8
+  REST   8  3
+  G  -1  8
+  REST   8
+
+MEASURE 241
+  LINE TLRH7
+  TIELINE RH8 82
+  REST   4
+  Bb -1  8
+  REST   8  3
+  Bb -1  8
+  REST   8
+
+MEASURE 241
+  LINE RH8
+  REST   4
+  E   0  8
+  D  -1  8
+  REST   4
+  E   0  8
+  D  -1  8
+
+MEASURE 241
+  LINE TLLH2
+  TIELINE LH4 92
+  F# -3  8
+  G  -3  8
+  REST   4
+  C# -2  8
+  D  -2  8
+  REST   4
+
+MEASURE 241
+  LINE LH4
+  F# -2  8
+  G  -2  8
+  REST   4
+  C# -1  8
+  D  -1  8
+  REST   4
+
+MEASURE 242
+  APART
+  LINE RH8
+  REST   2
+  TEMPO RESET
+  G  -1 4 1 3
+  TEMPO RESET
+  Ab -1 4 1 3
+  A  -1 4 1 3
+  Bb -1 4 1 3
+  B  -1 4 1 3
+  C   0 4 1 3
+
+MEASURE 242
+  LINE TLLH2
+  TIELINE LH4 92
+  D  -3  2
+  REST   2
+
+MEASURE 242
+  LINE LH4
+  D  -2  2
+  REST   2
+
+MEASURE 243
+  LINE RH8
+  C#  0 4 1 3
+  D   0 4 1 3
+  Eb  0 4 1 3
+  E   0 4 1 3
+  F   0 4 1 3
+  F#  0 4 1 3
+  G   0 4 1 3
+  Ab  0 4 1 3
+  A   0 4 1 3
+  Bb  0 4 1 3
+  B   0 4 1 3
+  C   1 4 1 3
+
+
+MEASURE 243
+  LINE TLLH2
+  TIELINE LH4 92
+  REST   2
+  G  -1  8  3
+  G  -1  8
+
+MEASURE 243
+  LINE TLLH3
+  TIELINE LH4 90
+  REST   2
+  Bb -1  8  3
+  Bb -1  8
+
+MEASURE 243
+  LINE LH4
+  REST   2
+  C#  0  8  3
+  C#  0  8
+
+MEASURE 243
+  LINE LH5
+  REST   2
+  E   0  8  3
+  E   0  8
+
+MEASURE 244
+  LINE RH8
+  C#  1 4 1 3
+  D   1 4 1 3
+  Eb  1 4 1 3
+  E   1 4 1 3
+  F   1 4 1 3
+  F#  1 4 1 3
+  G   1 4 1 3
+  Ab  1 4 1 3
+  A   1 4 1 3
+  Bb  1 4 1 3
+  B   1 4 1 3
+  C   2 4 1 3
+
+MEASURE 244
+  LINE TLLH2
+  TIELINE LH4 92
+  G  -1  2
+  G  -1  8  3
+  G  -1  8
+
+MEASURE 244
+  LINE TLLH3
+  TIELINE LH4 90
+  Bb -1  2
+  Bb -1  8  3
+  Bb -1  8
+
+MEASURE 244
+  LINE LH4
+  C#  0  2
+  C#  0  8  3
+  C#  0  8
+
+MEASURE 244
+  LINE LH5
+  F#  0  2
+  E   0  8  3
+  E   0  8
+
+MEASURE 245
+  METER 8 4
+  LINE RH8
+  C#  2 4 1 3
+  D   2 4 1 3
+  Eb  2 4 1 3
+  E   2 4 1 3
+  F   2 4 1 3
+  F#  2 4 1 3
+  G   2 4 1 3
+  Ab  2 4 1 3
+  A   2 4 1 3
+  Bb  2 4 1 3
+  B   2 4 1 3
+  C#  3 4 1 3
+  Eb  3 1 2 28
+  D   3 1 2 28
+  F   3 1 2 28
+  Eb  3 1 2 28
+  D   3 1 2 28
+  C   3 1 2 28
+  B   2 1 2 28
+  D   3 1 2 28
+  C   3 1 2 28
+  Bb  2 1 2 28
+  A   2 1 2 28
+  G   2 1 2 28
+  F#  2 1 2 28
+  A   2 1 2 28
+
+MEASURE 245
+  LINE TLLH2
+  TIELINE LH4 92
+  G  -1  2
+  G  -1  2
+  REST   1
+
+MEASURE 245
+  LINE TLLH3
+  TIELINE LH4 90
+  Bb -1  2
+  Bb -1  2
+  REST   1
+
+MEASURE 245
+  LINE LH4
+  C#  0  2
+  C#  0  2
+  C   0  1
+  RIPPLE
+
+
+MEASURE 245
+  LINE LH5
+  F#  0  2
+  E   0  2
+  G   0  1 
+  RIPPLE
+
+MEASURE 245
+  LINE LH3
+  REST 4 4
+  A  -1  1
+  RIPPLE
+
+MEASURE 245
+  LINE LH2
+  REST 4 4
+  D  -1  1  
+  RIPPLE
+
+MEASURE 246
+  METER 4 4
+  LINE RH8
+  G   2 1 2 28
+  F#  2 1 2 28
+  Eb  2 1 2 28
+  D   2 1 2 28
+  Eb  2 1 2 28
+  D   2 1 2 28
+  F   2 1 2 28
+  Eb  2 1 2 28
+  D   2 1 2 28
+  C   2 1 2 28
+  B   1 1 2 28
+  D   2 1 2 28
+  C   2 1 2 28
+  Bb  1 1 2 28
+
+MEASURE 246
+  LINE LH2
+  CARRY 1
+
+MEASURE 246
+  LINE LH3
+  CARRY 1
+
+MEASURE 246
+  LINE LH4
+  CARRY 1
+
+MEASURE 246
+  LINE LH5
+  CARRY 1
+
+MEASURE 247
+  METER 8 4
+
+MEASURE 247
+  LINE RH8
+  G   1 1 2 39
+  F#  1 1 2 39
+  A   1 1 2 39
+  G   1 1 2 39
+  F#  1 1 2 39
+  Eb  1 1 2 39
+  D   1 1 2 39
+  Eb  1 1 2 39
+  D   1 1 2 39
+  F   1 1 2 39
+  Eb  1 1 2 39
+  D   1 1 2 39
+  C   1 1 2 39
+  B   0 1 2 39
+  D   1 1 2 39
+  C   1 1 2 39
+  Bb  0 1 2 39
+  A   0 1 2 39
+  G   0 1 2 39
+  F#  0 1 2 39
+  Eb  0 1 2 39
+  D   0 1 2 39
+  C   0 1 2 39
+  Bb -1 1 2 39
+  A  -1 1 2 39
+  G  -1 1 2 39
+  F# -1 1 2 39
+  Eb -1 1 2 39
+  D  -1 1 2 39
+  C  -1 1 2 39
+  Bb -2 1 2 39
+  A  -2 1 2 39
+  G  -2 1 2 39
+  F# -2 1 2 39
+  Eb -2 1 2 39
+  D  -2 1 2 39
+  C  -2 1 2 39
+  Bb -3 1 2 39
+  A  -3 1 2 39
+
+MEASURE 247
+  LINE LH2
+  CARRY  1
+  REST   1
+
+MEASURE 247
+  LINE LH3
+  CARRY  1
+  REST   1
+
+MEASURE 247
+  LINE LH4
+  CARRY  1
+  REST   1
+
+MEASURE 247
+  LINE LH5
+  F#  0  1
+  REST   1
+
+MEASURE 248
+  TOGETHER
+  LH NOSKIPIG
+  METER 4 4
+
+
+MEASURE 248
+  LINE LH5
+  G -3 1
+
+MEASURE 249
+  LH SKIPIG
+  LINE RH8
+  REST  1 1 21
+  A  -2 1 1 21
+  Bb -2 1 1 21
+  C  -1 1 1 21
+  D  -1 1 1 21
+  E  -1 1 1 21
+  F# -1 1 1 21
+  G  -1 1 1 21
+  A  -1 1 1 21
+  Bb -1 1 1 21
+  C   0 1 1 21
+  D   0 1 1 21
+  E   0 1 1 21
+  F#  0 1 1 21
+  G   0 1 1 21
+  A   0 1 1 21
+  Bb  0 1 1 21
+  C   1 1 1 21
+  D   1 1 1 21
+  E   1 1 1 21
+  F#  1 1 1 21
+
+MEASURE 249
+  LINE LH5
+  CARRY 1 1 21
+  A  -3 1 1 21
+  Bb -3 1 1 21
+  C  -2 1 1 21
+  D  -2 1 1 21
+  E  -2 1 1 21
+  F# -2 1 1 21
+  G  -2 1 1 21
+  A  -2 1 1 21
+  Bb -2 1 1 21
+  C  -1 1 1 21
+  D  -1 1 1 21
+  E  -1 1 1 21
+  F# -1 1 1 21
+  G  -1 1 1 21
+  A  -1 1 1 21
+  Bb -1 1 1 21
+  C   0 1 1 21
+  D   0 1 1 21
+  E   0 1 1 21
+  F#  0 1 1 21
+
+MEASURE 250
+  LINE TLRH7
+  TIELINE RH8 92
+  REST   2
+  D  -1  8  3
+  D  -1  8
+
+MEASURE 250
+  LINE RH8
+  REST   2
+  G  -1  8  3
+  G  -1  8
+
+MEASURE 250
+  LINE RH9
+  G   1  8
+  REST   8  3
+  Bb -1  8  3
+  Bb -1  8
+
+MEASURE 250
+  LINE LH4
+  REST   2
+  G  -3  8  3
+  G  -3  8
+
+MEASURE 250
+  LINE LH5
+  G   0  8
+  REST   8  3
+  G  -2  8  3
+  G  -2  8
+
+MEASURE 251
+  LINE TLRH7
+  TIELINE RH8 92
+  D  -1  2
+  REST   2
+
+MEASURE 251
+  LINE RH8
+  G  -1  2
+  REST   2
+
+MEASURE 251
+  LINE RH9
+  Bb -1  2
+  REST  4 1 3
+  D  -1 4 1 3
+  G  -1 4 1 3
+  A  -1 4 1 3
+  C   0 4 1 3
+  Bb -1 4 1 3
+
+MEASURE 251
+  LINE LH4
+  G  -3  2
+  REST   2
+
+MEASURE 251
+  LINE LH5
+  G  -2  2
+  REST  4 1 3
+  D  -2 4 1 3
+  G  -2 4 1 3
+  A  -2 4 1 3
+  C  -1 4 1 3
+  Bb -2 4 1 3
+
+MEASURE 252
+  LINE RH9
+  Bb -1  8
+  REST   8  3
+  Bb -2  2
+
+MEASURE 252
+  LINE LH5
+  Bb -2  8
+  REST   8  3
+  G  -3  2
+
+MEASURE 253
+  LINE RH9
+  CARRY 28
+  C  -1 28
+  D  -1 28
+  E  -1 28
+  F# -1 28
+  G  -1 28
+  A  -1 28
+  Bb -1 28
+  C   0 28
+  D   0 28
+  E   0 28
+  F#  0 28
+  G   0 28
+  A   0 28
+  Bb  0 28
+  C   1 28
+  D   1 28
+  E   1 28
+  F#  1 28
+  G   1 28
+  A   1 28
+  Bb  1 28
+  C   2 28
+  D   2 28
+  E   2 28
+  F#  2 28
+  G   2 28
+  A   2 28
+
+
+MEASURE 253
+  LINE LH5
+  CARRY 28
+  A  -3 28
+  Bb -3 28
+  C  -2 28
+  D  -2 28
+  E  -2 28
+  F# -2 28
+  G  -2 28
+  A  -2 28
+  Bb -2 28
+  C  -1 28
+  D  -1 28
+  E  -1 28
+  F# -1 28
+  G  -1 28
+  A  -1 28
+  Bb -1 28
+  C   0 28
+  D   0 28
+  E   0 28
+  F#  0 28
+  G   0 28
+  A   0 28
+  Bb  0 28
+  C   1 28
+  D   1 28
+  E   1 28
+  F#  1 28
+
+MEASURE 254
+  LINE TLRH6
+  TIELINE RH8 90
+  REST   2
+  D  -1  8  3
+  D  -1  8
+
+MEASURE 254
+  LINE TLRH7
+  TIELINE RH8 92
+  REST   2
+  G  -1  8  3
+  G  -1  8
+
+MEASURE 254
+  LINE RH8
+  REST   2
+  Bb -1  8  3
+  Bb -1  8
+
+MEASURE 254
+  LINE RH9
+  Bb  2  8
+  REST   8  3
+  D   0  8  3
+  D   0  8
+
+MEASURE 254
+  LINE LH4
+  REST   2
+  G  -3  8  3
+  G  -3  8
+
+MEASURE 254
+  LINE LH5
+  G   1  8
+  REST   8  3
+  G  -2  8  3
+  G  -2  8
+
+MEASURE 255
+  LINE TLRH6
+  TIELINE RH8 90
+  D  -1  2
+  REST   2
+
+MEASURE 255
+  LINE TLRH7
+  TIELINE RH8 92
+  G  -1  2
+  REST   2
+
+MEASURE 255
+  LINE RH8
+  Bb -1  2
+  REST   2
+
+MEASURE 255
+  LINE RH9
+  D   0  2
+  REST  4 1 3
+  D   0 4 1 3
+  G   0 4 1 3
+  Bb  0 4 1 3
+  Eb  1 4 1 3
+  D   1 4 1 3
+
+MEASURE 255
+  LINE LH4
+  G  -3  2
+  REST   2
+
+MEASURE 255
+  LINE LH5
+  G  -2  2
+  REST  4 1 3
+  D  -1 4 1 3
+  G  -1 4 1 3
+  Bb -1 4 1 3
+  Eb  0 4 1 3
+  D   0 4 1 3 
+
+
+MEASURE 256
+  LINE RH8
+  REST   2
+  REST 64 0
+  E   2  2 1 3
+  REST 64 0
+  Eb  2  2 1 3
+  REST 64 0
+  D   2  2 1 3
+
+MEASURE 256
+  LINE RH9
+  D   1  8
+  REST   8  3
+  E   3  64 0
+  CARRY  2 1 3
+  Eb  3  64 0
+  CARRY  2 1 3
+  D   3  64 0
+  CARRY  2 1 3
+
+MEASURE 256
+  LINE LH4
+  REST   2
+  Bb -3  64 0
+  CARRY  2 1 3
+  B  -3  64 0 
+  CARRY  2 1 3
+  C  -2  64 0 
+  CARRY  2 1 3
+
+MEASURE 256
+  LINE LH5
+  D   0  8
+  REST   8  3
+  REST 64 0
+  Bb -2  2 1 3
+  REST 64 0
+  B  -2  2 1 3
+  REST 64 0
+  C  -1  2 1 3
+
+MEASURE 257
+  LINE RH8    
+  REST 64 0 
+  C#  2  2 1 3
+  REST 64 0
+  C   2  2 1 3
+  REST 64 0
+  B   1  2 1 3
+  Bb  1  2 1 3
+  A   1  2 1 3
+  Ab  1  2 1 3
+
+MEASURE 257
+  LINE RH9
+  C#  3  64 0
+  CARRY  2 1 3
+  C   3  64 0
+  CARRY  2 1 3
+  B   2  64 0
+  CARRY  2 1 3
+  Bb  2  2 1 3
+  A   2  2 1 3
+  Ab  2  2 1 3
+
+MEASURE 257
+  LINE LH4
+  C# -2  64 0 
+  CARRY  2 1 3
+  D  -2  64 0
+  CARRY  2 1 3
+  Eb -2  64 0
+  CARRY  2 1 3
+  E  -2  2 1 3
+  F  -2  2 1 3
+  F# -2  2 1 3
+
+MEASURE 257
+  LINE LH5
+  REST 64 0
+  C# -1  2 1 3
+  REST 64 0
+  D  -1  2 1 3
+  REST 64 0
+  Eb -1  2 1 3
+  E  -1  2 1 3
+  F  -1  2 1 3
+  F# -1  2 1 3
+
+MEASURE 258
+  LINE RH8
+  G   1  2 1 3
+  F#  1  2 1 3
+  F   1  2 1 3
+  E   1  2 1 3
+  Eb  1  2 1 3
+  D   1  2 1 3
+
+MEASURE 258
+  LINE RH9
+  G   2  2 1 3
+  F#  2  2 1 3
+  F   2  2 1 3
+  E   2  2 1 3
+  Eb  2  2 1 3
+  D   2  2 1 3
+
+MEASURE 258
+  LINE LH4
+  G  -2  2 1 3
+  F# -2  2 1 3
+  F  -2  2 1 3
+  E  -2  2 1 3
+  Eb -2  2 1 3
+  D  -2  2 1 3
+
+MEASURE 258
+  LINE LH5
+  G  -1  2 1 3
+  F# -1  2 1 3
+  F  -1  2 1 3
+  E  -1  2 1 3
+  Eb -1  2 1 3
+  D  -1  2 1 3
+
+MEASURE 259
+  LINE RH8
+  C#  1  2 1 3
+  C   1  2 1 3
+  B   0  2 1 3
+  Bb  0  2 1 3
+  A   0  2 1 3
+  Ab  0  2 1 3
+
+MEASURE 259
+  LINE RH9
+  C#  2  2 1 3
+  C   2  2 1 3
+  B   1  2 1 3
+  Bb  1  2 1 3
+  A   1  2 1 3
+  Ab  1  2 1 3
+
+
+MEASURE 259
+  LINE LH4
+  C# -2  2 1 3
+  C  -2  2 1 3
+  B  -3  2 1 3
+  Bb -3  2 1 3
+  A  -3  2 1 3
+  Ab -3  2 1 3
+
+MEASURE 259
+  LINE LH5
+  C# -1  2 1 3
+  C  -1  2 1 3
+  B  -2  2 1 3
+  Bb -2  2 1 3
+  A  -2  2 1 3
+  Ab -2  2 1 3
+
+MEASURE 260
+  LINE RH8
+  G   0  2
+  REST   2
+
+MEASURE 260
+  LINE RH9
+  G   1  2
+  REST   2
+
+MEASURE 260
+  LINE LH5
+  G  -2  2
+  REST   2
+
+MEASURE 260
+  LINE LH4
+  G  -3  2
+  REST   2
+
+
+
+MEASURE 261
+  LINE RH8
+  Bb  1  1
+
+MEASURE 261
+  LINE RH8a
+  D   2  1
+
+MEASURE 261
+  LINE RH8b
+  G   2  1
+
+MEASURE 261
+  LINE RH9
+  Bb  2  1
+
+MEASURE 262
+  LINE RH8
+  G  -2  1
+
+MEASURE 262
+  LINE RH9
+  G  -1  1
+
+MEASURE 261
+  LINE LH4
+  G  -1  1
+
+MEASURE 261
+  LINE LH4a
+  D   0  1
+
+MEASURE 261
+  LINE LH5
+  G   0  1
+
+MEASURE 262
+  LINE LH5
+  G  -3  1
+
+# kr2l D:\musfiles\chb1.mus 216 60 4
+
+MEASURE 216
+  LINE TLRH8
+  TIELINE RH8 100
+  REST   4  3
+  G   0  4
+
+MEASURE 217
+  LINE TLRH8
+  TIELINE RH8 100
+  F#  0  4
+  REST   4
+  G   1  4
+  REST   4
+# kr2l D:\musfiles\chb1.mus 218 60 4
+
+MEASURE 218
+  LINE TLRH8
+  TIELINE RH8 100
+  Ab  0  4
+  Ab  1  4
+  REST   4
+  G   0  4
+
+MEASURE 219
+  LINE TLRH8
+  TIELINE RH8 100
+  F#  0  4
+  REST   4
+  G   1  4
+  REST   4
+
+MEASURE 220
+  LINE TLRH8
+  TIELINE RH8 100
+  F   0  4
+  F   1  4
+  REST   4
+  Eb  0  4
+
+MEASURE 221
+  LINE TLRH8
+  TIELINE RH8 100
+  D   0  4
+  REST   4  3
+# kr2l D:\musfiles\chb1.mus 222 60 4
+
+MEASURE 222
+  LINE TLRH8
+  TIELINE RH8 100
+  REST   4
+  C   1  4
+  C   1  4
+  Bb  0  4
+
+MEASURE 223
+  LINE TLRH8
+  TIELINE RH8 100
+  Bb  0  4
+  A   0  4
+  G   0  4
+  F#  0  4
+# kr2l D:\musfiles\chb1.mus 224 60 4
+
+MEASURE 224
+  LINE TLRH8
+  TIELINE RH8 100
+  REST   4
+  Ab  1  4
+  REST   4
+  G   0  4
+
+MEASURE 225
+  LINE TLRH8
+  TIELINE RH8 100
+  F#  0  4
+  REST   4
+  G   1  4
+  REST   4
+
+MEASURE 226
+  LINE TLRH8
+  TIELINE RH8 100
+  Ab  0  4
+  Ab  1  4
+  REST   4
+  G   0  4
+
+MEASURE 227
+  LINE TLRH8
+  TIELINE RH8 100
+  F#  0  4
+  REST   4
+  G   1  4
+  REST   4
+# kr2l D:\musfiles\chb1.mus 230 60 4
+
+MEASURE 230
+  LINE TLRH8
+  TIELINE RH8 100
+  REST   4
+  C   1  4
+  B   0  4
+  C   1  4
+
+MEASURE 231
+  LINE TLRH8
+  TIELINE RH8 100
+  C   1  4
+  Eb  1  4
+  D   1  4
+  Eb  1  4
+
+MEASURE 232
+  LINE TLRH8
+  TIELINE RH8 100
+  Eb  1  4
+  F#  1  4
+  F   1  4
+  F#  1  4
+
+MEASURE 233
+  LINE TLRH8
+  TIELINE RH8 100
+  F#  1  4
+  A   1  4
+  Bb  1  4
+  C   2  4
+
+MEASURE 234
+  LINE TLRH8
+  TIELINE RH8 100
+  C   2  4
+  Bb  1  4
+  Bb  1  4
+  A   1  4
+
+MEASURE 235
+  LINE TLRH8
+  TIELINE RH8 100
+  A   1  4
+  G   1  4
+  G   1  4
+  D   1  4
+
+MEASURE 236
+  LINE TLRH8
+  TIELINE RH8 100
+  REST   1

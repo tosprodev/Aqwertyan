@@ -1,0 +1,626 @@
+NAME Yesterday, by Lennon and McCartney
+
+MEASURE 1
+  METER 4 4
+  TEMPO 4 60.000000
+  KEY 1b
+
+# kr2l yesterday.mus 1 50 4
+
+MEASURE 1
+  LINE RH1
+  REST   8
+  A  -1  8
+  A  -1  8
+  A  -1  8
+  A  -1  8
+  A  -1  8
+  A  -1  8
+  A  -1  8
+
+MEASURE 1
+  LINE RH2
+  REST   8
+  C   0  8
+  C   0  8
+  C   0  8
+  C   0  8
+  C   0  8
+  C   0  8
+  C   0  8
+
+MEASURE 2
+  LINE RH1
+  REST   8
+  A  -1  8
+  A  -1  8
+  A  -1  8
+  A  -1  8
+  A  -1  8
+  A  -1  8
+  A  -1  8
+
+MEASURE 2
+  LINE RH2
+  REST   8
+  C   0  8
+  C   0  8
+  C   0  8
+  C   0  8
+  C   0  8
+  C   0  8
+  C   0  8
+
+MEASURE 3
+  LINE LH6
+  A  -1  8
+  A  -1  8
+  A  -1  8
+  A  -1  8
+  A  -1  8
+  A  -1  8
+  A  -1  8
+  A  -1  8
+
+MEASURE 3
+  LINE LH7
+  C   0  8
+  C   0  8
+  C   0  8
+  C   0  8
+  C   0  8
+  C   0  8
+  C   0  8
+  C   0  8
+
+MEASURE 4
+  LINE RH2
+  REST   1
+
+MEASURE 5
+  LINE LH6
+  REST   2
+  F   0  8
+  F   0  8
+  F   0  8
+  F   0  8
+
+MEASURE 5
+  LINE LH7
+  REST   2
+  A   0  8
+  A   0  8
+  A   0  8
+  A   0  8
+
+MEASURE 6
+  LINE RH2
+  REST   1
+# kr2l yesterday.mus 3 50 4
+
+MEASURE 3
+  LINE RH5
+  G   0 16
+  F   0 16
+  F   0  8  7
+
+MEASURE 4
+  LINE RH5
+  REST   4
+  A   0  8
+  B   0  8
+  C#  1 16
+  D   1 16  3
+  E   1  8
+  F   1  8
+
+MEASURE 5
+  LINE RH5
+  E   1  4
+  D   1  8
+  D   1  8  5
+
+MEASURE 6
+  LINE RH5
+  REST   4
+  D   1 16
+  D   1 16  3
+  C   1  8
+  Bb  0 16
+  A   0 16  3
+  G   0  8
+
+MEASURE 7
+  LINE TLRH4
+  TIELINE RH5 83
+  D   0  4
+  C   0  8
+  C   0  2
+  C   0  8
+
+MEASURE 7
+  LINE RH5
+  Bb  0  4
+  A   0  8
+  A   0  2
+  G   0  8
+# kr2l yesterday.mus 8 50 4
+
+MEASURE 8
+  LINE RH5
+  F   0  4
+  A   0  8
+  G   0  2
+  D   0  8
+
+MEASURE 9
+  LINE TLRH3
+  TIELINE LH5 92
+  Bb -1  4
+  C   0  8
+  C   0  8  5
+
+MEASURE 9
+  LINE LH5
+  D   0  4
+  F   0  8
+  F   0  8  5
+
+MEASURE 9
+  LINE RH5
+  F   0  4
+  A   0  8
+  A   0  8  5
+# kr2l yesterday.mus 8 50 4
+
+MEASURE 8
+  LINE TLRH4
+  TIELINE RH5 82
+  C   0  4
+  F   0  8
+  C   0  8
+  TIENOTE RH5 LH5
+  REST 2
+
+MEASURE 8
+  LINE TLRH4A
+  TIELINE LH5 82
+  REST   2
+  B  -1  8 3
+  TIENOTE LH5 RH5
+  B  -1  8
+# kr2l yesterday.mus 1 50 4
+
+MEASURE 1
+  LINE LH4
+  F  -2  1
+
+MEASURE 1
+  LINE LH5
+  F  -1  1
+
+MEASURE 2
+  LINE LH4
+  F  -2  1
+
+MEASURE 2
+  LINE LH5
+  F  -1  1
+
+MEASURE 3
+  LINE TLLH5
+  TIELINE LH6 92
+  F  -2  2
+  C  -1  4
+  F  -1  4
+# kr2l yesterday.mus 4 50 4
+
+MEASURE 4
+  LINE TLLH1
+  TIELINE LH4 80
+  E   0  2
+  REST   2
+
+MEASURE 4
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   2
+  A  -2  2
+
+MEASURE 4
+  LINE TLLH3
+  TIELINE LH4 92
+  E  -1  2
+  G  -1  2
+
+MEASURE 4
+  LINE LH4
+  G  -1  2
+  E   0  2
+
+MEASURE 4
+  LINE LH5
+  Bb -1  2
+  G   0  2
+
+MEASURE 5
+  LINE TLLH3
+  TIELINE LH4 92
+  D  -1  2
+  REST   2
+
+MEASURE 5
+  LINE LH4
+  F   0  2
+  REST   2
+
+MEASURE 5
+  LINE LH5
+  A   0  2
+  REST  2
+
+MEASURE 5
+  LINE TLLH5
+  TIELINE LH6 90
+  REST 2
+  D  -1 4
+  C -1  4
+
+# kr2l yesterday.mus 6 50 4
+
+MEASURE 6
+  LINE TLLH2
+  TIELINE LH4 90
+  Bb -2  2
+  REST   2
+
+MEASURE 6
+  LINE TLLH3
+  TIELINE LH4 92
+  F  -1  2
+  C  -1  2
+
+MEASURE 6
+  LINE LH4
+  D   0  2
+  G  -1  2
+
+MEASURE 6
+  LINE LH5
+  F   0  2
+  E   0  2
+
+MEASURE 7
+  LINE LH5
+  F  -1  2
+  F  -1  4
+  E  -1  4
+
+MEASURE 8
+  LINE LH4
+  D  -1  2
+  G  -2  2
+
+MEASURE 8
+  LINE LH5
+  F  -1  2
+  D  -1  4
+  F  -1  4
+
+MEASURE 9
+  LINE LH4
+  Bb -2  4
+  F  -2  8
+  F  -2  4
+  C  -1  8
+  F  -1  8
+  C  -1  8
+
+REPEAT 3 9 10
+# kr2l musfiles/yesterday.mus 17 50 4
+
+MEASURE 17
+  LINE RH4
+  A   0  2
+  A   0  2
+
+MEASURE 18
+  LINE TLRH1
+  TIELINE RH4 83
+  F   0  4
+  G   0  4
+  A   0  4
+  G   0  8
+  F   0  8
+
+MEASURE 18
+  LINE RH4
+  D   1  4
+  E   1  4
+  F   1  4
+  E   1  8
+  D   1  8
+
+MEASURE 19
+  LINE TLRH1
+  TIELINE RH4 83
+  G   0  8  3
+  F   0  8
+  E   0  2
+  TIENOTE RH4 LH5
+
+MEASURE 19
+  LINE RH4
+  E   1  8  3
+  D   1  8
+  C   1  4
+  D   1  8
+  A   0  8
+
+MEASURE 20
+  LINE RH4
+  CARRY  1
+
+MEASURE 21
+  LINE RH4
+  A   0  2
+  A   0  2
+
+MEASURE 22
+  LINE TLRH1
+  TIELINE RH4 83
+  F   0  4
+  G   0  4
+  A   0  4
+  G   0  8
+  F   0  8
+
+MEASURE 22
+  LINE RH4
+  D   1  4
+  E   1  4
+  F   1  4
+  E   1  8
+  D   1  8
+
+MEASURE 23
+  LINE TLRH1
+  TIELINE RH4 83
+  G   0  8  3
+  F   0  8
+  E   0  4
+  G   0  4
+
+MEASURE 23
+  LINE RH4
+  E   1  8  3
+  D   1  8
+  C   1  4
+  E   1  4
+
+MEASURE 24
+  LINE RH4
+  F   1  1
+# kr2l musfiles/yesterday.mus 24 50 4
+
+MEASURE 24
+  LINE RH3
+  F   0  4
+  C   1  4
+  Bb  0  4
+  A   0  4
+# kr2l musfiles/yesterday.mus 17 50 4
+
+MEASURE 17
+  LINE LH4
+  B  -1  8
+  B  -1  8
+  B  -1  8
+  B  -1  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+
+MEASURE 17
+  LINE LH5
+  D   0  8
+  D   0  8
+  D   0  8
+  D   0  8
+  E   0  8
+  E   0  8
+  E   0  8
+  E   0  8
+
+MEASURE 18
+  LINE LH5
+  D  -1  4
+  C  -1  4
+  Bb -2  4
+  A  -2  4
+
+MEASURE 19
+  LINE LH4
+  G  -2  2
+  RIPPLE
+  C  -1  2
+
+MEASURE 19
+  LINE LH5
+  Bb -1  2
+  Bb -1  2
+
+MEASURE 20
+  LINE LH4
+  C   0  8
+  C   0  8
+  C   0  8
+  C   0  8
+  C   0  8
+  C   0  8
+  C   0  8
+  C   0  8
+
+MEASURE 20
+  LINE LH5
+  F   0  8
+  F   0  8
+  F   0  8
+  F   0  8
+  F   0  8
+  F   0  8
+  F   0  8
+  F   0  8
+
+MEASURE 21
+  LINE LH4
+  B  -1  8
+  B  -1  8
+  B  -1  8
+  B  -1  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+  C#  0  8
+
+MEASURE 21
+  LINE LH5
+  D   0  8
+  D   0  8
+  D   0  8
+  D   0  8
+  E   0  8
+  E   0  8
+  E   0  8
+  E   0  8
+
+MEASURE 22
+  LINE LH5
+  D  -1  4
+  C  -1  4
+  Bb -2  4
+  A  -2  4
+
+MEASURE 23
+  LINE LH4
+  G  -2  2
+  RIPPLE
+  C  -1  2
+
+MEASURE 23
+  LINE LH5
+  Bb -1  2
+  C   0  2
+
+MEASURE 24
+  LINE LH4
+  F  -2  1
+
+MEASURE 24
+  LINE LH5
+  F  -1  1
+# kr2l musfiles/yesterday.mus 17 50 4
+
+MEASURE 17
+  LINE TLLH2
+  TIELINE LH4 90
+  A  -2  2
+  A  -2  2
+
+MEASURE 17
+  LINE TLLH3
+  TIELINE LH4 92
+  G  -1  2
+  G  -1  2
+# kr2l musfiles/yesterday.mus 20 50 4
+
+MEASURE 20
+  LINE TLLH3
+  TIELINE LH4 92
+  F  -2  4
+  C  -1  4
+  Eb -1  4
+  C  -1  8
+  Bb -2  8
+
+MEASURE 21
+  LINE TLLH2
+  TIELINE LH4 90
+  A  -2  2
+  A  -2  2
+
+MEASURE 21
+  LINE TLLH3
+  TIELINE LH4 92
+  G  -1  2
+  G  -1  2
+
+REPEAT 3 9 25
+
+REPEAT 17 31 32
+
+# kr2l musfiles/yesterday.mus 47 50 4
+
+MEASURE 47
+  LINE LH4
+  A  -1  8
+  A  -1  8
+  A  -1  8
+  A  -1  8
+  G  -1  8
+  G  -1  8
+  G  -1  8
+  G  -1  8
+
+MEASURE 47
+  LINE LH5
+  C   0  8
+  C   0  8
+  C   0  8
+  C   0  8
+  D   0  8
+  D   0  8
+  B  -1  8
+  B  -1  8
+# kr2l musfiles/yesterday.mus 48 50 4
+
+MEASURE 48
+  LINE TLLH3
+  TIELINE LH4 92
+  Bb -2  4
+  F  -2  8
+  F  -2  8  5
+
+MEASURE 48
+  LINE LH4
+  Bb -1  4
+  C   0  8
+  C   0  8  5
+
+MEASURE 48
+  LINE LH5
+  D   0  4
+  F   0  8
+  F   0  8  5
+# kr2l musfiles/yesterday.mus 47 50 4
+
+MEASURE 47
+  LINE TLLH3
+  TIELINE LH4 92
+  C  -1  2
+  B  -2  2
+# kr2l musfiles/yesterday.mus 47 50 4
+
+MEASURE 47
+  LINE RH5
+  F   0  4
+  A   0  4
+  G   0  4
+  D   0  4
+
+MEASURE 48
+  LINE RH5
+  F   0  4
+  A   0  8
+  A   0  8  5

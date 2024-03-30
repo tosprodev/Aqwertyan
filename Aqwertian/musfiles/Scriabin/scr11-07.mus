@@ -1,0 +1,1746 @@
+NAME Scriabin: Prelude, Opus 11, Number 7
+
+MEASURE 1
+  METER 3 4
+  TEMPO 4 152.000000
+  KEY 3#
+
+# kr2l scr11-07.mus 1 50 8
+
+MEASURE 1
+  LINE RH5
+  REST   2
+  REST 8
+  A   0 16
+  B  -1 16
+# kr2l scr11-07.mus 2 40 8
+
+MEASURE 2
+  LINE RH5
+  G#  0 16
+  B  -1 16
+  A   0 16
+  E  -1 16
+  D   1 16
+  E   0 16
+  C#  1 16
+  E   0 16
+  A   0 16
+  C#  0 16
+  D   1 16
+  E   0 16
+# kr2l scr11-07.mus 3 40 8
+
+MEASURE 3
+  LINE RH5
+  C#  1 16
+  E   0 16
+  D   1 16
+  B  -1 16
+  G#  1 16
+  A   0 16
+  F#  1 16
+  A   0 16
+  D   1 16
+  F#  0 16
+  F#  1 16
+  G#  0 16
+# kr2l scr11-07.mus 4 40 8
+
+MEASURE 4
+  LINE RH5
+  E   1 16
+  G#  0 16
+  D   1 16
+  B  -1 16
+  D   1 16
+  E   0 16
+  C#  1 16
+  E   0 16
+  B   0 16
+  F# -1 16
+  F#  0 16
+  G# -1 16
+# kr2l scr11-07.mus 5 40 8
+
+MEASURE 5
+  LINE RH5
+  E   0 16
+  G# -1 16
+  F# -1 16
+  E  -1 16
+  F#  0 16
+  G# -1 16
+  E   0 16
+  G# -1 16
+  F# -1 16
+  E  -1 16
+  A   0 16
+  B  -1 16
+
+MEASURE 6
+  LINE RH5
+  G#  0 16
+  B  -1 16
+  A   0 16
+  E   0 16
+  F#  1 16
+  G#  0 16
+  E   1 16
+  G#  0 16
+  A   0 16
+  C#  0 16
+  C#  1 16
+  D   0 16
+
+MEASURE 7
+  LINE RH5
+  B   0 16
+  D   0 16
+  A   0 16
+  B  -1 16
+  G#  1 16
+  A   0 16
+  F#  1 16
+  A   0 16
+  D   1 16
+  F#  0 16
+  F#  1 16
+  G#  0 16
+
+MEASURE 8
+  LINE RH5
+  E   1 16
+  G#  0 16
+  D   1 16
+  B  -1 16
+  D   1 16
+  E   0 16
+  C#  1 16
+  E   0 16
+  B   0 16
+  F# -1 16
+  C#  1 16
+  E   0 16
+
+MEASURE 9
+  LINE RH5
+  A   0 16
+  E   0 16
+  B  -1 16
+  C#  0 16
+  C#  1 16
+  E   0 16
+  A   0 16
+  E   0 16
+  B  -1 16
+  C#  0 16
+  A   0 16
+  B  -1 16
+
+MEASURE 10
+  LINE RH5
+  G#  0 16
+  B  -1 16
+  A   0 16
+  E  -1 16
+  C#  1 16
+  D#  0 16
+  B   0 16
+  D#  0 16
+  C#  1 16
+  E  -1 16
+  C#  1 16
+  D#  0 16
+# kr2l scr11-07.mus 11 40 8
+
+MEASURE 11
+  LINE RH5
+  B   0 16
+  D#  0 16
+  C#  1 16
+  A  -1 16
+  D#  1 16
+  C#  1 16
+  E   1 16
+  B   0 16
+  G#  0 16
+  E   0 16
+  G   0 16
+  A  -1 16
+
+MEASURE 12
+  LINE RH5
+  F#  0 16
+  A  -1 16
+  G   0 16
+  D  -1 16
+  B   0 16
+  C#  0 16
+  A   0 16
+  C#  0 16
+  B   0 16
+  D  -1 16
+  B   0 16
+  C#  0 16
+# kr2l scr11-07.mus 13 40 8
+
+MEASURE 13
+  LINE RH5
+  A   0 16
+  C#  0 16
+  B   0 16
+  G  -1 16
+  C#  1 16
+  B   0 16
+  D   1 16
+  A   0 16
+  F#  0 16
+  D   0 16
+  C   1 16
+  E   0 16
+# kr2l scr11-07.mus 14 40 8
+
+MEASURE 14
+  LINE RH5
+  B   0 16
+  E   0 16
+  C   1 16
+  E   0 16
+  C   1 16
+  D#  0 16
+  C   0 16
+  E   0 16
+  C   0 16
+  D#  0 16
+  C   1 16
+  E   0 16
+
+MEASURE 15
+  LINE RH5
+  B   0 16
+  E   0 16
+  C   1 16
+  E   0 16
+  C   1 16
+  D#  0 16
+  C   0 16
+  E   0 16
+  C   0 16
+  D#  0 16
+  F#  1 16
+  A   0 16
+# kr2l scr11-07.mus 16 40 8
+
+MEASURE 16
+  LINE RH5
+  E   1 16
+  A   0 16
+  F#  1 16
+  A   0 16
+  A   1 16
+  F#  1 16
+  G#  1 16
+  A   0 16
+  F#  1 16
+  A   0 16
+  F#  1 16
+  G#  0 16
+
+MEASURE 17
+  LINE RH5
+  F#  1 16
+  G#  0 16
+  E   1 16
+  G#  0 16
+  C#  2 16
+  E   1 16
+  C#  2 16
+  E   1 16
+  B   1 16
+  E   1 16
+  A   1 16
+  B   0 16
+# kr2l scr11-07.mus 18 40 8
+
+MEASURE 18
+  LINE RH5
+  G#  1 16
+  B   0 16
+  A   1 16
+  E   0 16
+  D   2 16
+  E   1 16
+  C#  2 16
+  E   1 16
+  A   1 16
+  C#  1 16
+  D   2 16
+  E   1 16
+# kr2l scr11-07.mus 19 40 8
+
+MEASURE 19
+  LINE RH5
+  C#  2 16
+  E   1 16
+  D   2 16
+  B   0 16
+  G#  2 16
+  A   1 16
+  F#  2 16
+  A   1 16
+  F#  1 16
+  B   0 16
+  F#  2 16
+  G#  1 16
+# kr2l scr11-07.mus 20 40 8
+
+MEASURE 20
+  LINE RH5
+  E   2 16
+  G#  1 16
+  D   2 16
+  D   1 16
+  D   2 16
+  E   1 16
+  C#  2 16
+  E   1 16
+  B   1 16
+  B   0 16
+  F#  1 16
+  G#  0 16
+
+MEASURE 21
+  LINE RH5
+  E   1 16
+  G#  0 16
+  D   1 16
+  D   0 16
+  D   1 16
+  E   0 16
+  C#  1 16
+  E   0 16
+  B   0 16
+  B  -1 16
+  F#  0 16
+  G# -1 16
+
+MEASURE 22
+  LINE RH5
+  E   0 16
+  G# -1 16
+  F# -1 16
+  E  -1 16
+  F#  0 16
+  G# -1 16
+  E   0 16
+  G# -1 16
+  F# -1 16
+  E  -1 16
+  F#  0 16
+  G# -1 16
+
+MEASURE 23
+  LINE RH5
+  E   0 16
+  G# -1 16
+  F# -1 16
+  E  -1 16
+  B   0 16
+  G# -1 16
+  E   0 16
+  G# -1 16
+  F# -1 16
+  E  -1 16
+  F#  0 16
+  G# -1 16
+
+MEASURE 24
+  LINE RH5
+  E   0 16
+  G# -1 16
+  F# -1 16
+  E  -1 16
+  A  -1 16
+  G# -1 16
+  F# -1 16
+  E  -1 16
+  A  -1 16
+  G# -1 16
+  F# -1 16
+  E  -1 16
+# kr2l scr11-07.mus 25 40 8
+
+MEASURE 25
+  LINE TLRH3
+  TIELINE RH3 92
+  REST   8  3
+  A   0  8  3
+
+MEASURE 25
+  LINE RH3
+  REST   8  3
+  C#  1  8  3
+
+MEASURE 25
+  LINE RH6
+  REST   8  3
+  A   1  8  3
+# kr2l scr11-07.mus 1 60 8
+
+MEASURE 1
+  LINE TLRH5
+  TIELINE RH5 100
+  REST   8  5
+  A   0  8
+
+MEASURE 2
+  LINE TLRH5
+  TIELINE RH5 100
+  G#  0  8
+  A   0  8
+  D   1  8
+  C#  1  4
+  D   1  8
+
+MEASURE 3
+  LINE TLRH5
+  TIELINE RH5 100
+  C#  1  8
+  D   1  8
+  G#  1  8
+  F#  1  4
+  F#  1  8
+# kr2l scr11-07.mus 4 60 8
+
+MEASURE 4
+  LINE TLRH4
+  TIELINE TLRH5 80
+  REST   8  5
+  D   0  8
+
+MEASURE 4
+  LINE TLRH5
+  TIELINE RH5 100
+  E   1  8
+  D   1  8
+  D   1  8
+  C#  1  8
+  B   0  8
+  F#  0  8
+
+MEASURE 5
+  LINE TLRH4
+  TIELINE TLRH5 80
+  D   0  4
+  D   0  8
+  D   0  4
+  REST   8
+
+MEASURE 5
+  LINE TLRH5
+  TIELINE RH5 100
+  E   0  4
+  F#  0  8
+  E   0  4
+  A   0  8
+
+MEASURE 6
+  LINE TLRH5
+  TIELINE RH5 100
+  G#  0  8
+  A   0  8
+  F#  1  8
+  E   1  4
+  C#  1  8
+
+MEASURE 7
+  LINE TLRH5
+  TIELINE RH5 100
+  B   0  8
+  A   0  8
+  G#  1  8
+  F#  1  4
+  F#  1  8
+
+MEASURE 8
+  LINE TLRH5
+  TIELINE RH5 100
+  E   1  8
+  D   1  8
+  D   1  8
+  C#  1  8
+  B   0  8
+  C#  1  8
+
+MEASURE 9
+  LINE TLRH5
+  TIELINE RH5 100
+  A   0  4
+  C#  1  8
+  A   0  4
+  A   0  8
+
+MEASURE 10
+  LINE TLRH4
+  TIELINE TLRH5 80
+  REST   4
+  A   0  8
+  G#  0  8
+  A   0  8
+  A   0  8
+
+MEASURE 10
+  LINE TLRH5
+  TIELINE RH5 100
+  G#  0  8
+  A   0  8
+  C#  1  8
+  B   0  8
+  C#  1  8
+  C#  1  8
+
+MEASURE 11
+  LINE TLRH4
+  TIELINE TLRH5 80
+  G#  0  8
+  A   0  8
+  D#  0  8
+  E   0  4
+  REST   8
+
+MEASURE 11
+  LINE TLRH5
+  TIELINE RH5 100
+  B   0  8
+  C#  1  8
+  D#  1  8
+  E   1  4
+  G   0  8
+
+MEASURE 12
+  LINE TLRH4
+  TIELINE TLRH5 80
+  REST   4
+  G   0  8
+  F#  0  8
+  G   0  8
+  G   0  8
+
+MEASURE 12
+  LINE TLRH5
+  TIELINE RH5 100
+  F#  0  8
+  G   0  8
+  B   0  8
+  A   0  8
+  B   0  8
+  B   0  8
+
+MEASURE 13
+  LINE TLRH4
+  TIELINE TLRH5 80
+  F#  0  8
+  G   0  8
+  C#  0  8
+  D   0  4
+  A   0  8
+
+MEASURE 13
+  LINE TLRH5
+  TIELINE RH5 100
+  A   0  8
+  B   0  8
+  C#  1  8
+  D   1  4
+  C   1  8
+
+MEASURE 14
+  LINE TLRH4
+  TIELINE TLRH5 80
+  A   0  8
+  A   0  8
+  A   0  8  3
+  A   0  8
+
+MEASURE 14
+  LINE TLRH5
+  TIELINE RH5 100
+  B   0  8
+  C   1  8
+  C   1  8  3
+  C   1  8
+
+MEASURE 15
+  LINE TLRH4
+  TIELINE TLRH5 80
+  A   0  8
+  A   0  8
+  A   0  8  3
+  F#  0  8
+
+MEASURE 15
+  LINE TLRH5
+  TIELINE RH5 100
+  B   0  8
+  C   1  8
+  C   1  8  3
+  F#  1  8
+# kr2l scr11-07.mus 16 60 8
+
+MEASURE 16
+  LINE TLRH4
+  TIELINE TLRH5 90
+  E   0  8
+  F#  0  8
+  A   0  8
+  G#  0  8
+  F#  0  8
+  F#  0  8
+
+MEASURE 16
+  LINE TLRH5
+  TIELINE RH5 100
+  E   1  8
+  F#  1  8
+  A   1  8
+  G#  1  8
+  F#  1  8
+  F#  1  8
+
+MEASURE 17
+  LINE TLRH4
+  TIELINE TLRH5 90
+  F#  0  8
+  E   0  8
+  C#  1  8
+  C#  1  8
+  B   0  8
+  A   0  8
+
+MEASURE 17
+  LINE TLRH5
+  TIELINE RH5 100
+  F#  1  8
+  E   1  8
+  C#  2  8
+  C#  2  8
+  B   1  8
+  A   1  8
+
+MEASURE 18
+  LINE TLRH4
+  TIELINE TLRH5 90
+  G#  0  8
+  A   0  8
+  D   1  8
+  C#  1  4
+  D   1  8
+
+MEASURE 18
+  LINE TLRH5
+  TIELINE RH5 100
+  G#  1  8
+  A   1  8
+  D   2  8
+  C#  2  4
+  D   2  8
+
+MEASURE 19
+  LINE TLRH4
+  TIELINE TLRH5 90
+  C#  1  8
+  D   1  8
+  G#  1  8
+  F#  1  4
+  D   2  8
+  VOLPERC 80
+
+MEASURE 19
+  LINE TLRH5
+  TIELINE RH5 100
+  C#  2  8
+  D   2  8
+  G#  2  8
+  F#  2  4
+  F#  2  8
+# kr2l scr11-07.mus 20 60 8
+
+MEASURE 20
+  LINE TLRH4
+  TIELINE TLRH5 80
+  C#  2  8
+  B   1  8
+  B   1  8
+  A   1  8
+  F#  1  8
+  D   1  8
+
+MEASURE 20
+  LINE TLRH5
+  TIELINE RH5 100
+  E   2  8
+  D   2  8
+  D   2  8
+  C#  2  8
+  B   1  8
+  F#  1  8
+
+MEASURE 21
+  LINE TLRH4
+  TIELINE TLRH5 80
+  C#  1  8
+  B   0  8
+  B   0  8
+  A   0  8
+  F#  0  8
+  D   0  8
+
+MEASURE 21
+  LINE TLRH5
+  TIELINE RH5 100
+  E   1  8
+  D   1  8
+  D   1  8
+  C#  1  8
+  B   0  8
+  F#  0  8
+
+MEASURE 22
+  LINE TLRH4
+  TIELINE TLRH5 80
+  D   0  4
+  D   0  8
+  C#  0  4
+  D   0  8
+
+MEASURE 22
+  LINE TLRH5
+  TIELINE RH5 100
+  E   0  4
+  F#  0  8
+  E   0  4
+  F#  0  8
+
+MEASURE 23
+  LINE TLRH4
+  TIELINE TLRH5 80
+  D   0  4
+  D   0  8
+  C#  0  4
+  D   0  8
+
+MEASURE 23
+  LINE TLRH5
+  TIELINE RH5 100
+  E   0  4
+  B   0  8
+  E   0  4
+  F#  0  8
+
+MEASURE 24
+  LINE TLRH4
+  TIELINE TLRH5 80
+  C#  0  8  3
+  REST   8  3
+
+MEASURE 24
+  LINE TLRH5
+  TIELINE RH5 100
+  E   0  8  3
+  REST   8  3
+# kr2l scr11-07.mus 2 60 8
+
+MEASURE 2
+  LINE TLRH1
+  TIELINE RH5 60
+  C#  0 16
+  REST  16
+  C#  0 16
+  REST  16  3
+  F#  0 16
+  REST  16  5
+# kr2l scr11-07.mus 3 60 8
+
+MEASURE 3
+  LINE TLRH1
+  TIELINE RH5 60
+  F#  0 16
+  REST  16
+  F#  0 16
+  REST  16  3
+  B   0 16
+  REST  16  5
+
+MEASURE 4
+  LINE TLRH1
+  TIELINE RH5 60
+  A   0 16
+  REST  16
+  F#  0 16
+  REST  16  3
+  F#  0 16
+  REST  16
+  D   0 16
+  REST  16
+  F# -1 16
+  REST  16
+
+MEASURE 5
+  LINE TLRH1
+  TIELINE RH5 60
+  A  -1 16
+  REST  16  3
+  F# -1 16
+  REST  16
+  A  -1 16
+  REST  16  5
+
+MEASURE 6
+  LINE TLRH1
+  TIELINE RH5 60
+  C#  0 16
+  REST  16
+  C#  0 16
+  REST  16  3
+  A   0 16
+  REST  16  5
+
+MEASURE 7
+  LINE TLRH1
+  TIELINE RH5 60
+  E   0 16
+  REST  16
+  F#  0 16
+  REST  16  3
+  B   0 16
+  REST  16  5
+
+MEASURE 8
+  LINE TLRH1
+  TIELINE RH5 60
+  A   0 16
+  REST  16
+  F#  0 16
+  REST  16  3
+  F#  0 16
+  REST  16
+  D   0 16
+  REST  16  3
+
+MEASURE 9
+  LINE TLRH1
+  TIELINE RH5 60
+  F#  0 16
+  REST  16  3
+  D   0 16
+  REST  16
+  F#  0 16
+  REST  16  5
+
+MEASURE 10
+  LINE TLRH1
+  TIELINE RH5 60
+  C#  0 16
+  REST  16
+  C#  0 16
+  REST  16
+  C#  0 16
+  REST  16
+  E   0 16
+  REST  16
+  C#  0 16
+  REST  16
+  C#  0 16
+  REST  16
+# kr2l scr11-07.mus 11 60 8
+
+MEASURE 11
+  LINE TLRH1
+  TIELINE RH5 60
+  E   0 16
+  REST  16
+  C#  0 16
+  REST  16
+  A   0 16
+  REST  16
+  A   0 16
+  REST  16  5
+
+MEASURE 12
+  LINE TLRH1
+  TIELINE RH5 60
+  B  -1 16
+  REST  16
+  B  -1 16
+  REST  16
+  B  -1 16
+  REST  16
+  D   0 16
+  REST  16
+  B  -1 16
+  REST  16
+  B  -1 16
+  REST  16
+
+MEASURE 13
+  LINE TLRH1
+  TIELINE RH5 60
+  D   0 16
+  REST  16
+  B  -1 16
+  REST  16
+  G#  0 16
+  REST  16
+  G#  0 16
+  REST  16  3
+  C   0 16
+  REST  16
+
+MEASURE 14
+  LINE TLRH1
+  TIELINE RH5 60
+  B  -1 16
+  REST  16
+  C   0 16
+  REST  16  7
+  C   0 16
+  REST  16
+# kr2l scr11-07.mus 15 60 8
+
+MEASURE 15
+  LINE TLRH1
+  TIELINE RH5 60
+  B  -1 16
+  REST  16
+  C   0 16
+  REST  16
+  C   0 16
+  REST  16  5
+  D   1 16
+  REST  16
+
+MEASURE 16
+  LINE TLRH1
+  TIELINE RH5 60
+  D   1 16
+  REST  16
+  D   1 16
+  REST  16
+  D   1 16
+  REST  16
+  D   1 16
+  REST  16
+  D   1 16
+  REST  16
+  D   1 16
+  REST  16
+
+MEASURE 17
+  LINE TLRH1
+  TIELINE RH5 60
+  D   1 16
+  REST  16
+  D   1 16
+  REST  16
+  G#  1 16
+  REST  16
+  G#  1 16
+  REST  16
+  G#  1 16
+  REST  16  3
+
+MEASURE 18
+  LINE TLRH1
+  TIELINE RH5 60
+  C#  1 16
+  REST  16
+  C#  1 16
+  REST  16  3
+  F#  1 16
+  REST  16  5
+
+MEASURE 19
+  LINE TLRH1
+  TIELINE RH5 60
+  F#  1 16
+  REST  16
+  F#  1 16
+  REST  16  3
+  B   1 16
+  REST  16  3
+  F#  1 16
+  REST  16
+
+MEASURE 20
+  LINE TLRH1
+  TIELINE RH5 60
+  A   1 16
+  REST  16
+  F#  1 16
+  REST  16
+  D   1 16
+  REST  16
+  F#  1 16
+  REST  16
+  D   1 16
+  REST  16
+  F#  0 16
+  REST  16
+
+MEASURE 21
+  LINE TLRH1
+  TIELINE RH5 60
+  A   0 16
+  REST  16
+  F#  0 16
+  REST  16
+  D   0 16
+  REST  16
+  F#  0 16
+  REST  16
+  D   0 16
+  REST  16
+  F# -1 16
+  REST  16
+# kr2l scr11-07.mus 22 60 8
+
+MEASURE 22
+  LINE TLRH1
+  TIELINE RH5 60
+  A  -1 16
+  REST  16  3
+  F# -1 16
+  REST  16
+  A  -1 16
+  REST  16  3
+  F# -1 16
+  REST  16
+
+MEASURE 23
+  LINE TLRH1
+  TIELINE RH5 60
+  A  -1 16
+  REST  16  3
+  F# -1 16
+  REST  16
+  A  -1 16
+  REST  16  3
+  F# -1 16
+  REST  16
+
+MEASURE 24
+  LINE TLRH1
+  TIELINE RH5 60
+  A  -1 16
+  REST  16 11
+# kr2l scr11-07.mus 1 60 4
+
+# kr2l scr11-07.mus 8 60 4
+
+MEASURE 8
+  LINE LH1
+  E  -2  8
+  REST   4
+  E  -2  8
+  REST   4
+
+MEASURE 8
+  LINE LH5
+  F# -1  8
+  REST   4
+  F# -1  8
+  REST   4
+
+MEASURE 9
+  LINE LH1
+  A  -3  8
+  REST   4
+  A  -3  8
+  REST   4
+
+MEASURE 9
+  LINE LH5
+  A  -2  8
+  REST   4
+  A  -2  8
+  REST   4
+# kr2l scr11-07.mus 10 60 8
+
+MEASURE 10
+  LINE LH1
+  F# -3  8
+  REST   8
+  C# -2  8
+  F# -3  8
+  REST   8
+  F# -3  8
+
+MEASURE 10
+  LINE LH5
+  F# -2  8
+  REST   8
+  PHANTOM  8
+  F# -2  8
+  REST   8
+  F# -2  8
+# kr2l scr11-07.mus 11 60 8
+
+MEASURE 11
+  LINE LH1
+  B  -4  8
+  REST   8
+  B  -4  8
+  E  -3  8
+  REST   8
+  PHANTOM  8
+
+MEASURE 11
+  LINE LH5
+  B  -3  8
+  REST   8
+  B  -3  8
+  E  -2  8
+  REST   8
+  B  -3  8
+# kr2l scr11-07.mus 12 60 8
+
+MEASURE 12
+  LINE LH1
+  E  -3  8
+  REST   8
+  B  -4  8
+  E  -3  8
+  REST   8
+  E  -3  8
+
+MEASURE 12
+  LINE LH5
+  E  -2  8
+  REST   8
+  B  -3  8
+  E  -2  8
+  REST   8
+  E  -2  8
+# kr2l scr11-07.mus 13 60 8
+
+MEASURE 13
+  LINE LH1
+  A  -4  8
+  REST   8
+  A  -4  8
+  D  -3  8
+  REST   8
+  A  -3  8
+
+MEASURE 13
+  LINE LH5
+  A  -3  8
+  REST   8
+  A  -3  8
+  D  -2  8
+  REST   8
+  A  -2  8
+# kr2l scr11-07.mus 14 60 8
+
+MEASURE 14
+  LINE LH1
+  F# -2  4
+  B  -3  8
+  G  -2  8
+  F# -2  8
+  A  -3  8
+
+MEASURE 14
+  LINE LH5
+  F# -1  4
+  B  -2  8
+  G  -1  8
+  F# -1  8
+  A  -2  8
+
+MEASURE 15
+  LINE LH1
+  F# -2  4
+  B  -3  8
+  G  -2  8
+  F# -2  8
+  B  -3  8
+
+MEASURE 15
+  LINE LH5
+  F# -1  4
+  B  -2  8
+  G  -1  8
+  F# -1  8
+  B  -2  8
+# kr2l scr11-07.mus 16 60 8
+
+MEASURE 16
+  LINE LH1
+  F# -2  8
+  REST   8
+  B  -3  8
+  F# -2  8
+  REST   8
+  E  -3  8
+
+MEASURE 16
+  LINE TLLH3
+  TIELINE LH1 92
+  D  -1  8
+  REST   4
+  D  -1  8
+  REST   4
+
+MEASURE 16
+  LINE LH5
+  A  -1  8
+  REST  8
+  B  -2  8
+  A  -1  8
+  REST  8
+  E  -2  8
+# kr2l scr11-07.mus 17 60 8
+
+MEASURE 17
+  LINE LH1
+  E  -2  8
+  REST   8
+  E  -2  8
+  E  -1  4
+  E  -2  8
+
+MEASURE 17
+  LINE TLLH3
+  TIELINE LH1 92
+  B  -2  8
+  REST   4
+  D   0  4
+  REST   8
+
+MEASURE 17
+  LINE LH5
+  G# -1  8
+  REST   8
+  E  -1  8
+  G#  0  4
+  E  -1  8
+# kr2l scr11-07.mus 18 60 8
+
+MEASURE 18
+  LINE LH1
+  A  -4  8
+  REST   8
+  E  -2  8
+  A  -4  8
+  REST   8
+  D  -2  8
+
+MEASURE 18
+  LINE LH5
+  A  -3  8
+  REST   8
+  E  -1  8
+  A  -3  8
+  REST   8
+  D  -1  8
+
+MEASURE 19
+  LINE LH1
+  A  -4  8
+  REST   8
+  D  -2  8
+  A  -4  8
+  REST   8
+  E  -2  8
+
+MEASURE 19
+  LINE LH5
+  A  -3  8
+  REST   8
+  D  -1  8
+  A  -3  8
+  REST   8
+  E  -1  8
+
+MEASURE 20
+  LINE LH1
+  A  -4  8
+  REST   8
+  E  -2  8
+  A  -4  8
+  REST   8
+  E  -2  8
+
+MEASURE 20
+  LINE LH5
+  A  -3  8
+  REST   8
+  E  -1  8
+  A  -3  8
+  REST   8
+  PHANTOM  8
+# kr2l scr11-07.mus 21 60 8
+
+MEASURE 21
+  LINE LH1
+  A  -3  8
+  REST   8
+  E  -2  8
+  A  -3  8
+  REST   8
+  E  -2  8
+
+MEASURE 21
+  LINE LH5
+  B  -2  8
+  REST  8
+  PHANTOM  8
+  B  -2  8
+  REST  8
+  PHANTOM  8
+# kr2l scr11-07.mus 22 60 8
+
+MEASURE 22
+  LINE LH1
+  A  -3  4
+  REST   8
+  A  -3  4
+  REST   8
+
+MEASURE 22
+  LINE LH5
+  B  -2  4
+  REST   8
+  A  -2  4
+  REST   8
+
+MEASURE 23
+  LINE LH1
+  A  -3  4
+  REST   8
+  A  -3  4
+  REST   8
+
+MEASURE 23
+  LINE LH5
+  B  -2  4
+  REST   8
+  A  -2  4
+  REST   8
+
+MEASURE 24
+  LINE LH1
+  A  -3  4
+  REST   8  3
+  E  -3  8
+
+MEASURE 24
+  LINE LH5
+  A  -2  4
+  REST   8  3
+  E  -2  8
+
+MEASURE 25
+  LINE LH1
+  A  -4  8  3
+  E  -1  8  3
+
+MEASURE 25
+  LINE TLLH3
+  TIELINE LH1 92
+  REST   8  3
+  A  -1  8  3
+
+MEASURE 25
+  LINE LH5
+  A  -3  8  3
+  E   0  8  3
+
+# kr2l scr11-07.mus 1 60 8
+
+MEASURE 1
+  LINE LH4
+  REST   8  5
+  E  -2  8
+
+MEASURE 2
+  LINE LH4
+  REST   8
+  E  -1  8
+  E  -2  8
+  REST   8
+  E  -1  8
+  D  -2  8
+
+MEASURE 3
+  LINE LH4
+  REST   8
+  F# -1  8
+  D  -2  8
+  REST   8
+  B  -1  8
+  E  -2  8
+
+MEASURE 4
+  LINE LH4
+  REST   8
+  F# -1  8
+  E  -2  8
+  REST   8
+  F# -1  8
+  E  -2  8
+
+MEASURE 5
+  LINE LH4
+  REST   4
+  E  -2  8
+  REST   4
+  E  -2  8
+
+MEASURE 6
+  LINE LH4
+  REST   8
+  E  -1  8
+  F# -2  8
+  REST   8
+  E  -1  8
+  F# -2  8
+
+MEASURE 7
+  LINE LH4
+  REST   8
+  D  -1  8
+  F# -2  8
+  REST   8
+  A  -1  8
+  B  -2  8
+
+MEASURE 8
+  LINE LH4
+  REST   8
+  B  -1  8
+  B  -2  8
+  REST   8
+  A  -1  8
+  E  -2  8
+
+MEASURE 9
+  LINE LH4
+  REST   8
+  E  -1  8
+  E  -2  8
+  REST   8
+  E  -1  8
+  C# -2  8
+
+MEASURE 10
+  LINE LH2
+  REST   8
+  PHANTOM  8
+  REST   4
+  A  -2  8
+  REST   8
+
+MEASURE 10
+  LINE LH4
+  REST   8
+  E  -1  8
+  REST   4
+  A  -1  8
+  REST   8
+
+MEASURE 11
+  LINE LH2
+  REST   8
+  C# -1  8
+  REST   4
+  B  -2  8
+  REST   8
+
+MEASURE 11
+  LINE LH4
+  REST   8
+  C#  0  8
+  REST   4
+  B  -1  8
+  REST   8
+
+MEASURE 12
+  LINE LH2
+  REST   8
+  PHANTOM  8
+  REST   4
+  G  -2  8
+  REST   8
+
+MEASURE 12
+  LINE LH4
+  REST   8
+  D  -1  8
+  REST   4
+  G  -1  8
+  REST   8
+
+MEASURE 13
+  LINE LH2
+  REST   8
+  B  -2  8
+  REST   4
+  A  -2  8
+  REST   8
+
+MEASURE 13
+  LINE LH4
+  REST   8
+  B  -1  8
+  REST   4
+  A  -1  8
+  REST   8
+# kr2l scr11-07.mus 16 60 8
+
+MEASURE 16
+  LINE TLLH3A
+  TIELINE LH2 92
+  REST   8
+  D  -1  8
+  REST   4
+  D  -1  8
+  REST   8
+
+MEASURE 16
+  LINE LH2
+  REST   8
+  A  -1  8
+  REST   4
+  A  -1  8
+  REST   8
+
+MEASURE 16
+  LINE LH4
+  REST   8
+  D   0  8
+  REST   4
+  D   0  8
+  REST   8
+
+MEASURE 17
+  LINE TLLH3A
+  TIELINE LH2 92
+  REST   8
+  D  -1  8
+  REST   2
+
+MEASURE 17
+  LINE LH2
+  REST   8
+  A  -1  8
+  REST   2
+
+MEASURE 17
+  LINE LH4
+  REST   8
+  D   0  8
+  REST   2
+
+MEASURE 18
+  LINE LH2
+  REST   8
+  E  -1  8
+  REST   4
+  E  -1  8
+  REST   8
+
+MEASURE 18
+  LINE LH4
+  REST   8
+  E   0  8
+  REST   4
+  E   0  8
+  REST   8
+
+MEASURE 19
+  LINE TLLH3A
+  TIELINE LH2 92
+  REST   8
+  F# -1  8
+  REST   4
+  F# -1  8
+  REST   8
+
+MEASURE 19
+  LINE LH2
+  REST   8
+  D   0  8
+  REST   4
+  D   0  8
+  REST   8
+
+MEASURE 19
+  LINE LH4
+  REST   8
+  A   0  8
+  REST   4
+  A   0  8
+  REST   8
+# kr2l D:\musfiles\scr11-07.mus 20 60 8
+
+MEASURE 20
+  LINE TLLH2a
+  TIELINE LH2 90
+  REST   8
+  F# -1  8
+  REST   4
+  D  -1  8
+  REST   8
+
+MEASURE 20
+  LINE TLLH3a
+  TIELINE LH2 92
+  REST   8
+  B  -1  8
+  REST   4
+  A  -1  8
+  REST   8
+
+MEASURE 20
+  LINE LH2
+  REST   8
+  D   0  8
+  REST   4
+  B  -1  8
+  REST   8
+
+MEASURE 20
+  LINE LH4
+  REST   8
+  A   0  8
+  REST   4
+  F#  0  8
+  REST   8
+
+MEASURE 21
+  LINE TLLH3a
+  TIELINE LH2 92
+  REST   8
+  B  -2  8
+  REST   2
+
+MEASURE 21
+  LINE LH2
+  REST   8
+  F# -1  8
+  REST   4
+  PHANTOM  8
+  REST   8
+
+MEASURE 21
+  LINE LH4
+  REST   8
+  B  -1  8
+  REST   4
+  F# -1  8
+  REST   8
+# kr2l D:\musfiles\scr11-07.mus 22 60 8
+
+MEASURE 22
+  LINE LH4
+  REST   4
+  E  -2  8
+  REST   4
+  E  -2  8
+
+MEASURE 23
+  LINE LH4
+  REST   4
+  E  -2  8
+  REST   8  3
+# kr2l D:\musfiles\scr11-07.mus 2 60 4
+
+MEASURE 2
+  LINE LH1
+  A  -3  8
+  REST   4
+  A  -3  8
+  REST   4
+
+MEASURE 2
+  LINE LH5
+  A  -2  8
+  REST   4
+  A  -2  8
+  REST   4
+
+MEASURE 3
+  LINE LH1
+  A  -3  8
+  REST   4
+  A  -3  8
+  REST   4
+
+MEASURE 3
+  LINE LH5
+  A  -2  8
+  REST   4
+  A  -2  8
+  REST   4
+
+MEASURE 4
+  LINE LH1
+  A  -3  8
+  REST   4
+  A  -3  8
+  REST   4
+
+MEASURE 4
+  LINE LH5
+  A  -2  8
+  REST   4
+  A  -2  8
+  REST   4
+# kr2l D:\musfiles\scr11-07.mus 5 60 4
+
+MEASURE 5
+  LINE LH1
+  A  -3  4
+  REST   8
+  A  -3  4
+  REST   8
+
+MEASURE 5
+  LINE LH5
+  B  -2  4
+  REST   8
+  B  -2  4
+  REST   8
+# kr2l D:\musfiles\scr11-07.mus 6 60 4
+
+MEASURE 6
+  LINE LH1
+  A  -3  8
+  REST   4
+  A  -3  8
+  REST   4
+
+MEASURE 6
+  LINE LH5
+  A  -2  8
+  REST   4
+  PHANTOM  8
+  REST   4
+# kr2l D:\musfiles\scr11-07.mus 7 60 4
+
+MEASURE 7
+  LINE LH1
+  B  -3  8
+  REST   4
+  B  -3  8
+  REST   4
+
+MEASURE 7
+  LINE LH5
+  B  -2  8
+  REST   4
+  B  -2  8
+  REST   4

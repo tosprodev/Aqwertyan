@@ -1,0 +1,1227 @@
+//
+//  NZInputHandler.m
+//  Aqwertian
+//
+//  Created by Nathan Ziebart on 1/9/13.
+//  Copyright (c) 2013 Nathan Ziebart. All rights reserved.
+//
+
+#include <string>
+#include <set>
+
+#import "NZInputHandler.h"
+#import "MusicFile.h"
+#import "AudioPlayer.h"
+#import "NZNotationDisplay.h"
+#import "NoteView.h"
+#import "LyricView.h"
+#import <QuartzCore/QuartzCore.h>
+#import "KeyboardView.h"
+#import "PerformanceViewController.h"
+#import "TPPreciseTimer.h"
+
+
+#define HIGHLIGHT_TIME_BASE 0.25
+
+using namespace std;
+
+struct note_compare {
+    bool operator() (const RGNote *n1, const RGNote *n2) const {
+        return n1.time + n1.duration < n2.time + n2.duration;
+    }
+};
+
+@implementation NZInputHandler {
+    NSArray *_userNotes, *_bandNotes, *_specialEvents;
+    int _ticks, _realTicks;
+    NSTimer *timer;
+    AudioPlayer *_player;
+    BOOL incr;
+    NSTimeInterval stuckTime;
+    NSTimeInterval tickTime;
+    
+    BOOL _doProgramChanges;
+    
+    int _iCurrentChord, _iCurrentEvent, _iBandNote, _iAutoPlay;
+    
+    RGNote *_currentChord[20], *_lastPlayedNote;
+    int _notesInCurrentChord;
+    
+    NSMutableArray *_highlightedNotes;
+    std::multiset<RGNote *, note_compare> _userPlayingNotes, _bandPlayingNotes, _autoOffNotes;
+    multiset<RGNote *, note_compare>::iterator _it, _current, _bit, _ait;
+    NZNotationDisplay *notationDisplay;
+    
+    BOOL handleTime;
+    
+    int _autoplayHint;
+    int _rate;
+    float _tempoMultiplier;
+    
+    int _windowStart, _windowStop;
+    float _windowSize;
+    
+    float tempo;
+    float tempoMultiplier;
+    float secondsPerBeat;
+
+    
+    KeyboardView *_keyboard;
+    float interval;
+    
+    float avg;
+    int avgCount;
+    
+    std::set<int> userChannels;
+}
+
+#define TRAVERSE_PLAYING_NOTES() for (_it = _userPlayingNotes.begin(); _it != _userPlayingNotes.end();)
+#define TRAVERSE_BAND_PLAYING_NOTES() for (_bit = _bandPlayingNotes.begin(); _bit != _bandPlayingNotes.end();)
+#define TRAVERSE_AUTO_OFF_NOTES() for (_ait = _autoOffNotes.begin(); _ait != _autoOffNotes.end();)
+
++ (NZInputHandler *)sharedHandler {
+    static NZInputHandler *handler = nil;
+    if (!handler) handler = [NZInputHandler new];
+    return handler;
+}
+
+- (void)startOneSecond {
+    [self updateNotesToPlayWindow];
+}
+- (id)init {
+    self = [super init];
+    _highlightedNotes = [NSMutableArray new];
+    _windowTime = 0.75;
+    _limitOneChordHighlightedAtATime = YES;
+    _exmatch = YES;
+    _key = 0;
+    _userDrivenWindowTime = 0.3;
+    _magnifyUpcomingNotes = YES;
+    _performanceMode = PERFORMANCE_USER_DRIVEN;
+    _tempoFactor = 1;
+    _volumeMultiplier = 1;
+    _autoPedal=NO;
+    return self;
+}
+
+- (int)currentTime {
+    return _ticks;
+}
+
+- (double)ticksPerSecond {
+    return (double)_rate;
+}
+                          
+                          - (void)pause {
+                              _isPaused = YES;
+//                              if (!_autoplaying && _performanceMode == PERFORMANCE_USER_DRIVEN && _iCurrentChord > 0) {
+//                                  return;
+//                              }
+                              [self stopTimer];
+                              [_player attenuate:0.66];
+                              
+                          }
+        
+        - (void) stopTimer {
+           // [TPPreciseTimer cancelAction:@selector(_timerTick) target:self];
+            [timer invalidate];
+            NSLog(@"STOP TIMER");
+        }
+
+- (NSArray *)notes {
+    return _song.soloNotes;
+}
+        
+- (int)stopTicks {
+    if (!_autoplaying && _notesInCurrentChord) {
+        if (_ticks == 0) return 0;
+        return _currentChord[0].time;
+    }
+    return _song.totalTicks;
+}
+        
+        - (void)userDidChangeProgram {
+            _doProgramChanges=NO;
+        }
+
+- (int)startTicks {
+    return _lastPlayedNote.time;
+}
+        
+        - (void)setKey:(int)key {
+            if (key > 5) key = 5;
+            if (key < -5) key = -5;
+            _key = key;
+        }
+   
+        - (void)setSong:(Song *)song {
+            [_player reset];
+            for (RGNote *n in song.soloNotes) {
+                n.state = NOT_PLAYED;
+                n.timePlayed = -1;
+              //  NSLog(@"%c", n.qwerty);
+            }
+            
+            _isFinished = NO;
+            if (_userNotes == song.soloNotes) {
+                
+            } else if (song == nil) {
+                _userNotes = nil;
+                
+                // [[NZNotationDisplay sharedDisplay] displayNotes:nil];
+            }
+            
+            if (_userNotes != song.soloNotes) {
+                _doProgramChanges=YES;
+            }
+            
+            int rate = 0;
+            for (RGNote *n in _userNotes) {
+                if (rate != n.rate) {
+                    NSLog(@"rate: %d", n.rate);
+                    rate = n.rate;
+                }
+            }
+            
+            userChannels.clear();
+            NSArray *channels = [SongOptions activeChannels];
+            for (NSNumber *channel in channels) {
+                userChannels.insert(channel.intValue);
+            }
+            
+        
+            _userNotes = song.soloNotes;
+            _bandNotes = song.bandNotes;
+            _specialEvents = song.specialEvents;
+            _song = song;
+            
+            notationDisplay = [NZNotationDisplay sharedDisplay];
+            notationDisplay.exmatch = _exmatch;
+            [notationDisplay displayNotes:_userNotes lyrics:song.lyrics];
+            
+            handleTime = YES;
+            
+            _ticks = _realTicks = 0;
+            incr = NO;
+            stuckTime = 0;
+            
+            _player = [AudioPlayer sharedPlayer];
+            
+            _iCurrentChord = 0;
+            _iCurrentEvent = 0; _iAutoPlay = 0; _iBandNote = 0;
+            _notesInCurrentChord = 0;
+            [_highlightedNotes removeAllObjects];
+            _userPlayingNotes.clear(); _bandPlayingNotes.clear(); _autoOffNotes.clear();
+            
+            [self stopTimer];
+            NSLog(@"TIMER INVALIDATE");
+            
+            _windowStop = _windowStart = 0;
+
+            
+            _rate = 1000000.0 * (double)song.division / 500000.0;
+
+            _keyboard = [KeyboardView sharedView];
+            [_keyboard reset];
+            _lastPlayedNote = nil;
+            _wrongNotes = 0;
+            
+            [self _moveToNextChord];
+            [self updateNotesToPlayWindow];
+            [self processEvents];
+            [self pause];
+        }
+        
+        - (void) processEvents {
+            while (_iCurrentEvent < _specialEvents.count) {
+                SpecialEvent *e = _specialEvents[_iCurrentEvent];
+                if (e.time <= _ticks) {
+                    if (e.type == SpecialEventTypeTempoChange) {
+                        [self changeTempo:e.value];
+                    } else if (e.type == SpecialEventTypeProgramChange) {
+                        [self changeProgram:e.value channel:e.channel];
+                    } else if (e.type == SpecialEventTypePedal) {
+                        [self pedal:e.channel note:e.value velocity:e.value2];
+                    }
+                    _iCurrentEvent++;
+                } else {
+                    break;
+                }
+            }
+        }
+                          
+                          - (void) start {
+                              _player.muted = NO;
+                              [self setupTimer];
+                          }
+        
+                - (void) changeTempo:(int)newTempo {
+                    NSLog(@"%f", (double)_song.division / (double)newTempo);
+                    _rate = 1000000.0 * (double)_song.division / (double)newTempo;
+                    [self setupTimer];
+                }
+        
+                          - (void) pedal:(int)channel note:(int)note velocity:(int)vel {
+                              BOOL userChannel = userChannels.find(channel) != userChannels.end();
+                              if (userChannel &&!_autoPedal) {
+                                  return;
+                              }
+                              [_player pedal:channel note:note velocity:vel];
+                              if (_autoplaying || (userChannel && _autoPedal)) {
+                              if (vel > 0) {
+                                  [_keyboard noteOn:' '];
+                              } else {
+                                  [_keyboard noteOff:' '];
+                              }
+                              }
+                          }
+                
+                - (void) changeProgram:(int)program channel:(int)channel {
+                    if (_doProgramChanges || userChannels.find(channel) == userChannels.end()) {
+                        [_player setProgram:program forChannel:channel];
+                        [[PerformanceViewController sharedController] updateProgram:program forChannel:channel];
+                    }
+                }
+
+//- (void)setupForNotes:(NSArray *)notes solo:(BOOL)solo {
+//    for (RGNote *n in notes) {
+//        n.state = NOT_PLAYED;
+//        n.timePlayed = -1;
+//    }
+//    autoOffNotes = [NSMutableArray new];
+//    _isFinished = NO;
+//    if (_notes == notes) {
+//        
+//    } else if (notes == nil) {
+//        _notes = nil;
+//       // [[NZNotationDisplay sharedDisplay] displayNotes:nil];
+//    }
+//    
+//    int rate = 0;
+//    for (RGNote *n in notes) {
+//        if (rate != n.rate) {
+//            NSLog(@"rate: %d", n.rate);
+//            rate = n.rate;
+//        }
+//    }
+//    
+//    
+//    [notationDisplay displayNotes:notes];
+//    
+//    _notes = notes;
+//    handleTime = solo && (_soloMode == INPUT_USER_DRIVE);
+//    _soloing = solo;
+//    _ticks = 0;
+//    
+//    notationDisplay = [NZNotationDisplay sharedDisplay];
+//    
+//    _player = [AudioPlayer sharedPlayer];
+//    
+//    _iCurrentChord = 0;
+//    _notesInCurrentChord = 0;
+//    [_highlightedNotes removeAllObjects];
+//    _playingNotes.clear();
+//    [timer invalidate];
+//    NSLog(@"TIMER INVALIDATE");
+//    
+//    _windowStop = _windowStart = 0;
+//    [self _moveToNextChord];
+//    
+//    tempo = -1;
+//    // [self updateNotesToPlayWindow];
+//    
+//    _autoplayHint = 0;
+//    
+//    if (handleTime) {
+//        _rate = -1;
+//        [self updateRate];
+//    }
+//    
+//    _keyboard = [KeyboardView sharedView];
+//    [_keyboard reset];
+//    _lastPlayedNote = nil;
+//    _wrongNotes = 0;
+//}
+//
+        
+        - (void)setAutoplaying:(BOOL)autoplaying {
+            _autoplaying = autoplaying;
+            if (autoplaying) {
+                _iAutoPlay = _iCurrentChord;
+            } else {
+                TRAVERSE_PLAYING_NOTES() {
+                    _autoOffNotes.insert(*_it);
+                    _it++;
+                }
+            }
+        }
+- (void) restart {
+    [self setSong:_song];
+}
+//
+//
+//
+//- (void) updateRate {
+//    for (int i = 0; i < _notesInCurrentChord; i++) {
+//        if (_currentChord[i].rate == 0) continue;
+//        if (_currentChord[i].rate != _rate) {
+//            _rate = _currentChord[i].rate;
+//            if (handleTime) {
+//                [self setupTimer];
+//            }
+//            break;
+//        }
+//    }
+//    
+//}
+//
+- (void) setupTimer {
+    [self stopTimer];
+    interval = (24.0/(double)_song.division) * _rate * _tempoFactor;
+    interval = 1.0/interval;
+    timer = [NSTimer scheduledTimerWithTimeInterval:interval target:self selector:@selector(_timerTick) userInfo:nil repeats:YES];
+   // [TPPreciseTimer scheduleAction:@selector(_timerTick) target:self inTimeInterval:interval];
+    _tempoMultiplier = _tempoFactor;
+    _isPaused = NO;
+ //   _acceptingInput = !autoplaying;
+    NSLog(@"TIMER START %.2f", interval);
+}
+        
+        - (void)setPerformanceMode:(int)performanceMode {
+            _performanceMode = performanceMode;
+            [self restart];
+        }
+                    
+
+- (void) processBandNotes {
+    int time = (_lastPlayedNote && !_autoplaying && _performanceMode==PERFORMANCE_USER_DRIVEN && _lastPlayedNote.time > _ticks) ? _lastPlayedNote.time : _ticks;
+    
+    if (_iBandNote >= _bandNotes.count) {
+        return;
+    }
+    
+    // Turn off notes that have expired
+    TRAVERSE_BAND_PLAYING_NOTES() {
+        RGNote *n = *_bit;
+        if (n.time + n.duration <= time) {
+            [self bandNoteOff:_bit++];
+        } else {
+            break;
+        }
+    }
+    
+    // Turn on new notes to play
+    while (_iBandNote < _bandNotes.count) {
+        RGNote *n = _bandNotes[_iBandNote];
+        if (_performanceMode == PERFORMANCE_USER_DRIVEN && _notesInCurrentChord) {
+            if (n.time < _currentChord[0].time && n.time <= time) {
+                [self bandNoteOn:n];
+                _iBandNote++;
+            } else {
+                break;
+            }
+        } else {
+            
+            if (n.time <= time) {
+                [self bandNoteOn:n];
+                _iBandNote++;
+            } else {
+                break;
+            }
+        }
+    }
+    
+    if (_iBandNote >= _bandNotes.count) {
+        return;
+    }
+    
+    // Turn off notes that have expired
+    TRAVERSE_BAND_PLAYING_NOTES() {
+        RGNote *n = *_bit;
+        if (n.time + n.duration <= time) {
+            [self bandNoteOff:_bit++];
+        } else {
+            break;
+        }
+    }
+}
+
+- (void) processAutoPlay {
+    
+    // Turn off notes that have expired
+    TRAVERSE_PLAYING_NOTES() {
+        RGNote *n = *_it;
+        if (n.time + n.duration <= _ticks) {
+            [self turnOffNote:n withAudio:YES isTie:NO hint:_it++];
+        } else {
+            break;
+        }
+    }
+    
+    // Play new notes
+    while (_iAutoPlay < _userNotes.count) {
+        RGNote *n = _userNotes[_iAutoPlay];
+        if (n.time <= _ticks) {
+            if (n.note > 0 && n.state == NOT_PLAYED) {
+                [self turnOnNote:n withAudio:YES isTie:NO isBand:NO];
+            }
+            _iAutoPlay++;
+        } else {
+            break;
+        }
+    }
+}
+
+- (void) processAutoOffNotes {
+    TRAVERSE_AUTO_OFF_NOTES() {
+        RGNote *n = *_ait;
+        if (n.time + n.duration <= _ticks) {
+            if (n.state == PLAYING) {
+                [self turnOffNote:n withAudio:YES isTie:n.tie hint:_userPlayingNotes.find(n)];
+            }
+            
+            _autoOffNotes.erase(_ait++);
+            if (!n.tie) {
+                [_keyboard noteOff:n.qwerty];
+            }
+        } else {
+            break;
+        }
+
+    }
+}
+
+- (void) incrementTicks {
+    _ticks += _song.division/24;
+    _realTicks = _ticks;
+    _time = CACurrentMediaTime();
+}
+
+- (void) _timerTick {
+    static CFTimeInterval lastTime;
+    
+    CFTimeInterval now = CACurrentMediaTime();
+//    if (avgCount % 4 == 0) {
+//        NSLog(@"%f vs %f", interval * 1000, (now - lastTime) * 1000);
+//    }
+    lastTime = now;
+    
+    
+
+    // User driven mode
+    if (_performanceMode == PERFORMANCE_USER_DRIVEN) {
+        
+        // Autoplaying
+        if (_autoplaying) {
+            [self incrementTicks];
+            [self processAutoOffNotes];
+            [self processAutoPlay];
+            [self processBandNotes];
+            [self processEvents];
+            [self updateNotesToPlayWindow];
+            
+        // Not autoplaying
+        } else {
+            
+            if (!_notesInCurrentChord || [_currentChord[0] time] > _ticks) {
+                [self incrementTicks];
+                [self processAutoOffNotes];
+                [self processBandNotes];
+                [self processEvents];
+                [self updateNotesToPlayWindow];
+                incr = NO;
+                
+            // If the user is stuck on a note, we don't increment the ticks
+            } else {
+                if (!incr) {
+                    incr = YES;
+                    stuckTime = CACurrentMediaTime();
+                }
+                if (CACurrentMediaTime() - stuckTime > 1 && _userPlayingNotes.size() == 0 && ![_keyboard pedalIsOn]) {
+                    [_player attenuate:1];
+                }
+                if (_iCurrentChord > 0) {
+                   
+                    _realTicks += _song.division/24;
+                    if ((_realTicks - _ticks) * secondsPerBeat) {
+                        
+                    }
+                }
+            }
+        }
+        
+    // Band driven mode
+    } else {
+        [self incrementTicks];
+   
+        
+        // Autoplaying
+        if (_autoplaying) {
+            [self processAutoOffNotes];
+            [self processAutoPlay];
+            [self processBandNotes];
+            [self processEvents];
+            [self updateNotesToPlayWindow];
+            
+        // Not autoplaying
+        } else {
+            [self processAutoOffNotes];
+            [self processBandNotes];
+             [self processEvents];
+            [self updateNotesToPlayWindow];
+        }
+       
+        
+
+    }
+    
+    // Check if the tempo has been adjusted
+    if (_tempoMultiplier != _tempoFactor) {
+        [self setupTimer];
+    }
+    
+    // Check if we are finished
+    if (_ticks >= _song.totalTicks && !_isFinished) {
+        if (!_userPlayingNotes.size()) {
+            [self finish];
+        }
+    }
+
+    CFTimeInterval diff = CACurrentMediaTime() - now;
+    if (diff > interval/2.0) {
+        NSLog(@"TOOK TOO LONG %f -- %f", diff * 1000, interval * 1000);
+    }
+    avg += diff;
+    if (avgCount % 50 == 0) {
+     //   NSLog(@"%f", avg/(float)avgCount);
+        avg = avgCount = 0;
+    }
+    avgCount++;
+
+    
+    
+}
+- (void) finish {
+    _isFinished=YES;
+    TRAVERSE_PLAYING_NOTES(){
+        RGNote *n = *_it;
+        [self turnOffNote:n withAudio:YES isTie:NO hint:_it++];
+    }
+    [self performSelector:@selector(finishBandNotes) withObject:nil afterDelay:2];
+    [_player attenuate:2];
+    [self stopTimer];
+    [[PerformanceViewController sharedController] performanceFinished];
+}
+        
+        - (void) finishBandNotes {
+            TRAVERSE_BAND_PLAYING_NOTES() {
+                [self bandNoteOff:_bit++];
+
+            }
+        }
+
+//- (void)tick:(int)totalTicks {
+//    
+//    while (autoOffNotes.count) {
+//        RGNote *n = autoOffNotes[0];
+//        if (n.time + n.duration <= _ticks) {
+//            [self turnOffNote:n withAudio:YES isTie:NO hint:_playingNotes.find(n)];
+//            [autoOffNotes removeObjectAtIndex:0];
+//        } else {
+//            break;
+//        }
+//    }
+//    
+//    if (!handleTime) {
+//         _time = CACurrentMediaTime();
+//        if (_ticks == 0) {
+//            _startTime = _time;
+//        }
+//        _ticks = totalTicks*(_player.ticksPerQuarterNote/24);
+//        _realTicks = _ticks;
+//        
+//        while (autoOffNotes.count) {
+//            RGNote *n = autoOffNotes[0];
+//            if (n.time + n.duration <= _ticks + _player.ticksPerQuarterNote/24) {
+//                [self turnOffNote:n withAudio:YES isTie:NO hint:_playingNotes.find(n)];
+//                [autoOffNotes removeObjectAtIndex:0];
+//            } else {
+//                break;
+//            }
+//        }
+//       
+//        //  NSLog(@"%d", _ticks);
+//    }
+//    if (_autoplaying) {
+//        TRAVERSE_PLAYING_NOTES(){
+//            RGNote *n = *_it;
+//            if (n.time + n.duration < _ticks) {
+//                [self turnOffNote:n withAudio:YES isTie:NO hint:_it++];
+//            } else {
+//                break;
+//            }
+//        }
+//    }
+//    [self updateNotesToPlayWindow];
+//    if (_ticks >= _player.totalTicks && !_isFinished) {
+//        [self finish];
+//    }
+//}
+
+- (void)setWindowTime:(float)windowTime {
+    _windowTime = windowTime;
+    tempo = -1;
+}
+
+- (void) updateNotesToPlayWindow {
+    float time;
+    RGNote *n;
+    NoteView *view;
+    
+    if (tempo != _rate || tempoMultiplier != _tempoMultiplier) {
+        tempo = _rate;
+        tempoMultiplier = _tempoMultiplier;
+        // 1000000.0 * (double)song.division / 500000.0;
+        
+        secondsPerBeat = (double)_song.division / tempo;
+        
+        /// windowSize [ticks] * secondsPerBeat [sec/beat] * beatsPerTick [beat/tick] = windowTime [sec]
+        _windowSize = _windowTime / secondsPerBeat * (double)_song.division;
+    }
+    
+    if (_limitOneChordHighlightedAtATime) {
+        if (_notesInCurrentChord && [_currentChord[0] time] < _windowSize + _ticks) {
+            for (int i = 0; i < _notesInCurrentChord; i++) {
+                n = _currentChord[i];
+                if (n.note == 0) continue;
+                if (n.state == NOT_PLAYED) {
+                    view = (NoteView *)n.noteView;
+                    if (view.state != HIGHLIGHTED) {
+                        if (_magnifyUpcomingNotes) {
+                            time = _windowTime * (1 / tempoMultiplier) * (float)(n.time - _ticks)/_windowSize;
+                            [view setState:HIGHLIGHTED duration:MAX(0, time-0.1)];
+                            if (_exmatch) {
+                            [_keyboard noteHighlight:n.qwerty duration:time];
+                            }
+                        }
+                        [_highlightedNotes addObject:n];
+                    }
+                }
+            }
+        }
+        
+        for (int i = _highlightedNotes.count - 1; i > -1; i--) {
+            n = _highlightedNotes[i];
+            if (n.time + n.duration < _ticks - _windowSize/2 && n.state == NOT_PLAYED) {
+                view = (NoteView *)n.noteView;
+                if (view.state == HIGHLIGHTED) {
+                time = _windowTime * (1 / tempoMultiplier) ;
+                [view setState:NORMAL duration:time];
+                [_highlightedNotes removeObjectAtIndex:i];
+                }
+                // n.state = SKIPPED;
+            }
+        }
+    }
+    
+    if (_notesInCurrentChord && _currentChord[0].time + _song.division/24 <= _ticks) {
+        // NSLog(@"%d vs %d", _currentChord[0].time, _ticks);
+        for (int i = 0; i < _notesInCurrentChord; i++) {
+            RGNote *n = _currentChord[i];
+            if (n.note == 0) {
+//                [(LyricView *)n.noteView setState:PLAYING];
+                n.state = PLAYED;
+            } else if (n.state == NOT_PLAYED && _limitOneChordHighlightedAtATime) {
+                view = (NoteView *)n.noteView;
+                time = _windowTime * (1 / tempoMultiplier);
+                dispatch_time_t popTime = dispatch_time(DISPATCH_TIME_NOW, 0.1 * NSEC_PER_SEC);
+                dispatch_after(popTime, dispatch_get_main_queue(), ^(void){
+                if (view.state == HIGHLIGHTED) {
+                    [view setState:NORMAL duration:time];
+                    if (_exmatch) {
+                        [_keyboard noteUnhighlight:n.qwerty duration:time];
+                    }
+                    [_highlightedNotes removeObject:n];
+                }
+                });
+            }
+        }
+        [self _moveToNextChord];
+        // [self updateNotesToPlayWindow];
+    }
+    
+    for (int i = _windowStart; i < _userNotes.count; i++) {
+        n = _userNotes[i];
+        if (_ticks - _windowSize/2 > n.time) {
+            if (!_limitOneChordHighlightedAtATime) {
+                if (n.note == 0) continue;
+                view = (NoteView *)n.noteView;
+                if (view.state == HIGHLIGHTED) {
+                    time = _windowTime * (1 / tempoMultiplier);
+                    [view setState:NORMAL duration:time];
+                    if (_exmatch) {
+                    [_keyboard noteUnhighlight:n.qwerty duration:time];
+                    }
+                }
+                [_highlightedNotes removeObject:n];
+                //n.state = SKIPPED;
+            }
+        } else {
+            _windowStart = i;
+            break;
+        }
+    }
+    if (_windowStop < _windowStart) {
+        _windowStop = _windowStart;
+    }
+    for (int i = _windowStop; i < _userNotes.count; i++) {
+        n = _userNotes[i];
+        if (n.note == 0) continue;
+        if (_ticks + _windowSize > n.time) {
+            if (!_limitOneChordHighlightedAtATime) {
+                if (n.state == NOT_PLAYED) {
+                    view = (NoteView *)n.noteView;
+                    if (view.state != HIGHLIGHTED) {
+                        if (_magnifyUpcomingNotes) {
+                            time = _windowTime * (1 / tempoMultiplier) * (n.time - _ticks)/_windowSize;
+                            [view setState:HIGHLIGHTED duration:time];
+                            if (_exmatch) {
+                            [_keyboard noteHighlight:n.qwerty duration:time];
+                            }
+                        }
+                        [_highlightedNotes addObject:n];
+                    }
+                }
+            }
+        } else {
+            _windowStop = i;
+            break;
+        }
+    }
+    
+}
+
+- (BOOL)handleNoteOn:(unichar)key velocity:(int)velocity autoOff:(BOOL)autoOff {
+    BOOL chordFinished = YES;
+    BOOL played = NO;
+    BOOL match = NO;
+    
+    if (_autoplaying || _isPaused) return NO;
+    
+    
+    
+    if (_performanceMode == PERFORMANCE_USER_DRIVEN) { // user is driving tempo
+        if (_notesInCurrentChord) {
+            if (_currentChord[0].time > _ticks + _windowSize) {
+                _wrongNotes++;
+                return NO;
+            }
+            if (_ticks < _currentChord[0].time && (float)(_ticks - _lastPlayedNote.time) / (float)(_currentChord[0].time - _lastPlayedNote.time) < 0.1) {
+              //  return NO;
+            }
+            
+            float leeway = _userDrivenWindowTime / secondsPerBeat * (double)_song.division;
+            int iChordEnd = _iCurrentChord + _notesInCurrentChord;
+            
+            for (int i = _iCurrentChord; i < _userNotes.count; i++) {
+                RGNote *n = _userNotes[i];
+                if (n.note == 0) {
+                    if (n.state == NOT_PLAYED) {
+                        n.state = PLAYED;
+//                        [(LyricView *)n.noteView setState:PLAYING];
+                    }
+                    continue;
+                }
+                
+                if (i >= iChordEnd && n.time > _ticks + leeway) {
+                    _wrongNotes++;
+                    break;
+                }
+                
+                if (_exmatch) {
+                    match = n.qwerty == key;
+                } else {
+                    match = YES;
+                }
+                
+                if (!played && match && n.state == NOT_PLAYED) {
+                    if (!_exmatch) {
+                        n.noteOffKey = key;
+                    }
+                    [self turnOnNote:n withAudio:YES isTie:NO isBand:NO];
+                    if (autoOff) {
+                        _autoOffNotes.insert(n);
+                    }
+                    played = YES;
+                    if (i >= iChordEnd) {
+                        break;
+                    }
+                } else if (i < iChordEnd && n.state == NOT_PLAYED) {
+                    chordFinished = NO;
+                }                
+            }
+            if (chordFinished) {
+                [self _moveToNextChord];
+            } 
+        }
+    } else { // band is driving tempo
+        for (int i = _windowStart; i < _windowStop; i++) {
+            RGNote *n = _userNotes[i];
+            if (n.note == 0) continue;
+            
+            if (_exmatch) {
+                match = n.qwerty == key;
+            } else {
+                match = YES;
+            }
+            
+            if (!played && match && n.state == NOT_PLAYED) {
+                if (!_exmatch) {
+                    n.noteOffKey = key;
+                }
+                [self turnOnNote:n withAudio:YES isTie:NO isBand:NO];
+                played = YES;
+            }
+        }
+    }
+    if (!played) {
+        _wrongNotes++;
+    }
+    return played;
+}
+
+- (void)turnOffNote:(RGNote *)n withAudio:(BOOL)audio isTie:(BOOL)tie hint:(multiset<RGNote *, note_compare>::iterator)iterator {
+    if (iterator == _userPlayingNotes.end()) {
+        return;
+    }
+                            
+    if (audio && n.state == PLAYING) {
+        [_player unplayNote:n.actualNotePlayed onChannel:n.channel];
+    }
+    
+    n.state = PLAYED;
+    
+    if (_autoplaying && !tie) {
+        [_keyboard noteOff:n.qwerty];
+    }
+    
+    if (!tie) {
+        _userPlayingNotes.erase(iterator);
+        [notationDisplay noteChangedState:n];
+    }
+    
+    for (RGNote *tie in n.tieNotes) {
+        //if (n.state == PLAYING && n.duration == tie.duration) {
+            [self turnOffNote:tie withAudio:YES isTie:YES hint:iterator];
+            _autoOffNotes.erase(tie);
+      //  }
+    }
+}
+        
+                          - (void) bandNoteOn:(RGNote *)n {
+                              if (n.note==0) {
+                              [(LyricView *)n.noteView setState:PLAYING];
+                              } else {
+                                  SetKeyAdjustedNote(n, _key);
+                              [_player playNote:n.actualNotePlayed onChannel:n.channel withVelocity:n.volume * _volumeMultiplier];
+                              _bandPlayingNotes.insert(n);
+                              }
+                          }
+                          
+                          - (void) bandNoteOff:(multiset<RGNote *, note_compare>::iterator)it {
+                              [_player unplayNote:(*it).note onChannel:(*it).channel];
+                              _bandPlayingNotes.erase(it);
+                          }
+        
+        void SetKeyAdjustedNote(RGNote *n, int key) {
+            int note = n.note;
+            int ct = 0;
+            if (key > 0) {
+                while (ct < key && note + 12 <= 127) {
+                    note+= 12;
+                    ct++;
+                }
+            } else if (key < 0) {
+                while (ct > key && note - 12 >= 0) {
+                    note -= 12;
+                    ct--;
+                }
+            }
+            n.actualNotePlayed = note;
+        }
+
+- (void)turnOnNote:(RGNote *)n withAudio:(BOOL)audio isTie:(BOOL)tie isBand:(BOOL)band {
+    if (!_exmatch) {
+        //        for (int i = _playingNotes.size() - 1; i > -1; i--) {
+        //            RGNote *note = _playingNotes[i];
+        //            if (note.note == n.note && note.channel == n.channel) {
+        //                [self turnOffNote:note withAudio:YES isTie:NO];
+        //                break;
+        //            }
+        //        }
+    }
+    
+    SetKeyAdjustedNote(n, _key);
+    
+    TRAVERSE_PLAYING_NOTES() {
+        RGNote *note = *_it;
+        if (note.actualNotePlayed == n.actualNotePlayed && note.channel == n.channel) {
+            [self turnOffNote:note withAudio:YES isTie:n.tie hint:_it++];
+            
+        } else {
+            _it++;
+        }
+    }
+    
+    if (audio) {
+        if (band) {
+           [_player playNote:n.actualNotePlayed onChannel:n.channel withVelocity:n.volume];
+        } else {
+            [_player playNote:n.actualNotePlayed onChannel:n.channel withVelocity:n.volume];
+        }
+    }
+    
+    
+    n.state = PLAYING;
+    n.timePlayed = _realTicks;
+   // NSLog(@"%d - %d", _ticks, _realTicks);
+    
+    if (_autoplaying  && !tie) {
+        [_keyboard noteOn:n.qwerty];
+    }
+    
+    if (!tie) {
+        [_highlightedNotes removeObject:n];
+        _userPlayingNotes.insert(n);
+        [notationDisplay noteChangedState:n];
+    } else {
+        _autoOffNotes.insert(n);
+        _userPlayingNotes.insert(n);
+    }
+    
+    for (RGNote *tie in n.tieNotes) {
+        [self turnOnNote:tie withAudio:YES isTie:YES isBand:band];
+    }
+}
+
+- (void) handleNoteOff:(unichar)key {
+    if (_autoplaying || _isPaused) return;
+    BOOL found = NO;
+    
+    
+    
+    TRAVERSE_PLAYING_NOTES() {
+        RGNote *n = *_it;
+        if ((_exmatch && n.qwerty == key) || (!_exmatch && n.noteOffKey == key)) {
+            if (!n.tie) {
+                [self turnOffNote:n withAudio:YES isTie:NO hint:_it++];
+            //   NSLog(@"found %c", key);
+                found = YES;
+                break;
+            }
+        }
+        _it++;
+    }
+    
+//    if (_isFinished && _playingNotes.size() == 0) {
+//        [[PerformanceViewController sharedController] performanceFinished];
+//    }
+//    
+    
+    //    for (int i = _playingNotes.count - 1; i > -1; i--) {
+    //        RGNote *n = _playingNotes[i];
+    //        if (n.qwerty == key) {
+    //            [self turnOffNote:n withAudio:YES isTie:NO];
+    //            break;
+    //        }
+    //    }
+}
+
+- (void) _moveToNextChord {
+    if (_notesInCurrentChord) {
+        _lastPlayedNote = _currentChord[0];
+    }
+    
+    //  NSLog(@"movenext");
+    _iCurrentChord += _notesInCurrentChord;
+    
+    _notesInCurrentChord = 0;
+    
+    //    while (_iCurrentChord < _notes.count && [_notes[_iCurrentChord] note] == 0) {
+    //        _iCurrentChord++;
+    //    }
+    
+    
+    BOOL found = NO;
+    BOOL done = YES;
+    if (_iCurrentChord < _userNotes.count) {
+        
+        _currentChord[0] = _userNotes[_iCurrentChord];
+        while (_currentChord[0].note == 0) {
+            _iCurrentChord++;
+            if (_iCurrentChord >= _userNotes.count-1) {
+                break;
+            }
+            _currentChord[0] = _userNotes[_iCurrentChord];
+        }
+        found = _currentChord[0].note != 0;
+        if (found) {
+        RGNote *anchor = _currentChord[0];
+        _notesInCurrentChord = 1;
+        for (int i = _iCurrentChord+1; i < _userNotes.count; i++) {
+            RGNote *n = _userNotes[i];
+            if (n.time == anchor.time && n.note != 0) {
+                _currentChord[_notesInCurrentChord] = n;
+                _notesInCurrentChord++;
+            } else {
+                break;
+            }
+        }
+        
+        //        for (int i = 0; i < _notesInCurrentChord; i++) {
+        //            RGNote *n = _currentChord[i];
+        //            if (n.note == 0) continue;
+        //            for (int j = _highlightedNotes.count - 1; j > -1; j--) {
+        //                RGNote *other = _highlightedNotes[j];
+        //                if (other.state == NOT_PLAYED && n != other && (_exmatch ? other.qwerty == n.qwerty : other.note == n.note)) {
+        //                    NoteView *view = (NoteView *)other.noteView;
+        //                    float time = _windowTime * (1.0 / tempoMultiplier) * (_ticks - n.time)/_windowSize;
+        //                    [view setState:NORMAL duration:time];
+        //                    [_highlightedNotes removeObjectAtIndex:j];
+        //                    // other.state = SKIPPED;
+        //                }
+        //            }
+        //        }
+        _startTime = CACurrentMediaTime();
+        _time = _startTime;
+            if (_performanceMode == PERFORMANCE_USER_DRIVEN && _ticks > 0) {
+                [self processBandNotes];
+            }
+        }
+        for (int i = 0; i < _notesInCurrentChord; i++) {
+            if (_currentChord[i].state == NOT_PLAYED) {
+                done = NO;
+                break;
+            }
+        }
+        if (done) {
+            [self _moveToNextChord];
+        }
+    } else {
+       // _isFinished = YES;
+    }
+    //[self updateRate];
+}
+
+
+
+- (void)autoPlayNoteOn:(int)note channel:(int)channel time:(int)clocks {
+    BOOL chordFinished = YES;
+    BOOL played = NO;
+    BOOL match = NO;
+    
+    
+    //NSLog(@"on");
+    
+    //    for (int i = _windowStart; i < _windowStop; i++) {
+    //        RGNote *n = _notes[i];
+    //
+    //        match = n.note == note && n.channel == channel;
+    //
+    //        if (!played && match && n.state == NOT_PLAYED) {
+    //            [self turnOnNote:n withAudio:NO isTie:NO];
+    //            played = YES;
+    //        }
+    //    }
+    
+    for (int i = 0; i < _notesInCurrentChord; i++) {
+        RGNote *n = _currentChord[i];
+        
+        if (n.note == 0) {
+            if (n.state == NOT_PLAYED) {
+                n.state = PLAYED;
+                [(LyricView *)n.noteView setState:PLAYING];
+            }
+            continue;
+        }
+        
+        match = n.note == note && n.channel == channel;
+        
+        if (!played && match && n.state == NOT_PLAYED) {
+            [self turnOnNote:n withAudio:NO isTie:NO isBand:NO];
+            played = YES;
+        } else if (n.state == NOT_PLAYED) {
+            chordFinished = NO;
+        }
+    }
+    if (chordFinished) {
+        [self _moveToNextChord];
+        [self updateNotesToPlayWindow];
+    }
+    //    [self handleNoteO]
+    //    BOOL found = NO;
+    //
+    //    for (int i = MAX(0, _autoplayHint - 25); i < MIN(_notes.count, _autoplayHint+25); i++) {
+    //        RGNote *n = _notes[i];
+    //        if (n.note == note && n.channel == channel && n.state == NOT_PLAYED) {
+    //            n.state = PLAYING;
+    //            [notationDisplay noteChangedState:n];
+    //            [_playingNotes addObject:n];
+    //            _autoplayHint = i;
+    //            found = YES;
+    //
+    //            NSLog(@"%d vs %d (%d)", clocks, n.time, clocks*4);
+    //            break;
+    //        }
+    //    }
+    //
+    //    if (!found) {
+    //        int i = 0;
+    //        for (RGNote *n in _notes) {
+    //            if (n.channel == channel && n.note == note) {
+    //                n.state = PLAYING;
+    //                [notationDisplay noteChangedState:n];
+    //                [_playingNotes addObject:n];
+    //                _autoplayHint = i;
+    //                break;
+    //            }
+    //            i++;
+    //        }
+    //    }
+}
+
+- (void)autoPlayNoteOff:(int)note channel:(int)channel time:(int)clocks {
+    TRAVERSE_PLAYING_NOTES() {
+        RGNote *n = *_it;
+        if (n.note == note && n.channel == channel) {
+            [self turnOffNote:n withAudio:NO isTie:NO hint:_it++];
+            break;
+        }
+        _it++;
+    }
+
+}
+
+static std::string keys = "ZAQXSWCDEVFRBGTNHYMJU,KI.LO/;P";
+unichar QwertToNote(unichar c) {
+    int index = keys.find(c);
+    if (index == std::string::npos) {
+        return c;
+    }
+    return index;
+}
+
+void OrderChord(RGNote *chord, int length) {
+    
+}
+
+//- (void)setupForAutoplay {
+//    _autoplayHint = 0;
+//    handleTime = NO;
+//    [timer invalidate];
+//    _ticks = 0;
+//    NSLog(@"autoplay on");
+//    NSLog(@"TIMER INVALIDATE");
+//}
+
+@end

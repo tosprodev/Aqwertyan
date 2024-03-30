@@ -1,0 +1,5153 @@
+ NAME Rachmaninoff: Prelude: Opus 32.10
+
+MEASURE 1
+  METER 4   4
+  TEMPO 4 60.000000
+  KEY 2#
+
+# kr2l rach32-10.mus 1 60 12
+
+MEASURE 1
+  LINE RH4
+  REST   4  3
+  B   0  24 3
+  HINT F 0
+  D   1 24
+  B   0 12
+
+MEASURE 1
+  LINE RH5
+  REST   4  3
+  E   1  24 3
+  HINT B 0
+  F#  1 24
+  E   1 12
+# kr2l rach32-10.mus 2 60 12
+
+MEASURE 2
+  LINE TLRH3
+  TIELINE RH4 92
+  B   0  3  2
+  REST   3
+
+MEASURE 2
+  LINE RH4
+  D   1  3  2
+  G   0 12
+  B   0  8
+  G   0 24
+  B   0 12
+
+MEASURE 2
+  LINE RH5
+  F#  1  3  2
+  E   1 12
+  D   1  8
+  E   1 24
+  D   1 12
+
+MEASURE 3
+  LINE TLRH3
+  TIELINE RH4 92
+  G   0  3  2
+  REST   3
+
+MEASURE 3
+  LINE RH4
+  B   0  3  2
+  B   0 12
+  G   0  8
+  B   0 24
+  G   0 12
+
+MEASURE 3
+  LINE RH5
+  E   1  3  2
+  D   1 12
+  C#  1  8
+  D   1 24
+  C#  1 12
+
+MEASURE 4
+  LINE TLRH3
+  TIELINE RH4 92
+  G   0  2
+  F#  0  2
+
+MEASURE 4
+  LINE RH4
+  B   0  2
+  A   0 2 
+
+MEASURE 4
+  LINE RH5
+  D   1  2
+  D   1 12  5
+  C#  1 24
+  C   1 24
+# kr2l rach32-10.mus 5 60 12
+
+MEASURE 5
+  LINE TLRH3
+  TIELINE RH4 92
+  F#  0  4  3
+  REST   4
+
+MEASURE 5
+  LINE RH4
+  B   0  4  3
+  B   0  8
+  G   0 24
+  B   0 12
+
+MEASURE 5
+  LINE RH5
+  D   1  4  3
+  D   1  8
+  E   1 24
+  D   1 12
+
+MEASURE 6
+  LINE TLRH3
+  TIELINE RH4 92
+  G   0  3  2
+  REST   3
+
+MEASURE 6
+  LINE RH4
+  B   0  3  2
+  B   0 12
+  G   0  8
+  B   0 24
+  G   0 12
+
+MEASURE 6
+  LINE RH5
+  E   1  3  2
+  D   1 12
+  C#  1  8
+  D   1 24
+  C#  1 12
+
+MEASURE 7
+  LINE TLRH3
+  TIELINE RH4 92
+  G   0  3  2
+  REST   4
+  D   0 12
+
+MEASURE 7
+  LINE RH4
+  B   0  3  2
+  A   0 12
+  G   0  8
+  D   0 24
+  G   0 12
+
+MEASURE 7
+  LINE RH5
+  D   1  3  2
+  C#  1 12
+  B   0  8
+  A   0 24
+  B   0 12
+
+MEASURE 8
+  LINE TLRH3
+  TIELINE RH4 92
+  D   0  2
+  D   0  2
+
+MEASURE 8
+  LINE RH4
+  G   0  2
+  F#  0  4
+  CARRY   6
+  E   0  24
+  Eb  0  24
+
+MEASURE 8
+  LINE RH5
+  B   0  2
+  B   0  2
+# kr2l rach32-10.mus 9 60 12
+
+MEASURE 9
+  LINE TLRH3
+  TIELINE RH4 92
+  D   0  3  2
+  REST   3
+
+MEASURE 9
+  LINE RH4
+  G   0  3  2
+  D   0 12
+  B  -1  8
+  D   0 24
+  B  -1 12
+
+MEASURE 9
+  LINE RH5
+  B   0  3  2
+  A   0 12
+  G   0  8
+  F#  0 24
+  G   0 12
+# kr2l rach32-10.mus 10 60 12
+
+MEASURE 10
+  LINE RH5
+  G   0  2
+  G   0  2
+# kr2l rach32-10.mus 10 60 12
+
+MEASURE 10
+  LINE RH4
+  C   0  2
+  B  -1 12  5
+  A  -1 24
+  G# -1 24
+# kr2l rach32-10.mus 11 60 12
+
+MEASURE 11
+  LINE TLRH3
+  TIELINE RH4 92
+  G  -1  1
+
+MEASURE 11
+  LINE RH4
+  E   0  1
+
+MEASURE 11
+  LINE RH5
+  G   0  1
+# kr2l rach32-10.mus 1 60 12
+
+MEASURE 1
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4  3
+  G  -1  8
+  B  -1 24
+  G  -1 12
+
+MEASURE 1
+  LINE LH4
+  REST   4  3
+  B  -1  8
+  HINT F -2
+  D   0 24
+  B  -1 12
+
+MEASURE 1
+  LINE LH5
+  REST   4  3
+  E   0  8
+  HINT B -2
+  F#  0 24
+  E   0 12
+# kr2l rach32-10.mus 2 60 12
+
+MEASURE 2
+  LINE TLLH3
+  TIELINE LH4 92
+  B  -1  3  2
+  REST  12
+  F# -1  8
+  REST  24
+  F# -1 12
+
+MEASURE 2
+  LINE LH4
+  D   0  3  2
+  B  -1 12
+  B  -1  8
+  B  -1 24
+  B  -1 12
+
+MEASURE 2
+  LINE LH5
+  F#  0  3  2
+  E   0 12
+  D   0  8
+  E   0 24
+  D   0 12
+
+MEASURE 3
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4  3
+  E  -1  8
+  REST  24
+  E  -1 12
+
+MEASURE 3
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   3  2
+  G  -1 12
+  G  -1  8
+  G  -1 24
+  G  -1 12
+
+MEASURE 3
+  LINE LH4
+  B  -1  3  2
+  B  -1 12
+  B  -1  8
+  B  -1 24
+  B  -1 12
+
+MEASURE 3
+  LINE LH5
+  E   0  3  2
+  D   0 12
+  C#  0  8
+  D   0 24
+  C#  0 12
+# kr2l rach32-10.mus 4 60 12
+
+MEASURE 4
+  LINE TLLH3
+  TIELINE LH4 92
+  G  -1  2
+  F# -1  2
+
+MEASURE 4
+  LINE LH4
+  B  -1  2
+  A  -1  2
+
+MEASURE 4
+  LINE LH5
+  D   0  2
+  D   0 12  5
+  C#  0 24
+  C   0 24
+# kr2l rach32-10.mus 5 60 12
+
+MEASURE 5
+  LINE TLLH3
+  TIELINE LH4 92
+  F# -1  4  3
+  REST   8
+  G  -1 24
+  REST  12
+
+MEASURE 5
+  LINE LH4
+  B  -1  4  3
+  B  -1  8
+  B  -1 24
+  B  -1 12
+
+MEASURE 5
+  LINE LH5
+  D   0  4  3
+  D   0  8
+  E   0 24
+  D   0 12
+# kr2l rach32-10.mus 6 60 12
+
+MEASURE 6
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4  3
+  E  -1  8
+  REST  24
+  E  -1 12
+
+MEASURE 6
+  LINE TLLH3
+  TIELINE LH4 92
+  G  -1  3  2
+  G  -1 12
+  G  -1  8
+  G  -1 24
+  G  -1 12
+
+MEASURE 6
+  LINE LH4
+  B  -1  3  2
+  B  -1 12
+  B  -1  8
+  B  -1 24
+  B  -1 12
+
+MEASURE 6
+  LINE LH5
+  E   0  3  2
+  D   0 12
+  C#  0  8
+  D   0 24
+  C#  0 12
+
+MEASURE 7
+  LINE TLLH3
+  TIELINE LH4 92
+  G  -1  3  2
+  REST   3
+
+MEASURE 7
+  LINE LH4
+  B  -1  3  2
+  A  -1 12
+  G  -1  8
+  D  -1 24
+  G  -1 12
+
+MEASURE 7
+  LINE LH5
+  D   0  3  2
+  C#  0 12
+  B  -1  8
+  A  -1 24
+  B  -1 12
+
+MEASURE 8
+  LINE LH4
+  G  -1  2
+  F# -1  4
+  CARRY  6
+  E  -1  24
+  Eb -1 24
+
+MEASURE 8
+  LINE LH5
+  B  -1  2
+  B  -1  2
+# kr2l rach32-10.mus 9 60 12
+
+MEASURE 9
+  LINE TLLH3
+  TIELINE LH4 92
+  D  -1  3  2
+  REST   3
+
+MEASURE 9
+  LINE LH4
+  G  -1  3  2
+  F# -1 12
+  E  -1  8
+  B  -2 24
+  E  -1 12
+
+MEASURE 9
+  LINE LH5
+  B  -1  3  2
+  A  -1 12
+  G  -1  8
+  F# -1 24
+  G  -1 12
+
+MEASURE 10
+  LINE LH4
+  E  -1  2
+  Eb -1  4
+  CARRY 6
+  C#  -1 24
+  C   -1 24
+
+MEASURE 10
+  LINE LH5
+  G  -1  2
+  G  -1  2
+# kr2l rach32-10.mus 1 60 4
+
+
+# kr2l D:\musfiles\rach32-10.mus 1 60 4
+
+MEASURE 1
+  LINE LH3
+  REST   1
+
+MEASURE 2
+  LINE LH2
+  REST   4
+  B  -2  4
+  REST   2
+
+MEASURE 2
+  LINE LH3
+  REST   4
+  F# -1  4
+  REST   2
+
+MEASURE 3
+  LINE TLLH3a
+  TIELINE LH3 92
+  REST   4
+  E  -2  4
+  REST   2
+
+MEASURE 3
+  LINE LH2
+  REST   4
+  B  -2  4
+  REST   2
+
+MEASURE 3
+  LINE LH3
+  REST   4
+  E  -1  4
+  REST   2
+
+MEASURE 4
+  LINE TLLH3a
+  TIELINE LH3 92
+  REST   4  3
+  D  -2  4
+
+MEASURE 4
+  LINE LH2
+  REST   4
+  G  -2  4
+  REST   4
+  A  -2  4
+
+MEASURE 4
+  LINE LH3
+  REST   4
+  D  -1  4
+  REST   4
+  D  -1  4
+
+
+# kr2l D:\musfiles\rach32-10.mus 5 60 4
+
+MEASURE 5
+  LINE LH2
+  REST   4
+  B  -3  4
+  REST   2
+
+MEASURE 5
+  LINE LH3
+  REST   4
+  B  -2  4
+  REST   2
+
+MEASURE 6
+  LINE LH2
+  REST   4
+  E  -2  4
+  REST   2
+
+MEASURE 6
+  LINE LH3
+  REST   4
+  B  -2  4
+  REST   2
+
+MEASURE 7
+  LINE LH2
+  REST   4
+  G  -2  4
+  REST   2
+
+MEASURE 7
+  LINE LH3
+  REST   4
+  D  -1  4
+  REST   2
+# kr2l D:\musfiles\rach32-10.mus 8 60 4
+
+MEASURE 8
+  LINE LH2
+  REST   4
+  E  -2  4
+  REST   4
+  B  -3  4
+
+MEASURE 8
+  LINE LH3
+  REST   4
+  B  -2  4
+  REST   4
+  B  -2  4
+
+MEASURE 9
+  LINE LH2
+  REST   4
+  G  -3  4
+  REST   2
+
+MEASURE 9
+  LINE LH3
+  REST   4
+  G  -2  4
+  REST   2
+# kr2l D:\musfiles\rach32-10.mus 10 60 4
+
+MEASURE 10
+  LINE LH2
+  REST   4
+  E  -2  4
+  REST   4
+  G  -3  4
+
+MEASURE 10
+  LINE LH3
+  REST   4
+  C  -1  4
+  REST   4
+  G  -2  4
+# kr2l D:\musfiles\rach32-10.mus 11 60 4
+
+MEASURE 11
+  LINE LH2
+  REST   4
+  E  -3  4
+  REST   2
+
+MEASURE 11
+  LINE LH3
+  REST   4
+  E  -2  4
+  REST   2
+# kr2l D:\musfiles\rach32-10.mus 2 60 4
+
+MEASURE 2
+  LINE TLRH3a
+  TIELINE RH2 92
+  REST   4
+  B  -1  4
+  REST   2
+
+MEASURE 2
+  LINE RH2
+  REST   4
+  D   0  4
+  REST   2
+
+MEASURE 2
+  LINE RH3
+  REST   4
+  F#  0  4
+  REST   2
+
+MEASURE 3
+  LINE TLRH3a
+  TIELINE RH2 92
+  REST   4
+  G  -1  4
+  REST   2
+
+MEASURE 3
+  LINE RH2
+  REST   4
+  B  -1  4
+  REST   2
+
+MEASURE 3
+  LINE RH3
+  REST   4
+  E   0  4
+  REST   2
+
+MEASURE 4
+  LINE TLRH3a
+  TIELINE RH2 92
+  REST   4
+  G  -1  4
+  REST   4
+  F# -1  4
+
+MEASURE 4
+  LINE RH2
+  REST   4
+  B  -1  4
+  REST   4
+  A  -1  4
+
+MEASURE 4
+  LINE RH3
+  REST   4
+  D   0  4
+  REST   4
+  D   0  4
+
+MEASURE 5
+  LINE TLRH3a
+  TIELINE RH2 92
+  REST   4
+  F# -1  4
+  REST   2
+
+MEASURE 5
+  LINE RH2
+  REST   4
+  B  -1  4
+  REST   2
+
+MEASURE 5
+  LINE RH3
+  REST   4
+  D   0  4
+  REST   2
+
+MEASURE 6
+  LINE TLRH3a
+  TIELINE RH2 92
+  REST   4
+  G  -1  4
+  REST   2
+
+MEASURE 6
+  LINE RH2
+  REST   4
+  B  -1  4
+  REST   2
+
+MEASURE 6
+  LINE RH3
+  REST   4
+  E   0  4
+  REST   2
+
+MEASURE 7
+  LINE TLRH3a
+  TIELINE RH2 92
+  REST   4
+  G  -1  4
+  REST   2
+
+MEASURE 7
+  LINE RH2
+  REST   4
+  B  -1  4
+  REST   2
+
+MEASURE 7
+  LINE RH3
+  REST   4
+  D   0  4
+  REST   2
+
+
+# kr2l D:\musfiles\rach32-10.mus 8 60 4
+
+MEASURE 8
+  LINE TLRH3a
+  TIELINE RH1 92
+  REST   4
+  G  -1  4
+  REST   4
+  F# -1  4
+
+MEASURE 8
+  LINE RH1
+  REST   4
+  B  -1  4
+  REST   4
+  B  -1  4
+
+MEASURE 8
+  LINE RH2
+  REST   4
+  D   0  4
+  REST   4
+  D   0  4
+# kr2l D:\musfiles\rach32-10.mus 9 60 4
+
+MEASURE 9
+  LINE TLRH3a
+  TIELINE RH1 92
+  REST   4
+  D  -1  4
+  REST   2
+
+MEASURE 9
+  LINE RH1
+  REST   4
+  G  -1  4
+  REST   2
+
+MEASURE 9
+  LINE RH2
+  REST   4
+  B  -1  4
+  REST   2
+# kr2l D:\musfiles\rach32-10.mus 10 60 4
+
+MEASURE 10
+  LINE RH1
+  REST   4
+  PHANTOM  4
+  REST   4
+  PHANTOM 4
+
+MEASURE 10
+  LINE RH2
+  REST   4
+  E  -1  4
+  REST   4
+  B  -2  4
+# kr2l D:\musfiles\rach32-10.mus 11 60 4
+
+MEASURE 11
+  LINE RH1
+  REST   4
+  PHANTOM  4
+  REST   2
+
+MEASURE 11
+  LINE RH2
+  REST   4
+  G  -2  4
+  REST   2
+# kr2l D:\musfiles\rach32-10.mus 11 60 12
+
+MEASURE 11
+  LINE LH4
+  B  -2  8  5
+  G  -2  8
+  E  -2  8
+  B  -2 24
+  G  -2 12
+
+MEASURE 11
+  LINE LH5
+  E  -1  8  5
+  B  -2  8
+  C# -1  8
+  D  -1 24
+  E  -1 12
+
+MEASURE 12
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4
+  E  -2  4  3
+
+MEASURE 12
+  LINE LH4
+  D  -1  8
+  B  -2 24
+  D  -1 12
+  B  -2  4  3
+
+MEASURE 12
+  LINE LH5
+  F# -1  8
+  G  -1 24
+  F# -1 12
+  G  -1  4  3
+
+MEASURE 13
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  4
+  E  -2  4  3
+
+MEASURE 13
+  LINE LH4
+  CARRY  4
+  B  -2  4  3
+
+MEASURE 13
+  LINE LH5
+  CARRY  4
+  G  -1  4  3
+
+MEASURE 14
+  LINE TLLH3
+  TIELINE LH4 92
+  CARRY  4
+  REST   4  3
+
+MEASURE 14
+  LINE LH4
+  CARRY  4
+  B  -1  2
+  G  -1  4
+
+MEASURE 14
+  LINE LH5
+  CARRY  4
+  D   0  2
+  B  -1  4
+
+MEASURE 15
+  LINE LH4
+  CARRY  4
+  B  -1  4
+  G  -1  4
+  E  -1  4
+
+MEASURE 15
+  LINE LH5
+  CARRY  4
+  D   0  4
+  B  -1  4
+  G  -1  4
+# kr2l D:\musfiles\rach32-10.mus 12 60 12
+
+MEASURE 12
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   4
+  F#  0  4
+  REST   4
+  B   0  8
+  REST   8
+
+MEASURE 12
+  LINE RH5
+  REST   4
+  A   0  4
+  G   0  8
+  A   0 24
+  G   0 12
+  G   1  8
+  A   1 24
+  G   1 12
+# kr2l D:\musfiles\rach32-10.mus 13 60 12
+
+MEASURE 13
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   4
+  F#  0  8  3
+  REST   8
+  B   0  8
+  REST   8
+
+MEASURE 13
+  LINE RH5
+  REST   4
+  A   0  8  3
+  A   0 24
+  G   0 12
+  G   1  8
+  A   1 24
+  G   1 12
+
+MEASURE 14
+  LINE RH5
+  F#  1  8
+  G   1 24
+  E   1 12
+  D   1  2
+  B   0  4
+
+MEASURE 15
+  LINE RH5
+  E   1  4
+  D   1  2
+  B   0  4
+
+MEASURE 12
+  LINE RH4
+  REST 4
+  C# 0 8
+  D  0 24
+  C# 0 12
+  REST 2
+MEASURE 13
+  LINE RH4
+  A -1 8
+  B -1 24
+  A -1 12
+  B -1 8
+  C# 0 24
+  B -1 12
+  C# 0 2
+MEASURE 12
+  LINE TLRH5
+  TIELINE RH5 100
+  REST 4
+  A 0 2
+  REST 4
+  LINE TLRH4a
+  TIELINE TLRH4 100
+  REST 4 3
+  B 0 4
+  LINE TLRH5a
+  TIELINE RH5 100
+  REST 12 8
+  G 0 12
+  CARRY 4
+MEASURE 13
+  LINE TLRH4a
+  CARRY 4
+  TIENOTE TLRH4 RH4
+  REST 2
+  B 0 4
+  TIENOTE TLRH4 RH5
+  LINE TLRH5a
+  CARRY 4
+  TIENOTE RH5 RH4
+  REST 12 5
+  G 0 12 4
+  TIENOTE RH5
+MEASURE 14
+  LINE TLRH4a
+  CARRY 4
+  REST 4 3
+  LINE TLRH5a
+  CARRY 4
+  REST 2
+  B 0 4
+MEASURE 15
+  LINE TLRH5a
+  CARRY 4
+  REST 4 3
+MEASURE 12
+  LINE TLRH2a
+  TIELINE RH4 100
+  REST 12 5
+  C# 0 12 7
+MEASURE 13
+  LINE TLRH2a
+  CARRY 4
+  REST 4
+  C# 0 2
+  TIENOTE RH4 RH5
+MEASURE 14
+  LINE TLRH2a
+  CARRY 4
+  REST 4 3
+# kr2l D:\musfiles\rach32-10.mus 14 60 12
+
+MEASURE 14
+  LINE RH4
+  REST   4
+  A   0  8
+  B   0 24
+  A   0 12
+  G   0  8
+  A   0 24
+  G   0 12
+  F#  0  8
+  G   0 24
+  F#  0 12
+
+MEASURE 15
+  LINE RH4
+  E   0  8
+  F#  0 24
+  E   0 12
+  F#  0  8
+  G   0 24
+  F#  0 12
+  E   0  8
+  F#  0 24
+  E   0 12
+  D   0  8
+  E   0 24
+  D   0 12
+
+MEASURE 16
+  LINE RH4
+  C#  0  8
+  D   0 24
+  C#  0 12
+  D   0  8
+  E   0 24
+  D   0 12
+  C#  0  8
+  D   0 24
+  C#  0 12
+  B  -1  8
+  C#  0 24
+  B  -1 12
+
+MEASURE 17
+  LINE RH4
+  C   0  8
+  D   0 24
+  C   0 12
+  D   0  8
+  E   0 24
+  D   0 12
+  C   0  8
+  D   0 24
+  C   0 12
+  B  -1  8
+  C   0 24
+  B  -1 12
+
+MEASURE 18
+  LINE RH4
+  G  -1  8
+  A  -1 24
+  G  -1 12  7
+  B  -1  8
+  D   0 24
+  B  -1 12
+
+
+# kr2l D:\musfiles\rach32-10.mus 16 60 12
+
+MEASURE 16
+  LINE LH5
+  C# -1  8
+  D  -1 24
+  C# -1 12
+  D  -1  8
+  E  -1 24
+  D  -1 12
+  C# -1  8
+  D  -1 24
+  C# -1 12
+  B  -2  8
+  C# -1 24
+  B  -2 12
+# kr2l D:\musfiles\rach32-10.mus 17 60 12
+
+MEASURE 17
+  LINE LH5
+  C  -1  8
+  D  -1 24
+  C  -1 12
+  D  -1  8
+  E  -1 24
+  D  -1 12
+  C  -1  8
+  D  -1 24
+  C  -1 12
+  B  -2  8
+  C  -1 24
+  B  -2 12
+
+MEASURE 18
+  LINE LH5
+  CARRY  4
+  Bb -2  8
+  C  -1 24
+  B  -2  3
+  E  -1  8
+  F# -1 24
+  E  -1 12
+# kr2l D:\musfiles\rach32-10.mus 16 60 12
+
+MEASURE 16
+  LINE LH4
+  E  -2  4
+  F# -2  4
+  E  -2  4
+  Eb -2  4
+
+MEASURE 17
+  LINE LH4
+  E  -2  4
+  F  -2  4
+  E  -2  4
+  Eb -2  4
+
+MEASURE 18
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   4  3
+  G  -2  8
+  B  -2 24
+  G  -2 12
+
+MEASURE 18
+  LINE LH4
+  CARRY  2
+  Eb -2  8
+  F# -2 24
+  E  -2 12
+  B  -2  8
+  D  -1 24
+  B  -2 12
+# kr2l D:\musfiles\rach32-10.mus 16 60 4
+
+MEASURE 16
+  LINE TLLH2
+  TIELINE LH4 82
+  G  -1  4
+  REST   4  3
+
+MEASURE 16
+  LINE TLLH3
+  TIELINE LH4 84
+  B  -1  4
+  REST   4  3
+# kr2l D:\musfiles\rach32-10.mus 16 60 8
+
+MEASURE 16
+  LINE TLRH3
+  TIELINE TLRH4 92
+  REST   4
+  G  -1  2
+  REST   4
+
+MEASURE 16
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   4
+  B  -1  2
+  G  -1  4
+
+MEASURE 16
+  LINE RH5
+  CARRY   4
+  B   0  2
+  B   0  4
+# kr2l D:\musfiles\rach32-10.mus 17 60 8
+
+MEASURE 17
+  LINE TLRH3
+  TIELINE TLRH4 92
+  REST   4
+  G  -1  2
+  REST   4
+
+MEASURE 17
+  LINE TLRH4
+  TIELINE RH5 80
+  G  -1  4
+  B  -1  2
+  G  -1  4
+  TIENOTE RH5 RH4
+
+MEASURE 17
+  LINE RH5
+  G   0  4
+  B   0  2
+  G   0  4
+# kr2l D:\musfiles\rach32-10.mus 18 60 8
+
+MEASURE 18
+  LINE RH5
+  CARRY  4  3
+  E   0 24  3
+  F#  0 24
+  E   0 12
+
+# kr2l D:\musfiles\rach32-10.mus 19 60 12
+
+MEASURE 19
+  LINE TLRH3
+  TIELINE RH4 92
+  B  -1  3
+  REST   2
+  F#  0 12
+  F#  0 12
+
+MEASURE 19
+  LINE RH4
+  D   0  3
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  D   0 12
+  D   0 12
+  D   0 12
+  B   0 12
+  B   0 12
+
+MEASURE 19
+  LINE RH5
+  F#  0  3
+  D   0 12
+  D   0 12
+  D   0 12
+  B   0 12
+  B   0 12
+  B   0 12
+  F#  1 12
+  F#  1 12
+# kr2l D:\musfiles\rach32-10.mus 20 60 12
+
+MEASURE 20
+  LINE TLRH3
+  TIELINE RH4 92
+  B  -1  3
+  REST   2
+  F#  0 12
+  F#  0 12
+
+MEASURE 20
+  LINE RH4
+  D   0  3
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  D   0 12
+  D   0 12
+  D   0 12
+  B   0 12
+  B   0 12
+
+MEASURE 20
+  LINE RH5
+  F#  0  3
+  D   0 12
+  D   0 12
+  D   0 12
+  B   0 12
+  B   0 12
+  B   0 12
+  F#  1 12
+  F#  1 12
+# kr2l D:\musfiles\rach32-10.mus 21 60 12
+
+# kr2l D:\musfiles\rach32-10.mus 23 60 12
+
+
+MEASURE 19
+  MARK Triplets
+
+# kr2l D:\musfiles\rach32-10.mus 19 60 12
+
+MEASURE 19
+  LINE TLLH3
+  TIELINE LH4 92
+  B  -2  3
+  REST   4
+  B  -2 12
+  B  -2 12
+  E  -1  8
+  REST  24
+  E  -1 12
+
+MEASURE 19
+  LINE LH4
+  D  -1  3
+  B  -2 12
+  B  -2 12
+  B  -2 12
+  F# -1 12
+  F# -1 12
+  B  -1  8
+  F# -1 24
+  B  -1 12
+
+MEASURE 19
+  LINE LH5
+  F# -1  3
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  B  -1 12
+  B  -1 12
+  E   0  8
+  F#  0 24
+  E   0 12
+
+MEASURE 20
+  LINE TLLH3
+  TIELINE LH4 92
+  B  -2  3
+  REST   4
+  B  -2 12
+  B  -2 12
+  E  -1  8
+  REST  24
+  E  -1 12
+
+MEASURE 20
+  LINE LH4
+  D  -1  3
+  B  -2 12
+  B  -2 12
+  B  -2 12
+  F# -1 12
+  F# -1 12
+  B  -1  8
+  F# -1 24
+  B  -1 12
+
+MEASURE 20
+  LINE LH5
+  F# -1  3
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  B  -1 12
+  B  -1 12
+  E   0  8
+  F#  0 24
+  E   0 12
+# kr2l D:\musfiles\rach32-10.mus 21 60 12
+
+MEASURE 21
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   6
+  F# -2 12
+  F# -2 12
+  REST   4
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  B  -1 12
+  B  -1 12
+
+MEASURE 21
+  LINE LH4
+  REST   6
+  B  -2 12
+  B  -2 12
+  D  -1 12
+  D  -1 12
+  D  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  D   0 12
+  D   0 12
+
+MEASURE 21
+  LINE LH5
+  REST   6
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  D   0 12
+  D   0 12
+  D   0 12
+  F#  0 12
+  F#  0 12
+# kr2l D:\musfiles\rach32-10.mus 22 60 12
+
+
+MEASURE 19
+  LINE LH1
+  REST   4
+  F# -3  4  3
+
+MEASURE 19
+  LINE LH2
+  REST   4
+  F# -2  4  3
+# kr2l D:\musfiles\rach32-10.mus 20 60 4
+
+MEASURE 20
+  LINE LH1
+  REST   4
+  E  -3  4  3
+
+MEASURE 20
+  LINE LH2
+  REST   4
+  E  -2  4  3
+# kr2l D:\musfiles\rach32-10.mus 21 60 4
+
+MEASURE 21
+  LINE LH1
+  D  -3  1
+
+MEASURE 21
+  LINE LH2
+  D  -2  1
+
+MEASURE 22
+  LINE LH1
+  C# -3  1
+
+MEASURE 22
+  LINE LH2
+  C# -2  1
+# kr2l D:\musfiles\rach32-10.mus 23 60 4
+
+MEASURE 23
+  LINE LH1
+  B  -4  1
+
+MEASURE 23
+  LINE LH2
+  B  -3  1
+
+MEASURE 24
+  LINE LH1
+  B  -4  1
+
+MEASURE 24
+  LINE LH2
+  B  -3  1
+
+MEASURE 25
+  LINE LH1
+  B  -4  1
+
+MEASURE 25
+  LINE LH2
+  B  -3  1
+
+MEASURE 26
+  LINE LH1
+  D  -3  1
+
+MEASURE 26
+  LINE LH2
+  D  -2  1
+
+MEASURE 27
+  LINE LH1
+  D  -3  1
+
+MEASURE 27
+  LINE LH2
+  D  -2  1
+# kr2l D:\musfiles\rach32-10.mus 21 60 12
+
+MEASURE 21
+  LINE TLRH2
+  TIELINE RH4 82
+  F# -1  6
+  REST   6  5
+
+MEASURE 21
+  LINE TLRH3
+  TIELINE RH4 92
+  B  -1  6
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  B   0 12
+  B   0 12
+
+MEASURE 21
+  LINE RH4
+  D   0  6
+  D   0 12
+  D   0 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  B   0 12
+  B   0 12
+  B   0 12
+  F#  1 12
+  F#  1 12
+
+MEASURE 21
+  LINE RH5
+  F#  0  6
+  F#  0 12
+  F#  0 12
+  B   0 12
+  B   0 12
+  B   0 12
+  F#  1 12
+  F#  1 12
+  F#  1 12
+  B   1 12
+  B   1 12
+
+
+# kr2l D:\musfiles\rach32-10.mus 22 60 12
+
+MEASURE 22
+  LINE TLRH2
+  TIELINE RH4 82
+  REST   3
+  B  -1 12
+  B  -1 12
+  REST  12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  B   0 12
+  B   0 12
+
+MEASURE 22
+  LINE TLRH3
+  TIELINE RH4 92
+  REST  12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  E   0 12
+  E   0 12
+  E   0 12
+  B   0 12
+  B   0 12
+  B   0 12
+  E   1 12
+  E   1 12
+
+MEASURE 22
+  LINE RH4
+  REST  12
+  E   0 12
+  E   0 12
+  E   0 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  E   1 12
+  E   1 12
+  E   1 12
+  F#  1 12
+  F#  1 12
+
+MEASURE 22
+  LINE RH5
+  REST  12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  B   0 12
+  B   0 12
+  B   0 12
+  F#  1 12
+  F#  1 12
+  F#  1 12
+  B   1 12
+  B   1 12
+# kr2l D:\musfiles\rach32-10.mus 23 120 12
+
+MEASURE 23
+  LINE TLRH2
+  TIELINE RH4 82
+  REST  12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  REST  12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  REST  12
+
+MEASURE 23
+  LINE TLRH3
+  TIELINE RH4 92
+  REST  12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  REST  12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  REST  12
+
+MEASURE 23
+  LINE RH4
+  REST  12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  REST  12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  REST  12
+
+MEASURE 23
+  LINE RH5
+  REST  12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  REST  12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  REST  12
+
+MEASURE 24
+  LINE TLRH2
+  TIELINE RH4 82
+  REST  12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  REST  12
+  F# -1 12
+  F# -1 12
+  REST  12
+  F# -1 12
+  F# -1 12
+
+MEASURE 24
+  LINE TLRH3
+  TIELINE RH4 92
+  REST  12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  F# -1 12
+  B  -1 12
+  B  -1 12
+  REST  12
+  B  -1 12
+  B  -1 12
+
+MEASURE 24
+  LINE RH4
+  REST  12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  B  -1 12
+  C#  0 12
+  C#  0 12
+  REST  12
+  C#  0 12
+  C#  0 12
+
+MEASURE 24
+  LINE RH5
+  REST  12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  REST  12
+  F#  0 12
+  F#  0 12
+# kr2l D:\musfiles\rach32-10.mus 25 120 12
+
+MEASURE 25
+  LINE TLRH2
+  TIELINE RH4 82
+  REST  12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  REST   6
+  F# -1 12
+  F# -1 12
+  REST   4
+
+MEASURE 25
+  LINE TLRH3
+  TIELINE RH4 92
+  REST  12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  REST   6
+  B  -1 12
+  B  -1 12
+  REST  12
+  F# -1 12
+  REST  12
+
+MEASURE 25
+  LINE RH4
+  REST  12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  REST   6
+  C#  0 12
+  C#  0 12
+  REST  12
+  B  -1 12
+  REST  12
+
+MEASURE 25
+  LINE RH5
+  REST  12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  REST   6
+  F#  0 12
+  F#  0 12
+  REST  12
+  F#  0 12
+  REST  12
+# kr2l D:\musfiles\rach32-10.mus 26 120 12
+
+MEASURE 26
+  LINE TLRH2
+  TIELINE RH4 82
+  REST  12
+  A  -1 12
+  A  -1 12
+  REST  12
+  A  -1 12
+  A  -1 12
+  A  -1 12
+  A  -1 12
+  A  -1 12
+  REST  12
+  A  -1 12
+  A  -1 12
+
+MEASURE 26
+  LINE TLRH3
+  TIELINE RH4 92
+  REST  12
+  D   0 12
+  D   0 12
+  REST  12
+  D   0 12
+  D   0 12
+  D   0 12
+  D   0 12
+  D   0 12
+  REST  12
+  D   0 12
+  D   0 12
+
+MEASURE 26
+  LINE RH4
+  REST  12
+  E   0 12
+  E   0 12
+  REST  12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  REST  12
+  F#  0 12
+  F#  0 12
+
+MEASURE 26
+  LINE RH5
+  REST  12
+  A   0 12
+  A   0 12
+  REST  12
+  A   0 12
+  A   0 12
+  A   0 12
+  A   0 12
+  A   0 12
+  REST  12
+  A   0 12
+  A   0 12
+
+MEASURE 27
+  LINE TLRH2
+  TIELINE RH4 82
+  REST  12
+  A  -1 12
+  A  -1 12
+  A  -1 12
+  A  -1 12
+  A  -1 12
+  REST  12
+  A  -1 12
+  A  -1 12
+  A  -1 12
+  A  -1 12
+  REST  12
+
+MEASURE 27
+  LINE TLRH3
+  TIELINE RH4 92
+  REST  12
+  D   0 12
+  D   0 12
+  D   0 12
+  D   0 12
+  D   0 12
+  REST  12
+  D   0 12
+  D   0 12
+  D   0 12
+  D   0 12
+  REST  12
+
+MEASURE 27
+  LINE RH4
+  REST  12
+  E   0 12
+  E   0 12
+  E   0 12
+  E   0 12
+  E   0 12
+  REST  12
+  E   0 12
+  E   0 12
+  E   0 12
+  E   0 12
+  REST  12
+
+MEASURE 27
+  LINE RH5
+  REST  12
+  A   0 12
+  A   0 12
+  A   0 12
+  A   0 12
+  A   0 12
+  REST  12
+  A   0 12
+  A   0 12
+  A   0 12
+  A   0 12
+  REST  12
+# kr2l D:\musfiles\rach32-10.mus 23 120 12
+
+MEASURE 23
+  LINE RH4a
+  C# -1 12
+  REST  12  5
+  C# -1 12
+  REST   3
+  B  -2 12
+
+MEASURE 23
+  LINE TLRH2a
+  TIELINE RH5a 82
+  F# -1 12
+  REST  12 11
+
+MEASURE 23
+  LINE TLRH3a
+  TIELINE RH5a 84
+  B  -1 12
+  REST  12 11
+
+MEASURE 23
+  LINE RH5a
+  C#  0 12
+  REST  12  5
+  C#  0 12
+  REST   3
+  B  -1 12
+
+MEASURE 24
+  LINE RH4a
+  C# -1 12
+  REST   3  2
+  C# -1 12
+  REST   6
+
+MEASURE 24
+  LINE TLRH2a
+  TIELINE RH5a 82
+  F# -1 12
+  REST  12 11
+
+MEASURE 24
+  LINE TLRH3a
+  TIELINE RH5a 84
+  B  -1 12
+  REST  12 11
+
+MEASURE 24
+  LINE RH5a
+  C#  0 12
+  REST   3  2
+  C#  0 12
+  REST   6
+# kr2l D:\musfiles\rach32-10.mus 25 120 12
+# kr2l D:\musfiles\rach32-10.mus 36 120 12
+
+MEASURE 36
+  LINE RH4a
+  REST   4  3
+  B  -2 12
+  REST  12
+  C  -1 12
+
+MEASURE 36
+  LINE RH5a
+  REST   4  3
+  B  -1 12
+  REST  12
+  C   0 12
+# kr2l D:\musfiles\rach32-10.mus 37 120 12
+
+MEASURE 37
+  LINE RH4a
+  C  -1 12
+  REST  12  5
+  B  -2 12
+  C  -1 12
+  REST  12
+  B  -2 12
+  C  -1 12
+  REST  12
+
+MEASURE 37
+  LINE RH5a
+  C   0 12
+  REST  12  5
+  B  -1 12
+  C   0 12
+  REST  12
+  B  -1 12
+  C   0 12
+  REST  12
+
+MEASURE 22
+  LINE TLLH3a
+  TIELINE LH5a 84
+  REST   2
+  B  -2 12
+  REST  12  5
+
+MEASURE 22
+  LINE LH4a
+  REST   2
+  F# -1 12
+  REST  12  5
+
+MEASURE 22
+  LINE LH5a
+  REST   2
+  B  -1 12
+  REST  12  5
+# kr2l D:\musfiles\rach32-10.mus 22 60 12
+
+MEASURE 22
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   6  5
+  F# -1 12
+  F# -1 12
+
+MEASURE 22
+  LINE TLLH3
+  TIELINE LH4 92
+  REST  12
+  F# -2 12
+  F# -2 12
+  F# -2 12
+  REST   4
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  B  -1 12
+  B  -1 12
+
+MEASURE 22
+  LINE LH4
+  REST  12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  REST  12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  E   0 12
+  E   0 12
+
+MEASURE 22
+  LINE LH5
+  REST  12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  REST  12
+  E   0 12
+  E   0 12
+  E   0 12
+  F#  0 12
+  F#  0 12
+# kr2l D:\musfiles\rach32-10.mus 23 60 12
+
+MEASURE 23
+  LINE TLLH3
+  TIELINE LH4 92
+  REST  12
+  F# -2 12
+  F# -2 12
+  F# -2 12
+  F# -2 12
+  F# -2 12
+  REST  12
+  F# -2 12
+  F# -2 12
+  F# -2 12
+  F# -2 12
+  REST  12
+
+MEASURE 23
+  LINE LH4
+  REST  12
+  B  -2 12
+  B  -2 12
+  B  -2 12
+  B  -2 12
+  B  -2 12
+  REST  12
+  B  -2 12
+  B  -2 12
+  B  -2 12
+  B  -2 12
+  F# -1 12
+
+MEASURE 23
+  LINE LH5
+  REST  12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  REST  12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  F#  0 12
+
+MEASURE 24
+  LINE TLLH3
+  TIELINE LH4 92
+  REST  12
+  F# -2 12
+  F# -2 12
+  F# -2 12
+  F# -2 12
+  F# -2 12
+  F# -2 12
+  F# -2 12
+  F# -2 12
+  REST  12
+  F# -2 12
+  F# -2 12
+
+MEASURE 24
+  LINE LH4
+  REST  12
+  B  -2 12
+  B  -2 12
+  B  -2 12
+  B  -2 12
+  B  -2 12
+  B  -2 12
+  B  -2 12
+  B  -2 12
+  REST  12
+  B  -2 12
+  B  -2 12
+
+MEASURE 24
+  LINE LH5
+  REST  12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  REST  12
+  C# -1 12
+  C# -1 12
+# kr2l D:\musfiles\rach32-10.mus 25 30 12
+
+MEASURE 25
+  LINE TLLH1
+  TIELINE LH4 88
+  REST   4  3
+  F# -2 12
+  REST  12
+  F# -2 12
+
+MEASURE 25
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4  3
+  B  -2 12
+  REST  12
+  B  -2 12
+
+MEASURE 25
+  LINE TLLH3
+  TIELINE LH4 92
+  REST  12
+  F# -2 12
+  F# -2 12
+  F# -2 12
+  F# -2 12
+  REST   6
+  F# -2 12
+  F# -2 12
+  F# -1 12
+  REST  12
+  F# -1 12
+
+MEASURE 25
+  LINE LH4
+  REST  12
+  B  -2 12
+  B  -2 12
+  B  -2 12
+  B  -2 12
+  F# -1 12
+  REST  12
+  B  -2 12
+  B  -2 12
+  B  -1 12
+  F# -2 12
+  B  -1 12
+
+MEASURE 25
+  LINE LH5
+  REST  12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  F#  0 12
+  REST  12
+  C# -1 12
+  C# -1 12
+  F#  0 12
+  B  -2 12
+  F#  0 12
+# kr2l D:\musfiles\rach32-10.mus 26 120 12
+
+MEASURE 26
+  LINE TLLH3
+  TIELINE LH4 92
+  REST  12
+  A  -2 12
+  A  -2 12
+  REST  12
+  A  -2 12
+  A  -2 12
+  A  -2 12
+  A  -2 12
+  A  -2 12
+  REST  12
+  A  -2 12
+  A  -2 12
+
+MEASURE 26
+  LINE LH4
+  REST  12
+  D  -1 12
+  D  -1 12
+  REST  12
+  D  -1 12
+  D  -1 12
+  D  -1 12
+  D  -1 12
+  D  -1 12
+  REST  12
+  D  -1 12
+  D  -1 12
+
+MEASURE 26
+  LINE LH5
+  REST  12
+  E  -1 12
+  E  -1 12
+  REST  12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  REST  12
+  F# -1 12
+  F# -1 12
+
+MEASURE 27
+  LINE TLLH3
+  TIELINE LH4 92
+  REST  12
+  A  -2 12
+  A  -2 12
+  A  -2 12
+  A  -2 12
+  A  -2 12
+  REST  12
+  A  -2 12
+  A  -2 12
+  A  -2 12
+  A  -2 12
+  REST  12
+
+MEASURE 27
+  LINE LH4
+  REST  12
+  D  -1 12
+  D  -1 12
+  D  -1 12
+  D  -1 12
+  D  -1 12
+  REST  12
+  D  -1 12
+  D  -1 12
+  D  -1 12
+  D  -1 12
+  A  -1 12
+
+MEASURE 27
+  LINE LH5
+  REST  12
+  E  -1 12
+  E  -1 12
+  E  -1 12
+  E  -1 12
+  E  -1 12
+  REST  12
+  E  -1 12
+  E  -1 12
+  E  -1 12
+  E  -1 12
+  A   0 12
+# kr2l D:\musfiles\rach32-10.mus 25 120 12
+
+MEASURE 25
+  LINE RH4a
+  C# -1 12
+  REST   3
+  B  -2 12
+  C# -1 12
+  REST   6
+  D  -1 12
+  REST  12
+  E  -1 12
+
+MEASURE 25
+  LINE TLRH2a
+  TIELINE RH5a 82
+  F# -1 12
+  REST  12 11
+
+MEASURE 25
+  LINE TLRH3a
+  TIELINE RH5a 83
+  B  -1 12
+  REST  12 11
+
+MEASURE 25
+  LINE RH5a
+  C#  0 12
+  REST   3
+  B  -1 12
+  C#  0 12
+  REST   6
+  D   0 12
+  REST  12
+  E   0 12
+
+MEASURE 26
+  LINE RH4a
+  E  -1 12
+  REST   6
+  F# -1 12
+  REST  12  5
+  D  -1 12
+  REST   6
+
+MEASURE 26
+  LINE TLRH2a
+  TIELINE RH5a 82
+  A  -1 12
+  REST  12 11
+
+MEASURE 26
+  LINE TLRH3a
+  TIELINE RH5a 83
+  D   0 12
+  REST  12 11
+
+MEASURE 26
+  LINE RH5a
+  E   0 12
+  REST   6
+  F#  0 12
+  REST  12  5
+  D   0 12
+  REST   6
+
+MEASURE 27
+  LINE RH4a
+  E  -1 12
+  REST  12  5
+  E  -1 12
+  REST   3
+  D  -1 12
+
+MEASURE 27
+  LINE TLRH2a
+  TIELINE RH5a 82
+  A  -1 12
+  REST  12 11
+
+MEASURE 27
+  LINE TLRH3a
+  TIELINE RH5a 83
+  D   0 12
+  REST  12 11
+
+MEASURE 27
+  LINE RH5a
+  E   0 12
+  REST  12  5
+  E   0 12
+  REST   3
+  D   0 12
+# kr2l D:\musfiles\rach32-10.mus 28 120 12
+
+MEASURE 28
+  LINE RH4a
+  E  -1 12
+  REST   3  2
+  F# -1 12
+  REST   6
+
+MEASURE 28
+  LINE TLRH2a
+  TIELINE RH5a 82
+  A  -1 12
+  REST  12 11
+
+MEASURE 28
+  LINE TLRH3a
+  TIELINE RH5a 83
+  D   0 12
+  REST  12 11
+
+MEASURE 28
+  LINE RH5a
+  E   0 12
+  REST   3  2
+  F#  0 12
+  REST   6
+
+MEASURE 29
+  LINE RH4a
+  F# -1 12
+  REST   3
+  E  -1 12
+  F# -1 12
+  REST   6
+  G  -1 12
+  REST  12
+  A  -1 12
+
+MEASURE 29
+  LINE TLRH2a
+  TIELINE RH5a 82
+  B  -1 12
+  REST  12 11
+
+MEASURE 29
+  LINE TLRH3a
+  TIELINE RH5a 83
+  E   0 12
+  REST  12 11
+
+MEASURE 29
+  LINE RH5a
+  F#  0 12
+  REST   3
+  E   0 12
+  F#  0 12
+  REST   6
+  G   0 12
+  REST  12
+  A   0 12
+
+MEASURE 30
+  LINE RH4a
+  A  -1 12
+  REST   6
+  B  -1 12
+  REST  12  5
+  B  -1 12
+  REST   6
+
+MEASURE 30
+  LINE TLRH2a
+  TIELINE RH5a 82
+  D   0 12
+  REST  12 11
+
+MEASURE 30
+  LINE TLRH3a
+  TIELINE RH5a 83
+  G   0 12
+  REST  12 11
+
+MEASURE 30
+  LINE RH5a
+  A   0 12
+  REST   6
+  B   0 12
+  REST  12  5
+  B   0 12
+  REST   6
+# kr2l D:\musfiles\rach32-10.mus 31 120 12
+
+
+# kr2l D:\musfiles\rach32-10.mus 31 120 12
+
+MEASURE 31
+  LINE RH4a
+  C#  0 12
+  REST  12  5
+  F#  0 12
+  REST   3
+  F#  0 12
+
+MEASURE 31
+  LINE TLRH2a
+  TIELINE RH5a 82
+  F#  0 12
+  REST  12 11
+
+MEASURE 31
+  LINE TLRH3a
+  TIELINE RH5a 83
+  B   0 12
+  REST  12  5
+  B   0 12
+  REST  12  5
+
+MEASURE 31
+  LINE RH5a
+  C#  1 12
+  REST  12  5
+  C#  1 12
+  REST   3
+  B   0 12
+
+MEASURE 32
+  LINE RH4a
+  C#  0 12
+  REST   3  2
+  C#  0 12
+  REST   6
+
+MEASURE 32
+  LINE TLRH2a
+  TIELINE RH5a 82
+  F#  0 12
+  REST  12 11
+
+MEASURE 32
+  LINE TLRH3a
+  TIELINE RH5a 83
+  B   0 12
+  REST  12 11
+
+MEASURE 32
+  LINE RH5a
+  C#  1 12
+  REST   3  2
+  C#  1 12
+  REST   6
+
+MEASURE 33
+  LINE RH4a
+  C#  0 12
+  REST   3
+  F#  0 12
+  F#  0 12
+  REST   6
+  D  -1 12
+  REST  12
+  E  -1 12
+
+MEASURE 33
+  LINE TLRH2a
+  TIELINE RH5a 82
+  F#  0 12
+  REST  12 11
+
+MEASURE 33
+  LINE TLRH3a
+  TIELINE RH5a 83
+  B   0 12
+  REST  12  5
+  B   0 12
+  REST   6
+  D   0 12
+  REST  12
+  E   0 12
+
+MEASURE 33
+  LINE RH5a
+  C#  1 12
+  REST   3
+  B   0 12
+  C#  1 12
+  REST   6
+  D   1 12
+  REST  12
+  E   1 12
+# kr2l D:\musfiles\rach32-10.mus 34 120 12
+
+MEASURE 34
+  LINE RH4a
+  E   0 12
+  REST   6
+  B   0 12
+  REST  12  5
+  F#  0 12
+  REST   6
+
+MEASURE 34
+  LINE TLRH2a
+  TIELINE RH5a 82
+  B   0 12
+  REST  12 11
+
+MEASURE 34
+  LINE TLRH3a
+  TIELINE RH5a 83
+  D   1 12
+  REST   6
+  D   1 12
+  REST  12  5
+  B   0 12
+  REST   6
+
+MEASURE 34
+  LINE RH5a
+  E   1 12
+  REST   6
+  F#  1 12
+  REST  12  5
+  F#  1 12
+  REST   6
+
+MEASURE 35
+  LINE RH4a
+  F#  0 12
+  REST   6
+  C   1 12
+  REST   3  2
+
+MEASURE 35
+  LINE TLRH3a
+  TIELINE RH5a 83
+  D   1 12
+  REST   6
+  E   1 12
+  REST   3  2
+
+MEASURE 35
+  LINE RH5a
+  F#  1 12
+  REST   6
+  G   1 12
+  REST   3  2
+# kr2l D:\musfiles\rach32-10.mus 31 120 12
+
+MEASURE 31
+  LINE LH4a
+  REST   2
+  C# -1 12
+  REST   3
+  B  -2 12
+
+MEASURE 31
+  LINE TLLH2a
+  TIELINE LH5a 82
+  REST   2
+  F# -1 12
+  REST  12  5
+
+MEASURE 31
+  LINE TLLH3a
+  TIELINE LH5a 82
+  REST   2
+  B  -1 12
+  REST   3
+  F# -1 12
+
+MEASURE 31
+  LINE LH5a
+  REST   2
+  C#  0 12
+  REST   3
+  B  -1 12
+# kr2l D:\musfiles\rach32-10.mus 33 120 12
+
+MEASURE 33
+  LINE LH4a
+  REST  12  5
+  B  -2 12
+  C# -1 12
+  REST  12  5
+
+MEASURE 33
+  LINE TLLH2a
+  TIELINE LH5a 82
+  REST   2
+  F# -1 12
+  REST  12  5
+
+MEASURE 33
+  LINE TLLH3a
+  TIELINE LH5a 82
+  REST  12  5
+  F# -1 12
+  B  -1 12
+  REST  12  5
+
+MEASURE 33
+  LINE LH5a
+  REST  12  5
+  B  -1 12
+  C#  0 12
+  REST  12  5
+
+MEASURE 34
+  LINE LH4a
+  REST   4
+  F# -1 12
+  REST  12  5
+  F# -1 12
+  REST   6
+
+MEASURE 34
+  LINE TLLH2a
+  TIELINE LH5a 82
+  REST   4
+  A  -1 12
+  REST   3  2
+
+MEASURE 34
+  LINE TLLH3a
+  TIELINE LH5a 82
+  REST   4
+  D   0 12
+  REST  12  5
+  B  -1 12
+  REST   6
+
+MEASURE 34
+  LINE LH5a
+  REST   4
+  F#  0 12
+  REST  12  5
+  D   0 12
+  REST   6
+# kr2l D:\musfiles\rach32-10.mus 35 60 12
+
+MEASURE 35
+  LINE LH4a
+  REST   4
+  G  -1 12
+  G  -1 12
+  G  -1 12
+  G  -1 12
+  G  -1 12
+  G  -1 12
+  D  -1 12
+  E  -1 12
+  A  -2 12
+
+MEASURE 35
+  LINE TLLH2a
+  TIELINE LH5a 82
+  REST   4
+  C   0 12
+  C   0 12
+  C   0 12
+  C   0 12
+  C   0 12
+  C   0 12
+  G  -1 12
+  G  -1 12
+  REST  12
+
+MEASURE 35
+  LINE TLLH3a
+  TIELINE LH5a 82
+  REST   4
+  E   0 12
+  E   0 12
+  E   0 12
+  E   0 12
+  E   0 12
+  E   0 12
+  C   0 12
+  C   0 12
+  E  -1 12
+
+MEASURE 35
+  LINE LH5a
+  REST   4
+  G   0 12
+  G   0 12
+  G   0 12
+  G   0 12
+  G   0 12
+  G   0 12
+  D   0 12
+  E   0 12
+  A  -1 12
+
+MEASURE 36
+  LINE LH4a
+  B  -2 12
+  C  -1 12
+  E  -2 12
+  F# -2 12
+  G  -2 12
+  D  -2 12
+  E  -2 12
+  E  -2 12
+  E  -2 12
+  REST  12
+  E  -2 12
+  E  -2 12
+
+MEASURE 36
+  LINE TLLH2a
+  TIELINE LH5a 82
+  E  -1 12
+  E  -1 12
+  REST  12
+  C  -1 12
+  C  -1 12
+  REST  12
+  G  -2 12
+  G  -2 12
+  G  -2 12
+  REST  12
+  G  -2 12
+  G  -2 12
+
+MEASURE 36
+  LINE TLLH3a
+  TIELINE LH5a 82
+  G  -1 12
+  G  -1 12
+  C  -1 12
+  E  -1 12
+  E  -1 12
+  G  -2 12
+  C  -1 12
+  C  -1 12
+  C  -1 12
+  REST  12
+  C  -1 12
+  C  -1 12
+
+MEASURE 36
+  LINE LH5a
+  B  -1 12
+  C   0 12
+  E  -1 12
+  F# -1 12
+  G  -1 12
+  D  -1 12
+  E  -1 12
+  E  -1 12
+  E  -1 12
+  REST  12
+  E  -1 12
+  E  -1 12
+# kr2l D:\musfiles\rach32-10.mus 37 60 12
+
+MEASURE 37
+  LINE LH4a
+  REST  12
+  E  -2 12
+  E  -2 12
+  E  -2 12
+  E  -2  6
+  REST   6
+  E  -2  4
+  REST  12
+
+MEASURE 37
+  LINE TLLH3a
+  TIELINE LH5a 82
+  REST  12
+  G  -2 12
+  G  -2 12
+  G  -2 12
+  G  -2  6
+  REST   6
+  G  -2  4
+  REST  12
+
+MEASURE 37
+  LINE LH5a
+  REST  12
+  E  -1 12
+  E  -1 12
+  E  -1 12
+  E  -1  6
+  REST   6
+  E  -1  4
+  REST  12
+# kr2l D:\musfiles\rach32-10.mus 28 60 12
+
+MEASURE 28
+  LINE TLLH3
+  TIELINE LH4 92
+  REST  12
+  A  -2 12
+  A  -2 12
+  A  -2 12
+  A  -2 12
+  A  -2 12
+  A  -2 12
+  A  -2 12
+  A  -2 12
+  REST  12
+  A  -2 12
+  A  -2 12
+
+MEASURE 28
+  LINE LH4
+  D  -3 12
+  D  -1 12
+  D  -1 12
+  D  -1 12
+  D  -1 12
+  D  -1 12
+  D  -1 12
+  D  -1 12
+  D  -1 12
+  REST  12
+  D  -1 12
+  D  -1 12
+
+MEASURE 28
+  LINE LH5
+  D  -2 12
+  E  -1 12
+  E  -1 12
+  E  -1 12
+  E  -1 12
+  E  -1 12
+  E  -1 12
+  E  -1 12
+  E  -1 12
+  REST  12
+  F# -1 12
+  F# -1 12
+# kr2l D:\musfiles\rach32-10.mus 29 50 12
+
+MEASURE 29
+  LINE TLLH1
+  TIELINE LH4 88
+  REST   4  3
+  B  -2 12
+  REST  12
+  E  -1 12
+
+MEASURE 29
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4  3
+  E  -1 12
+  REST  12
+  G  -1 12
+
+MEASURE 29
+  LINE TLLH3
+  TIELINE LH4 92
+  REST  12
+  B  -2 12
+  B  -2 12
+  B  -2 12
+  B  -2 12
+  REST   6
+  B  -2 12
+  B  -2 12
+  B  -1 12
+  REST  12
+  B  -1 12
+
+MEASURE 29
+  LINE LH4
+  E  -3 12
+  E  -1 12
+  E  -1 12
+  E  -1 12
+  E  -1 12
+  B  -1 12
+  REST  12
+  E  -1 12
+  E  -1 12
+  E   0 12
+  B  -2 12
+  E   0 12
+
+MEASURE 29
+  LINE LH5
+  E  -2 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  B   0 12
+  REST  12
+  F# -1 12
+  F# -1 12
+  B   0 12
+  E  -1 12
+  B   0 12
+# kr2l D:\musfiles\rach32-10.mus 30 60 12
+
+MEASURE 30
+  LINE TLLH3
+  TIELINE LH4 92
+  REST  12
+  D  -1 12
+  D  -1 12
+  REST  12
+  D  -1 12
+  D  -1 12
+  D  -1 12
+  D  -1 12
+  D  -1 12
+  REST  12
+  E  -1 12
+  E  -1 12
+
+MEASURE 30
+  LINE LH4
+  G  -3 12
+  G  -1 12
+  G  -1 12
+  REST  12
+  G  -1 12
+  G  -1 12
+  G  -1 12
+  G  -1 12
+  G  -1 12
+  REST  12
+  G  -1 12
+  G  -1 12
+
+MEASURE 30
+  LINE LH4a
+  G  -2 12
+  RIPPLE
+  REST 12 11
+
+MEASURE 30
+  LINE LH5
+  D  -1 12
+  A  -1 12
+  A  -1 12
+  REST  12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  REST  12
+  B  -1 12
+  B  -1 12
+# kr2l D:\musfiles\rach32-10.mus 31 60 12
+
+MEASURE 31
+  LINE TLLH2
+  TIELINE LH4 90
+  REST  12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  REST  12
+
+MEASURE 31
+  LINE TLLH3
+  TIELINE LH4 92
+  REST  12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  B  -2 12
+
+MEASURE 31
+  LINE LH4
+  F# -3 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  F# -1 12
+
+MEASURE 31
+  LINE LH5
+  F# -2 12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  B  -1 12
+# kr2l D:\musfiles\rach32-10.mus 32 60 12
+
+MEASURE 32
+  LINE TLLH1
+  TIELINE LH4 88
+  REST  12
+  G  -1 12
+  G  -1 12
+  G  -1 12
+  G  -1 12
+  G  -1 12
+  G  -1 12
+  G  -1 12
+  G  -1 12
+  REST   4
+
+MEASURE 32
+  LINE TLLH2
+  TIELINE LH4 90
+  REST  12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  REST  12
+  G  -1 12
+  G  -1 12
+
+MEASURE 32
+  LINE TLLH3
+  TIELINE LH4 92
+  REST  12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  REST  12
+  B  -1 12
+  B  -1 12
+
+MEASURE 32
+  LINE LH4
+  B  -4 12
+  E   0 12
+  E   0 12
+  E   0 12
+  E   0 12
+  E   0 12
+  E   0 12
+  E   0 12
+  E   0 12
+  REST  12
+  E   0 12
+  E   0 12
+
+MEASURE 32
+  LINE LH5
+  B  -3 12
+  G   0 12
+  G   0 12
+  G   0 12
+  G   0 12
+  G   0 12
+  G   0 12
+  G   0 12
+  G   0 12
+  REST  12
+  G   0 12
+  G   0 12
+# kr2l D:\musfiles\rach32-10.mus 33 30 12
+
+
+MEASURE 34
+  LINE TLLH2
+  TIELINE LH4 90
+  REST   4
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  REST  12
+  F# -1 12
+  F# -1 12
+
+MEASURE 34
+  LINE TLLH3
+  TIELINE LH4 92
+  REST  12
+  A  -2 12
+  A  -2 12
+  A  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  F# -1 12
+  B  -1 12
+  B  -1 12
+
+MEASURE 34
+  LINE LH4
+  D  -3 12
+  D  -1 12
+  D  -1 12
+  D   0 12
+  D   0 12
+  D   0 12
+  D   0 12
+  D   0 12
+  D   0 12
+  B  -1 12
+  D   0 12
+  D   0 12
+
+MEASURE 34
+  LINE LH5
+  D  -2 12
+  A  -1 12
+  A  -1 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  D   0 12
+  F#  0 12
+  F#  0 12
+# kr2l D:\musfiles\rach32-10.mus 35 60 12
+
+MEASURE 35
+  LINE TLLH2
+  TIELINE LH4 90
+  REST  12
+  G  -2 12
+  G  -2 12
+  REST   4  3
+
+MEASURE 35
+  LINE TLLH3
+  TIELINE LH4 92
+  REST  12
+  D  -1 12
+  D  -1 12
+  REST   4  3
+
+MEASURE 35
+  LINE LH4
+  C  -3 12
+  F# -1 12
+  F# -1 12
+  REST   4  3
+
+MEASURE 35
+  LINE LH5
+  C  -2 12
+  G  -1 12
+  G  -1 12
+  REST   4  3
+# kr2l D:\musfiles\rach32-10.mus 28 60 12
+
+MEASURE 28
+  LINE TLRH2
+  TIELINE RH4 82
+  REST  12
+  A  -1 12
+  A  -1 12
+  A  -1 12
+  A  -1 12
+  A  -1 12
+  A  -1 12
+  A  -1 12
+  A  -1 12
+  REST  12
+  A  -1 12
+  A  -1 12
+
+MEASURE 28
+  LINE TLRH3
+  TIELINE RH4 92
+  REST  12
+  D   0 12
+  D   0 12
+  D   0 12
+  D   0 12
+  D   0 12
+  D   0 12
+  D   0 12
+  D   0 12
+  REST  12
+  D   0 12
+  D   0 12
+
+MEASURE 28
+  LINE RH4
+  REST  12
+  E   0 12
+  E   0 12
+  E   0 12
+  E   0 12
+  E   0 12
+  E   0 12
+  E   0 12
+  E   0 12
+  REST  12
+  F#  0 12
+  F#  0 12
+
+MEASURE 28
+  LINE RH5
+  REST  12
+  A   0 12
+  A   0 12
+  A   0 12
+  A   0 12
+  A   0 12
+  A   0 12
+  A   0 12
+  A   0 12
+  REST  12
+  A   0 12
+  A   0 12
+
+MEASURE 29
+  LINE TLRH2
+  TIELINE RH4 82
+  REST  12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  REST   6
+  B  -1 12
+  B  -1 12
+  REST   4
+
+MEASURE 29
+  LINE TLRH3
+  TIELINE RH4 92
+  REST  12
+  E   0 12
+  E   0 12
+  E   0 12
+  E   0 12
+  REST   6
+  E   0 12
+  E   0 12
+  REST  12
+  B  -1 12
+  REST  12
+
+MEASURE 29
+  LINE RH4
+  REST  12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  REST   6
+  F#  0 12
+  F#  0 12
+  REST  12
+  E   0 12
+  REST  12
+
+MEASURE 29
+  LINE RH5
+  REST  12
+  B   0 12
+  B   0 12
+  B   0 12
+  B   0 12
+  REST   6
+  B   0 12
+  B   0 12
+  REST  12
+  B   0 12
+  REST  12
+# kr2l D:\musfiles\rach32-10.mus 30 60 12
+
+MEASURE 30
+  LINE TLRH2
+  TIELINE RH4 82
+  REST  12
+  D   0 12
+  D   0 12
+  REST  12
+  D   0 12
+  D   0 12
+  D   0 12
+  D   0 12
+  D   0 12
+  REST  12
+  E   0 12
+  E   0 12
+
+MEASURE 30
+  LINE TLRH3
+  TIELINE RH4 92
+  REST  12
+  G   0 12
+  G   0 12
+  REST  12
+  G   0 12
+  G   0 12
+  G   0 12
+  G   0 12
+  G   0 12
+  REST  12
+  G   0 12
+  G   0 12
+
+MEASURE 30
+  LINE RH4
+  REST  12
+  A   0 12
+  A   0 12
+  REST  12
+  B   0 12
+  B   0 12
+  B   0 12
+  B   0 12
+  B   0 12
+  REST  12
+  B   0 12
+  B   0 12
+
+MEASURE 30
+  LINE RH5
+  REST  12
+  D   1 12
+  D   1 12
+  REST  12
+  D   1 12
+  D   1 12
+  D   1 12
+  D   1 12
+  D   1 12
+  REST  12
+  E   1 12
+  E   1 12
+
+MEASURE 31
+  LINE TLRH2
+  TIELINE RH4 82
+  REST  12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  REST  12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  REST  12
+
+MEASURE 31
+  LINE TLRH3
+  TIELINE RH4 92
+  REST  12
+  B   0 12
+  B   0 12
+  B   0 12
+  B   0 12
+  B   0 12
+  REST  12
+  B   0 12
+  B   0 12
+  B   0 12
+  B   0 12
+  REST  12
+
+MEASURE 31
+  LINE RH4
+  REST  12
+  C#  1 12
+  C#  1 12
+  C#  1 12
+  C#  1 12
+  C#  1 12
+  REST  12
+  C#  1 12
+  C#  1 12
+  C#  1 12
+  C#  1 12
+  REST  12
+
+MEASURE 31
+  LINE RH5
+  REST  12
+  F#  1 12
+  F#  1 12
+  F#  1 12
+  F#  1 12
+  F#  1 12
+  REST  12
+  F#  1 12
+  F#  1 12
+  F#  1 12
+  F#  1 12
+  REST  12
+
+MEASURE 32
+  LINE TLRH2
+  TIELINE RH4 82
+  REST  12
+  B   0 12
+  B   0 12
+  B   0 12
+  B   0 12
+  B   0 12
+  B   0 12
+  B   0 12
+  B   0 12
+  REST  12
+  B   0 12
+  B   0 12
+
+MEASURE 32
+  LINE TLRH3
+  TIELINE RH4 92
+  REST  12
+  C#  1 12
+  C#  1 12
+  C#  1 12
+  C#  1 12
+  C#  1 12
+  C#  1 12
+  C#  1 12
+  C#  1 12
+  REST  12
+  C#  1 12
+  C#  1 12
+
+MEASURE 32
+  LINE RH4
+  REST  12
+  E   1 12
+  E   1 12
+  E   1 12
+  E   1 12
+  E   1 12
+  E   1 12
+  E   1 12
+  E   1 12
+  REST  12
+  E   1 12
+  E   1 12
+
+MEASURE 32
+  LINE RH5
+  REST  12
+  B   1 12
+  B   1 12
+  B   1 12
+  B   1 12
+  B   1 12
+  B   1 12
+  B   1 12
+  B   1 12
+  REST  12
+  B   1 12
+  B   1 12
+
+MEASURE 33
+  LINE TLRH2
+  TIELINE RH4 82
+  REST  12
+  F#  0 12
+  F#  0 12
+  F#  0 12
+  REST   4
+  F#  0 12
+  F#  0 12
+  REST   4
+
+MEASURE 33
+  LINE TLRH3
+  TIELINE RH4 92
+  REST  12
+  B   0 12
+  B   0 12
+  B   0 12
+  F#  0 12
+  REST   6
+  B   0 12
+  B   0 12
+  REST  12
+  F#  0 12
+  REST  12
+
+MEASURE 33
+  LINE RH4
+  REST  12
+  C#  1 12
+  C#  1 12
+  C#  1 12
+  B   0 12
+  REST   6
+  C#  1 12
+  C#  1 12
+  REST  12
+  B   0 12
+  REST  12
+
+MEASURE 33
+  LINE RH5
+  REST  12
+  F#  1 12
+  F#  1 12
+  F#  1 12
+  F#  1 12
+  REST   6
+  F#  1 12
+  F#  1 12
+  REST  12
+  F#  1 12
+  REST  12
+# kr2l D:\musfiles\rach32-10.mus 34 60 12
+
+MEASURE 34
+  LINE TLRH2
+  TIELINE RH4 82
+  REST  12
+  B   0 12
+  B   0 12
+  REST  12
+  B   0 12
+  B   0 12
+  B   0 12
+  B   0 12
+  B   0 12
+  REST  12
+  B   0 12
+  B   0 12
+
+MEASURE 34
+  LINE TLRH3
+  TIELINE RH4 92
+  REST  12
+  D   1 12
+  D   1 12
+  REST  12
+  D   1 12
+  D   1 12
+  D   1 12
+  D   1 12
+  D   1 12
+  REST  12
+  D   1 12
+  D   1 12
+
+MEASURE 34
+  LINE RH4
+  REST  12
+  E   1 12
+  E   1 12
+  REST  12
+  F#  1 12
+  F#  1 12
+  F#  1 12
+  F#  1 12
+  F#  1 12
+  REST  12
+  F#  1 12
+  F#  1 12
+
+MEASURE 34
+  LINE RH5
+  REST  12
+  B   1 12
+  B   1 12
+  REST  12
+  B   1 12
+  B   1 12
+  B   1 12
+  B   1 12
+  B   1 12
+  REST  12
+  B   1 12
+  B   1 12
+# kr2l D:\musfiles\rach32-10.mus 35 60 12
+
+MEASURE 35
+  LINE TLRH2
+  TIELINE RH4 82
+  REST  12
+  C   1 12
+  C   1 12
+  REST  12
+  C   1 12
+  C   1 12
+  C   1 12
+  C   1 12
+  C   1 12
+  G   0 12
+  G   0 12
+  G   0 12
+
+MEASURE 35
+  LINE TLRH3
+  TIELINE RH4 92
+  REST  12
+  D   1 12
+  D   1 12
+  REST  12
+  E   1 12
+  E   1 12
+  E   1 12
+  E   1 12
+  E   1 12
+  C   1 12
+  C   1 12
+  C   1 12
+
+MEASURE 35
+  LINE RH4
+  REST  12
+  F#  1 12
+  F#  1 12
+  REST  12
+  G   1 12
+  G   1 12
+  G   1 12
+  G   1 12
+  G   1 12
+  E   1 12
+  E   1 12
+  E   1 12
+
+MEASURE 35
+  LINE RH5
+  REST  12
+  C   2 12
+  C   2 12
+  REST  12
+  C   2 12
+  C   2 12
+  C   2 12
+  C   2 12
+  C   2 12
+  G   1 12
+  G   1 12
+  G   1 12
+
+MEASURE 36
+  LINE TLRH2
+  TIELINE RH4 82
+  E   0 12
+  E   0 12
+  REST  12
+  C   0 12
+  C   0 12
+  C   0 12
+  G  -1 12
+  G  -1 12
+  G  -1 12
+  REST   4
+
+MEASURE 36
+  LINE TLRH3
+  TIELINE RH4 92
+  G   0 12
+  G   0 12
+  E   0 12
+  E   0 12
+  E   0 12
+  E   0 12
+  C   0 12
+  C   0 12
+  C   0 12
+  REST   4
+
+MEASURE 36
+  LINE RH4
+  C   1 12
+  C   1 12
+  G   0 12
+  G   0 12
+  G   0 12
+  G   0 12
+  E   0 12
+  E   0 12
+  E   0 12
+  REST   4
+
+MEASURE 36
+  LINE RH5
+  E   1 12
+  E   1 12
+  C   1 12
+  C   1 12
+  C   1 12
+  C   1 12
+  G   0 12
+  G   0 12
+  G   0 12
+  REST   4
+
+MEASURE 37
+  LINE TLRH3
+  TIELINE RH4 92
+  REST  12
+  G  -1 12
+  G  -1 12
+  G  -1 12
+  G  -1  6
+  REST   6
+  G  -1  4
+  REST   12
+
+MEASURE 37
+  LINE RH4
+  REST  12
+  E   0 12
+  E   0 12
+  E   0 12
+  E   0  6
+  REST   6
+  E   0  4
+  REST   12
+
+MEASURE 37
+  LINE RH5
+  REST  12
+  G   0 12
+  G   0 12
+  G   0 12
+  G   0  6
+  REST   6
+  G   0  4
+  REST   12
+# kr2l D:\musfiles\rach32-10.mus 33 60 12
+
+MEASURE 33
+  LINE TLLH1
+  TIELINE LH4 88
+  REST  12 11
+  F# -1 12
+
+MEASURE 33
+  LINE TLLH2
+  TIELINE LH4 90
+  REST  12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  C# -1 12
+  REST   6
+  C# -1 12
+  C# -1 12
+  REST  12
+  D  -1 12
+  B  -1 12
+
+MEASURE 33
+  LINE TLLH3
+  TIELINE LH4 92
+  REST  12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  F# -1 12
+  REST   6
+  F# -1 12
+  F# -1 12
+  REST  12
+  F# -1 12
+  F#  0 12
+
+MEASURE 33
+  LINE LH4
+  F# -3 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  B  -1 12
+  REST   6
+  B  -1 12
+  B  -1 12
+  REST  12
+  B  -1 12
+  B   0 12
+
+MEASURE 33
+  LINE LH5
+  F# -2 12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  C#  0 12
+  REST   6
+  C#  0 12
+  C#  0 12
+  REST  12
+  D   0 12
+  F#  1 12
+# kr2l D:\musfiles\rach32-10.mus 36 60 12
+
+MEASURE 36
+  LINE TLLH1b
+  TIELINE LH5a 70
+  REST   6  5
+  G  -1 12
+  G  -1 12
+
+MEASURE 36
+  LINE TLLH2b
+  TIELINE LH5a 73
+  REST   6  5
+  E   0 12
+  E   0 12
+
+MEASURE 36
+  LINE TLLH3b
+  TIELINE LH5a 75
+  REST   6  5
+  G   0 12
+  G   0 12
+MEASURE 1
+  MARK Beginning
+
+MEASURE 37
+  MARK Retard-before-L'istesso-tempo
+
+MEASURE 38
+  MARK L'istesso-tempo
+
+
+# kr2l D:\musfiles\rach32-10.mus 37 60 8
+
+MEASURE 37
+  LINE LH4aa
+  REST  16 15
+  D  -1 16
+  LINE TLLH3aa
+  TIELINE LH4aa 70
+  REST 16 15
+  F# -2  16
+
+MEASURE 37
+  LINE RH4aa
+  REST  16 15
+  D   0 16
+  LINE TLRH3aa
+  TIELINE RH4aa 70
+  REST 16 15
+  F# -1  16
+  
+
+MEASURE 38
+  LINE LH4aa
+  REST  16  7
+  F# -1 16
+  REST  16  7
+  A  -1 16
+  LINE TLLH3aa
+  TIELINE LH4aa 70
+  CARRY 16 7
+  TIENOTE LH4aa LH6
+  B  -2 2
+  TIENOTE LH4aa LH6
+  D   -1 16
+  TIENOTE LH4aa 
+
+MEASURE 38
+  LINE RH4aa
+  REST  16  7
+  F#  0 16
+  REST  16  7
+  A   0 16
+  LINE TLRH3aa
+  TIELINE RH4aa 70
+  CARRY 16 7
+  TIENOTE RH4aa RH6
+  B  -1 2
+  TIENOTE RH4aa RH6
+  D   0 16
+  TIENOTE RH4aa
+
+# kr2l D:\musfiles\rach32-10.mus 39 60 8
+
+MEASURE 39
+  LINE LH4aa
+  REST  16  9
+  G  -1 16
+  REST  16  5
+  F# -1 16
+  LINE TLLH3aa
+  TIELINE LH4aa 70
+  CARRY 16 9
+  TIENOTE LH4aa LH6
+  B  -2 16 6
+  TIENOTE LH4aa LH6
+  B   -2 16
+  TIENOTE LH4aa 
+
+MEASURE 39
+  LINE RH4aa
+  REST  16  9
+  G   0 16
+  REST  16  5
+  F#  0 16
+  LINE TLRH3aa
+  TIELINE RH4aa 70
+  CARRY 16 9
+  TIENOTE RH4aa RH6
+  B  -1 16 6
+  TIENOTE RH4aa RH6
+  B   -1 16
+  TIENOTE RH4aa 
+# kr2l D:\musfiles\rach32-10.mus 40 60 12
+
+
+# kr2l D:\musfiles\rach32-10.mus 40 60 12
+
+MEASURE 40
+  LINE TLLH4aa
+  TIELINE LH4aa 80
+  REST   8  3
+  D  -1 24
+  REST  24 11
+  F# -1 24
+  REST  12
+
+MEASURE 40
+  LINE LH4aa
+  REST   8  3
+  A  -1 24
+  REST  24
+  A  -1 24
+  REST   8  3
+  C#  0 24
+  REST  24
+  C#  0 24
+  LINE TLLH3aa
+  TIELINE LH4aa 70
+  CARRY 8 3
+  TIENOTE LH4aa LH6
+  REST 12
+  TIENOTE LH4aa 
+  D  -1 24 10
+  TIENOTE LH4aa LH6
+  REST 24 2
+  TIENOTE LH4aa
+  F# -1  24
+  TIENOTE LH4aa 
+
+MEASURE 40
+  LINE TLRH4aa
+  TIELINE RH4aa 80
+  REST   8  3
+  D   0 24
+  REST  24 11
+  F#  0 24
+  REST  12
+
+MEASURE 40
+  LINE RH4aa
+  REST   8  3
+  A   0 24
+  REST  24
+  A   0 24
+  REST   8  3
+  C#  1 24
+  REST  24
+  C#  1 24 
+  LINE TLRH3aa
+  TIELINE RH4aa 70
+  CARRY 8 3
+  TIENOTE RH4aa RH6
+  REST 12
+  TIENOTE RH4aa 
+  D  0 24 10
+  TIENOTE RH4aa RH6
+  REST 24 2
+  TIENOTE RH4aa
+  F# 0  24
+  TIENOTE RH4aa 
+
+
+
+# kr2l D:\musfiles\rach32-10.mus 41 60 12
+
+MEASURE 41
+  LINE TLLH4aa
+  TIELINE LH4aa 80
+  REST   8  7
+  D  -1 24
+  REST  12
+
+MEASURE 41
+  LINE LH4aa
+  REST   8  5
+  B  -1 24
+  REST  24  5
+  A  -1 24
+  REST  24
+  A  -1 24
+  LINE TLLH3aa
+  TIELINE LH4aa 70
+  CARRY 8 5
+  TIENOTE LH4aa LH6
+  D -1 24 6
+  TIENOTE LH4aa  LH6 
+  REST 24 2
+  TIENOTE LH4aa
+  D -1  24
+  TIENOTE LH4aa 
+
+MEASURE 41
+  LINE TLRH4aa
+  TIELINE RH4aa 80
+  REST   8  7
+  D   0 24
+  REST  12
+
+MEASURE 41
+  LINE RH4aa
+  REST   8  5
+  B   0 24
+  REST  24  5
+  A   0 24
+  REST  24
+  A   0 24
+  LINE TLRH3aa
+  TIELINE RH4aa 70
+  CARRY 8 5
+  TIENOTE RH4aa RH6
+  D 0 24 6
+  TIENOTE RH4aa  RH6 
+  REST 24 2
+  TIENOTE RH4aa
+  D 0  24
+  TIENOTE RH4aa 
+
+
+
+MEASURE 42
+  LINE TLLH4aa
+  TIELINE LH4aa 80
+  REST   8  3
+  F# -1 24
+  REST  24 11
+  A  -1 24
+  REST  12
+
+MEASURE 42
+  LINE LH4aa
+  REST   8  3
+  C#  0 24
+  REST  24
+  C#  0 24
+  REST   8  3
+  E   0 24
+  REST  24
+  E   0 24
+  LINE TLLH3aa
+  TIELINE LH4aa 70
+  CARRY 8 3
+  TIENOTE LH4aa LH6 
+  REST 24 2
+  TIENOTE LH4aa 
+  F# -1 24 10
+  TIENOTE LH4aa  LH6 
+  REST 24 2
+  TIENOTE LH4aa
+  A -1  24
+  TIENOTE LH4aa 
+
+MEASURE 42
+  LINE TLRH4aa
+  TIELINE RH4aa 80
+  REST   8  3
+  F#  0 24
+  REST  24 11
+  A   0 24
+  REST  12
+
+MEASURE 42
+  LINE RH4aa
+  REST   8  3
+  C#  1 24
+  REST  24
+  C#  1 24
+  REST   8  3
+  E   1 24
+  REST  24
+  E   1 24
+  LINE TLRH3aa
+  TIELINE RH4aa 70
+  CARRY 8 3
+  TIENOTE RH4aa RH6 
+  REST 24 2
+  TIENOTE RH4aa 
+  F# 0 24 10
+  TIENOTE RH4aa  RH6 
+  REST 24 2
+  TIENOTE RH4aa
+  A 0  24
+  TIENOTE RH4aa 
+# kr2l D:\musfiles\rach32-10.mus 43 60 16
+
+
+# kr2l D:\musfiles\rach32-10.mus 43 60 16
+
+MEASURE 43
+  LINE TLLH4aa
+  TIELINE LH4aa 80
+  REST  32 13
+  G  -1 32
+  REST  32 15
+  F# -1 32
+  REST  16
+
+MEASURE 43
+  LINE LH4aa
+  REST  32  7
+  E   0 32
+  REST  32  5
+  D   0 32
+  REST  32
+  D   0 32
+  REST  32  7
+  C#  0 32
+  REST  32  5
+  C#  0 32
+  REST  32
+  C#  0 32
+  LINE TLLH3aa
+  TIELINE LH4aa 70
+  CARRY 32 7
+  TIENOTE LH4aa LH6
+  G -1 32 6
+  TIENOTE LH4aa LH6 
+  REST 32 2
+  TIENOTE LH4aa
+  G -1 32 8
+  TIENOTE LH4aa LH6
+  E -1 32 6
+  TIENOTE LH4aa LH6 
+  REST 32 2
+  TIENOTE LH4aa 
+  F# -1 32
+  TIENOTE LH4aa 
+
+MEASURE 43
+  LINE TLRH4aa
+  TIELINE RH4aa 80
+  REST  32 13
+  G   0 32
+  REST  32 15
+  F#  0 32
+  REST  16
+
+MEASURE 43
+  LINE RH4aa
+  REST  32  7
+  E   1 32
+  REST  32  5
+  D   1 32
+  REST  32
+  D   1 32
+  REST  32  7
+  C#  1 32
+  REST  32  5
+  C#  1 32
+  REST  32
+  C#  1 32
+  LINE TLRH3aa
+  TIELINE RH4aa 70
+  CARRY 32 7
+  TIENOTE RH4aa RH6
+  G 0 32 6
+  TIENOTE RH4aa RH6 
+  REST 32 2
+  TIENOTE RH4aa
+  G 0 32 8
+  TIENOTE RH4aa RH6
+  E 0 32 6
+  TIENOTE RH4aa RH6 
+  REST 32 2
+  TIENOTE RH4aa 
+  F# 0 32
+  TIENOTE RH4aa 
+
+MEASURE 44
+  LINE TLLH4aa
+  TIELINE LH4aa 80
+  REST  32 13
+  D  -1 32
+  REST  16  9
+
+MEASURE 44
+  LINE LH4aa
+  REST  32  7
+  B  -1 32
+  REST  32  5
+  B  -1 32
+  REST  32
+  B  -1 32
+  REST  32  7
+  A  -1 32
+  REST  32  7
+  A  -1 32
+  LINE TLLH3aa
+  TIELINE LH4aa 70
+  CARRY 32 7
+  TIENOTE LH4aa LH6
+  E -1 32 6
+  TIENOTE LH4aa LH6 
+  REST 32 2
+  TIENOTE LH4aa
+  D -1 32 8
+  TIENOTE LH4aa LH6
+  D -1 32 8
+  TIENOTE LH4aa LH6 
+  D -1 32
+  TIENOTE LH4aa 
+
+MEASURE 44
+  LINE TLRH4aa
+  TIELINE RH4aa 80
+  REST  32 13
+  D   0 32
+  REST  16  9
+
+MEASURE 44
+  LINE RH4aa
+  REST  32  7
+  B   0 32
+  REST  32  5
+  B   0 32
+  REST  32
+  B   0 32
+  REST  32  7
+  A   0 32
+  REST  32  7
+  A   0 32
+  LINE TLRH3aa
+  TIELINE RH4aa 70
+  CARRY 32 7
+  TIENOTE RH4aa RH6
+  E 0 32 6
+  TIENOTE RH4aa RH6 
+  REST 32 2
+  TIENOTE RH4aa
+  D 0 32 8
+  TIENOTE RH4aa RH6
+  D 0 32 8
+  TIENOTE RH4aa RH6 
+  D 0 32
+  TIENOTE RH4aa 
+
+MEASURE 45
+  LINE LH4aa
+  REST  32  7
+  G  -1 32
+  REST  32  7
+  G  -1 32
+  REST  32  7
+  F# -1 32
+  REST   4
+  LINE TLLH3aa
+  TIELINE LH4aa 70
+  CARRY 32 7
+  TIENOTE LH4aa LH6
+  C  -1 32 8
+  TIENOTE LH4aa LH6 
+  B -2 32 8
+  TIENOTE LH4aa LH6
+  B -2 32 9
+  TIENOTE LH4aa LH6 
+
+MEASURE 45
+  LINE RH4aa
+  REST  32  7
+  G   0 32
+  REST  32  7
+  G   0 32
+  REST  32  7
+  F#  0 32
+  REST  32  7
+  E   0 32
+  LINE TLRH3aa
+  TIELINE RH4aa 70
+  CARRY 32 7
+  TIENOTE RH4aa RH6
+  C  0 32 8
+  TIENOTE RH4aa RH6 
+  B -1 32 8
+  TIENOTE RH4aa RH6
+  B -1 32 8
+  TIENOTE RH4aa RH6 
+  G -1 32
+  TIENOTE RH4aa 
+
+MEASURE 46
+  METER 3 4
+
+# kr2l D:\musfiles\rach32-10.mus 46 60 16
+
+MEASURE 46
+  LINE RH4aa
+  REST  32  7
+  E   0 32
+  REST  32  7
+  E   0 32
+  REST  32  7
+  E   0 32
+  LINE TLRH3aa
+  TIELINE RH4aa 70
+  CARRY 32 7
+  TIENOTE RH4aa RH6
+  G -1 32 8
+  TIENOTE RH4aa RH6 
+  G -1 32 8
+  TIENOTE RH4aa RH6 
+  G -1 32
+  TIENOTE RH4aa 
+
+MEASURE 47
+  LINE RH4aa
+  REST  32  7
+  E   0 32
+  REST  32  7
+  E   0 32
+  REST   4
+  LINE TLRH3aa
+  TIELINE RH4aa 70
+  CARRY 32 7
+  TIENOTE RH4aa RH6
+  G -1 32 8
+  TIENOTE RH4aa RH6 
+  G -1 32 8
+  TIENOTE RH4aa RH6 
+  REST 32
+  
+# kr2l D:\musfiles\rach32-10.mus 38 60 8
+
+MEASURE 38
+  LINE RH3
+  B  -1 16  7
+  REST  16
+  D   0 16  7
+  REST  16
+
+MEASURE 38
+  LINE RH6
+  E   0 16  7
+  REST  16
+  G   0 16  7
+  REST  16
+
+MEASURE 39
+  LINE RH3
+  F#  0 16  9
+  REST  16
+  D   0 16  5
+  REST  16
+
+MEASURE 39
+  LINE RH6
+  B   0 16  9
+  REST  16
+  A   0 16  5
+  REST  16
+# kr2l D:\musfiles\rach32-10.mus 40 60 12
+
+MEASURE 40
+  LINE RH3
+  D   0  8  3
+  REST  24
+  F#  0 24
+  REST  24
+  F#  0  8  3
+  REST  24
+  A   0 24
+  REST  24
+
+MEASURE 40
+  LINE RH6
+  G   0  8  3
+  REST  24
+  B   0 24
+  REST  24
+  B   0  8  3
+  REST  24
+  D   1 24
+  REST  24
+# kr2l D:\musfiles\rach32-10.mus 41 60 12
+
+MEASURE 41
+  LINE RH3
+  A   0  8  5
+  REST  24
+  F#  0 24  5
+  REST  24
+  F#  0 24
+  REST  24
+
+MEASURE 41
+  LINE RH6
+  D   1  8  5
+  REST  24
+  C#  1 24  5
+  REST  24
+  B   0 24
+  REST  24
+
+MEASURE 42
+  LINE RH3
+  F#  0  8  3
+  REST  24
+  A   0 24
+  REST  24
+  A   0  8  3
+  REST  24
+  D   1 24
+  REST  24
+
+MEASURE 42
+  LINE RH6
+  B   0  8  3
+  REST  24
+  D   1 24
+  REST  24
+  D   1  8  3
+  REST  24
+  F#  1 24
+  REST  24
+# kr2l D:\musfiles\rach32-10.mus 43 60 16
+
+MEASURE 43
+  LINE RH3
+  D   1 32  7
+  REST  32
+  B   0 32  5
+  REST  32
+  B   0 32
+  REST  32
+  B   0 32  7
+  REST  32
+  G   0 32  5
+  REST  32
+  A   0 32
+  REST  32
+
+MEASURE 43
+  LINE RH6
+  F#  1 32  7
+  REST  32
+  F#  1 32  5
+  REST  32
+  E   1 32
+  REST  32
+  E   1 32  7
+  REST  32
+  D   1 32  5
+  REST  32
+  D   1 32
+  REST  32
+
+MEASURE 44
+  LINE RH3
+  A   0 32  7
+  REST  32
+  G   0 32  5
+  REST  32
+  F#  0 32
+  REST  32
+  F#  0 32  7
+  REST  32
+  E   0 32  7
+  REST  32
+
+MEASURE 44
+  LINE RH6
+  D   1 32  7
+  REST  32
+  C#  1 32  5
+  REST  32
+  C#  1 32
+  REST  32
+  C#  1 32  7
+  REST  32
+  B   0 32  7
+  REST  32
+# kr2l D:\musfiles\rach32-10.mus 45 60 16
+
+MEASURE 45
+  LINE RH3
+  F#  0 32  7
+  REST  32
+  E   0 32  7
+  REST  32
+  D   0 32  7
+  REST  32
+  D   0 32  7
+  REST  32
+
+MEASURE 45
+  LINE RH6
+  B   0 32  7
+  REST  32
+  A   0 32  7
+  REST  32
+  A   0 32  7
+  REST  32
+  G   0 32  7
+  REST  32
+# kr2l D:\musfiles\rach32-10.mus 46 60 16
+
+MEASURE 46
+  LINE RH3
+  D   0 32  7
+  REST  32
+  D   0 32  7
+  REST  32
+  D   0 32  7
+  REST  32
+
+MEASURE 46
+  LINE RH6
+  F#  0 32  7
+  REST  32
+  F#  0 32  7
+  REST  32
+  F#  0 32  7
+  REST  32
+
+MEASURE 47
+  LINE RH3
+  D   0 32  7
+  REST  32
+  D   0 32  7
+  REST  32
+  D   0 32  7
+  REST  32
+
+MEASURE 47
+  LINE RH6
+  F#  0 32  7
+  REST  32
+  F#  0 32  7
+  REST  32
+  F#  0 32  7
+  REST  32
+# kr2l D:\musfiles\rach32-10.mus 38 60 8
+
+MEASURE 38
+  LINE LH3
+  B  -2 16  7
+  REST  16
+  D  -1 16  7
+  REST  16
+
+MEASURE 38
+  LINE LH6
+  E  -1 16  7
+  REST  16
+  G  -1 16  7
+  REST  16
+
+MEASURE 39
+  LINE LH3
+  F# -1 16  9
+  REST  16
+  D  -1 16  5
+  REST  16
+
+MEASURE 39
+  LINE LH6
+  B  -1 16  9
+  REST  16
+  A  -1 16  5
+  REST  16
+# kr2l D:\musfiles\rach32-10.mus 40 60 12
+
+MEASURE 40
+  LINE LH3
+  D  -1  8  3
+  REST  24
+  F# -1 24
+  REST  24
+  F# -1  8  3
+  REST  24
+  A  -1 24
+  REST  24
+
+MEASURE 40
+  LINE LH6
+  G  -1  8  3
+  REST  24
+  B  -1 24
+  REST  24
+  B  -1  8  3
+  REST  24
+  D   0 24
+  REST  24
+
+MEASURE 41
+  LINE LH3
+  A  -1  8  5
+  REST  24
+  F# -1 24  5
+  REST  24
+  F# -1 24
+  REST  24
+
+MEASURE 41
+  LINE LH6
+  D   0  8  5
+  REST  24
+  C#  0 24  5
+  REST  24
+  B  -1 24
+  REST  24
+
+MEASURE 42
+  LINE LH3
+  F# -1  8  3
+  REST  24
+  A  -1 24
+  REST  24
+  A  -1  8  3
+  REST  24
+  D   0 24
+  REST  24
+
+MEASURE 42
+  LINE LH6
+  B  -1  8  3
+  REST  24
+  D   0 24
+  REST  24
+  D   0  8  3
+  REST  24
+  F#  0 24
+  REST  24
+# kr2l D:\musfiles\rach32-10.mus 43 60 16
+
+MEASURE 43
+  LINE LH3
+  D   0 32  7
+  REST  32
+  B  -1 32  5
+  REST  32
+  B  -1 32
+  REST  32
+  B  -1 32  7
+  REST  32
+  G  -1 32  5
+  REST  32
+  A  -1 32
+  REST  32
+
+MEASURE 43
+  LINE LH6
+  F#  0 32  7
+  REST  32
+  F#  0 32  5
+  REST  32
+  E   0 32
+  REST  32
+  E   0 32  7
+  REST  32
+  D   0 32  5
+  REST  32
+  D   0 32
+  REST  32
+
+MEASURE 44
+  LINE LH3
+  A  -1 32  7
+  REST  32
+  G  -1 32  5
+  REST  32
+  F# -1 32
+  REST  32
+  F# -1 32  7
+  REST  32
+  G  -1 32  7
+  REST  32
+
+MEASURE 44
+  LINE LH6
+  D   0 32  7
+  REST  32
+  C#  0 32  5
+  REST  32
+  C#  0 32
+  REST  32
+  C#  0 32  7
+  REST  32
+  B  -1 32  7
+  REST  32
+
+MEASURE 45
+  LINE LH3
+  F# -1 32  7
+  REST  32
+  E  -1 32  7
+  REST  32
+  D  -1 32  7
+  REST  32
+  D  -1  4
+
+MEASURE 45
+  LINE LH6
+  B  -1 32  7
+  REST  32
+  A  -1 32  7
+  REST  32
+  A  -1 32  7
+  REST  32
+  G  -1  4
+# kr2l D:\musfiles\rach32-10.mus 37 60 8
+
+
+# kr2l D:\musfiles\rach32-10.mus 38 60 4
+
+MEASURE 38
+  LINE LH4
+  REST   4
+  F# -3  4
+  REST   4
+  F# -3  4
+
+MEASURE 38
+  LINE LH5
+  REST   4
+  F# -2  4
+  REST   4
+  F# -2  4
+
+MEASURE 38
+  LINE RH4
+  REST   4
+  D  0   4
+  REST   4
+  D  0   4
+
+MEASURE 38
+  LINE RH5
+  REST   4
+  D   -1  4
+  REST   4
+  D   -1  4
+
+MEASURE 39
+  LINE LH4
+  REST   4
+  F# -3  4
+  REST   4
+  F# -3  4
+
+MEASURE 39
+  LINE LH5
+  REST   4
+  F# -2  4
+  REST   4
+  F# -2  4
+
+MEASURE 39
+  LINE RH4
+  REST   4
+  F#  0  4
+  REST   4
+  F#  0  4
+
+MEASURE 39
+  LINE RH5
+  REST   4
+  F#  1  4
+  REST   4
+  F#  1  4
+# kr2l D:\musfiles\rach32-10.mus 40 60 4
+
+MEASURE 40
+  LINE LH4
+  REST   4
+  F# -3  4
+  REST   4
+  F# -3  4
+
+MEASURE 40
+  LINE LH5
+  REST   4
+  F# -2  4
+  REST   4
+  F# -2  4
+
+MEASURE 40
+  LINE RH4
+  REST   4
+  D   0  4
+  REST   4
+  F#  0  4
+
+MEASURE 40
+  LINE RH5
+  REST   4
+  D   1  4
+  REST   4
+  F#  1  4
+
+MEASURE 41
+  LINE LH4
+  REST   4
+  F# -3  4
+  REST   4
+  F# -3  4
+
+MEASURE 41
+  LINE LH5
+  REST   4
+  F# -2  4
+  REST   4
+  F# -2  4
+
+MEASURE 41
+  LINE RH4
+  REST   4
+  A   0  4
+  REST   4
+  A   0  4
+
+MEASURE 41
+  LINE RH5
+  REST   4
+  A   1  4
+  REST   4
+  A   1  4
+
+MEASURE 42
+  LINE LH4
+  REST   4
+  F# -3  4
+  REST   4
+  F# -3  4
+
+MEASURE 42
+  LINE LH5
+  REST   4
+  F# -2  4
+  REST   4
+  F# -2  4
+
+MEASURE 42
+  LINE RH4
+  REST   4
+  F#  0  4
+  REST   4
+  A   0  4
+
+MEASURE 42
+  LINE RH5
+  REST   4
+  F#  1  4
+  REST   4
+  A   1  4
+# kr2l D:\musfiles\rach32-10.mus 43 60 8
+
+MEASURE 43
+  LINE LH4
+  REST   8
+  F# -3  4
+ PHANTOM 4
+  F# -3  4
+ PHANTOM 8
+
+MEASURE 43
+  LINE LH5
+  REST   8
+  F# -2  4
+  F# -2  4
+  F# -2  4
+  F# -2  8
+
+MEASURE 43
+  LINE RH4
+  REST   8
+  D   1  4
+  C#  1  4
+  C#  1  4
+  B   0  8
+
+MEASURE 43
+  LINE RH5
+  REST   8
+  D   2  4
+  C#  2  4
+  C#  2  4
+  B   1  8
+
+MEASURE 44
+  LINE LH4
+  REST   8
+  F# -3  4
+  PHANTOM 4
+  F# -3  4
+  PHANTOM  8
+
+MEASURE 44
+  LINE LH5
+  REST   8
+  F# -2  4
+  F# -2  4
+  F# -2  4
+  F# -2  8
+
+MEASURE 44
+  LINE RH4
+  REST   8
+  B   0  4
+  A   0  4
+  A   0  4
+  G   0  8
+
+MEASURE 44
+  LINE RH5
+  REST   8
+  B   1  4
+  A   1  4
+  A   1  4
+  G   1  8
+# kr2l D:\musfiles\rach32-10.mus 45 60 8
+
+MEASURE 45
+  LINE LH4
+  REST   8
+  F# -3  4
+  PHANTOM  4
+  F# -3  4
+  PHANTOM  8
+
+MEASURE 45
+  LINE LH5
+  REST   8
+  F# -2  4
+  F# -2  4
+  F# -2  4
+  F# -2  8
+
+MEASURE 45
+  LINE RH4
+  REST   8
+  F#  0  4
+  E   0  4
+  D   0  4
+  PHANTOM  8
+
+MEASURE 45
+  LINE RH5
+  REST   8
+  F#  1  4
+  E   1  4
+  D   1  4
+  B   0  8
+# kr2l D:\musfiles\rach32-10.mus 46 60 8
+
+MEASURE 46
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   8  5
+  B   0  8
+
+MEASURE 46
+  LINE RH4
+  REST   8
+  PHANTOM  4
+  B   0  4
+  D   1  8
+
+MEASURE 46
+  LINE RH5
+  REST   8
+  B   0  4
+  D   1  4
+  F#  1  8
+
+MEASURE 47
+  LINE TLRH2
+  TIELINE RH4 82
+  REST   8
+  B   0  4
+  D   1  4
+  REST   8
+
+MEASURE 47
+  LINE TLRH3
+  TIELINE RH4 92
+  CARRY  8
+  D   1  4
+  F#  1  4
+  REST   8
+
+MEASURE 47
+  LINE RH4
+  CARRY  8
+  F#  1  4
+  B   1  4
+  REST   8
+
+MEASURE 47
+  LINE RH5
+  CARRY  8
+  B   1  4
+  D   2  4
+  REST   8

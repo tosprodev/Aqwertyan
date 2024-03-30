@@ -1,0 +1,2524 @@
+NAME Beethoven, Bagatelle, Opus 126, Number 4
+
+MEASURE 1
+  METER 2 2
+  TEMPO 4 60.000000
+  KEY 2#
+
+# kr2l bbag.mus 1 60 4
+
+MEASURE 1
+  LINE RH4
+  REST   4  3
+  F# -1  4
+
+MEASURE 2
+  LINE RH4
+  F# -1  2
+  B  -1  2
+
+MEASURE 3
+  LINE RH4
+  C#  0  4
+  B  -1  8
+  Bb -1  8
+  B  -1  4
+  D   0  4
+
+MEASURE 4
+  LINE RH4
+  D   0  2
+  B  -1  4
+  C#  0  8
+  D   0  8
+
+MEASURE 5
+  LINE RH4
+  E   0  4
+  D   0  8
+  C#  0  8
+  D   0  4
+  F#  0  4
+
+MEASURE 6
+  LINE RH4
+  G   0  4
+  B   0  4
+  D   1  4
+  B   0  4
+
+MEASURE 7
+  LINE RH4
+  E   1  4
+  C   1  4
+  D   1  4
+  G   1  4
+
+MEASURE 8
+  LINE RH3
+  REST   4  3
+  B   0  4
+
+MEASURE 8
+  LINE RH4
+  B   1  4
+  D   2  4
+  G   2  4
+  D   1  4
+
+MEASURE 9
+  LINE RH3
+  C   1  4
+  A   0  4
+  G   0  4
+  REST   4
+
+MEASURE 9
+  LINE RH4
+  E   1  4
+  F#  1  4
+  G   1  4
+  F# -1  4
+# kr2l bbag.mus 1 60 4
+
+MEASURE 1
+  LINE LH4
+  REST   4  3
+  F# -2  4
+
+MEASURE 2
+  LINE LH4
+  F# -2  4
+  B  -3  4
+  D  -2  4
+  B  -3  4
+
+MEASURE 3
+  LINE LH4
+  Bb -3  4
+  B  -3  8
+  C# -2  8
+  B  -3  4
+  F# -2  4
+
+MEASURE 4
+  LINE LH4
+  F# -2  4
+  B  -3  4
+  D  -2  4
+  B  -3  4
+
+MEASURE 5
+  LINE TLLH1
+  TIELINE LH4 88
+  REST   4  3
+  F# -3  4
+
+MEASURE 5
+  LINE LH4
+  Bb -3  4
+  B  -3  8
+  C# -2  8
+  B  -3  4
+  F# -2  4
+
+MEASURE 6
+  LINE TLLH1
+  TIELINE LH4 88
+  G  -3  4
+  REST   4  3
+
+MEASURE 6
+  LINE LH4
+  G  -2  4
+  B  -2  4
+  D  -1  4
+  B  -2  4
+
+MEASURE 7
+  LINE LH4
+  E  -1  4
+  C  -1  4
+  D  -1  4
+  G  -1  4
+# kr2l bbag.mus 8 60 4
+
+MEASURE 8
+  LINE LH2
+  REST   4  3
+  G  -2  4
+
+MEASURE 8
+  LINE LH4
+  B  -1  4
+  D   0  4
+  G   0  4
+  G  -1  4
+
+MEASURE 9
+  LINE LH2
+  G  -2  4
+  G  -2  4
+  G  -2  4
+  REST   4
+
+MEASURE 9
+  LINE LH4
+  G  -1  4
+  G  -1  4
+  G  -1  4
+  F# -2  4
+# kr2l bbag.mus 2 60 4
+
+MEASURE 2
+  LINE TLRH1
+  TIELINE RH4 74
+  REST   2
+  F# -1  2
+
+MEASURE 3
+  LINE TLRH1
+  TIELINE RH4 74
+  F# -1  2
+  F# -1  4
+  REST   4
+
+MEASURE 4
+  LINE TLRH1
+  TIELINE RH4 74
+  B  -1  2
+  F#  0  2
+
+MEASURE 5
+  LINE TLRH1
+  TIELINE RH4 74
+  F#  0  2
+  F#  0  4
+  REST   4
+
+REPEAT 2 8  10
+# kr2l bbag.mus 17 60 4
+
+MEASURE 17
+  LINE RH3
+  C   1  4
+  A   0  4
+  G   0  4
+  REST   4
+
+MEASURE 17
+  LINE RH4
+  E   1  4
+  F#  1  4
+  G   1  4
+  REST   4
+
+MEASURE 18
+  LINE RH4
+  B   0  4
+  E   0  4
+  G   0  4
+  E   0  4
+
+MEASURE 19
+  LINE RH4
+  A   0  4
+  G   0  8
+  F#  0  8
+  G   0  4
+  B   0  4
+
+MEASURE 20
+  LINE RH4
+  B   0  2
+  E   1  2
+# kr2l bbag.mus 21 60 4
+
+MEASURE 21
+  LINE RH4
+  F   1  4
+  E   1  8
+  D   1  8
+  F   1  8
+  D   1  8
+  B   0  8
+  G   1  8
+  LINE TLRH4
+  TIELINE RH4 100
+  REST 8 7 
+  G   1   8
+
+MEASURE 22
+  LINE RH4
+  PHANTOM  8
+  E   1  8
+  C   1  8
+  A   1  8
+  F   1  8
+  D   1  8
+  B   0  8
+  G   1  8
+  LINE TLRH4
+  CARRY 8
+  REST 8 7
+# kr2l bbag.mus 23 60 4
+
+MEASURE 23
+  LINE RH4
+  E   1  8
+  C   1  8
+  G   0  8
+  F   1  8
+  PHANTOM 8
+  D   1  8
+  B   0  8
+  G   1  8
+  LINE TLRH4
+  TIELINE RH4 100
+  REST 8 3
+  F   1  4
+  REST 8 2
+  G   1  8
+
+MEASURE 24
+  LINE RH4
+  PHANTOM  8
+  E   1  8
+  C   1  8
+  A   1  8
+  F   1  8
+  D   1  8
+  B   0  8
+  G   1  8
+  LINE TLRH4
+  CARRY 8
+  REST 8 7
+# kr2l bbag.mus 25 60 4
+
+MEASURE 25
+  LINE TLRH1
+  TIELINE RH4 74
+  REST   2
+  E   1  4
+  REST   4
+
+MEASURE 25
+  LINE RH4
+  F   1  8
+  D   1  8
+  B   1  8
+  D   1  8
+  C   2  4
+  D   2  4
+# kr2l bbag.mus 26 60 4
+
+MEASURE 26
+  LINE RH4
+  CARRY  8
+  B   1  8
+  G   1  8
+  E   2  8
+  C   2  8
+  A   1  8
+  F#  1  8
+  D   2  8
+# kr2l bbag.mus 27 60 4
+
+MEASURE 27
+  LINE RH4
+  B   1  8
+  G   1  8
+  D   1  8
+  C   2  8
+  PHANTOM 8
+  A   1  8
+  F#  1  8
+  D   2  8
+  LINE TLRH4
+  REST 8 3
+  C   2  4
+  REST 4
+  D   2  8
+
+MEASURE 28
+  LINE RH4
+  PHANTOM  8
+  B   1  8
+  G   1  8
+  E   2  8
+  C   2  8
+  A   1  8
+  F#  1  8
+  D   2  8
+  LINE TLRH4
+  CARRY 8
+  REST 8 7
+# kr2l bbag.mus 29 60 4
+
+MEASURE 29
+  LINE TLRH1
+  TIELINE RH4 74
+  REST   2
+  B   1  4
+  REST   4
+
+MEASURE 29
+  LINE RH4
+  C   2  8
+  A   1  8
+  F#  2  8
+  A   1  8
+  G   2  4
+  F# -1  4
+# kr2l bbag.mus 18 60 4
+
+MEASURE 18
+  LINE TLRH1
+  TIELINE RH4 74
+  B   0  2
+  B   0  2
+
+MEASURE 19
+  LINE TLRH1
+  TIELINE RH4 74
+  B   0  2
+  B   0  4
+  REST   4
+
+MEASURE 20
+  LINE TLRH1
+  TIELINE RH4 74
+  REST   2
+  B   0  2
+
+MEASURE 21
+  LINE TLRH1
+  TIELINE RH4 74
+  B   0  4  3
+  REST   4
+# kr2l bbag.mus 17 60 4
+
+MEASURE 17
+  LINE LH2
+  G  -3  4
+  G  -3  4
+  G  -3  4
+  REST   4
+
+MEASURE 17
+  LINE LH4
+  G  -2  4
+  G  -2  4
+  G  -2  4
+  B  -3  4
+
+MEASURE 18
+  LINE LH4
+  B  -3  2
+  E  -2  2
+
+MEASURE 19
+  LINE LH4
+  F# -2  4
+  E  -2  8
+  Eb -2  8
+  E  -2  4
+  B  -2  4
+
+MEASURE 20
+  LINE LH4
+  B  -2  4
+  E  -2  4
+  G  -2  4
+  E  -2  4
+
+MEASURE 21
+  LINE LH4
+  D  -2  4
+  G  -2  4
+  G  -3  4
+  G  -2  4
+
+MEASURE 22
+  LINE LH4
+  C  -2  4
+  G  -2  4
+  G  -3  4
+  G  -2  4
+
+MEASURE 23
+  LINE LH4
+  C  -2  4
+  G  -2  4
+  G  -3  4
+  G  -2  4
+
+MEASURE 24
+  LINE LH4
+  C  -2  4
+  G  -2  4
+  G  -3  4
+  G  -2  4
+
+MEASURE 25
+  LINE LH4
+  G  -3  4
+  G  -2  4
+  C  -2  4
+  REST   4
+
+MEASURE 26
+  LINE LH4
+  G  -1  4
+  D   0  4
+  D  -1  4
+  D   0  4
+
+MEASURE 27
+  LINE LH4
+  G  -1  4
+  D   0  4
+  D  -1  4
+  D   0  4
+
+MEASURE 28
+  LINE LH4
+  G  -1  4
+  D   0  4
+  D  -1  4
+  D   0  4
+
+MEASURE 29
+  LINE LH2
+  REST   4  3
+  F# -3  4
+
+MEASURE 29
+  LINE LH4
+  D  -1  4
+  D   0  4
+  G  -1  4
+  F# -2  4
+# kr2l D:\musfiles\bbag.mus 30 60 4
+
+MEASURE 30
+  LINE RH4
+  F# -1  4  3
+  REST   4
+
+MEASURE 31
+  LINE RH4
+  REST   4  3
+  G  -1  4
+
+MEASURE 32
+  LINE RH4
+  G  -1  2
+  C   0  2
+
+MEASURE 33
+  LINE RH4
+  D   0  4
+  C   0  8
+  B  -1  8
+  C   0  4
+  F# -1  4
+
+MEASURE 34
+  LINE RH4
+  F# -1  2
+  REST   2
+
+MEASURE 35
+  LINE RH4
+  REST   4  3
+  C#  0  4
+
+MEASURE 36
+  LINE RH4
+  C#  0  2
+  F#  0  2
+
+MEASURE 37
+  LINE RH4
+  G   0  4
+  F#  0  8
+  F   0  8
+  F#  0  4
+  F#  0  4
+
+MEASURE 38
+  LINE RH4
+  F#  0  2
+  B   0  2
+
+MEASURE 39
+  LINE RH4
+  C   1  4
+  B   0  8
+  Bb  0  8
+  B   0  4
+  B   0  4
+
+MEASURE 40
+  LINE RH4
+  B   0  2
+  B   0  4
+  B   0  4
+
+MEASURE 41
+  LINE RH4
+  B   0  2
+  E   1  2
+
+MEASURE 42
+  LINE RH4
+  F#  1  4
+  E   1  8
+  Eb  1  8
+  E   1  4
+  G   1  4
+
+MEASURE 43
+  LINE RH4
+  F#  1  4
+  B   1  4
+  F#  1  4
+  B   1  4
+
+MEASURE 44
+  LINE RH4
+  F#  1  4
+  B   1  4
+  A   1  4
+  G   1  8
+  A   1  8
+
+MEASURE 45
+  LINE RH4
+  B   1  2
+  E   2  2
+
+MEASURE 46
+  LINE RH4
+  F#  2  4
+  E   2  8
+  Eb  2  8
+  E   2  4
+  G   2  4
+
+MEASURE 47
+  LINE RH4
+  C#  2  4
+  F#  2  4
+  C#  2  4
+  F#  2  4
+
+MEASURE 48
+  LINE RH4
+  C#  2  4
+  F#  2  4
+  E   2  4
+  C#  2  4
+
+MEASURE 49
+  LINE RH4
+  F# -1  2
+  B  -1  2
+
+MEASURE 50
+  LINE RH4
+  C#  0  4
+  B  -1  8
+  Bb -1  8
+  B  -1  4
+  D   0  4
+
+MEASURE 51
+  LINE RH4
+  D   0  2
+  B  -1  4
+  D   0  4
+
+MEASURE 52
+  LINE RH4
+  E   0  4
+  D   0  8
+  C#  0  8
+  D   0  4
+  F#  0  4
+
+MEASURE 53
+  LINE RH4
+  G   0  4
+  B   0  4
+  D   1  4
+  B   0  4
+
+MEASURE 54
+  LINE RH4
+  F#  0  4
+  B   0  4
+  D   1  4
+  B   0  4
+
+MEASURE 55
+  LINE RH4
+  E   0  4
+  B   0  4
+  D   1  4
+  B   0  4
+
+MEASURE 56
+  LINE RH4
+  D   0  4
+  B   0  4
+  D   1  4
+  B   0  4
+
+MEASURE 57
+  LINE RH4
+  B   0  4
+  D   1  4
+  F#  1  4
+  D   1  4
+
+MEASURE 58
+  LINE RH4
+  G   1  4
+  E   1  4
+  F#  1  4
+  B   1  4
+
+MEASURE 59
+  LINE RH4
+  D   2  4
+  F#  2  4
+  B   2  4
+  F#  1  4
+# kr2l D:\musfiles\bbag.mus 32 60 4
+
+MEASURE 32
+  LINE TLRH1
+  TIELINE RH4 73
+  G  -1  1
+
+MEASURE 33
+  LINE TLRH1
+  TIELINE RH4 73
+  CARRY  2
+  REST   2
+# kr2l D:\musfiles\bbag.mus 37 60 4
+
+MEASURE 37
+  LINE TLRH1
+  TIELINE RH4 73
+  REST   4  3
+  D   0  4
+
+MEASURE 38
+  LINE TLRH1
+  TIELINE RH4 73
+  REST   1
+
+MEASURE 39
+  LINE TLRH1
+  TIELINE RH4 73
+  REST   4  3
+  G   0  4
+
+MEASURE 40
+  LINE TLRH1
+  TIELINE RH4 73
+  REST   1
+# kr2l D:\musfiles\bbag.mus 49 60 4
+
+MEASURE 49
+  LINE TLRH1
+  TIELINE RH4 73
+  REST   2
+  F# -1  2
+
+MEASURE 50
+  LINE TLRH1
+  TIELINE RH4 73
+  F# -1  2
+  F# -1  4
+  B  -1  4
+# kr2l D:\musfiles\bbag.mus 51 60 4
+
+MEASURE 51
+  LINE TLRH1
+  TIELINE RH4 73
+  B  -1  2
+  F#  0  2
+
+MEASURE 52
+  LINE TLRH1
+  TIELINE RH4 73
+  F#  0  2
+  F#  0  4
+  REST   4
+# kr2l D:\musfiles\bbag.mus 60 60 4
+
+MEASURE 60
+  LINE TLRH1
+  TIELINE RH4 73
+  REST   4
+  Bb  0  4
+  B   0  4
+  REST   4
+
+MEASURE 60
+  LINE RH4
+  F#  1  4
+  Bb  1  4
+  B   1  4
+  B   0  4
+# kr2l D:\musfiles\bbag.mus 30 60 4
+
+MEASURE 30
+  LINE LH2
+  F# -3  4  3
+  REST   4
+
+MEASURE 30
+  LINE LH4
+  F# -2  4  3
+  REST   4
+
+MEASURE 31
+  LINE LH4
+  REST   4  3
+  G  -2  4
+
+MEASURE 32
+  LINE LH4
+  G  -2  2
+  E  -1  2
+
+MEASURE 32
+  LINE TLLH4
+  TIELINE LH4 100
+  G -2 1
+MEASURE 33
+  LINE TLLH4
+  TIELINE LH4 100
+  CARRY 2
+  REST  2
+
+MEASURE 33
+  LINE LH2
+  REST   4  3
+  F# -3  4
+
+MEASURE 33
+  LINE LH4
+  F  -1  4
+  E  -1  8
+  D  -1  8
+  C  -1  4
+  F# -2  4
+
+MEASURE 34
+  LINE LH2
+  F# -3  2
+  REST   2
+
+MEASURE 34
+  LINE LH4
+  F# -2  2
+  REST   2
+
+MEASURE 35
+  LINE LH4
+  REST   1
+
+MEASURE 36
+  LINE LH4
+  REST   4  3
+  F# -2  4
+
+MEASURE 37
+  LINE LH4
+  F# -2  2
+  B  -2  2
+
+MEASURE 38
+  LINE LH4
+  C# -1  4
+  B  -2  8
+  Bb -2  8
+  B  -2  4
+  B  -2  4
+
+MEASURE 39
+  LINE LH4
+  B  -2  2
+  E  -1  2
+
+MEASURE 40
+  LINE LH4
+  F# -1  4
+  E  -1  8
+  Eb -1  8
+  E  -1  4
+  REST   4
+# kr2l D:\musfiles\bbag.mus 41 60 2
+
+MEASURE 41
+  LINE LH2
+  E  -1  4
+  REST   4
+  E  -1  4
+  REST   4
+
+MEASURE 41
+  LINE LH4
+  G  -1  4
+  REST   4
+  G  -1  4
+  REST   4
+
+MEASURE 42
+  LINE LH2
+  E  -1  4
+  REST   4
+  E  -1  4
+  REST   4
+
+MEASURE 42
+  LINE LH4
+  G  -1  4
+  REST   4
+  G  -1  4
+  REST   4
+
+MEASURE 43
+  LINE LH2
+  Eb -1  4
+  REST   4
+  Eb -1  4
+  REST   4
+
+MEASURE 43
+  LINE LH4
+  F# -1  4
+  REST   4
+  F# -1  4
+  REST   4
+
+MEASURE 44
+  LINE LH2
+  Eb -1  4
+  REST   4
+  Eb -1  4
+  REST   4
+
+MEASURE 44
+  LINE LH4
+  F# -1  4
+  REST   4
+  F# -1  4
+  REST   4
+
+MEASURE 45
+  LINE LH2
+  E  -1  4
+  REST   4
+  E  -1  4
+  REST   4
+
+MEASURE 45
+  LINE LH4
+  G  -1  4
+  REST   4
+  G  -1  4
+  REST   4
+
+MEASURE 46
+  LINE LH2
+  E  -1  4
+  REST   4
+  E  -1  4
+  REST   4
+
+MEASURE 46
+  LINE LH4
+  G  -1  4
+  REST   4
+  G  -1  4
+  REST   4
+
+MEASURE 47
+  LINE LH2
+  F# -1  4
+  REST   4
+  F# -1  4
+  REST   4
+
+MEASURE 47
+  LINE LH4
+  Bb -1  4
+  REST   4
+  Bb -1  4
+  REST   4
+# kr2l D:\musfiles\bbag.mus 48 60 2
+
+MEASURE 48
+  LINE LH2
+  F# -1  4
+  REST   4
+  F# -1  4
+  REST   4
+
+MEASURE 48
+  LINE LH4
+  Bb -1  4
+  REST   4
+  Bb -1  4
+  REST   4
+# kr2l D:\musfiles\bbag.mus 41 60 2
+
+MEASURE 41
+  LINE LH5
+  REST   4
+  B  -1  4
+  REST   4
+  B  -1  4
+
+MEASURE 42
+  LINE LH5
+  REST   4
+  B  -1  4
+  REST   4
+  B  -1  4
+
+MEASURE 43
+  LINE LH5
+  REST   4
+  B  -1  4
+  REST   4
+  B  -1  4
+
+MEASURE 44
+  LINE LH5
+  REST   4
+  B  -1  4
+  REST   4
+  B  -1  4
+
+MEASURE 45
+  LINE LH5
+  REST   4
+  B  -1  4
+  REST   4
+  B  -1  4
+
+MEASURE 46
+  LINE TLLH1
+  TIELINE LH5 80
+  REST   4  3
+  E  -1  4
+
+MEASURE 46
+  LINE LH5
+  REST   4
+  B  -1  4
+  REST   4
+  B  -1  4
+
+MEASURE 47
+  LINE LH5
+  REST   4
+  C#  0  4
+  REST   4
+  C#  0  4
+# kr2l D:\musfiles\bbag.mus 48 60 2
+
+MEASURE 48
+  LINE TLLH1
+  TIELINE LH5 80
+  REST   4  3
+  F# -3  4
+
+MEASURE 48
+  LINE LH5
+  REST   4
+  C#  0  4
+  REST   4
+  F# -2  4
+# kr2l D:\musfiles\bbag.mus 49 60 4
+
+MEASURE 49
+  LINE TLLH1
+  TIELINE LH5 80
+  F# -3  4
+  REST   4  3
+
+MEASURE 49
+  LINE LH5
+  F# -2  4
+  B  -3  4
+  D  -2  4
+  B  -3  4
+
+MEASURE 50
+  LINE LH5
+  Bb -3  4
+  B  -3  8
+  C# -2  8
+  B  -3  4
+  F# -2  4
+
+MEASURE 51
+  LINE LH5
+  F# -2  4
+  B  -3  4
+  D  -2  4
+  B  -3  4
+# kr2l D:\musfiles\bbag.mus 52 60 4
+
+MEASURE 52
+  LINE LH5
+  Bb -3  4
+  B  -3  8
+  C# -2  8
+  B  -3  4
+  F# -2  4
+
+MEASURE 53
+  LINE LH5
+  G  -2  4
+  B  -2  4
+  D  -1  4
+  B  -2  4
+
+MEASURE 54
+  LINE LH5
+  F# -2  4
+  B  -2  4
+  D  -1  4
+  B  -2  4
+
+MEASURE 55
+  LINE LH5
+  E  -2  4
+  B  -2  4
+  D  -1  4
+  B  -2  4
+
+MEASURE 56
+  LINE LH5
+  D  -2  4
+  B  -2  4
+  D  -1  4
+  B  -2  4
+
+MEASURE 57
+  LINE LH5
+  B  -2  4
+  D  -1  4
+  F# -1  4
+  D  -1  4
+
+MEASURE 58
+  LINE LH5
+  G  -1  4
+  E  -1  4
+  F# -1  4
+  B  -1  4
+
+MEASURE 59
+  LINE LH5
+  D   0  4
+  F#  0  4
+  B   0  4
+  F# -1  4
+
+MEASURE 60
+  LINE TLLH1
+  TIELINE LH5 80
+  REST   4
+  F# -2  4
+  B  -3  4
+  REST   4
+
+MEASURE 60
+  LINE LH5
+  F# -1  4
+  F# -1  4
+  B  -2  4
+  B  -2  4
+# kr2l D:\musfiles\bbag.mus 38 60 4
+
+MEASURE 38
+  LINE TLLH1
+  TIELINE LH4 80
+  E   0  4
+  D   0  8
+  C#  0  8
+  D   0  4
+  REST   4
+
+MEASURE 39
+  LINE TLLH1
+  TIELINE LH4 80
+  REST   1
+
+MEASURE 40
+  LINE TLLH1
+  TIELINE LH4 80
+  A   0  4
+  G   0  8
+  F#  0  8
+  G   0  4
+  REST   4
+
+REPEAT 18 59 61
+
+# kr2l D:\musfiles\bbag.mus 103 60 4
+
+MEASURE 103
+  LINE TLLH1
+  TIELINE LH5 80
+  REST   4
+  F# -2  4
+  B  -3  4
+  REST   4
+
+MEASURE 103
+  LINE LH5
+  F# -1  4
+  F# -1  4
+  B  -2  4
+  F# -2  4
+# kr2l D:\musfiles\bbag.mus 103 60 4
+
+MEASURE 103
+  LINE TLRH1
+  TIELINE RH5 80
+  REST   4
+  Bb  0  4
+  B   0  4
+  REST   4
+
+MEASURE 103
+  LINE RH5
+  F#  1  4
+  Bb  1  4
+  B   1  4
+  REST   4
+MEASURE 104
+  KEY 5#
+
+# kr2l D:\musfiles\bbag.mus 104 60 2
+
+MEASURE 104
+  LINE LH5
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 105
+  LINE LH5
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 106
+  LINE LH5
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 107
+  LINE LH5
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 108
+  LINE LH5
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 109
+  LINE LH5
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 110
+  LINE LH5
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 111
+  LINE LH4B
+  
+  REST   4  3
+  F# -2  4
+
+MEASURE 111
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 112
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 112
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 113
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 113
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 114
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 114
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 115
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 115
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 116
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 116
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 117
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 117
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 118
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 118
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 119
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 119
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+# kr2l D:\musfiles\bbag.mus 104 60 2
+
+MEASURE 104
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 105 60 2
+
+MEASURE 105
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 106 60 2
+
+MEASURE 106
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 107 60 2
+
+MEASURE 107
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 108 60 2
+
+MEASURE 108
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 109 60 2
+
+MEASURE 109
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 110 60 2
+
+MEASURE 110
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 111 60 2
+
+MEASURE 111
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 112 60 2
+
+MEASURE 112
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 113 60 2
+
+MEASURE 113
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 114 60 2
+
+MEASURE 114
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 115 60 2
+
+MEASURE 115
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 116 60 2
+
+MEASURE 116
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 117 60 2
+
+MEASURE 117
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 118 60 2
+
+MEASURE 118
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 119 60 2
+
+MEASURE 119
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 104 60 2
+
+MEASURE 104
+  LINE RH5
+  REST   4
+  B   0  4
+  D#  1  4
+  F#  1  4
+
+MEASURE 105
+  LINE RH5
+  REST   4
+  F#  1  4
+  E   1  4
+  D#  1  4
+
+MEASURE 106
+  LINE RH5
+  REST   4
+  D#  1  4
+  C#  1  4
+  B   0  4
+
+MEASURE 107
+  LINE RH5
+  REST   4
+  B   0  4
+  A#  0  4
+  G#  0  4
+
+MEASURE 108
+  LINE RH5
+  REST   4
+  F#  0  4
+  G#  0  4
+  A#  0  4
+
+MEASURE 109
+  LINE RH5
+  REST   4
+  A#  0  4
+  B   0  4
+  C#  1  4
+
+MEASURE 110
+  LINE RH5
+  REST   4
+  C#  1  4
+  D#  1  4
+  E   1  4
+# kr2l D:\musfiles\bbag.mus 111 60 2
+
+MEASURE 111
+  LINE RH5
+  CARRY  4
+  D#  1  4
+  A#  1  4
+  B   1  4
+# kr2l D:\musfiles\bbag.mus 112 60 2
+
+MEASURE 112
+  LINE RH5
+  REST   4
+  B   1  4
+  D#  2  4
+  F#  2  4
+# kr2l D:\musfiles\bbag.mus 113 60 2
+
+MEASURE 113
+  LINE RH5
+  REST   4
+  F#  2  4
+  E   2  4
+  D#  2  4
+
+MEASURE 114
+  LINE RH5
+  REST   4
+  D#  2  4
+  C#  2  4
+  B   1  4
+
+MEASURE 115
+  LINE RH5
+  REST   4
+  B   1  4
+  A#  1  4
+  G#  1  4
+
+MEASURE 116
+  LINE RH5
+  REST   4
+  F#  1  4
+  G#  1  4
+  A#  1  4
+
+MEASURE 117
+  LINE RH5
+  REST   4
+  A#  1  4
+  B   1  4
+  C#  2  4
+
+MEASURE 118
+  LINE RH5
+  REST   4
+  C#  2  4
+  D#  2  4
+  E   2  4
+# kr2l D:\musfiles\bbag.mus 119 60 2
+
+MEASURE 119
+  LINE RH5
+  CARRY  4
+  D#  2  4
+  A#  2  4
+  B   2  4
+# kr2l D:\musfiles\bbag.mus 120 60 2
+
+MEASURE 120
+  LINE LH4
+  F# -2  1
+
+MEASURE 120
+  LINE LH5
+  F# -1  1
+
+MEASURE 121
+  LINE LH4
+  C  -1  1
+
+MEASURE 121
+  LINE LH5
+  C   0  1
+
+MEASURE 122
+  LINE LH4
+  C# -1  1
+
+MEASURE 122
+  LINE LH5
+  C#  0  1
+
+MEASURE 123
+  LINE LH4
+  E   0  1
+
+MEASURE 123
+  LINE LH5
+  G   0  1
+# kr2l D:\musfiles\bbag.mus 123 60 2
+
+MEASURE 123
+  LINE LH5a
+  REST   4  3
+  F# -2  4
+
+MEASURE 124
+  LINE LH5a
+  CARRY  4  3
+  REST   4
+# kr2l D:\musfiles\bbag.mus 124 60 2
+
+MEASURE 124
+  LINE LH5
+  REST   4  3
+  F# -2  4
+
+MEASURE 125
+  LINE LH5
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 126
+  LINE LH5
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 127
+  LINE LH5
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 128
+  LINE LH5
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 129
+  LINE LH5
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 130
+  LINE LH5
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 131
+  LINE LH4B
+  
+  REST   4  3
+  F# -2  4
+
+MEASURE 131
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 132
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 132
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 133
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 133
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 134
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 134
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 135
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 135
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 136
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 136
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 137
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 137
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 138
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 138
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 139
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 139
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+# kr2l D:\musfiles\bbag.mus 140 60 2
+
+MEASURE 140
+  LINE LH5
+  CARRY  1
+
+MEASURE 140
+  LINE LH4a
+  E -2 1
+
+MEASURE 141
+  LINE LH4B
+  
+  F# -2  1
+
+MEASURE 141
+  LINE LH5
+  B  -2  1
+
+MEASURE 142
+  LINE LH4B
+  
+  E  -2  1
+
+MEASURE 142
+  LINE LH5
+  B  -2  1
+
+MEASURE 143
+  LINE LH4B
+  
+  F# -2  1
+
+MEASURE 143
+  LINE LH5
+  B  -2  1
+
+MEASURE 144
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 144
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 145
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 145
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 146
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 146
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 147
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 147
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 148
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 148
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 149
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 149
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 150
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 150
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 151
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 151
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 152
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 152
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+# kr2l D:\musfiles\bbag.mus 124 60 2
+
+MEASURE 124
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 125 60 2
+
+MEASURE 125
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 126 60 2
+
+MEASURE 126
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 127 60 2
+
+MEASURE 127
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 128 60 2
+
+MEASURE 128
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 129 60 2
+
+MEASURE 129
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 130 60 2
+
+MEASURE 130
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 131 60 2
+
+MEASURE 131
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 132 60 2
+
+MEASURE 132
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 133 60 2
+
+MEASURE 133
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 134 60 2
+
+MEASURE 134
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 135 60 2
+
+MEASURE 135
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 136 60 2
+
+MEASURE 136
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 137 60 2
+
+MEASURE 137
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 138 60 2
+
+MEASURE 138
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 139 60 2
+
+MEASURE 139
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 144 60 2
+
+MEASURE 144
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 145 60 2
+
+MEASURE 145
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 146 60 2
+
+MEASURE 146
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 147 60 2
+
+MEASURE 147
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 148 60 2
+
+MEASURE 148
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 149 60 2
+
+MEASURE 149
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 150 60 2
+
+MEASURE 150
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 151 60 2
+
+MEASURE 151
+  LINE LH4
+  B  -3  1
+# kr2l D:\musfiles\bbag.mus 152 60 2
+
+MEASURE 152
+  LINE LH4
+  B  -3  1
+
+
+# kr2l D:\musfiles\bbag.mus 153 60 2
+
+MEASURE 153
+  LINE LH4B
+  
+  REST   4  3
+  F# -2  4
+
+MEASURE 153
+  LINE LH5
+  REST   4  3
+  B  -2  4
+
+MEASURE 154
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 154
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 155
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 155
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 156
+  LINE LH4B
+  
+  CARRY  4  3
+  F# -2  4
+
+MEASURE 156
+  LINE LH5
+  CARRY  4  3
+  B  -2  4
+
+MEASURE 157
+  LINE LH4B
+  
+  CARRY  4  3
+  REST 4
+
+MEASURE 157
+  LINE LH5
+  CARRY  4  3
+  REST  4
+# kr2l D:\musfiles\bbag.mus 154 60 2
+
+MEASURE 154
+  LINE LH4
+  B  -3  1
+
+MEASURE 155
+  LINE LH4
+  B  -3  1
+
+MEASURE 156
+  LINE LH4
+  B  -3  1
+
+MEASURE 157
+  LINE LH4
+  B  -3  4  3
+  F# -2  4
+# kr2l D:\musfiles\bbag.mus 140 60 2
+
+MEASURE 140
+  LINE LH4
+  REST   4  3
+  B  -3  4
+
+MEASURE 141
+  LINE LH4
+  REST   4  3
+  B  -3  4
+
+MEASURE 142
+  LINE LH4
+  REST   4  3
+  B  -3  4
+
+MEASURE 143
+  LINE LH4
+  REST   4  3
+  B  -3  4
+# kr2l D:\musfiles\bbag.mus 144 60 2
+
+MEASURE 124
+  LINE RH4
+  REST   4
+  B   0  4
+  D#  1  4
+  F#  1  4
+
+MEASURE 125
+  LINE RH4
+  REST   4
+  F#  1  4
+  E   1  4
+  D#  1  4
+
+MEASURE 126
+  LINE RH4
+  REST   4
+  D#  1  4
+  C#  1  4
+  B   0  4
+
+MEASURE 127
+  LINE RH4
+  REST   4
+  B   0  4
+  A#  0  4
+  G#  0  4
+
+MEASURE 128
+  LINE RH4
+  REST   4
+  F#  0  4
+  G#  0  4
+  A#  0  4
+
+MEASURE 129
+  LINE RH4
+  REST   4
+  A#  0  4
+  B   0  4
+  C#  1  4
+
+MEASURE 130
+  LINE RH4
+  REST   4
+  C#  1  4
+  D#  1  4
+  E   1  4
+
+MEASURE 131
+  LINE RH4
+  CARRY  4
+  D#  1  4
+  A#  1  4
+  B   1  4
+
+MEASURE 132
+  LINE RH4
+  REST   4
+  B   1  4
+  D#  2  4
+  F#  2  4
+
+MEASURE 133
+  LINE RH4
+  REST   4
+  F#  2  4
+  E   2  4
+  D#  2  4
+
+MEASURE 134
+  LINE RH4
+  REST   4
+  D#  2  4
+  C#  2  4
+  B   1  4
+
+MEASURE 135
+  LINE RH4
+  REST   4
+  B   1  4
+  A#  1  4
+  G#  1  4
+
+MEASURE 136
+  LINE RH4
+  REST   4
+  F#  1  4
+  G#  1  4
+  A#  1  4
+
+
+# kr2l D:\musfiles\bbag.mus 137 60 2
+
+MEASURE 137
+  LINE RH4
+  REST   4
+  A#  1  4
+  B   1  4
+  C#  2  4
+
+MEASURE 138
+  LINE RH4
+  REST   4
+  C#  2  4
+  D#  2  4
+  E   2  4
+
+MEASURE 139
+  LINE RH4
+  CARRY  4
+  D#  2  4
+  A#  2  4
+  B   2  4
+
+MEASURE 140
+  LINE RH4
+  G#  2  1
+
+MEASURE 141
+  LINE RH4
+  CARRY  4
+  F#  2  4
+  A#  2  4
+  B   2  4
+
+MEASURE 142
+  LINE RH4
+  G#  2  1
+
+MEASURE 143
+  LINE RH4
+  CARRY  4
+  F#  2  4
+  A#  2  4
+  B   2  4
+
+MEASURE 144
+  LINE RH4
+  REST   4
+  D#  2  4
+  E   2  4
+  F#  2  4
+
+MEASURE 145
+  LINE RH4
+  REST   4
+  B   1  4
+  C#  2  4
+  D#  2  4
+
+MEASURE 146
+  LINE RH4
+  REST   4
+  F#  1  4
+  E   2  4
+  C#  2  4
+
+MEASURE 147
+  LINE RH4
+  REST   4
+  C#  2  4
+  A#  1  4
+  B   1  4
+
+MEASURE 148
+  LINE RH4
+  REST   4
+  D#  1  4
+  E   1  4
+  F#  1  4
+
+MEASURE 149
+  LINE RH4
+  REST   4
+  B   0  4
+  C#  1  4
+  D#  1  4
+
+MEASURE 150
+  LINE RH4
+  REST   4
+  F#  0  4
+  E   1  4
+  C#  1  4
+
+MEASURE 151
+  LINE RH4
+  REST   4
+  C#  1  4
+  A#  0  4
+  B   0  4
+
+MEASURE 152
+  LINE RH4
+  REST   4
+  F#  0  4
+  E   1  4
+  C#  1  4
+
+MEASURE 153
+  LINE RH4
+  REST   1
+
+MEASURE 154
+  LINE RH4
+  REST   4
+  C#  1  4
+  A#  0  4
+  B   0  4
+
+MEASURE 155
+  LINE RH4
+  REST   4
+  F#  0  4
+  E   1  4
+  C#  1  4
+
+MEASURE 156
+  LINE RH4
+  REST   4
+  C#  1  4
+  A#  0  4
+  B   0  4
+
+MEASURE 157
+  LINE TLRH1
+  TIELINE RH4 80
+  REST   4
+  D#  0  4
+  REST   4
+  REST   4
+
+MEASURE 157
+  LINE RH4
+  REST   4
+  B   0  4
+  B  -1  4
+  F# -1 4
+
+# kr2l D:\musfiles\bbag.mus 140 60 2
+
+MEASURE 140
+  LINE RH3
+  REST   4
+  B   0  4
+  D#  1  4
+  E   1  4
+
+MEASURE 141
+  LINE RH3
+  D#  1  1
+
+MEASURE 142
+  LINE RH3
+  REST   4
+  B   0  4
+  D#  1  4
+  E   1  4
+
+MEASURE 143
+  LINE RH3
+  D#  1  1
+MEASURE 1
+  MARK Beginning-Theme-1
+
+MEASURE 17
+  MARK Theme-2
+
+MEASURE 31
+  MARK Pause
+
+MEASURE 49
+  MARK Theme-1-Recap
+
+MEASURE 61
+  MARK Theme-2-Repeat
+
+MEASURE 104
+  MARK Pastorale
+
+MEASURE 119
+  MARK Pastorale-Pause
+
+REPEAT 2 59 158
+
+# kr2l D:\musfiles\bbag.mus 122 60 2
+
+MEASURE 122
+  LINE RH5
+  E   1  1
+
+MEASURE 123
+  LINE RH5
+  A#  0  1
+MEASURE 157
+  MARK Theme-1-Again
+
+# kr2l D:\musfiles\bbag.mus 216 60 2
+
+MEASURE 216
+  LINE TLRH1
+  TIELINE RH4 80
+  REST   4
+  A#  0  4
+  B   0  4
+  REST   4
+
+MEASURE 216
+  LINE RH4
+  F#  1  4
+  A#  1  4
+  B   1  4
+  F#  0  4
+
+MEASURE 217
+  LINE RH4
+  G   0  4
+  B   0  4
+  D   1  4
+  B   0  4
+
+MEASURE 218
+  LINE RH4
+  F#  0  4
+  B   0  4
+  D   1  4
+  B   0  4
+
+MEASURE 219
+  LINE RH4
+  E   0  4
+  B   0  4
+  D   1  4
+  B   0  4
+
+MEASURE 220
+  LINE RH4
+  D   0  4
+  B   0  4
+  D   1  4
+  B   0  4
+
+MEASURE 221
+  LINE RH4
+  REST   1
+
+MEASURE 222
+  LINE RH4
+  REST   1
+# kr2l D:\musfiles\bbag.mus 216 60 2
+
+MEASURE 216
+  LINE TLLH1
+  TIELINE LH5 85
+  REST   4
+  F# -2  4
+  B  -3  4
+  REST   4
+
+MEASURE 216
+  LINE LH5
+  F# -1  4
+  F# -1  4
+  B  -2  4
+  F# -2  4
+# kr2l D:\musfiles\bbag.mus 217 60 2
+
+MEASURE 217
+  LINE LH5
+  G  -2  4
+  B  -2  4
+  D  -1  4
+  B  -2  4
+
+MEASURE 218
+  LINE LH5
+  F# -2  4
+  B  -2  4
+  D  -1  4
+  B  -2  4
+
+MEASURE 219
+  LINE LH5
+  E  -2  4
+  B  -2  4
+  D  -1  4
+  B  -2  4
+
+MEASURE 220
+  LINE LH5
+  D  -2  4
+  B  -2  4
+  D  -1  4
+  B  -2  4
+
+MEASURE 221
+  LINE LH5
+  REST   1
+# kr2l D:\musfiles\bbag.mus 222 60 2
+
+MEASURE 222
+  LINE LH5
+  REST   4  3
+  F# -2  4
+
+REPEAT 104 156 223
+
+MEASURE 223
+  MARK Pastorale-again
+
+MEASURE 276
+  LINE LH4B
+  CARRY  4  3
+  REST 4
+
+MEASURE 276
+  LINE LH5
+  CARRY  4  3
+  REST  4
+
+MEASURE 276
+  LINE LH4
+  B  -3  4  3
+  REST  4
+MEASURE 276
+  LINE TLRH1
+  TIELINE RH4 80
+  REST   4
+  D#  0  4
+  REST   4
+  REST   4
+
+MEASURE 276
+  LINE RH4
+  REST   4
+  B   0  4
+  B  -1  4
+  REST  4
+

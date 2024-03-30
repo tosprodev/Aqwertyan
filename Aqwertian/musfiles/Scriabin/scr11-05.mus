@@ -1,0 +1,696 @@
+NAME Scriabin -- Prelude, Opus 11, Number 5
+
+MEASURE 1
+  METER 4 2
+  TEMPO 4 60.000000
+  KEY 2#
+
+# kr2l scr11-5.mus 1 60 4
+
+MEASURE 1
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   1
+  C#  0  2
+  D   0  2
+
+MEASURE 1
+  LINE RH4
+  REST   1
+  G   0  2
+  G   0  2
+
+MEASURE 1
+  LINE RH5
+  REST   1
+  A   0  2
+  B   0  2
+
+MEASURE 2
+  LINE RH5
+  C#  1  2
+  D   1  2
+  A   0 12 4
+  G#  0 12
+  A   0 12
+  B   0 16  7
+  C#  1 16
+
+MEASURE 3
+  LINE RH5
+  C#  1  2
+  D   1  2
+  C#  1  2
+  F#  0  2
+
+MEASURE 4
+  LINE RH5
+  G   0  4  3
+  G   0  4
+  G   0  4
+  F#  0  4
+  A   0  4
+  G   0  4
+
+MEASURE 5
+  LINE RH5
+  F#  0  4
+  E   0  4
+  B   0  4
+  A   0  4
+  A   0 12 4
+  G#  0 12
+  A   0 12
+  B   0 16 7
+  C#  1 16
+
+MEASURE 6
+  LINE RH5
+  C#  1  2
+  D   1  2
+  D   1 12 4
+  C#  1 12
+  D   1 12
+  E   1 16  7
+  F#  1 16
+
+MEASURE 7
+  LINE RH5
+  F#  1  2
+  G   1  2
+  F#  1  2
+  B   0  2
+
+MEASURE 8
+  LINE RH5
+  C   1  4  3
+  B   0 12
+  C   1 12
+  A   1 12
+  G   1  4
+  F#  1  4
+  Bb  0  4
+  B   0  4
+
+MEASURE 9
+  LINE RH5
+  B   0  4
+  C   1  2
+  C#  1  4
+  D   1  1
+   LINE TLRH5
+   TIELINE RH5 80
+    REST 1
+  C 0 1
+  TIENOTE RH5 RH4
+
+MEASURE 10
+  LINE RH5
+  CARRY  4
+  C#  1  4
+  E   1  4
+  D   1  4
+  C   0 32 0
+  F#  0 32 0
+  D   1 32 0
+  D   1 32 0
+  B   1  4
+  A   1  4
+  G   1  4
+  F#  1  4
+  LINE TLRH5
+  TIELINE RH5 100
+  REST 1
+  REST 32 0
+  F# 0 32 0
+  CARRY 32 0
+  CARRY 32 0
+  CARRY 2
+  REST 2
+  LINE TLRH5a
+  TIELINE RH5 100
+  REST 1
+  REST 32 0
+  REST 32 0
+  REST 32 0
+  D  1 32 0
+  CARRY 2
+  REST 2
+
+MEASURE 11
+  LINE RH5
+  G   1  4
+  D   1  4
+  E   1  4
+  F   1  4
+  F#  1  2
+  D   1  2
+
+MEASURE 12
+  LINE RH5
+  A   0  1
+  A   0  3
+  G#  0 12
+  A   0 12
+  B   0 16  7
+  C#  1 16
+
+MEASURE 13
+  LINE RH5
+  C#  1  2
+  D   1  2
+  A   1 12 4
+  G#  1 12
+  A   1 12
+  B   1 16  7
+  C#  2 16
+
+MEASURE 14
+  LINE RH5
+  C#  2  2
+  D   2  1
+  F#  0  2
+
+MEASURE 15
+  LINE TLRH3
+  TIELINE RH4 92
+  F# -1  1  2
+
+MEASURE 15
+  LINE RH4
+  D   0  1  2
+
+MEASURE 15
+  LINE RH5
+  F#  0  1  2
+# kr2l scr11-5.mus 2 60 4
+
+MEASURE 2
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  0  2
+  D   0  2
+  C#  0  2
+  D   0  2
+
+MEASURE 2
+  LINE RH4
+  A   0  2
+  F#  0  2
+  G   0  2
+  G   0  2
+
+MEASURE 3
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  0  2
+  D   0  2
+  E   0  2
+  Bb -1  2
+
+MEASURE 3
+  LINE RH4
+  A   0  2
+  F#  0  2
+  F#  0  2
+  E   0  2
+
+MEASURE 4
+  LINE TLRH3
+  TIELINE RH4 92
+  B  -1  1
+  REST   1
+
+MEASURE 4
+  LINE RH4
+  E   0  1
+  Bb -1  2
+  B  -1  2
+
+MEASURE 5
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   2
+  A  -1  2
+  C#  0  2
+  D   0  2
+
+MEASURE 5
+  LINE RH4
+  A  -1  2
+  E   0  2
+  G   0  2
+  G   0  2
+
+MEASURE 6
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  0  2
+  D   0  2
+  F#  0  2
+  G   0  2
+
+MEASURE 6
+  LINE RH4
+  A   0  2
+  F#  0  2
+  C   1  2
+  C   1  2
+
+MEASURE 7
+  LINE TLRH3
+  TIELINE RH4 92
+  F#  0  2
+  G   0  2
+  A   0  2
+  Eb  0  2
+
+MEASURE 7
+  LINE RH4
+  D   1  2
+  B   0  2
+  B   0  2
+  A   0  2
+
+MEASURE 8
+  LINE TLRH3
+  TIELINE RH4 92
+  E   0  1
+  A   0  2
+  Eb  0  2
+
+MEASURE 8
+  LINE RH4
+  A   0  1
+  B   0  2
+  A   0  2
+
+MEASURE 9
+  LINE TLRH3
+  TIELINE RH4 92
+  E   0  4  3
+  C#  0  4
+  REST   1
+
+MEASURE 9
+  LINE RH4
+  G   0  4  3
+  G   0  4
+  A   0  4
+  G#  0  4
+  B   0  4
+  A   0  4
+# kr2l scr11-5.mus 10 60 4
+
+MEASURE 10
+  LINE TLRH3
+  TIELINE RH4 92
+  C   0  2
+  C   0  2
+  REST   2
+  G   0  2
+
+MEASURE 10
+  LINE RH4
+  G   0  2
+  F#  0  2
+  REST   2
+  C#  1  2
+
+MEASURE 11
+  LINE TLRH3
+  TIELINE RH4 92
+  G   0  2
+  D   0  2
+  D   0  2
+  D   0  2
+
+MEASURE 11
+  LINE RH4
+  D   1  2
+  G#  0  2
+  A   0  2
+  F#  0  2
+
+MEASURE 12
+  LINE TLRH3
+  TIELINE RH4 80
+  REST   2
+  G  -1  2
+  C#  0  2
+  VOLPERC 92
+  D   0  2
+
+MEASURE 12
+  LINE RH4
+  D   0  2
+  C#  0  2
+  G   0  2
+  G   0  2
+
+MEASURE 13
+  LINE TLRH3
+  TIELINE RH4 92
+  C#  0  2
+  D   0  2
+  REST   1
+
+MEASURE 13
+  LINE RH4
+  A   0  2
+  F#  0  2
+  REST   1
+
+MEASURE 14
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   2 3
+  F# -1  2
+
+MEASURE 14
+  LINE RH4
+  REST   2 3
+  D   0  2
+# kr2l scr11-5.mus 13 60 4
+
+MEASURE 13
+  LINE RH1a
+  REST   2  3
+  D   0  2
+
+MEASURE 13
+  LINE RH2a
+  REST   2  3
+  G   0  2
+
+MEASURE 13
+  LINE RH3a
+  REST   1
+  G   0  2
+  B   0  2
+
+MEASURE 13
+  LINE RH4a
+  REST   1
+  C#  1  2
+  RIPPLE
+  D   1  2
+  RIPPLE
+# kr2l scr1-5.mus 14 60 4
+
+MEASURE 14
+  LINE RH1a
+  C#  0  2
+  D   0  1
+  REST   2
+
+MEASURE 14
+  LINE RH2a
+  A   0  2
+  A   0  1
+  REST   2
+
+MEASURE 14
+  LINE RH3a
+  C#  1  2
+  D   1  1
+  REST   2
+
+MEASURE 14
+  LINE RH4a
+  F#  1  2
+  RIPPLE
+  F#  1  1
+  RIPPLE
+  REST   2
+# kr2l scr11-5.mus 1 60 4
+
+MEASURE 1
+  LINE LH5
+  REST   1
+  A  -1  8
+  E  -1  8
+  B  -1  8
+  A  -1  8
+  G  -1  8
+  F# -1  8
+  A  -1  8
+  G  -1  8
+# kr2l scr11-5.mus 2 60 4
+
+MEASURE 2
+  LINE LH5
+  F# -1  8
+  A  -2  8
+  B  -2  8
+  A  -2  8
+  D  -2 10
+  A  -2 10
+  F# -1 10
+  C#  0 10
+  B  -1 10
+  A  -1  8
+  E  -1  8
+  B  -1  8
+  A  -1  8
+  G  -1  8
+  F# -1  8
+  A  -1  8
+  G  -1  8
+
+MEASURE 3
+  LINE LH5
+  F# -1  8
+  A  -2  8
+  B  -2  8
+  A  -2  8
+  D  -2  8
+  D  -1  8
+  G# -1  8
+  A  -1  8
+  Bb -1  8
+  C# -1  8
+  F# -2  8
+  C# -1  8
+  D  -1  8
+  C# -1  8
+  F# -1  8
+  C# -1  8
+
+MEASURE 4
+  LINE LH5
+  E  -1  8
+  B  -2  8
+  C# -1  8
+  D  -1  8
+  E  -1  8
+  D  -1  8
+  E  -1  8
+  C# -1  8
+  F# -2  8
+  C# -1  4
+  Bb -1  8
+  E  -2  8
+  E  -1  4
+  D   0  8
+
+MEASURE 5
+  LINE LH5
+  A  -2  8
+  G  -1  4
+  D   0  8
+  C#  0  8
+  G  -1  8
+  C#  0  8
+  B  -1  8
+  A  -1  8
+  E  -1  8
+  B  -1  8
+  A  -1  8
+  G  -1  8
+  F# -1  8
+  A  -1  8
+  G  -1  8
+
+MEASURE 6
+  LINE LH5
+  F# -1  8
+  A  -2  8
+  B  -2  8
+  A  -2  8
+  D  -2  8
+  A  -2  8
+  D  -1  8
+  A  -1  8
+  D   0  8
+  A  -1  8
+  E   0  8
+  D   0  8
+  C   0  8
+  B  -1  8
+  D   0  8
+  C   0  8
+
+MEASURE 7
+  LINE LH5
+  B  -1  8
+  D  -1  8
+  E  -1  8
+  D  -1  8
+  G  -2  8
+  G  -1  8
+  C#  0  8
+  D   0  8
+  Eb  0  8
+  F# -1  8
+  B  -2  8
+  F# -1  8
+  G  -1  8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+
+MEASURE 8
+  LINE LH5
+  A  -1  8
+  E  -1  8
+  F# -1  8
+  G  -1  8
+  A  -1  8
+  G  -1  8
+  A  -1  8
+  F# -1  8
+  Eb  0  8
+  F# -1  8
+  B  -2  8
+  F# -1  8
+  B  -1  8
+  F# -1  8
+  B  -2  8
+  F# -2  8
+
+MEASURE 9
+  LINE LH5
+  E  -2  8
+  A  -2  8
+  G  -1  8
+  A  -1  8
+  A  -1  8
+  G  -1  8
+  A  -2  8
+  E  -2  8
+  F  -2  8
+  D  -1  4
+  C   0  8
+  F# -2  8
+  D  -1  4
+  C   0  8
+
+MEASURE 10
+  LINE LH5
+  G  -2  8
+  D  -1  4
+  C   0  8
+  G# -2  8
+  D  -1  4
+  C   0  8
+  A  -2  8
+  D  -1  4
+  C   0  8
+  Bb -2  8
+  G  -1  4
+  C#  0  8
+
+MEASURE 11
+  LINE LH5
+  B  -2  8
+  E  -1  4
+  D   0  8
+  Bb -2  8
+  G# -1  4
+  D   0  8
+  A  -2  8
+  D  -1  8
+  C#  0  8
+  B  -1  8
+  A  -1  8
+  G#  -1  8
+  B  -1  8
+  A  -1  8
+
+MEASURE 12
+  LINE LH5
+  G  -1  8
+  F# -1  8
+  A  -1  8
+  G  -1  8
+  F# -1  8
+  E  -1  8
+  B  -2  8
+  A  -2  8
+  D  -2  8
+  E  -1  8
+  B  -1  8
+  A  -1  8
+  G  -1  8
+  F# -1  8
+  A  -1  8
+  G  -1  8
+
+MEASURE 13
+  LINE LH5
+  F# -1  8
+  A  -2  8
+  B  -2  8
+  A  -2  8
+  D  -2 10
+  A  -2 10
+  F# -1 10
+  C#  0 10
+  B  -1 10
+  A  -1  8
+  E  -1  8
+  B  -1  8
+  A  -1  8
+  G  -1  8
+  F# -1  8
+  A  -1  8
+  G  -1  8
+
+MEASURE 14
+  LINE TLLH3
+  TIELINE LH4 92
+  REST   2  3
+  D  -2  2
+
+MEASURE 14
+  LINE LH4
+  REST   2  3
+  A  -2  2
+
+MEASURE 14
+  LINE LH5
+  F# -1  8
+  A  -2  8
+  B  -2  8
+  A  -2  8
+  D  -2 10
+  A  -2 10
+  F# -1 10
+  D   0 10
+  A  -1 10
+  A   0  2
+  D  -1  2
+
+MEASURE 15
+  LINE TLLH3
+  TIELINE LH4 92
+  D  -2  1  2
+
+MEASURE 15
+  LINE LH4
+  A  -2  1  2
+
+MEASURE 15
+  LINE LH5
+  D  -1  1  2

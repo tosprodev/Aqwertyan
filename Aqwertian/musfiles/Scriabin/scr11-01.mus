@@ -1,0 +1,800 @@
+NAME Scriabin, Prelude, Opus 11, Number 1
+
+MEASURE 1
+  METER 2 2
+  TEMPO 4 70.000000
+  KEY 0
+
+# kr2l scr11-01.mus 1 60 5
+
+MEASURE 1
+  LINE RH5
+  REST   5  4
+  D   1 10
+  A   0 10
+
+MEASURE 2
+  LINE RH5
+  C   1 10
+  G   0 10
+  D   0 10
+  D   1 10
+  E   1 10
+  A   1 10
+  G   1 10
+  E   1 10
+  D   1 10
+  A   0 10
+# kr2l scr11-01.mus 3 60 5
+
+MEASURE 3
+  LINE RH5
+  C   1 10
+  G   0 10
+  D   0 10
+  D   1 10
+  A   0 10
+  C   1 10
+  G   0 10
+  C   0 10
+  G   1 10
+  D   1 10
+# kr2l D:\musfiles\scr11-01.mus 4 60 5
+
+MEASURE 4
+  LINE RH5
+  F   1 10
+  C   1 10
+  G   0 10
+  G   1 10
+  A   1 10
+  D   2 10
+  C   2 10
+  A   1 10
+  G   1 10
+  D   1 10
+# kr2l D:\musfiles\scr11-01.mus 5 60 5
+
+MEASURE 5
+  LINE RH5
+  F   1 10
+  C   1 10
+  G   0 10
+  G   1 10
+  D   1 10
+  F   1 10
+  C   1 10
+  F   0 10
+  F   1 10
+  C   1 10
+
+MEASURE 6
+  LINE RH5
+  E   1 10
+  C   1 10
+  F   0 10
+  D   1 10
+  E   1 10
+  A   1 10
+  G   1 10
+  F   1 10
+  E   1 10
+  C   1 10
+
+MEASURE 7
+  LINE RH5
+  D   1 10
+  C   1 10
+  F   0 10
+  C   1 10
+  D   1 10
+  G   1 10
+  F   1 10
+  E   1 10
+  D   1 10
+  C   1 10
+
+MEASURE 8
+  LINE RH5
+  E   1 10
+  C   1 10
+  F   0 10
+  F   1 10
+  C   1 10
+  E   2 10
+  D   2 10
+  C   2 10
+  A   1 10
+  F   1 10
+# kr2l D:\musfiles\scr11-01.mus 9 60 5
+
+MEASURE 9
+  LINE RH5
+  E   1 10
+  B   0 10
+  G   0 10
+  D   1 10
+  B   0 10
+  G   1 10
+  D   1 10
+  G   0 10
+  A   1 10
+  E   1 10
+# kr2l D:\musfiles\scr11-01.mus 10 60 5
+
+MEASURE 10
+  LINE RH5
+  G   1 10
+  D   1 10
+  G   0 10
+  A   1 10
+  B   1 10
+  E   2 10
+  D   2 10
+  B   1 10
+  A   1 10
+  E   1 10
+# kr2l D:\musfiles\scr11-01.mus 11 50 5
+
+MEASURE 11
+  LINE RH5
+  G   1 10
+  D   1 10
+  G   0 10
+  E   1 10
+  G   0 10
+  C   1 10
+  G   0 10
+  C   0 10
+  F   1 10
+  B   0 10
+
+MEASURE 12
+  LINE RH5
+  E   1 10
+  B   0 10
+  E   0 10
+  B   1 10
+  C   2 10
+  E   2 10
+  D   2 10
+  C   2 10
+  B   1 10
+  E   1 10
+
+MEASURE 13
+  LINE RH5
+  A   1 10
+  E   1 10
+  B   0 10
+  B   1 10
+  E   1 10
+  A   1 10
+  E   1 10
+  A   0 10
+  G   1 10
+  B   0 10
+# kr2l D:\musfiles\scr11-01.mus 14 50 5
+
+MEASURE 14
+  LINE RH5
+  F#  1 10
+  A   0 10
+  C   1 10
+  F   1 10
+  F#  1 10
+  A   1 10
+  G   1 10
+  B   0 10
+  F   1 10
+  A   0 10
+
+MEASURE 15
+  LINE RH5
+  E   1 10
+  G   0 10
+  Bb  0 10
+  Eb  1 10
+  E   1 10
+  G   1 10
+  F   1 10
+  A   0 10
+  E   1 10
+  G#  0 10
+
+MEASURE 16
+  LINE RH5
+  D   1 10
+  G#  0 10
+  D   0 10
+  E   1 10
+  G   0 10
+  D   1 10
+  G   0 10
+  D   0 10
+  E   1 10
+  F#  0 10
+
+MEASURE 17
+  LINE RH5
+  D   1 10
+  F#  0 10
+  D   0 10
+  E   1 10
+  F#  0 10
+  D   1 10
+  F#  0 10
+  D   0 10
+  E   1 10
+  G   0 10
+
+MEASURE 18
+  LINE TLRH4
+  TIELINE RH5 80
+  REST   5  4
+  A   0 10
+  REST  10
+
+MEASURE 18
+  LINE RH5
+  D   1 10
+  G   0 10
+  D   0 10
+  E   1 10
+  G   0 10
+  D   1 10
+  G   0 10
+  D   0 10
+  A   1 10
+  D   1 10
+
+MEASURE 19
+  METER 8 10
+  LINE TLRH4
+  TIELINE RH5 80
+  G   0 10
+  REST   5
+  A   0 10
+  REST  10
+  G   0 10
+  REST   5
+
+MEASURE 19
+  LINE RH5
+  G   1 10
+  D   1 10
+  G   0 10
+  A   1 10
+  D   1 10
+  G   1 10
+  D   1 10
+  G   0 10
+
+MEASURE 20
+  LINE TLRH4
+  TIELINE RH5 80
+  D   1 10
+  REST  10
+  C   1 10
+  REST  10 2
+  D   1 10
+  E   1 10
+  A   1 10
+  G   1 10
+  E   1 10
+
+
+
+MEASURE 20
+  METER 2 2
+  LINE RH5
+  D   2 10
+  A   1 10
+  C   2 10
+  G   1 10
+  D   1 10
+  D   2 10
+  E   2 10
+  A   2 10
+  G   2 10
+  E   2 10
+
+MEASURE 21
+  LINE TLRH4
+  TIELINE RH5 80
+  D   1 10
+  REST  10
+  C   1 10
+  REST   5
+  D   1 10
+  REST  10
+  C   1 10
+  REST   5
+
+MEASURE 21
+  LINE RH5
+  D   2 10
+  A   1 10
+  C   2 10
+  G   1 10
+  D   1 10
+  D   2 10
+  A   1 10
+  C   2 10
+  G   1 10
+  C   1 10
+
+MEASURE 22
+  LINE TLRH4
+  TIELINE RH5 80
+  D   0 10
+  REST  10
+  C   0 10
+  REST  10  2
+  D   0 10
+  E   0 10
+  A   0 10
+  G   0 10
+  E   0 10
+
+MEASURE 22
+  LINE RH5
+  D   1 10
+  A   0 10
+  C   1 10
+  G   0 10
+  D   0 10
+  D   1 10
+  E   1 10
+  A   1 10
+  G   1 10
+  E   1 10
+
+MEASURE 23
+  LINE TLRH4
+  TIELINE RH5 80
+  D   0 10
+  REST  10
+  C   0 10
+  REST   5
+  D   0 10
+  REST  10
+  C   0 10
+  REST   5
+
+MEASURE 23
+  LINE RH5
+  D   1 10
+  A   0 10
+  C   1 10
+  G   0 10
+  D   0 10
+  D   1 10
+  A   0 10
+  C   1 10
+  G   0 10
+  C   0 10
+
+MEASURE 24
+  LINE RH5
+  D   0 10
+  A  -1 10
+  C   0 10
+  G  -1 10
+  D  -1 10
+  D   0 10
+  A  -1 10
+  C   0 10
+  G  -1 10
+  C  -1 10
+# kr2l D:\musfiles\scr11-01.mus 25 50 5
+
+MEASURE 25
+  LINE RH5
+  D   0 10
+  A  -1 10
+  C   0 10
+  G  -1 10
+  C  -1 10
+  D   0 10
+  A  -1 10
+  C   0 10
+  G  -1 10
+  C  -1 10
+# kr2l D:\musfiles\scr11-01.mus 26 50 2
+
+MEASURE 26
+  LINE TLRH2
+  TIELINE RH4 82
+  REST   4
+  REST   4
+  C   1  4
+  REST   4
+
+MEASURE 26
+  LINE TLRH3
+  TIELINE RH4 92
+  REST   2
+  E   1  4
+  REST   4
+
+MEASURE 26
+  LINE RH4
+  REST   2
+  G   1  4
+  REST   4
+
+MEASURE 26
+  LINE RH5
+  REST   2
+  C   2  4
+  REST   4
+# kr2l D:\musfiles\scr11-01.mus 1 50 5
+
+MEASURE 1
+  LINE LH5
+  REST   5  4
+  C  -2 10
+  G  -2 10
+# kr2l D:\musfiles\scr11-01.mus 2 50 5
+
+MEASURE 2
+  LINE LH5
+  F  -1 10
+  G  -1 10
+  F   0 10
+  REST  10  5
+  C  -2 10
+  G  -2 10
+
+MEASURE 3
+  LINE LH5
+  F  -1 10
+  G  -1 10
+  F   0 10
+  C  -2 10
+  G  -2 10
+  E  -1 10
+  G  -1 10
+  E   0 10
+  C  -2 10
+  C  -1 10
+# kr2l D:\musfiles\scr11-01.mus 4 50 5
+
+MEASURE 4
+  LINE LH5
+  Bb -1 10
+  C   0 10
+  Bb  0 10
+  REST  10  5
+  C  -2 10
+  C  -1 10
+# kr2l D:\musfiles\scr11-01.mus 5 50 5
+
+MEASURE 5
+  LINE LH5
+  Bb -1 10
+  C   0 10
+  Bb  0 10
+  F  -2 10
+  C  -1 10
+  A  -1 10
+  C   0 10
+  A   0 10
+  D  -2 10
+  D  -1 10
+
+MEASURE 6
+  LINE LH5
+  A  -1 10
+  D   0 10
+  A   0 10
+  REST  10  5
+  A  -3 10
+  A  -2 10
+# kr2l D:\musfiles\scr11-01.mus 7 50 5
+
+MEASURE 7
+  LINE LH5
+  F  -1 10
+  D   0 10
+  A   0 10
+  REST  10  5
+  D  -3 10
+  D  -2 10
+
+MEASURE 8
+  LINE LH5
+  A  -2 10
+  F  -1 10
+  C   0 10
+  REST  10  5
+  G  -3 10
+  G  -2 10
+# kr2l D:\musfiles\scr11-01.mus 9 50 5
+
+MEASURE 9
+  LINE LH5
+  F  -1 10
+  B  -1 10
+  F   0 10
+  REST  10  5
+  C  -2 10
+  G  -2 10
+
+MEASURE 10
+  LINE LH5
+  F  -1 10
+  G  -1 10
+  F   0 10
+  REST  10  5
+  C  -2 10
+  G  -2 10
+
+MEASURE 11
+  LINE LH5
+  F  -1 10
+  G  -1 10
+  F   0 10
+  C  -2 10
+  G  -2 10
+  E  -1 10
+  G  -1 10
+  E   0 10
+  A  -2 10
+  E  -1 10
+
+MEASURE 12
+  LINE LH5
+  B  -1 10
+  D   0 10
+  G#  0 10
+  REST  10  5
+  A  -2 10
+  E  -1 10
+# kr2l D:\musfiles\scr11-01.mus 13 50 5
+
+MEASURE 13
+  LINE LH5
+  D   0 10
+  E   0 10
+  D   1 10
+  A  -2 10
+  E  -1 10
+  C   0 10
+  E   0 10
+  C   1 10
+  Eb -2 10
+  Eb -1 10
+
+MEASURE 14
+  LINE LH5
+  C   0 10
+  F#  0 10
+  A  -1 10
+  E  -2 10
+  E  -1 10
+  B  -1 10
+  E   0 10
+  G  -1 10
+  C# -2 10
+  C# -1 10
+# kr2l D:\musfiles\scr11-01.mus 15 50 5
+
+MEASURE 15
+  LINE LH5
+  Bb -1 10
+  E   0 10
+  G  -1 10
+  D  -2 10
+  D  -1 10
+  A  -1 10
+  D   0 10
+  F  -1 10
+  F  -3 10
+  F  -2 10
+# kr2l D:\musfiles\scr11-01.mus 16 50 5
+
+MEASURE 16
+  LINE LH5
+  D  -1 10
+  G# -1 10
+  C   0 10
+  G  -3 10
+  G  -2 10
+  D  -1 10
+  G  -1 10
+  C   0 10
+  G# -3 10
+  G# -2 10
+# kr2l D:\musfiles\scr11-01.mus 17 50 5
+
+MEASURE 17
+  LINE LH5
+  D  -1 10
+  F# -1 10
+  C   0 10
+  A  -3 10
+  A  -2 10
+  D  -1 10
+  F# -1 10
+  C   0 10
+  G  -3 10
+  G  -2 10
+
+MEASURE 18
+  LINE LH5
+  D  -1 10
+  G  -1 10
+  C   0 10
+  G  -3 10
+  G  -2 10
+  D  -1 10
+  G  -1 10
+  C   0 10
+  G  -3 10
+  G  -2 10
+# kr2l D:\musfiles\scr11-01.mus 19 50 5
+
+MEASURE 19
+  LINE LH5
+  F  -1 10
+  B  -1 10
+  D   0 10
+  G  -3 10
+  G  -2 10
+  F  -1 10
+  B  -1 10
+  D   0 10
+
+# kr2l D:\musfiles\scr11-01.mus 9 100 15
+
+MEASURE 9
+  LINE LH5a
+  REST  10  3
+  B  -1 30  5
+  F  -1 30  5
+  G  -2 30  5
+  REST   5
+# kr2l D:\musfiles\scr11-01.mus 19 100 15
+# kr2l D:\musfiles\scr11-01.mus 20 50 10
+
+MEASURE 20
+  LINE TLLH3a
+  TIELINE LH4a 92
+  REST 2 1 3
+  G  -2 2 1 3
+  G  -1 2 1 3
+  REST  2
+
+MEASURE 20
+  LINE LH4a 
+  C  -3  2 1 3
+  F  -1  2 1 3
+  F   0  2 1 3
+  REST   2
+
+MEASURE 20
+  LINE LH5a 
+  C  -2  2 1 3
+  G  -1  2 1 3
+  G   0  2 1 3
+  REST  2
+# kr2l D:\musfiles\scr11-01.mus 21 50 10
+
+MEASURE 21
+  LINE TLLH3a
+  TIELINE LH4a 92
+  REST  2 1 3
+  G  -2 2 1 3
+  G  -1 2 1 3
+  REST  2 1 3
+  G  -2 2 1 3
+  G  -1 2 1 3
+
+MEASURE 21
+  LINE LH4a
+  C  -3 2 1 3
+  F  -1 2 1 3
+  F   0 2 1 3
+  C  -3 2 1 3
+  E  -1 2 1 3
+  E   0 2 1 3
+
+MEASURE 21
+  LINE LH5a
+  C  -2 2 1 3
+  G  -1 2 1 3
+  G   0 2 1 3
+  C  -2 2 1 3
+  G  -1 2 1 3
+  G   0 2 1 3
+
+MEASURE 22
+  LINE LH4a
+  C  -3  2 1 3
+  F  -1  2 1 3
+  PHANTOM 2 1 3
+  REST 2
+
+MEASURE 22
+  LINE LH5a
+  C  -2 2 1 3
+  G  -1 2 1 3
+  G  -2 2 1 3
+  REST  2
+
+MEASURE 23
+  LINE LH4a
+  C  -3 2 1 3
+  F  -1 2 1 3
+  PHANTOM  2 1 3
+  C  -3 2 1 3
+  E  -1 2 1 3
+  PHANTOM 2 1 3
+
+MEASURE 23
+  LINE LH5a
+  C  -2 2 1 3
+  G  -1 2 1 3
+  G  -2 2 1 3
+  C  -2 2 1 3
+  G  -1 2 1 3
+  G  -2 2 1 3
+# kr2l D:\musfiles\scr11-01.mus 24 50 10
+
+MEASURE 24
+  LINE LH5a
+  F  -1 2 1 3
+  G  -2 2 1 3
+  C  -2 2 1 3
+  E  -1 2 1 3
+  G  -2 2 1 3
+  C  -2 2 1 3
+
+MEASURE 25
+  LINE LH5a
+  E  -1 2 1 3
+  G  -2 2 1 3
+  C  -2 2 1 3
+  E  -1 2 1 3
+  G  -2 2 1 3
+  C  -2 2 1 3
+# kr2l D:\musfiles\scr11-01.mus 26 50 4
+
+MEASURE 26
+  LINE TLLH2a
+  TIELINE LH4a 90
+  REST   2
+  E  -1  4
+  REST   4
+
+MEASURE 26
+  LINE TLLH3a
+  TIELINE LH4a 92
+  REST   2
+  G  -1  4
+  REST   4
+
+MEASURE 26
+  LINE LH4a
+  G  -3  4
+  C  -3  4
+  C   0  4
+  REST   4
+
+MEASURE 26
+  LINE LH5a
+  G  -2 4
+  C  -2  4
+  E   0  4
+  REST   4
+
+MEASURE 9
+  APART
+MEASURE 10 
+  TOGETHER
+MEASURE 20
+  APART
+MEASURE 26
+  TOGETHER

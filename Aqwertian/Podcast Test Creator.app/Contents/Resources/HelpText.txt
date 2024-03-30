@@ -1,0 +1,13 @@
+Help:
+   1) Text Edit window by default show to fill 1 episode.If you want to add another episode, this can be done by clicking "Add episode button".
+  2) You can copy text from above filed and only by clicking paste button in toolbar you get text into your "Episode Text Field".
+  3) You can edit added episode by going back and forward button.
+  4) You must add a separator into Episode text to break it into parts.
+ For Example :
+   Your Text is like this:
+       " What is your country name? (A) Australia (B) England (C) France (D) India"
+   
+   [ Then you must include (~) marker into your text by clicking into text field and pressing marker button. it is depend upon your option count. ]
+
+ Your text look like this:
+       " What is your country name? ~(A) Australia ~(B) England ~ (C) France ~(D) India"

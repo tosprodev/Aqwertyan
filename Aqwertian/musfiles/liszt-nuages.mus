@@ -1,0 +1,865 @@
+NAME Liszt's Nuages Gris
+
+MEASURE 1
+METER 4 4
+TEMPO 4 90
+KEY 2b
+
+
+# kr2l tmp liszt-nuages.mus 1 120 4 0 88 /tmp/kr2l
+
+MEASURE 1
+  LINE RH9
+  REST   4
+  D  -1  4
+  G  -1  4
+  C#  0  4
+
+MEASURE 2
+  LINE RH9
+  CARRY  4
+  D   0  4
+  Bb -1  4
+  G  -1  4
+
+MEASURE 3
+  LINE RH9
+  REST   4
+  D  -1  4
+  G  -1  4
+  C#  0  4
+
+MEASURE 4
+  LINE RH9
+  CARRY  4
+  D   0  4
+  Bb -1  4
+  G  -1  4
+
+MEASURE 5
+  LINE RH9
+  REST   4
+  D  -1  4
+  G  -1  4
+  C#  0  4
+
+MEASURE 6
+  LINE RH9
+  CARRY  4
+  D   0  4
+  Bb -1  4
+  G  -1  4
+
+MEASURE 7
+  LINE RH9
+  REST   4
+  D  -1  4
+  G  -1  4
+  C#  0  4
+
+MEASURE 8
+  LINE RH9
+  CARRY  4
+  D   0  4
+  Bb -1  4
+  G  -1  4
+
+MEASURE 9
+  LINE RH7
+  F# -1  1
+
+MEASURE 9
+  LINE RH8
+  Bb -1  1
+
+MEASURE 9
+  LINE RH9
+  Eb  0  1
+
+MEASURE 10
+  LINE RH7
+  CARRY  4
+  REST   4  3
+
+MEASURE 10
+  LINE RH8
+  CARRY  4
+  REST   4  3
+
+MEASURE 10
+  LINE RH9
+  CARRY  4
+  REST   4  3
+
+MEASURE 11
+  LINE RH7
+  F# -1  1
+
+MEASURE 11
+  LINE RH8
+  Bb -1  1
+
+MEASURE 11
+  LINE RH9
+  D   0  1
+
+MEASURE 12
+  LINE RH7
+  CARRY  4
+  REST   4  3
+
+MEASURE 12
+  LINE RH8
+  CARRY  4
+  REST   4  3
+
+MEASURE 12
+  LINE RH9
+  CARRY  4
+  REST   4  3
+
+MEASURE 13
+  LINE RH7
+  F  -1  1
+
+MEASURE 13
+  LINE RH8
+  A  -1  1
+
+MEASURE 13
+  LINE RH9
+  C#  0  1
+
+MEASURE 14
+  LINE RH7
+  CARRY  4
+  REST   4  3
+
+MEASURE 14
+  LINE RH8
+  CARRY  4
+  REST   4  3
+
+MEASURE 14
+  LINE RH9
+  CARRY  4
+  REST   4  3
+
+MEASURE 15
+  LINE RH7
+  E  -1  1
+
+MEASURE 15
+  LINE RH8
+  Ab -1  1
+
+MEASURE 15
+  LINE RH9
+  C   0  1
+
+MEASURE 16
+  LINE RH7
+  CARRY  4
+  REST   4  3
+
+MEASURE 16
+  LINE RH8
+  CARRY  4
+  REST   4  3
+
+MEASURE 16
+  LINE RH9
+  CARRY  4
+  REST   4  3
+
+MEASURE 17
+  LINE RH7
+  Eb -1  1
+
+MEASURE 17
+  LINE RH8
+  G  -1  1
+
+MEASURE 17
+  LINE RH9
+  B  -1  1
+
+MEASURE 18
+  LINE RH7
+  CARRY  4
+  REST   4  3
+
+MEASURE 18
+  LINE RH8
+  CARRY  4
+  REST   4  3
+
+MEASURE 18
+  LINE RH9
+  CARRY  4
+  REST   4  3
+
+MEASURE 19
+  LINE RH7
+  D  -1  1
+
+MEASURE 19
+  LINE RH8
+  F# -1  1
+
+MEASURE 19
+  LINE RH9
+  Bb -1  1
+
+MEASURE 20
+  LINE RH7
+  CARRY  4
+  REST   4  3
+
+MEASURE 20
+  LINE RH8
+  CARRY  4
+  REST   4  3
+
+MEASURE 20
+  LINE RH9
+  CARRY  4
+  REST   4  3
+# kr2l tmp liszt-nuages.mus 21 120 4 0 88 /tmp/kr2l
+
+MEASURE 21
+  LINE RH9
+  REST   4
+  A  -2  4
+  Bb -2  4
+  C# -1  4
+
+MEASURE 22
+  LINE RH9
+  CARRY  4
+  D  -1  4
+  Bb -2  2
+
+MEASURE 23
+  LINE RH9
+  REST   4
+  A  -2  4
+  Bb -2  4
+  C# -1  4
+
+MEASURE 24
+  LINE RH9
+  CARRY  4
+  D  -1  4
+  Bb -2  2
+
+MEASURE 25
+  LINE RH9
+  REST   2
+  Bb  0  2
+# kr2l tmp liszt-nuages.mus 26 120 4 0 88 /tmp/kr2l
+
+MEASURE 26
+  LINE RH9
+  A   0  2
+  E   0  2
+
+MEASURE 27
+  LINE RH9
+  F#  0  1
+
+MEASURE 28
+  LINE RH9
+  G   0  2
+  REST   2
+
+MEASURE 29
+  LINE RH9
+  REST   2
+  Eb  1  2
+
+MEASURE 30
+  LINE RH9
+  D   1  2
+  G   0  2
+
+MEASURE 31
+  LINE RH9
+  A   0  1
+
+MEASURE 32
+  LINE RH9
+  Bb  0  2
+  REST   2
+
+MEASURE 33
+  LINE RH8
+  REST   2
+  F#  0  2
+
+MEASURE 33
+  LINE RH9
+  REST   2
+  F#  1  2
+
+MEASURE 34
+  LINE RH8
+  CARRY  2
+  G   0  2
+
+MEASURE 34
+  LINE RH9
+  CARRY  2
+  G   1  2
+
+MEASURE 35
+  LINE RH8
+  CARRY  2
+  Ab  0  2
+
+MEASURE 35
+  LINE RH9
+  CARRY  2
+  Ab  1  2
+
+MEASURE 36
+  LINE RH8
+  A   0  2
+  Bb  0  2
+
+MEASURE 36
+  LINE RH9
+  A   1  2
+  Bb  1  2
+
+MEASURE 37
+  LINE RH8
+  REST   2
+  B   0  2
+
+MEASURE 37
+  LINE RH9
+  REST   2
+  B   1  2
+
+MEASURE 38
+  LINE RH8
+  CARRY  2
+  C   1  2
+
+MEASURE 38
+  LINE RH9
+  CARRY  2
+  C   2  2
+
+MEASURE 39
+  LINE RH8
+  CARRY  2
+  C#  1  2
+
+MEASURE 39
+  LINE RH9
+  CARRY  2
+  C#  2  2
+
+MEASURE 40
+  LINE RH8
+  D   1  2
+  Eb  1  2
+
+MEASURE 40
+  LINE RH9
+  D   2  2
+  Eb  2  2
+
+MEASURE 41
+  LINE RH8
+  REST   2
+  Eb  1  2
+
+MEASURE 41
+  LINE RH9
+  REST   2
+  Eb  2  2
+
+MEASURE 42
+  LINE RH8
+  CARRY  2
+  E   1  2
+
+MEASURE 42
+  LINE RH9
+  CARRY  2
+  E   2  2
+
+MEASURE 43
+  LINE RH8
+  CARRY  2
+  F   1  2
+
+MEASURE 43
+  LINE RH9
+  CARRY  2
+  F   2  2
+
+MEASURE 44
+  LINE RH8
+  CARRY  2
+  F#  1  2
+
+MEASURE 44
+  LINE RH9
+  CARRY  2
+  F#  2  2
+
+MEASURE 45
+  LINE RH9
+  REST   1
+
+MEASURE 46
+  LINE RH7
+  F#  1  1
+  RIPPLE
+
+MEASURE 46
+  LINE RH8
+  B   1  1
+
+MEASURE 46
+  LINE RH9
+  F#  2  1
+# kr2l tmp liszt-nuages.mus 47 120 4 0 88 /tmp/kr2l
+
+MEASURE 47
+  LINE RH7
+  G   1  1
+  RIPPLE
+
+MEASURE 47
+  LINE RH8
+  B   1  1
+
+MEASURE 47
+  LINE RH9
+  G   2  1
+
+MEASURE 48
+  LINE RH7
+  CARRY  1
+
+MEASURE 48
+  LINE RH8
+  CARRY  1
+
+MEASURE 48
+  LINE RH9
+  CARRY  1
+
+# kr2l tmp liszt-nuages.mus 5 120 4 0 88 /tmp/kr2l
+
+MEASURE 5
+  LINE LH4
+  Bb -3  1
+  TRILL Bb -2
+
+MEASURE 6
+  LINE LH4
+  CARRY  1
+
+MEASURE 7
+  LINE LH4
+  CARRY  1
+
+MEASURE 8
+  LINE LH4
+  REST   1
+
+MEASURE 9
+  LINE LH4
+  Bb -3  1
+  TRILL Bb -2
+
+MEASURE 10
+  LINE LH4
+  A  -3  1
+  TRILL A -2
+
+MEASURE 11
+  LINE LH4
+  Bb -3  1
+  TRILL Bb -2
+
+MEASURE 12
+  LINE LH4
+  A  -3  1
+  TRILL A -2
+
+MEASURE 13
+  LINE LH4
+  Bb -3  1
+  TRILL Bb -2
+
+MEASURE 14
+  LINE LH4
+  A  -3  1
+  TRILL A -2
+
+MEASURE 15
+  LINE LH4
+  Bb -3  1
+  TRILL Bb -2
+
+MEASURE 16
+  LINE LH4
+  A  -3  1
+  TRILL A -2
+
+MEASURE 17
+  LINE LH4
+  Bb -3  1
+  TRILL Bb -2
+
+MEASURE 18
+  LINE LH4
+  A  -3  1
+  TRILL A -2
+
+MEASURE 19
+  LINE LH4
+  Bb -3  1
+  TRILL Bb -2
+
+MEASURE 19
+  LINE TLLH4
+  TIELINE LH4 95
+  F# -2  1
+
+MEASURE 20
+  LINE LH4
+  CARRY  1
+  LINE TLLH4
+  CARRY  1
+
+
+# kr2l tmp liszt-nuages.mus 21 120 4 0 88 /tmp/kr2l
+
+MEASURE 21
+  LINE LH4
+  REST   4
+  A  -3  4
+  Bb -3  4
+  C# -2  4
+
+MEASURE 22
+  LINE LH4
+  CARRY  4
+  D  -2  4
+  Bb -3  2
+
+MEASURE 23
+  LINE LH4
+  REST   4
+  A  -3  4
+  Bb -3  4
+  C# -2  4
+
+MEASURE 24
+  LINE LH4
+  CARRY  4
+  D  -2  4
+  Bb -3  2
+
+MEASURE 25
+  LINE LH4
+  REST   4
+  D  -1  4
+  G  -1  4
+  C#  0  4
+
+MEASURE 26
+  LINE LH4
+  CARRY  4
+  D   0  4
+  Bb -1  4
+  G  -1  4
+
+MEASURE 27
+  LINE LH4
+  REST   4
+  D  -1  4
+  G  -1  4
+  C#  0  4
+
+MEASURE 28
+  LINE LH4
+  CARRY  4
+  D   0  4
+  Bb -1  4
+  G  -1  4
+
+MEASURE 29
+  LINE LH4
+  REST   4
+  D  -1  4
+  G  -1  4
+  C#  0  4
+
+MEASURE 30
+  LINE LH4
+  CARRY  4
+  D   0  4
+  Bb -1  4
+  G  -1  4
+
+MEASURE 31
+  LINE LH4
+  REST   4
+  D  -1  4
+  G  -1  4
+  C#  0  4
+
+MEASURE 32
+  LINE LH4
+  CARRY  4
+  D   0  4
+  Bb -1  4
+  G  -1  4
+# kr2l tmp liszt-nuages.mus 33 120 4 0 88 /tmp/kr2l
+
+MEASURE 33
+  LINE LH1
+  Bb -2  2
+  REST   2
+
+MEASURE 34
+  LINE LH1
+  A  -2  2
+  REST   2
+
+MEASURE 35
+  LINE LH1
+  Bb -2  2
+  REST   2
+
+MEASURE 36
+  LINE LH1
+  A  -2  2
+  REST   2
+
+MEASURE 37
+  LINE LH1
+  Bb -2  2
+  REST   2
+
+MEASURE 38
+  LINE LH1
+  A  -2  2
+  REST   2
+
+MEASURE 39
+  LINE LH1
+  Bb -2  2
+  REST   2
+
+MEASURE 40
+  LINE LH1
+  A  -2  2
+  REST   2
+
+MEASURE 41
+  LINE LH1
+  Bb -2  2
+  REST   2
+
+MEASURE 42
+  LINE LH1
+  A  -2  2
+  REST   2
+# kr2l tmp liszt-nuages.mus 33 120 4 0 88 /tmp/kr2l
+
+MEASURE 33
+  LINE LH2
+  REST   4
+  F# -1  4
+  Bb -1  4
+  F# -1  4
+
+MEASURE 33
+  LINE LH3
+  REST   2
+  Eb  0  4
+  REST   4
+
+MEASURE 34
+  LINE LH2
+  REST   4
+  F# -1  4
+  Bb -1  4
+  F# -1  4
+
+MEASURE 34
+  LINE LH3
+  REST   2
+  Eb  0  4
+  REST   4
+
+MEASURE 35
+  LINE LH2
+  REST   4
+  F# -1  4
+  Bb -1  4
+  F# -1  4
+
+MEASURE 35
+  LINE LH3
+  REST   2
+  D   0  4
+  REST   4
+
+MEASURE 36
+  LINE LH2
+  REST   4
+  F# -1  4
+  Bb -1  4
+  F# -1  4
+
+MEASURE 36
+  LINE LH3
+  REST   2
+  D   0  4
+  REST   4
+
+MEASURE 37
+  LINE LH2
+  REST   4
+  F  -1  4
+  A  -1  4
+  F  -1  4
+
+MEASURE 37
+  LINE LH3
+  REST   2
+  C#  0  4
+  REST   4
+
+MEASURE 38
+  LINE LH2
+  REST   4
+  F  -1  4
+  A  -1  4
+  F  -1  4
+
+MEASURE 38
+  LINE LH3
+  REST   2
+  C#  0  4
+  REST   4
+
+MEASURE 39
+  LINE LH2
+  REST   4
+  E  -1  4
+  Ab -1  4
+  E  -1  4
+
+MEASURE 39
+  LINE LH3
+  REST   2
+  C   0  4
+  REST   4
+
+MEASURE 40
+  LINE LH2
+  REST   4
+  E  -1  4
+  Ab -1  4
+  E  -1  4
+
+MEASURE 40
+  LINE LH3
+  REST   2
+  C   0  4
+  REST   4
+
+MEASURE 41
+  LINE LH2
+  REST   4
+  Eb -1  4
+  G  -1  4
+  Eb -1  4
+
+MEASURE 41
+  LINE LH3
+  REST   2
+  B  -1  4
+  REST   4
+
+MEASURE 42
+  LINE LH2
+  REST   4
+  Eb -1  4
+  G  -1  4
+  Eb -1  4
+
+MEASURE 42
+  LINE LH3
+  REST   2
+  B  -1  4
+  REST   4
+
+MEASURE 43
+  LINE LH2
+  A  -2  4
+  REST   4  3
+# kr2l tmp liszt-nuages.mus 46 120 4 0 88 /tmp/kr2l
+
+MEASURE 46
+  LINE LH1
+  A  -1  1
+
+MEASURE 46
+  LINE LH2
+  Eb  0  1
+
+MEASURE 46
+  LINE LH3
+  G   0  1
+
+MEASURE 46
+  LINE LH4
+  B   0  1
+  RIPPLE
+
+MEASURE 47
+  LINE LH1
+  A  -1  1
+
+MEASURE 47
+  LINE LH2
+  Eb  0  1
+
+MEASURE 47
+  LINE LH3
+  G   0  1
+
+MEASURE 47
+  LINE LH4
+  B   0  1
+  RIPPLE
+
+MEASURE 48
+  LINE LH1
+  CARRY  1
+
+MEASURE 48
+  LINE LH2
+  CARRY  1
+
+MEASURE 48
+  LINE LH3
+  CARRY  1
+
+MEASURE 48
+  LINE LH4
+  CARRY  1
+
